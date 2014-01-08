@@ -1,0 +1,1 @@
+{"ID":"R05508","name":"","definition":"Lactoyl-CoA + Acetate <=> (S)-Lactate + Acetyl-CoA","enzyme":"2.8.3.1","equation":"C00827 + C00033 <=> C00186 + C00024","reactants":{"compounds":["C00827","C00033"],"coefficients":[1,1]},"products":{"compounds":["C00186","C00024"],"coefficients":[1,1]}}

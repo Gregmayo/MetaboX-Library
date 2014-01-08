@@ -1,0 +1,1 @@
+{"ID":"R02705","name":"ATP:N-acyl-D-mannosamine 6-phosphotransferase","definition":"ATP + N-Acetyl-D-mannosamine <=> ADP + N-Acetyl-D-mannosamine 6-phosphate","enzyme":"2.7.1.60","equation":"C00002 + C00645 <=> C00008 + C04257","reactants":{"compounds":["C00002","C00645"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04257"],"coefficients":[1,1]}}

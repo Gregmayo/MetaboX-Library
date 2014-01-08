@@ -1,0 +1,1 @@
+{"ID":"R01426","name":"","definition":"Benzoate + Acetate + NADH + H+ <=> trans-Cinnamate + 2 H2O + NAD+","enzyme":null,"equation":"C00180 + C00033 + C00004 + C00080 <=> C00423 + 2 C00001 + C00003","reactants":{"compounds":["C00180","C00033","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C00423","C00001","C00003"],"coefficients":[1,2,1]}}

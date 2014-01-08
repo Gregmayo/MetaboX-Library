@@ -1,0 +1,1 @@
+{"ID":"R02471","name":"","definition":"(R)-Pantoate + NAD+ <=> (R)-4-Dehydropantoate + NADH + H+","enzyme":"1.1.1.106","equation":"C00522 + C00003 <=> C01053 + C00004 + C00080","reactants":{"compounds":["C00522","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01053","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R06856","name":"","definition":"Chlorobenzene + Oxygen + NADH + H+ <=> 3-Chloro-cis-1,2-dihydroxycyclohexa-3,5-diene + NAD+","enzyme":null,"equation":"C06990 + C00007 + C00004 + C00080 <=> C12837 + C00003","reactants":{"compounds":["C06990","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C12837","C00003"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08105","name":"","definition":"4-Fluorocyclohexadiene-cis,cis-1,2-diol + NAD+ <=> 4-Fluorocatechol + NADH + H+","enzyme":null,"equation":"C16483 + C00003 <=> C16473 + C00004 + C00080","reactants":{"compounds":["C16483","C00003"],"coefficients":[1,1]},"products":{"compounds":["C16473","C00004","C00080"],"coefficients":[1,1,1]}}

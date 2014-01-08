@@ -1,0 +1,1 @@
+{"ID":"R02985","name":"amygdalin beta-glucosidase","definition":"Prunasin + D-Glucose <=> Amygdalin + H2O","enzyme":"3.2.1.21","equation":"C00844 + C00031 <=> C08325 + C00001","reactants":{"compounds":["C00844","C00031"],"coefficients":[1,1]},"products":{"compounds":["C08325","C00001"],"coefficients":[1,1]}}

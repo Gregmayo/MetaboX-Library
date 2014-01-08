@@ -1,0 +1,1 @@
+{"ID":"R02884","name":"ATP:Caldesmon phosphotransferase (Ca2+\/calmodulin-dependent)","definition":"ATP + Caldesmon <=> ADP + Caldesmon phosphate","enzyme":"2.7.11.17","equation":"C00002 + C00759 <=> C00008 + C01022","reactants":{"compounds":["C00002","C00759"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01022"],"coefficients":[1,1]}}

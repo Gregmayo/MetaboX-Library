@@ -1,0 +1,1 @@
+{"ID":"R01447","name":"(S)-Lactate:oxaloacetate oxidoreductase","definition":"(S)-Lactate + Oxaloacetate <=> (S)-Malate + Pyruvate","enzyme":"1.1.99.7","equation":"C00186 + C00036 <=> C00149 + C00022","reactants":{"compounds":["C00186","C00036"],"coefficients":[1,1]},"products":{"compounds":["C00149","C00022"],"coefficients":[1,1]}}

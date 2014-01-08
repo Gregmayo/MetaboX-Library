@@ -1,0 +1,1 @@
+{"ID":"R05507","name":"","definition":"6-Aminohexanoate + 2-Oxoglutarate <=> Adipate semialdehyde + L-Glutamate","enzyme":null,"equation":"C02378 + C00026 <=> C06102 + C00025","reactants":{"compounds":["C02378","C00026"],"coefficients":[1,1]},"products":{"compounds":["C06102","C00025"],"coefficients":[1,1]}}

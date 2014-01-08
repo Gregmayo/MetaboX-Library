@@ -1,0 +1,1 @@
+{"ID":"R03939","name":"ATP:hypotaurocyamine N-phosphotransferase","definition":"ATP + Hypotaurocyamine <=> ADP + N-Phosphohypotaurocyamine","enzyme":"2.7.3.6","equation":"C00002 + C02419 <=> C00008 + C03624","reactants":{"compounds":["C00002","C02419"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03624"],"coefficients":[1,1]}}

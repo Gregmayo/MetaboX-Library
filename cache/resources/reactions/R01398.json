@@ -1,0 +1,1 @@
+{"ID":"R01398","name":"Carbamoyl-phosphate:L-ornithine carbamoyltransferase","definition":"Carbamoyl phosphate + L-Ornithine <=> Orthophosphate + L-Citrulline","enzyme":"2.1.3.3","equation":"C00169 + C00077 <=> C00009 + C00327","reactants":{"compounds":["C00169","C00077"],"coefficients":[1,1]},"products":{"compounds":["C00009","C00327"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R07646","name":"L-lysine:tRNAPyl ligase (AMP-forming)","definition":"ATP + L-Lysine + tRNA(Pyl) <=> AMP + Diphosphate + L-Lysyl-tRNA(Pyl)","enzyme":null,"equation":"C00002 + C00047 + C16139 <=> C00020 + C00013 + C16140","reactants":{"compounds":["C00002","C00047","C16139"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C16140"],"coefficients":[1,1,1]}}

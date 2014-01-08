@@ -1,0 +1,1 @@
+{"ID":"R02700","name":"5-Hydroxy-L-tryptophan:2-oxoglutarate aminotransferase","definition":"5-Hydroxy-L-tryptophan + 2-Oxoglutarate <=> 5-Hydroxyindolepyruvate + L-Glutamate","enzyme":"2.6.1.27","equation":"C00643 + C00026 <=> C05646 + C00025","reactants":{"compounds":["C00643","C00026"],"coefficients":[1,1]},"products":{"compounds":["C05646","C00025"],"coefficients":[1,1]}}

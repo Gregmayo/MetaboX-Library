@@ -1,0 +1,1 @@
+{"ID":"R00872","name":"D-Fructose 2-phosphate phosphatase","definition":"beta-D-Fructose 2-phosphate + H2O <=> D-Fructose + Orthophosphate","enzyme":null,"equation":"C03267 + C00001 <=> C00095 + C00009","reactants":{"compounds":["C03267","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00095","C00009"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R05487","name":"","definition":"Phenylacetic acid + Oxygen + NADH + H+ <=> 2-Hydroxyphenylacetate + NAD+ + H2O","enzyme":null,"equation":"C07086 + C00007 + C00004 + C00080 <=> C05852 + C00003 + C00001","reactants":{"compounds":["C07086","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C05852","C00003","C00001"],"coefficients":[1,1,1]}}

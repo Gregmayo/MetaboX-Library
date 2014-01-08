@@ -1,0 +1,1 @@
+{"ID":"R00203","name":"pyruvaldehyde:NAD+ oxidoreductase","definition":"Methylglyoxal + NAD+ + H2O <=> Pyruvate + NADH + H+","enzyme":"1.2.1.22","equation":"C00546 + C00003 + C00001 <=> C00022 + C00004 + C00080","reactants":{"compounds":["C00546","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00022","C00004","C00080"],"coefficients":[1,1,1]}}

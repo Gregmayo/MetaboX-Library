@@ -1,0 +1,1 @@
+{"ID":"R02679","name":"indole-3-ethanol:NAD+ oxidoreductase","definition":"Indole-3-ethanol + NAD+ <=> Indole-3-acetaldehyde + NADH + H+","enzyme":"1.1.1.190","equation":"C00955 + C00003 <=> C00637 + C00004 + C00080","reactants":{"compounds":["C00955","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00637","C00004","C00080"],"coefficients":[1,1,1]}}

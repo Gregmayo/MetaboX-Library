@@ -1,0 +1,1 @@
+{"ID":"R08903","name":"2-oxoglutarate:neomycin-C aminotransferase","definition":"Neomycin C + 2-Oxoglutarate <=> 6'''-Deamino-6'''-oxoneomycin C + L-Glutamate","enzyme":"2.6.1.95","equation":"C15652 + C00026 <=> C17589 + C00025","reactants":{"compounds":["C15652","C00026"],"coefficients":[1,1]},"products":{"compounds":["C17589","C00025"],"coefficients":[1,1]}}

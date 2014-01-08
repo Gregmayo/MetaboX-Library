@@ -1,0 +1,1 @@
+{"ID":"R02969","name":"Hydroxymalonate:NAD+ oxidoreductase","definition":"Hydroxymalonate + NAD+ <=> Oxomalonate + NADH + H+","enzyme":"1.1.1.167","equation":"C02287 + C00003 <=> C00830 + C00004 + C00080","reactants":{"compounds":["C02287","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00830","C00004","C00080"],"coefficients":[1,1,1]}}

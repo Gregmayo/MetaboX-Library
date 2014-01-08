@@ -1,0 +1,1 @@
+{"ID":"R01353","name":"ATP:propanoate phosphotransferase","definition":"ATP + Propanoate <=> ADP + Propanoyl phosphate","enzyme":"2.7.2.1","equation":"C00002 + C00163 <=> C00008 + C02876","reactants":{"compounds":["C00002","C00163"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02876"],"coefficients":[1,1]}}

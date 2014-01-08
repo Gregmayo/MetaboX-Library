@@ -1,0 +1,1 @@
+{"ID":"R01090","name":"L-Leucine:2-oxoglutarate aminotransferase","definition":"L-Leucine + 2-Oxoglutarate <=> 4-Methyl-2-oxopentanoate + L-Glutamate","enzyme":"2.6.1.6","equation":"C00123 + C00026 <=> C00233 + C00025","reactants":{"compounds":["C00123","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00233","C00025"],"coefficients":[1,1]}}

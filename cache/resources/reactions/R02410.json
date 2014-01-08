@@ -1,0 +1,1 @@
+{"ID":"R02410","name":"Raffinose fructohydrolase","definition":"Raffinose + H2O <=> Melibiose + D-Fructose","enzyme":"3.2.1.26","equation":"C00492 + C00001 <=> C05402 + C00095","reactants":{"compounds":["C00492","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05402","C00095"],"coefficients":[1,1]}}

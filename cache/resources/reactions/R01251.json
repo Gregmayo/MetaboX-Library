@@ -1,0 +1,1 @@
+{"ID":"R01251","name":"L-Proline:NADP+ 5-oxidoreductase","definition":"L-Proline + NADP+ <=> (S)-1-Pyrroline-5-carboxylate + NADPH + H+","enzyme":"1.5.1.2","equation":"C00148 + C00006 <=> C03912 + C00005 + C00080","reactants":{"compounds":["C00148","C00006"],"coefficients":[1,1]},"products":{"compounds":["C03912","C00005","C00080"],"coefficients":[1,1,1]}}

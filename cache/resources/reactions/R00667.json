@@ -1,0 +1,1 @@
+{"ID":"R00667","name":"L-Ornithine:2-oxo-acid aminotransferase","definition":"L-Ornithine + 2-Oxoglutarate <=> L-Glutamate 5-semialdehyde + L-Glutamate","enzyme":"2.6.1.13","equation":"C00077 + C00026 <=> C01165 + C00025","reactants":{"compounds":["C00077","C00026"],"coefficients":[1,1]},"products":{"compounds":["C01165","C00025"],"coefficients":[1,1]}}

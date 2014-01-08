@@ -1,0 +1,1 @@
+{"ID":"R00184","name":"P1,P4-bis(5'-adenosyl)-tetraphosphate adenylohydrolase","definition":"P1,P4-Bis(5'-adenosyl) tetraphosphate + H2O <=> ATP + AMP","enzyme":"3.6.1.17","equation":"C01260 + C00001 <=> C00002 + C00020","reactants":{"compounds":["C01260","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00002","C00020"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00908","name":"beta-alanine:2-oxoglutarate aminotransferase","definition":"beta-Alanine + 2-Oxoglutarate <=> 3-Oxopropanoate + L-Glutamate","enzyme":"2.6.1.19","equation":"C00099 + C00026 <=> C00222 + C00025","reactants":{"compounds":["C00099","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00222","C00025"],"coefficients":[1,1]}}

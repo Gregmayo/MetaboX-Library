@@ -1,0 +1,1 @@
+{"ID":"R01215","name":"L-Valine:pyruvate aminotransferase","definition":"L-Valine + Pyruvate <=> 3-Methyl-2-oxobutanoic acid + L-Alanine","enzyme":"2.6.1.66","equation":"C00183 + C00022 <=> C00141 + C00041","reactants":{"compounds":["C00183","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00141","C00041"],"coefficients":[1,1]}}

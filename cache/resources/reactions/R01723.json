@@ -1,0 +1,1 @@
+{"ID":"R01723","name":"","definition":"Nicotinate + Glycine + ATP <=> Nicotinurate + AMP + Diphosphate","enzyme":null,"equation":"C00253 + C00037 + C00002 <=> C05380 + C00020 + C00013","reactants":{"compounds":["C00253","C00037","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C05380","C00020","C00013"],"coefficients":[1,1,1]}}

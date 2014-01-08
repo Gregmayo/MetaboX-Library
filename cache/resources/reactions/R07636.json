@@ -1,0 +1,1 @@
+{"ID":"R07636","name":"FAD AMP-lyase (cyclic-FMN-forming)","definition":"FAD <=> AMP + Riboflavin cyclic-4',5'-phosphate","enzyme":"4.6.1.15","equation":"C00016 <=> C00020 + C16071","reactants":{"compounds":["C00016"],"coefficients":[1]},"products":{"compounds":["C00020","C16071"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R05399","name":"1,2,4-trihydroxybenzene:NAD oxidoreductase","definition":"2-Hydroxy-1,4-benzoquinone + NADH + H+ <=> Benzene-1,2,4-triol + NAD+","enzyme":"1.6.5.7","equation":"C07103 + C00004 + C00080 <=> C02814 + C00003","reactants":{"compounds":["C07103","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C02814","C00003"],"coefficients":[1,1]}}

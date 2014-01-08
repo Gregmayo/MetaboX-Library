@@ -1,0 +1,1 @@
+{"ID":"R02834","name":"Cortisol:NAD+ 11-oxidoreductase","definition":"Cortisol + NAD+ <=> Cortisone + NADH + H+","enzyme":null,"equation":"C00735 + C00003 <=> C00762 + C00004 + C00080","reactants":{"compounds":["C00735","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00762","C00004","C00080"],"coefficients":[1,1,1]}}

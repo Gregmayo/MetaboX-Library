@@ -1,0 +1,1 @@
+{"ID":"R01712","name":"Pyridoxamine:pyruvate aminotransferase","definition":"Pyridoxamine + Pyruvate <=> Pyridoxal + L-Alanine","enzyme":"2.6.1.30","equation":"C00534 + C00022 <=> C00250 + C00041","reactants":{"compounds":["C00534","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00250","C00041"],"coefficients":[1,1]}}

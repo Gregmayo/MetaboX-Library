@@ -1,0 +1,1 @@
+{"ID":"R05465","name":"","definition":"D-Glyceraldehyde 3-phosphate + L-Arginine <=> L-N2-(2-Carboxyethyl)arginine + Orthophosphate","enzyme":"2.5.1.66","equation":"C00118 + C00062 <=> C06655 + C00009","reactants":{"compounds":["C00118","C00062"],"coefficients":[1,1]},"products":{"compounds":["C06655","C00009"],"coefficients":[1,1]}}

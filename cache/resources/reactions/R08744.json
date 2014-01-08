@@ -1,0 +1,1 @@
+{"ID":"R08744","name":"3alpha,7alpha-dihydroxy-5beta-cholanoyl-CoA:glycine N-choloyltransferase","definition":"Chenodeoxycholoyl-CoA + Glycine <=> Glycochenodeoxycholate + CoA","enzyme":"2.3.1.65","equation":"C05337 + C00037 <=> C05466 + C00010","reactants":{"compounds":["C05337","C00037"],"coefficients":[1,1]},"products":{"compounds":["C05466","C00010"],"coefficients":[1,1]}}

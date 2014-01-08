@@ -1,0 +1,1 @@
+{"ID":"R04163","name":"21-Hydroxypregnenolone:NAD+ 3-oxidoreductase","definition":"21-Hydroxypregnenolone + NAD+ <=> 11-Deoxycorticosterone + NADH + H+","enzyme":"1.1.1.145","equation":"C05485 + C00003 <=> C03205 + C00004 + C00080","reactants":{"compounds":["C05485","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03205","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R07300","name":"N8-acetylspermidine amidohydrolase","definition":"N8-Acetylspermidine + H2O <=> Acetate + Spermidine","enzyme":"3.5.1.48","equation":"C01029 + C00001 <=> C00033 + C00315","reactants":{"compounds":["C01029","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00315"],"coefficients":[1,1]}}

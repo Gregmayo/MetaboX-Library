@@ -1,0 +1,1 @@
+{"ID":"R01424","name":"N-Benzoylglycine amidohydrolase","definition":"Hippurate + H2O <=> Benzoate + Glycine","enzyme":"3.5.1.32","equation":"C01586 + C00001 <=> C00180 + C00037","reactants":{"compounds":["C01586","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00180","C00037"],"coefficients":[1,1]}}

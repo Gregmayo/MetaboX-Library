@@ -1,0 +1,1 @@
+{"ID":"R02103","name":"xanthine:NAD+ oxidoreductase","definition":"Xanthine + NAD+ + H2O <=> Urate + NADH + H+","enzyme":"1.17.1.4","equation":"C00385 + C00003 + C00001 <=> C00366 + C00004 + C00080","reactants":{"compounds":["C00385","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00366","C00004","C00080"],"coefficients":[1,1,1]}}

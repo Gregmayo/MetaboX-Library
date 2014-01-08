@@ -1,0 +1,1 @@
+{"ID":"R02604","name":"2-hydroxymuconate-semialdehyde formylhydrolase","definition":"2-Hydroxy-2,4-pentadienoate + Formate <=> 2-Hydroxymuconate semialdehyde + H2O","enzyme":"3.7.1.9","equation":"C00596 + C00058 <=> C00682 + C00001","reactants":{"compounds":["C00596","C00058"],"coefficients":[1,1]},"products":{"compounds":["C00682","C00001"],"coefficients":[1,1]}}

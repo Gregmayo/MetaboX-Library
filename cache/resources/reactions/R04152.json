@@ -1,0 +1,1 @@
+{"ID":"R04152","name":"(2-Aminoethyl)phosphonate:pyruvate aminotransferase","definition":"2-Aminoethylphosphonate + Pyruvate <=> Phosphonoacetaldehyde + L-Alanine","enzyme":"2.6.1.37","equation":"C03557 + C00022 <=> C03167 + C00041","reactants":{"compounds":["C03557","C00022"],"coefficients":[1,1]},"products":{"compounds":["C03167","C00041"],"coefficients":[1,1]}}

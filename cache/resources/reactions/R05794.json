@@ -1,0 +1,1 @@
+{"ID":"R05794","name":"CDP-diacylglycerol:choline O-phosphatidyltransferase","definition":"CDP-diacylglycerol + Choline <=> CMP + Phosphatidylcholine","enzyme":"2.7.8.24","equation":"C00269 + C00114 <=> C00055 + C00157","reactants":{"compounds":["C00269","C00114"],"coefficients":[1,1]},"products":{"compounds":["C00055","C00157"],"coefficients":[1,1]}}

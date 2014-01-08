@@ -1,0 +1,1 @@
+{"ID":"R01909","name":"ATP:pyridoxine 5'-phosphotransferase","definition":"ATP + Pyridoxine <=> ADP + Pyridoxine phosphate","enzyme":"2.7.1.35","equation":"C00002 + C00314 <=> C00008 + C00627","reactants":{"compounds":["C00002","C00314"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00627"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R06731","name":"","definition":"Pseudoecgonine + ATP + CoA <=> Pseudoecgonyl-CoA + AMP","enzyme":null,"equation":"C12449 + C00002 + C00010 <=> C12450 + C00020","reactants":{"compounds":["C12449","C00002","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C12450","C00020"],"coefficients":[1,1]}}

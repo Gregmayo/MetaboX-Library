@@ -1,0 +1,1 @@
+{"ID":"R03944","name":"ATP:O-alkylglycerone phosphotransferase","definition":"ATP + O-Alkylglycerone <=> ADP + O-Alkylglycerone phosphate","enzyme":"2.7.1.84","equation":"C00002 + C02446 <=> C00008 + C03715","reactants":{"compounds":["C00002","C02446"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03715"],"coefficients":[1,1]}}

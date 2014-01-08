@@ -1,0 +1,1 @@
+{"ID":"R06883","name":"","definition":"Bisphenol A + NADH + H+ + Oxygen <=> 1,2-Bis(4-hydroxyphenyl)-2-propanol + NAD+ + H2O","enzyme":null,"equation":"C13624 + C00004 + C00080 + C00007 <=> C13629 + C00003 + C00001","reactants":{"compounds":["C13624","C00004","C00080","C00007"],"coefficients":[1,1,1,1]},"products":{"compounds":["C13629","C00003","C00001"],"coefficients":[1,1,1]}}

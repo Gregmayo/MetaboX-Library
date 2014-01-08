@@ -1,0 +1,1 @@
+{"ID":"R07665","name":"","definition":"3-Cresol + Oxygen + NADH + H+ <=> 3-Hydroxybenzyl alcohol + NAD+ + H2O","enzyme":null,"equation":"C01467 + C00007 + C00004 + C00080 <=> C03351 + C00003 + C00001","reactants":{"compounds":["C01467","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C03351","C00003","C00001"],"coefficients":[1,1,1]}}

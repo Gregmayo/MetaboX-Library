@@ -1,0 +1,1 @@
+{"ID":"R01568","name":"ADP:thymidine 5'-phosphotransferase","definition":"ADP + Thymidine <=> AMP + dTMP","enzyme":"2.7.1.118","equation":"C00008 + C00214 <=> C00020 + C00364","reactants":{"compounds":["C00008","C00214"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00364"],"coefficients":[1,1]}}

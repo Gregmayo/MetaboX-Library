@@ -1,0 +1,1 @@
+{"ID":"R08242","name":"","definition":"6-Mercaptopurine ribonucleoside 5'-diphosphate + ATP <=> 6-Mercaptopurine ribonucleoside triphosphate + ADP","enzyme":null,"equation":"C16616 + C00002 <=> C16617 + C00008","reactants":{"compounds":["C16616","C00002"],"coefficients":[1,1]},"products":{"compounds":["C16617","C00008"],"coefficients":[1,1]}}

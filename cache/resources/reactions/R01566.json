@@ -1,0 +1,1 @@
+{"ID":"R01566","name":"Creatine amidinohydrolase","definition":"Creatine + H2O <=> Sarcosine + Urea","enzyme":"3.5.3.3","equation":"C00300 + C00001 <=> C00213 + C00086","reactants":{"compounds":["C00300","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00213","C00086"],"coefficients":[1,1]}}

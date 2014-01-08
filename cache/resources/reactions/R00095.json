@@ -1,0 +1,1 @@
+{"ID":"R00095","name":"NADH:monodehydroascorbate oxidoreductase","definition":"NAD+ + 2 Ascorbate <=> NADH + 2 Monodehydroascorbate + H+","enzyme":"1.6.5.4","equation":"C00003 + 2 C00072 <=> C00004 + 2 C01041 + C00080","reactants":{"compounds":["C00003","C00072"],"coefficients":[1,2]},"products":{"compounds":["C00004","C01041","C00080"],"coefficients":[1,2,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00254","name":"N-carbamyl-L-glutamate amidohydrolase","definition":"L-Glutamate + Ammonia + CO2 <=> N-Carbamyl-L-glutamate + H2O","enzyme":"3.5.1.87","equation":"C00025 + C00014 + C00011 <=> C05829 + C00001","reactants":{"compounds":["C00025","C00014","C00011"],"coefficients":[1,1,1]},"products":{"compounds":["C05829","C00001"],"coefficients":[1,1]}}

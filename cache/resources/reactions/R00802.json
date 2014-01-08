@@ -1,0 +1,1 @@
+{"ID":"R00802","name":"sucrose alpha-glucohydrolase","definition":"Sucrose + H2O <=> beta-D-Fructose + alpha-D-Glucose","enzyme":"3.2.1.20","equation":"C00089 + C00001 <=> C02336 + C00267","reactants":{"compounds":["C00089","C00001"],"coefficients":[1,1]},"products":{"compounds":["C02336","C00267"],"coefficients":[1,1]}}

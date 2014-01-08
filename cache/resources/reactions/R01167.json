@@ -1,0 +1,1 @@
+{"ID":"R01167","name":"L-histidine carboxy-lyase (histamine-forming)","definition":"L-Histidine <=> Histamine + CO2","enzyme":"4.1.1.22","equation":"C00135 <=> C00388 + C00011","reactants":{"compounds":["C00135"],"coefficients":[1]},"products":{"compounds":["C00388","C00011"],"coefficients":[1,1]}}

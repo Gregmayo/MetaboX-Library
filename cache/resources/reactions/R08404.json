@@ -1,0 +1,1 @@
+{"ID":"R08404","name":"acyl-phosphate:D-glucose phosphotransferase","definition":"Acyl phosphate + D-Glucose <=> Carboxylate + D-Glucose 6-phosphate","enzyme":"2.7.1.61","equation":"C02133 + C00031 <=> C00060 + C00092","reactants":{"compounds":["C02133","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00060","C00092"],"coefficients":[1,1]}}

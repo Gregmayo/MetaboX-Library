@@ -1,0 +1,1 @@
+{"ID":"R10289","name":"isochavicol:NADP+ oxidoreductase","definition":"Coumaryl acetate + NADPH + H+ <=> Isochavicol + Acetate + NADP+","enzyme":"1.1.1.319","equation":"C20465 + C00005 + C00080 <=> C20464 + C00033 + C00006","reactants":{"compounds":["C20465","C00005","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C20464","C00033","C00006"],"coefficients":[1,1,1]}}

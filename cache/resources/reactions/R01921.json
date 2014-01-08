@@ -1,0 +1,1 @@
+{"ID":"R01921","name":"(S)-Carnitine:NAD+ oxidoreductase","definition":"(S)-Carnitine + NAD+ <=> 3-Dehydrocarnitine + NADH + H+","enzyme":"1.1.1.254","equation":"C15025 + C00003 <=> C02636 + C00004 + C00080","reactants":{"compounds":["C15025","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02636","C00004","C00080"],"coefficients":[1,1,1]}}

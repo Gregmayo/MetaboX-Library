@@ -1,0 +1,1 @@
+{"ID":"R04769","name":"","definition":"7-O-Acetylsalutaridinol <=> Thebaine + Acetate","enzyme":"2.3.1.150","equation":"C05322 <=> C06173 + C00033","reactants":{"compounds":["C05322"],"coefficients":[1]},"products":{"compounds":["C06173","C00033"],"coefficients":[1,1]}}

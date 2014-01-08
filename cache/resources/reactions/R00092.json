@@ -1,0 +1,1 @@
+{"ID":"R00092","name":"Fe2+:NAD+ oxidoreductase","definition":"NAD+ + 2 Fe2+ <=> NADH + H+ + 2 Fe3+","enzyme":"1.16.1.7","equation":"C00003 + 2 C14818 <=> C00004 + C00080 + 2 C14819","reactants":{"compounds":["C00003","C14818"],"coefficients":[1,2]},"products":{"compounds":["C00004","C00080","C14819"],"coefficients":[1,1,2]}}

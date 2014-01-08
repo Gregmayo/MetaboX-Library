@@ -1,0 +1,1 @@
+{"ID":"R00704","name":"(R)-Lactate:NAD+ oxidoreductase","definition":"(R)-Lactate + NAD+ <=> Pyruvate + NADH + H+","enzyme":"1.1.1.28","equation":"C00256 + C00003 <=> C00022 + C00004 + C00080","reactants":{"compounds":["C00256","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00022","C00004","C00080"],"coefficients":[1,1,1]}}

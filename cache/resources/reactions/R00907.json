@@ -1,0 +1,1 @@
+{"ID":"R00907","name":"L-Alanine:3-oxopropanoate aminotransferase","definition":"L-Alanine + 3-Oxopropanoate <=> Pyruvate + beta-Alanine","enzyme":"2.6.1.18","equation":"C00041 + C00222 <=> C00022 + C00099","reactants":{"compounds":["C00041","C00222"],"coefficients":[1,1]},"products":{"compounds":["C00022","C00099"],"coefficients":[1,1]}}

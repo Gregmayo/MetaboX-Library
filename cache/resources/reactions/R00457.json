@@ -1,0 +1,1 @@
+{"ID":"R00457","name":"L-Lysine:2-oxoglutarate 6-aminotransferase","definition":"L-Lysine + 2-Oxoglutarate <=> L-2-Aminoadipate 6-semialdehyde + L-Glutamate","enzyme":"2.6.1.36","equation":"C00047 + C00026 <=> C04076 + C00025","reactants":{"compounds":["C00047","C00026"],"coefficients":[1,1]},"products":{"compounds":["C04076","C00025"],"coefficients":[1,1]}}

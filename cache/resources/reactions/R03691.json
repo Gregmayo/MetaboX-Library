@@ -1,0 +1,1 @@
+{"ID":"R03691","name":"ATP:lombricine N-phosphotransferase","definition":"ATP + D-Lombricine <=> ADP + N-Phospho-D-lombricine","enzyme":"2.7.3.5","equation":"C00002 + C01726 <=> C00008 + C02855","reactants":{"compounds":["C00002","C01726"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02855"],"coefficients":[1,1]}}

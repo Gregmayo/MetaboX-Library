@@ -1,0 +1,1 @@
+{"ID":"R08252","name":"","definition":"Isonicotinic acid + Glycine <=> Isonicotinylglycine","enzyme":null,"equation":"C07446 + C00037 <=> C16623","reactants":{"compounds":["C07446","C00037"],"coefficients":[1,1]},"products":{"compounds":["C16623"],"coefficients":[1]}}

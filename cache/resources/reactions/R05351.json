@@ -1,0 +1,1 @@
+{"ID":"R05351","name":"","definition":"Ethylene oxide + CoA + NAD+ <=> Acetyl-CoA + NADH + H+","enzyme":null,"equation":"C06548 + C00010 + C00003 <=> C00024 + C00004 + C00080","reactants":{"compounds":["C06548","C00010","C00003"],"coefficients":[1,1,1]},"products":{"compounds":["C00024","C00004","C00080"],"coefficients":[1,1,1]}}

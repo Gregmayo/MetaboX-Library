@@ -1,0 +1,1 @@
+{"ID":"R00711","name":"Acetaldehyde:NADP+ oxidoreductase","definition":"Acetaldehyde + NADP+ + H2O <=> Acetate + NADPH + H+","enzyme":"1.2.1.5","equation":"C00084 + C00006 + C00001 <=> C00033 + C00005 + C00080","reactants":{"compounds":["C00084","C00006","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00033","C00005","C00080"],"coefficients":[1,1,1]}}

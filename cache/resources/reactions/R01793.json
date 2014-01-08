@@ -1,0 +1,1 @@
+{"ID":"R01793","name":"5,6,7,8-tetrahydrobiopterin:NAD+ oxidoreductase","definition":"Dihydrobiopterin + NADH + H+ <=> Tetrahydrobiopterin + NAD+","enzyme":"1.5.1.34","equation":"C00268 + C00004 + C00080 <=> C00272 + C00003","reactants":{"compounds":["C00268","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C00272","C00003"],"coefficients":[1,1]}}

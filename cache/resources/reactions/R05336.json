@@ -1,0 +1,1 @@
+{"ID":"R05336","name":"acetyl-CoA: 4-hydroxybutanoate CoA transferase","definition":"4-Hydroxybutanoic acid + Acetyl-CoA <=> 4-Hydroxybutyryl-CoA + Acetate","enzyme":null,"equation":"C00989 + C00024 <=> C11062 + C00033","reactants":{"compounds":["C00989","C00024"],"coefficients":[1,1]},"products":{"compounds":["C11062","C00033"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R02539","name":"Phenylacetate:CoA ligase","definition":"ATP + Phenylacetic acid + CoA <=> AMP + Diphosphate + Phenylacetyl-CoA","enzyme":"6.2.1.30","equation":"C00002 + C07086 + C00010 <=> C00020 + C00013 + C00582","reactants":{"compounds":["C00002","C07086","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00582"],"coefficients":[1,1,1]}}

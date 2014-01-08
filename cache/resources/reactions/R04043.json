@@ -1,0 +1,1 @@
+{"ID":"R04043","name":"2-Acetyl-1-alkyl-sn-glycerol acetylhydrolase","definition":"1-Alkyl-2-acetyl-sn-glycerol + H2O <=> 1-Alkyl-sn-glycerol + Acetate","enzyme":"3.1.1.71","equation":"C03820 + C00001 <=> C02773 + C00033","reactants":{"compounds":["C03820","C00001"],"coefficients":[1,1]},"products":{"compounds":["C02773","C00033"],"coefficients":[1,1]}}

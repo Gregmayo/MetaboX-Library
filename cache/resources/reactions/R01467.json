@@ -1,0 +1,1 @@
+{"ID":"R01467","name":"Threonine racemase","definition":"L-Threonine <=> D-Threonine","enzyme":"5.1.1.6","equation":"C00188 <=> C00820","reactants":{"compounds":["C00188"],"coefficients":[1]},"products":{"compounds":["C00820"],"coefficients":[1]}}

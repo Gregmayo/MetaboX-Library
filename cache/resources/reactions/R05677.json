@@ -1,0 +1,1 @@
+{"ID":"R05677","name":"","definition":"N-Acetylpuromycin + H2O <=> Puromycin + Acetate","enzyme":null,"equation":"C07032 + C00001 <=> C01610 + C00033","reactants":{"compounds":["C07032","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01610","C00033"],"coefficients":[1,1]}}

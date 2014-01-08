@@ -1,0 +1,1 @@
+{"ID":"R00653","name":"N-Formyl-L-methionine amidohydrolase","definition":"N-Formylmethionine + H2O <=> Formate + L-Methionine","enzyme":"3.5.1.31","equation":"C03145 + C00001 <=> C00058 + C00073","reactants":{"compounds":["C03145","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00073"],"coefficients":[1,1]}}

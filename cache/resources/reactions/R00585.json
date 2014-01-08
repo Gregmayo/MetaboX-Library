@@ -1,0 +1,1 @@
+{"ID":"R00585","name":"L-Serine:pyruvate aminotransferase","definition":"L-Serine + Pyruvate <=> Hydroxypyruvate + L-Alanine","enzyme":"2.6.1.51","equation":"C00065 + C00022 <=> C00168 + C00041","reactants":{"compounds":["C00065","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00168","C00041"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R01089","name":"Acetyl-CoA:L-leucine N-acetyltransferase","definition":"Acetyl-CoA + L-Leucine <=> CoA + N-Acetyl-L-leucine","enzyme":"2.3.1.66","equation":"C00024 + C00123 <=> C00010 + C02710","reactants":{"compounds":["C00024","C00123"],"coefficients":[1,1]},"products":{"compounds":["C00010","C02710"],"coefficients":[1,1]}}

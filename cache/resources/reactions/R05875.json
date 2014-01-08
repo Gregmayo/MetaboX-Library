@@ -1,0 +1,1 @@
+{"ID":"R05875","name":"Ferredoxin:NAD oxidoreductase","definition":"Reduced ferredoxin + NAD+ <=> Oxidized ferredoxin + NADH + H+","enzyme":"1.18.1.3","equation":"C00138 + C00003 <=> C00139 + C00004 + C00080","reactants":{"compounds":["C00138","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00139","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08043","name":"","definition":"2-Hydroxylamino-4,6-dinitrotoluene + NADH + H+ <=> 2-Amino-4,6-dinitrotoluene + NAD+ + H2O","enzyme":null,"equation":"C16393 + C00004 + C00080 <=> C16395 + C00003 + C00001","reactants":{"compounds":["C16393","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C16395","C00003","C00001"],"coefficients":[1,1,1]}}

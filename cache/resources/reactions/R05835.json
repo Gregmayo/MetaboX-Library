@@ -1,0 +1,1 @@
+{"ID":"R05835","name":"Glycocholate amidohydrolase","definition":"Glycocholate + H2O <=> Cholic acid + Glycine","enzyme":"3.5.1.24","equation":"C01921 + C00001 <=> C00695 + C00037","reactants":{"compounds":["C01921","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00695","C00037"],"coefficients":[1,1]}}

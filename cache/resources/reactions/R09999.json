@@ -1,0 +1,1 @@
+{"ID":"R09999","name":"dimethylamine:coenzyme M methyltransferase","definition":"Dimethylamine + 2-Mercaptoethanesulfonate <=> 2-(Methylthio)ethanesulfonate + Methylamine","enzyme":"2.1.1.247","equation":"C00543 + C03576 <=> C03920 + C00218","reactants":{"compounds":["C00543","C03576"],"coefficients":[1,1]},"products":{"compounds":["C03920","C00218"],"coefficients":[1,1]}}

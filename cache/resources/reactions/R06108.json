@@ -1,0 +1,1 @@
+{"ID":"R06108","name":"","definition":"Celloheptaose + H2O <=> Cellohexaose + D-Glucose","enzyme":"3.2.1.74","equation":"C00001 <=> G01967 + C00031","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["G01967","C00031"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08198","name":"","definition":"2-Hydroxyglutarate + NAD+ <=> 2-Oxoglutarate + NADH + H+","enzyme":"1.1.1.95","equation":"C02630 + C00003 <=> C00026 + C00004 + C00080","reactants":{"compounds":["C02630","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00026","C00004","C00080"],"coefficients":[1,1,1]}}

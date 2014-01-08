@@ -1,0 +1,1 @@
+{"ID":"R02848","name":"ATP:D-hexose 6-phosphotransferase","definition":"ATP + D-Hexose <=> ADP + D-Hexose 6-phosphate","enzyme":"2.7.1.1","equation":"C00002 + C00738 <=> C00008 + C02965","reactants":{"compounds":["C00002","C00738"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02965"],"coefficients":[1,1]}}

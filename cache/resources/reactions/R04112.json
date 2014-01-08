@@ -1,0 +1,1 @@
+{"ID":"R04112","name":"N-Acetylmuramoyl-Ala amidohydrolase","definition":"N-Acetylmuramoyl-Ala + H2O <=> N-Acetylmuramate + L-Alanine","enzyme":"3.5.1.28","equation":"C02999 + C00001 <=> C02713 + C00041","reactants":{"compounds":["C02999","C00001"],"coefficients":[1,1]},"products":{"compounds":["C02713","C00041"],"coefficients":[1,1]}}

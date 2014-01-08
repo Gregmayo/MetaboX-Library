@@ -1,0 +1,1 @@
+{"ID":"R00722","name":"ATP:IDP phosphotransferase","definition":"ATP + IDP <=> ADP + ITP","enzyme":"2.7.4.6","equation":"C00002 + C00104 <=> C00008 + C00081","reactants":{"compounds":["C00002","C00104"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00081"],"coefficients":[1,1]}}

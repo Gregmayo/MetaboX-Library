@@ -1,0 +1,1 @@
+{"ID":"R03035","name":"ATP:pantetheine-4'-phosphate adenylyltransferase","definition":"ATP + Pantetheine 4'-phosphate <=> Diphosphate + Dephospho-CoA","enzyme":"2.7.7.3","equation":"C00002 + C01134 <=> C00013 + C00882","reactants":{"compounds":["C00002","C01134"],"coefficients":[1,1]},"products":{"compounds":["C00013","C00882"],"coefficients":[1,1]}}

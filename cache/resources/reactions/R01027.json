@@ -1,0 +1,1 @@
+{"ID":"R01027","name":"3'-phosphoadenylyl-sulfate:choline sulfotransferase","definition":"3'-Phosphoadenylyl sulfate + Choline <=> Adenosine 3',5'-bisphosphate + Choline sulfate","enzyme":"2.8.2.6","equation":"C00053 + C00114 <=> C00054 + C00919","reactants":{"compounds":["C00053","C00114"],"coefficients":[1,1]},"products":{"compounds":["C00054","C00919"],"coefficients":[1,1]}}

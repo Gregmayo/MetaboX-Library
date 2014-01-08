@@ -1,0 +1,1 @@
+{"ID":"R10064","name":"putrescine:2-oxoglutarate aminotransferase","definition":"Putrescine + 2-Oxoglutarate <=> 1-Pyrroline + L-Glutamate + H2O","enzyme":"2.6.1.82","equation":"C00134 + C00026 <=> C15668 + C00025 + C00001","reactants":{"compounds":["C00134","C00026"],"coefficients":[1,1]},"products":{"compounds":["C15668","C00025","C00001"],"coefficients":[1,1,1]}}

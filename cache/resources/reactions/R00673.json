@@ -1,0 +1,1 @@
+{"ID":"R00673","name":"L-tryptophan indole-lyase (deaminating pyruvate-forming)","definition":"L-Tryptophan + H2O <=> Indole + Pyruvate + Ammonia","enzyme":"4.1.99.1","equation":"C00078 + C00001 <=> C00463 + C00022 + C00014","reactants":{"compounds":["C00078","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00463","C00022","C00014"],"coefficients":[1,1,1]}}

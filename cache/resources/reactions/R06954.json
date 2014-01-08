@@ -1,0 +1,1 @@
+{"ID":"R06954","name":"xanthoxin:NAD+ oxidoreductase","definition":"Xanthoxin + NAD+ <=> Abscisic aldehyde + NADH + H+","enzyme":"1.1.1.288","equation":"C13453 + C00003 <=> C13455 + C00004 + C00080","reactants":{"compounds":["C13453","C00003"],"coefficients":[1,1]},"products":{"compounds":["C13455","C00004","C00080"],"coefficients":[1,1,1]}}

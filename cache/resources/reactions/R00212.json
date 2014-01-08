@@ -1,0 +1,1 @@
+{"ID":"R00212","name":"Acetyl-CoA:formate C-acetyltransferase","definition":"Acetyl-CoA + Formate <=> CoA + Pyruvate","enzyme":"2.3.1.54","equation":"C00024 + C00058 <=> C00010 + C00022","reactants":{"compounds":["C00024","C00058"],"coefficients":[1,1]},"products":{"compounds":["C00010","C00022"],"coefficients":[1,1]}}

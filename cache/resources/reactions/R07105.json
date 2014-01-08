@@ -1,0 +1,1 @@
+{"ID":"R07105","name":"trichloroethanol:NAD+ oxidoreductase","definition":"Chloral hydrate + NADH + H+ <=> Trichloroethanol + NAD+ + H2O","enzyme":"1.1.1.1","equation":"C06899 + C00004 + C00080 <=> C07490 + C00003 + C00001","reactants":{"compounds":["C06899","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C07490","C00003","C00001"],"coefficients":[1,1,1]}}

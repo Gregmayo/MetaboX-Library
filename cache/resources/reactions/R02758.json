@@ -1,0 +1,1 @@
+{"ID":"R02758","name":"ATP:acylglycerol 3-phosphotransferase","definition":"ATP + 2-Acylglycerol <=> ADP + 2-Acyl-sn-glycerol 3-phosphate","enzyme":"2.7.1.94","equation":"C00002 + C02112 <=> C00008 + C03974","reactants":{"compounds":["C00002","C02112"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03974"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R03816","name":"NADH:phylloquinone oxidoreductase","definition":"Phylloquinone + NADH + H+ <=> Phylloquinol + NAD+","enzyme":"1.6.5.2","equation":"C02059 + C00004 + C00080 <=> C03313 + C00003","reactants":{"compounds":["C02059","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C03313","C00003"],"coefficients":[1,1]}}

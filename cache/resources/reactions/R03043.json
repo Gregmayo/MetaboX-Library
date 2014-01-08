@@ -1,0 +1,1 @@
+{"ID":"R03043","name":"21-Hydroxysteroid:NAD+ 21-oxidoreductase","definition":"Pregnan-21-ol + NAD+ <=> Pregnan-21-al + NADH + H+","enzyme":"1.1.1.150","equation":"C00892 + C00003 <=> C00891 + C00004 + C00080","reactants":{"compounds":["C00892","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00891","C00004","C00080"],"coefficients":[1,1,1]}}

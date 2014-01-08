@@ -1,0 +1,1 @@
+{"ID":"R02439","name":"ATP:L-ribulose 5-phosphotransferase","definition":"ATP + L-Ribulose <=> ADP + L-Ribulose 5-phosphate","enzyme":"2.7.1.16","equation":"C00002 + C00508 <=> C00008 + C01101","reactants":{"compounds":["C00002","C00508"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01101"],"coefficients":[1,1]}}

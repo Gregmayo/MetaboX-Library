@@ -1,0 +1,1 @@
+{"ID":"R04741","name":"(S)-3-hydroxydodecanoyl-CoA:NAD+ oxidoreductase","definition":"(S)-3-Hydroxydodecanoyl-CoA + NAD+ <=> 3-Oxododecanoyl-CoA + NADH + H+","enzyme":"1.1.1.35","equation":"C05262 + C00003 <=> C05263 + C00004 + C00080","reactants":{"compounds":["C05262","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05263","C00004","C00080"],"coefficients":[1,1,1]}}

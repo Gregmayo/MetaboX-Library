@@ -1,0 +1,1 @@
+{"ID":"R01149","name":"L-Glutamine:D-alanine gamma-glutamyltransferase","definition":"D-Alanine + L-Glutamine <=> Ammonia + gamma-L-Glutamyl-D-alanine","enzyme":"2.3.2.14","equation":"C00133 + C00064 <=> C00014 + C03738","reactants":{"compounds":["C00133","C00064"],"coefficients":[1,1]},"products":{"compounds":["C00014","C03738"],"coefficients":[1,1]}}

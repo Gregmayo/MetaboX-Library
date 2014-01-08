@@ -1,0 +1,1 @@
+{"ID":"R01523","name":"ATP:D-ribulose-5-phosphate 1-phosphotransferase","definition":"ATP + D-Ribulose 5-phosphate <=> ADP + D-Ribulose 1,5-bisphosphate","enzyme":"2.7.1.19","equation":"C00002 + C00199 <=> C00008 + C01182","reactants":{"compounds":["C00002","C00199"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01182"],"coefficients":[1,1]}}

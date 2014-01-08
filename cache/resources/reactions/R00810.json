@@ -1,0 +1,1 @@
+{"ID":"R00810","name":"Sucrose glucosylmutase","definition":"Sucrose <=> Palatinose","enzyme":"5.4.99.11","equation":"C00089 <=> C01742","reactants":{"compounds":["C00089"],"coefficients":[1]},"products":{"compounds":["C01742"],"coefficients":[1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08241","name":"","definition":"6-Thioinosine-5'-monophosphate + ATP <=> 6-Mercaptopurine ribonucleoside 5'-diphosphate + ADP","enzyme":null,"equation":"C04646 + C00002 <=> C16616 + C00008","reactants":{"compounds":["C04646","C00002"],"coefficients":[1,1]},"products":{"compounds":["C16616","C00008"],"coefficients":[1,1]}}

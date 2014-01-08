@@ -1,0 +1,1 @@
+{"ID":"R07146","name":"4-hydroxy-L-proline:NAD+ oxidoreductase","definition":"cis-4-Hydroxy-L-proline + NAD+ <=> 4-Oxoproline + NADH + H+","enzyme":"1.1.1.104","equation":"C01015 + C00003 <=> C01877 + C00004 + C00080","reactants":{"compounds":["C01015","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01877","C00004","C00080"],"coefficients":[1,1,1]}}

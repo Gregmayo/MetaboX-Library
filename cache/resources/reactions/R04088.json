@@ -1,0 +1,1 @@
+{"ID":"R04088","name":"toluene-cis-1,2-dihydrodiol:NAD+ oxidoreductase","definition":"Toluene-cis-dihydrodiol + NAD+ <=> 2,3-Dihydroxytoluene + NADH + H+","enzyme":"1.3.1.19","equation":"C04592 + C00003 <=> C02923 + C00004 + C00080","reactants":{"compounds":["C04592","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02923","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R05281","name":"","definition":"Toluene-4-sulfonate + Oxygen + NADH + H+ <=> 4-Sulfobenzyl alcohol + NAD+ + H2O","enzyme":null,"equation":"C06677 + C00007 + C00004 + C00080 <=> C06678 + C00003 + C00001","reactants":{"compounds":["C06677","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C06678","C00003","C00001"],"coefficients":[1,1,1]}}

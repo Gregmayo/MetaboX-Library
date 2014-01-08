@@ -1,0 +1,1 @@
+{"ID":"R09227","name":"","definition":"Phthalate + Oxygen + NADH + H+ <=> Phthalate 3,4-cis-dihydrodiol + NAD+","enzyme":null,"equation":"C01606 + C00007 + C00004 + C00080 <=> C18314 + C00003","reactants":{"compounds":["C01606","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C18314","C00003"],"coefficients":[1,1]}}

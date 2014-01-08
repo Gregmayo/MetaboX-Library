@@ -1,0 +1,1 @@
+{"ID":"R01498","name":"D-Glucosyl-N-acylsphingosine glucohydrolase","definition":"beta-D-Glucosyl-(1<->1)-ceramide + H2O <=> D-Glucose + N-Acylsphingosine","enzyme":"3.2.1.45","equation":"C01190 + C00001 <=> C00031 + C00195","reactants":{"compounds":["C01190","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00031","C00195"],"coefficients":[1,1]}}

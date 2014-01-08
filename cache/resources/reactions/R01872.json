@@ -1,0 +1,1 @@
+{"ID":"R01872","name":"L-quinate:NAD+ 3-oxidoreductase","definition":"Quinate + NAD+ <=> 3-Dehydroquinate + NADH + H+","enzyme":"1.1.1.24","equation":"C00296 + C00003 <=> C00944 + C00004 + C00080","reactants":{"compounds":["C00296","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00944","C00004","C00080"],"coefficients":[1,1,1]}}

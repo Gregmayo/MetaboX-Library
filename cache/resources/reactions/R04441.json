@@ -1,0 +1,1 @@
+{"ID":"R04441","name":"(R)-2,3-Dihydroxy-3-methylbutanoate hydro-lyase","definition":"(R)-2,3-Dihydroxy-3-methylbutanoate <=> 3-Methyl-2-oxobutanoic acid + H2O","enzyme":"4.2.1.9","equation":"C04272 <=> C00141 + C00001","reactants":{"compounds":["C04272"],"coefficients":[1]},"products":{"compounds":["C00141","C00001"],"coefficients":[1,1]}}

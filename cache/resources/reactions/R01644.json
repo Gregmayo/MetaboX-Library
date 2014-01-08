@@ -1,0 +1,1 @@
+{"ID":"R01644","name":"4-Hydroxybutanoate:NAD+ oxidoreductase","definition":"4-Hydroxybutanoic acid + NAD+ <=> Succinate semialdehyde + NADH + H+","enzyme":"1.1.1.61","equation":"C00989 + C00003 <=> C00232 + C00004 + C00080","reactants":{"compounds":["C00989","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00232","C00004","C00080"],"coefficients":[1,1,1]}}

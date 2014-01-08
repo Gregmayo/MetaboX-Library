@@ -1,0 +1,1 @@
+{"ID":"R09675","name":"ATP:3'-dephospho-CoA 5-triphospho-alpha-D-ribosyltransferase","definition":"ATP + Dephospho-CoA <=> 2'-(5-Triphosphoribosyl)-3'-dephospho-CoA + Adenine","enzyme":"2.4.2.52","equation":"C00002 + C00882 <=> C19771 + C00147","reactants":{"compounds":["C00002","C00882"],"coefficients":[1,1]},"products":{"compounds":["C19771","C00147"],"coefficients":[1,1]}}

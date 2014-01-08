@@ -1,0 +1,1 @@
+{"ID":"R01054","name":"ADP-ribose ribophosphohydrolase","definition":"ADP-ribose + H2O <=> AMP + D-Ribose 5-phosphate","enzyme":"3.6.1.13","equation":"C00301 + C00001 <=> C00020 + C00117","reactants":{"compounds":["C00301","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00117"],"coefficients":[1,1]}}

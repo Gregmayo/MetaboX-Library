@@ -1,0 +1,1 @@
+{"ID":"R00459","name":"","definition":"L-Lysine <=> L-Pipecolate","enzyme":null,"equation":"C00047 <=> C00408","reactants":{"compounds":["C00047"],"coefficients":[1]},"products":{"compounds":["C00408"],"coefficients":[1]}}

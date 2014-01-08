@@ -1,0 +1,1 @@
+{"ID":"R02513","name":"Nomega,Nomega'-dimethyl-L-arginine dimethylamidohydrolase","definition":"NG,NG-Dimethyl-L-arginine + H2O <=> Dimethylamine + L-Citrulline","enzyme":"3.5.3.18","equation":"C03626 + C00001 <=> C00543 + C00327","reactants":{"compounds":["C03626","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00543","C00327"],"coefficients":[1,1]}}

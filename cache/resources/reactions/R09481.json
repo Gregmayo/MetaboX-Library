@@ -1,0 +1,1 @@
+{"ID":"R09481","name":"formate:acceptor oxidoreductase","definition":"Formate + Acceptor <=> CO2 + Reduced acceptor","enzyme":"1.1.99.33","equation":"C00058 + C00028 <=> C00011 + C00030","reactants":{"compounds":["C00058","C00028"],"coefficients":[1,1]},"products":{"compounds":["C00011","C00030"],"coefficients":[1,1]}}

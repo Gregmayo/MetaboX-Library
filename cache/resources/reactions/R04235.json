@@ -1,0 +1,1 @@
+{"ID":"R04235","name":"ATP:5-methyldeoxycytidine-5'-phosphate phosphotransferase","definition":"ATP + Deoxy-5-methylcytidylate <=> ADP + 5-Methyldeoxycytidine diphosphate","enzyme":"2.7.4.19","equation":"C00002 + C03495 <=> C00008 + C04187","reactants":{"compounds":["C00002","C03495"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04187"],"coefficients":[1,1]}}

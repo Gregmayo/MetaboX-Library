@@ -1,0 +1,1 @@
+{"ID":"R02401","name":"glutarate-semialdehyde:NAD+ oxidoreductase","definition":"5-Oxopentanoate + NAD+ + H2O <=> Glutarate + NADH + H+","enzyme":"1.2.1.20","equation":"C03273 + C00003 + C00001 <=> C00489 + C00004 + C00080","reactants":{"compounds":["C03273","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00489","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R01310","name":"phosphatidylcholine phosphatidohydrolase","definition":"Phosphatidylcholine + H2O <=> Phosphatidate + Choline","enzyme":"3.1.4.4","equation":"C00157 + C00001 <=> C00416 + C00114","reactants":{"compounds":["C00157","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00416","C00114"],"coefficients":[1,1]}}

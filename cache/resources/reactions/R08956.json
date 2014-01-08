@@ -1,0 +1,1 @@
+{"ID":"R08956","name":"(2S)-2-amino-4-deoxychorismate:L-glutamate aminotransferase","definition":"2-Amino-2-deoxyisochorismate + L-Glutamate <=> Chorismate + L-Glutamine","enzyme":"2.6.1.86","equation":"C18054 + C00025 <=> C00251 + C00064","reactants":{"compounds":["C18054","C00025"],"coefficients":[1,1]},"products":{"compounds":["C00251","C00064"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00733","name":"L-arogenate:NADP+ oxidoreductase","definition":"L-Arogenate + NADP+ <=> L-Tyrosine + CO2 + NADPH + H+","enzyme":"1.3.1.79","equation":"C00826 + C00006 <=> C00082 + C00011 + C00005 + C00080","reactants":{"compounds":["C00826","C00006"],"coefficients":[1,1]},"products":{"compounds":["C00082","C00011","C00005","C00080"],"coefficients":[1,1,1,1]}}

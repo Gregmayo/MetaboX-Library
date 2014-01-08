@@ -1,0 +1,1 @@
+{"ID":"R00343","name":"(S)-malate:NADP+ oxidoreductase","definition":"(S)-Malate + NADP+ <=> Oxaloacetate + NADPH + H+","enzyme":"1.1.1.82","equation":"C00149 + C00006 <=> C00036 + C00005 + C00080","reactants":{"compounds":["C00149","C00006"],"coefficients":[1,1]},"products":{"compounds":["C00036","C00005","C00080"],"coefficients":[1,1,1]}}

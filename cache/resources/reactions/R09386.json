@@ -1,0 +1,1 @@
+{"ID":"R09386","name":"ATP:tRNA adenylyltransferase","definition":"tRNA with a 3' CC end + ATP <=> tRNA with a 3' CCA end + Diphosphate","enzyme":"2.7.7.72","equation":"C19080 + C00002 <=> C19085 + C00013","reactants":{"compounds":["C19080","C00002"],"coefficients":[1,1]},"products":{"compounds":["C19085","C00013"],"coefficients":[1,1]}}

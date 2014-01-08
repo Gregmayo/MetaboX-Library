@@ -1,0 +1,1 @@
+{"ID":"R00039","name":"raffinose:raffinose 1F-alpha-D-galactosyltransferase","definition":"2 Raffinose <=> Lychnose + Sucrose","enzyme":"2.4.1.166","equation":"2 C00492 <=> C08242 + C00089","reactants":{"compounds":["C00492"],"coefficients":[2]},"products":{"compounds":["C08242","C00089"],"coefficients":[1,1]}}

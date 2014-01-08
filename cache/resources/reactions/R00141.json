@@ -1,0 +1,1 @@
+{"ID":"R00141","name":"ATP:ammonia phosphotransferase","definition":"ATP + Ammonia <=> ADP + Phosphoramidate","enzyme":"2.7.3.8","equation":"C00002 + C00014 <=> C00008 + C02306","reactants":{"compounds":["C00002","C00014"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02306"],"coefficients":[1,1]}}

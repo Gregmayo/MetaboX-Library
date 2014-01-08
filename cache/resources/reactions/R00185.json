@@ -1,0 +1,1 @@
+{"ID":"R00185","name":"ATP:adenosine 5'-phosphotransferase","definition":"ATP + Adenosine <=> ADP + AMP","enzyme":"2.7.1.20","equation":"C00002 + C00212 <=> C00008 + C00020","reactants":{"compounds":["C00002","C00212"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00020"],"coefficients":[1,1]}}

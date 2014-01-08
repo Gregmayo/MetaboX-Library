@@ -1,0 +1,1 @@
+{"ID":"R07459","name":"ATP:[ThiS] adenylyltransferase","definition":"C15810 + ATP <=> C15813 + Diphosphate","enzyme":"2.7.7.73","equation":"C15810 + ATP <=> C15813 + Diphosphate","reactants":{"compounds":["C15810","ATP"],"coefficients":[1,1]},"products":{"compounds":["C15813","Diphosphate"],"coefficients":[1,1]}}

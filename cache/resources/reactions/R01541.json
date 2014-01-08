@@ -1,0 +1,1 @@
+{"ID":"R01541","name":"ATP:2-dehydro-3-deoxy-D-gluconate 6-phosphotransferase","definition":"ATP + 2-Dehydro-3-deoxy-D-gluconate <=> ADP + 2-Dehydro-3-deoxy-6-phospho-D-gluconate","enzyme":"2.7.1.45","equation":"C00002 + C00204 <=> C00008 + C04442","reactants":{"compounds":["C00002","C00204"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04442"],"coefficients":[1,1]}}

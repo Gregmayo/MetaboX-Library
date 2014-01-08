@@ -1,0 +1,1 @@
+{"ID":"R02124","name":"retinol:NAD+ oxidoreductase","definition":"Retinol + NAD+ <=> Retinal + NADH + H+","enzyme":"1.1.1.1","equation":"C00473 + C00003 <=> C00376 + C00004 + C00080","reactants":{"compounds":["C00473","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00376","C00004","C00080"],"coefficients":[1,1,1]}}

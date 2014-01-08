@@ -1,0 +1,1 @@
+{"ID":"R02098","name":"ATP:dUMP phosphotransferase","definition":"ATP + dUMP <=> ADP + dUDP","enzyme":"2.7.4.4","equation":"C00002 + C00365 <=> C00008 + C01346","reactants":{"compounds":["C00002","C00365"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01346"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R09729","name":"ATP:hygromycin-B 4-O-phosphotransferase","definition":"ATP + Hygromycin B <=> ADP + 4-O-Phosphohygromycin B","enzyme":"2.7.1.163","equation":"C00002 + C01925 <=> C00008 + C19850","reactants":{"compounds":["C00002","C01925"],"coefficients":[1,1]},"products":{"compounds":["C00008","C19850"],"coefficients":[1,1]}}

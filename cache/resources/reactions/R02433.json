@@ -1,0 +1,1 @@
+{"ID":"R02433","name":"L-cysteate:2-oxoglutarate aminotransferase","definition":"L-Cysteate + 2-Oxoglutarate <=> 3-Sulfopyruvate + L-Glutamate","enzyme":"2.6.1.1","equation":"C00506 + C00026 <=> C05528 + C00025","reactants":{"compounds":["C00506","C00026"],"coefficients":[1,1]},"products":{"compounds":["C05528","C00025"],"coefficients":[1,1]}}

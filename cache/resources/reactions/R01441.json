@@ -1,0 +1,1 @@
+{"ID":"R01441","name":"ATP:cellobiose 6-phosphotransferase","definition":"ATP + Cellobiose <=> ADP + 6-Phospho-beta-D-glucosyl-(1,4)-D-glucose","enzyme":"2.7.1.85","equation":"C00002 + C00185 <=> C00008 + C04534","reactants":{"compounds":["C00002","C00185"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04534"],"coefficients":[1,1]}}

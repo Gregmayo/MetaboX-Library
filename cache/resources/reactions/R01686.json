@@ -1,0 +1,1 @@
+{"ID":"R01686","name":"L-arginine:taurine amidinotransferase","definition":"Taurine + L-Arginine <=> Taurocyamine + L-Ornithine","enzyme":"2.1.4.1","equation":"C00245 + C00062 <=> C01959 + C00077","reactants":{"compounds":["C00245","C00062"],"coefficients":[1,1]},"products":{"compounds":["C01959","C00077"],"coefficients":[1,1]}}

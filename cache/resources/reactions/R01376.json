@@ -1,0 +1,1 @@
+{"ID":"R01376","name":"L-Tryptophan:phenylpyruvate aminotransferase","definition":"L-Tryptophan + Phenylpyruvate <=> Indolepyruvate + L-Phenylalanine","enzyme":"2.6.1.28","equation":"C00078 + C00166 <=> C00331 + C00079","reactants":{"compounds":["C00078","C00166"],"coefficients":[1,1]},"products":{"compounds":["C00331","C00079"],"coefficients":[1,1]}}

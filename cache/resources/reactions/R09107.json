@@ -1,0 +1,1 @@
+{"ID":"R09107","name":"N-acetyl-L-citrulline amidohydrolase","definition":"N-Acetyl-L-citrulline + H2O <=> Acetate + L-Citrulline","enzyme":"3.5.1.16","equation":"C15532 + C00001 <=> C00033 + C00327","reactants":{"compounds":["C15532","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00327"],"coefficients":[1,1]}}

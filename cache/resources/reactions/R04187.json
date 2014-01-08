@@ -1,0 +1,1 @@
+{"ID":"R04187","name":"L-Alanine:3-oxopropanoate aminotransferase","definition":"L-Alanine + (S)-Methylmalonate semialdehyde <=> Pyruvate + L-3-Amino-isobutanoate","enzyme":"2.6.1.18","equation":"C00041 + C06002 <=> C00022 + C03284","reactants":{"compounds":["C00041","C06002"],"coefficients":[1,1]},"products":{"compounds":["C00022","C03284"],"coefficients":[1,1]}}

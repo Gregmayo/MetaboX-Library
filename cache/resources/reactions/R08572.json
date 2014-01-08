@@ -1,0 +1,1 @@
+{"ID":"R08572","name":"ATP:(R)-glycerate 2-phosphotransferase","definition":"D-Glycerate + ATP <=> 2-Phospho-D-glycerate + ADP","enzyme":"2.7.1.165","equation":"C00258 + C00002 <=> C00631 + C00008","reactants":{"compounds":["C00258","C00002"],"coefficients":[1,1]},"products":{"compounds":["C00631","C00008"],"coefficients":[1,1]}}

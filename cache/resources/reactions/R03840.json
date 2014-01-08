@@ -1,0 +1,1 @@
+{"ID":"R03840","name":"ATP:5'-dephosphopolynucleotide 5'-phosphotransferase","definition":"ATP + 5'-Dephospho-DNA <=> ADP + 5'-Phospho-DNA","enzyme":"2.7.1.78","equation":"C00002 + C02374 <=> C00008 + C02128","reactants":{"compounds":["C00002","C02374"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02128"],"coefficients":[1,1]}}

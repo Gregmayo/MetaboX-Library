@@ -1,0 +1,1 @@
+{"ID":"R04283","name":"","definition":"4-Imidazolone-5-propanoate + H2O <=> 4-Oxoglutaramate + Formate + Ammonia","enzyme":null,"equation":"C03680 + C00001 <=> C05572 + C00058 + C00014","reactants":{"compounds":["C03680","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05572","C00058","C00014"],"coefficients":[1,1,1]}}

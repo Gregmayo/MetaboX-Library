@@ -1,0 +1,1 @@
+{"ID":"R09650","name":"L-prolinamide amidohydrolase","definition":"L-Prolinamide + H2O <=> L-Proline + Ammonia","enzyme":"3.5.1.101","equation":"C19781 + C00001 <=> C00148 + C00014","reactants":{"compounds":["C19781","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00148","C00014"],"coefficients":[1,1]}}

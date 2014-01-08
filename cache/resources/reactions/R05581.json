@@ -1,0 +1,1 @@
+{"ID":"R05581","name":"","definition":"6-Hydroxycyclohex-1-enecarbonyl-CoA + NAD+ <=> 6-Ketoxycyclohex-1-ene-1-carboxyl-CoA + NADH + H+","enzyme":null,"equation":"C06749 + C00003 <=> C09821 + C00004 + C00080","reactants":{"compounds":["C06749","C00003"],"coefficients":[1,1]},"products":{"compounds":["C09821","C00004","C00080"],"coefficients":[1,1,1]}}

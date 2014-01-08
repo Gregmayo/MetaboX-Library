@@ -1,0 +1,1 @@
+{"ID":"R02395","name":"Carnitine:NAD+ 3-oxidoreductase","definition":"Carnitine + NAD+ <=> 3-Dehydrocarnitine + NADH + H+","enzyme":"1.1.1.108","equation":"C00487 + C00003 <=> C02636 + C00004 + C00080","reactants":{"compounds":["C00487","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02636","C00004","C00080"],"coefficients":[1,1,1]}}

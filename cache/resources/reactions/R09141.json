@@ -1,0 +1,1 @@
+{"ID":"R09141","name":"","definition":"Trichloroethene + NADH + H+ + Oxygen <=> TCE epoxide + NAD+ + H2O","enzyme":"1.14.13.25","equation":"C06790 + C00004 + C00080 + C00007 <=> C11148 + C00003 + C00001","reactants":{"compounds":["C06790","C00004","C00080","C00007"],"coefficients":[1,1,1,1]},"products":{"compounds":["C11148","C00003","C00001"],"coefficients":[1,1,1]}}

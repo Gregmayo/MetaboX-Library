@@ -1,0 +1,1 @@
+{"ID":"R01843","name":"ATP:Sedoheptulose 7-phosphate 1-phosphotransferase","definition":"ATP + Sedoheptulose 7-phosphate <=> ADP + Sedoheptulose 1,7-bisphosphate","enzyme":"2.7.1.11","equation":"C00002 + C05382 <=> C00008 + C00447","reactants":{"compounds":["C00002","C05382"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00447"],"coefficients":[1,1]}}

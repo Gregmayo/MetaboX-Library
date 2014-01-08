@@ -1,0 +1,1 @@
+{"ID":"R01087","name":"Maleate cis-trans-isomerase","definition":"Maleic acid <=> Fumarate","enzyme":"5.2.1.1","equation":"C01384 <=> C00122","reactants":{"compounds":["C01384"],"coefficients":[1]},"products":{"compounds":["C00122"],"coefficients":[1]}}

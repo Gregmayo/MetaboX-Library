@@ -1,0 +1,1 @@
+{"ID":"R05366","name":"2-Hydroxy-6-oxo-octa-2,4-dienoate acylhydrolase","definition":"2-Hydroxy-6-oxo-octa-2,4-dienoate + H2O <=> 2-Hydroxy-2,4-pentadienoate + Propanoate","enzyme":null,"equation":"C07123 + C00001 <=> C00596 + C00163","reactants":{"compounds":["C07123","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00596","C00163"],"coefficients":[1,1]}}

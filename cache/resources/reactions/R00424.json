@@ -1,0 +1,1 @@
+{"ID":"R00424","name":"GTP 7,8-8,9-dihydrolase","definition":"GTP + H2O <=> 7,8-Dihydroneopterin 3'-triphosphate + Formate","enzyme":"3.5.4.16","equation":"C00044 + C00001 <=> C04895 + C00058","reactants":{"compounds":["C00044","C00001"],"coefficients":[1,1]},"products":{"compounds":["C04895","C00058"],"coefficients":[1,1]}}

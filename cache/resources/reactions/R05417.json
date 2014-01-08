@@ -1,0 +1,1 @@
+{"ID":"R05417","name":"","definition":"Styrene + Oxygen + NADH + H+ <=> Styrene-cis-2,3-dihydrodiol + NAD+","enzyme":null,"equation":"C07083 + C00007 + C00004 + C00080 <=> C07084 + C00003","reactants":{"compounds":["C07083","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C07084","C00003"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R05620","name":"","definition":"Cyclohexane-1-carboxylate + CoA + ATP <=> Cyclohexane-1-carboxyl-CoA + AMP + Diphosphate","enzyme":null,"equation":"C09822 + C00010 + C00002 <=> C09823 + C00020 + C00013","reactants":{"compounds":["C09822","C00010","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C09823","C00020","C00013"],"coefficients":[1,1,1]}}

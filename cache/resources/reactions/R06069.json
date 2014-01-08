@@ -1,0 +1,1 @@
+{"ID":"R06069","name":"1,4-alpha-D-glucan:1,4-alpha-D-glucan 4-alpha-D-glycosyltransferase","definition":"1,4-alpha-D-Glucan + n D-Glucose <=> n Maltose","enzyme":"2.4.1.25","equation":"C00031 <=> n G00275","reactants":{"compounds":["C00031"],"coefficients":[1]},"products":{"compounds":["G00275"],"coefficients":[0]}}

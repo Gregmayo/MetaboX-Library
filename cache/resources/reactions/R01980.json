@@ -1,0 +1,1 @@
+{"ID":"R01980","name":"ATP:D-galacturonate 1-phosphotransferase","definition":"ATP + D-Galacturonate <=> ADP + 1-Phospho-alpha-D-galacturonate","enzyme":"2.7.1.44","equation":"C00002 + C00333 <=> C00008 + C04037","reactants":{"compounds":["C00002","C00333"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04037"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08558","name":"","definition":"Choline + NADP+ <=> Betaine aldehyde + NADPH + H+","enzyme":"1.1.1.1","equation":"C00114 + C00006 <=> C00576 + C00005 + C00080","reactants":{"compounds":["C00114","C00006"],"coefficients":[1,1]},"products":{"compounds":["C00576","C00005","C00080"],"coefficients":[1,1,1]}}

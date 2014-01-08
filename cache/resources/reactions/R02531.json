@@ -1,0 +1,1 @@
+{"ID":"R02531","name":"Lactaldehyde:NAD+ 1-oxidoreductase","definition":"Lactaldehyde + NAD+ <=> Methylglyoxal + NADH + H+","enzyme":"1.1.1.78","equation":"C05999 + C00003 <=> C00546 + C00004 + C00080","reactants":{"compounds":["C05999","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00546","C00004","C00080"],"coefficients":[1,1,1]}}

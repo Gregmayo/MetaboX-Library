@@ -1,0 +1,1 @@
+{"ID":"R10042","name":"phenol hydroxylase","definition":"Benzene + Oxygen + NADH + H+ <=> Phenol + NAD+ + H2O","enzyme":null,"equation":"C01407 + C00007 + C00004 + C00080 <=> C00146 + C00003 + C00001","reactants":{"compounds":["C01407","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C00146","C00003","C00001"],"coefficients":[1,1,1]}}

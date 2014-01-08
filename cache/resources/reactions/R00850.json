@@ -1,0 +1,1 @@
+{"ID":"R00850","name":"sn-Glycerol-3-phosphate:D-glucose 6-phosphotransferase","definition":"sn-Glycerol 3-phosphate + D-Glucose <=> Glycerol + D-Glucose 6-phosphate","enzyme":"2.7.1.142","equation":"C00093 + C00031 <=> C00116 + C00092","reactants":{"compounds":["C00093","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00116","C00092"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R01758","name":"L-Arabitol:NAD+ 1-oxidoreductase","definition":"L-Arabitol + NAD+ <=> L-Arabinose + NADH + H+","enzyme":"1.1.1.21","equation":"C00532 + C00003 <=> C00259 + C00004 + C00080","reactants":{"compounds":["C00532","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00259","C00004","C00080"],"coefficients":[1,1,1]}}

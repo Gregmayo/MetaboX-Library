@@ -1,0 +1,1 @@
+{"ID":"R00320","name":"diphosphate:acetate phosphotransferase","definition":"Diphosphate + Acetate <=> Orthophosphate + Acetyl phosphate","enzyme":"2.7.2.12","equation":"C00013 + C00033 <=> C00009 + C00227","reactants":{"compounds":["C00013","C00033"],"coefficients":[1,1]},"products":{"compounds":["C00009","C00227"],"coefficients":[1,1]}}

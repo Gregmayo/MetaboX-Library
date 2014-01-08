@@ -1,0 +1,1 @@
+{"ID":"R03632","name":"ATP:protamine O-phosphotransferase","definition":"ATP + Protamine <=> ADP + O-Phosphoprotamine","enzyme":"2.7.11.1","equation":"C00002 + C01609 <=> C00008 + C02729","reactants":{"compounds":["C00002","C01609"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02729"],"coefficients":[1,1]}}

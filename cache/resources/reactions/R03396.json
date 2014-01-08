@@ -1,0 +1,1 @@
+{"ID":"R03396","name":"GDP-6-deoxy-D-talose:NAD+ 4-oxidoreductase","definition":"GDP-6-deoxy-D-talose + NAD+ <=> GDP-4-dehydro-6-deoxy-D-mannose + NADH + H+","enzyme":"1.1.1.135","equation":"C02977 + C00003 <=> C01222 + C00004 + C00080","reactants":{"compounds":["C02977","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01222","C00004","C00080"],"coefficients":[1,1,1]}}

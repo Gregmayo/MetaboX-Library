@@ -1,0 +1,1 @@
+{"ID":"R03591","name":"morphine:NAD+ 6-oxidoreductase","definition":"Morphine + NAD+ <=> Morphinone + NADH + H+","enzyme":"1.1.1.218","equation":"C01516 + C00003 <=> C01735 + C00004 + C00080","reactants":{"compounds":["C01516","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01735","C00004","C00080"],"coefficients":[1,1,1]}}

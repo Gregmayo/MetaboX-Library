@@ -1,0 +1,1 @@
+{"ID":"R02555","name":"D-Altronate:NAD+ 3-oxidoreductase","definition":"D-Altronate + NAD+ <=> D-Tagaturonate + NADH + H+","enzyme":"1.1.1.58","equation":"C00817 + C00003 <=> C00558 + C00004 + C00080","reactants":{"compounds":["C00817","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00558","C00004","C00080"],"coefficients":[1,1,1]}}

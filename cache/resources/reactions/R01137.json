@@ -1,0 +1,1 @@
+{"ID":"R01137","name":"ATP:dADP phosphotransferase","definition":"ATP + dADP <=> ADP + dATP","enzyme":"2.7.4.6","equation":"C00002 + C00206 <=> C00008 + C00131","reactants":{"compounds":["C00002","C00206"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00131"],"coefficients":[1,1]}}

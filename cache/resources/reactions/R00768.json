@@ -1,0 +1,1 @@
+{"ID":"R00768","name":"L-glutamine:D-fructose-6-phosphate isomerase (deaminating)","definition":"L-Glutamine + D-Fructose 6-phosphate <=> L-Glutamate + D-Glucosamine 6-phosphate","enzyme":"2.6.1.16","equation":"C00064 + C00085 <=> C00025 + C00352","reactants":{"compounds":["C00064","C00085"],"coefficients":[1,1]},"products":{"compounds":["C00025","C00352"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R09165","name":"","definition":"Phenanthrene-4-carboxylate + Oxygen + NADH + H+ <=> cis-3,4-Phenanthrenedihydrodiol-4-carboxylate + NAD+","enzyme":null,"equation":"C18253 + C00007 + C00004 + C00080 <=> C18256 + C00003","reactants":{"compounds":["C18253","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C18256","C00003"],"coefficients":[1,1]}}

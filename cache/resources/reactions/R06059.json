@@ -1,0 +1,1 @@
+{"ID":"R06059","name":"sucrose:2,1-beta-D-fructan 1-beta-D-fructosyltransferase","definition":"G10497(n) + Neohancoside D <=> G10497(n+1) + D-Glucose","enzyme":"2.4.1.9","equation":"","reactants":{"compounds":[""],"coefficients":[1]},"products":{"compounds":[""],"coefficients":[1]}}

@@ -1,0 +1,1 @@
+{"ID":"R01881","name":"ATP:creatine N-phosphotransferase","definition":"ATP + Creatine <=> ADP + Phosphocreatine","enzyme":"2.7.3.2","equation":"C00002 + C00300 <=> C00008 + C02305","reactants":{"compounds":["C00002","C00300"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02305"],"coefficients":[1,1]}}

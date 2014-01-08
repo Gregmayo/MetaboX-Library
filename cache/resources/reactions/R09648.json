@@ -1,0 +1,1 @@
+{"ID":"R09648","name":"beta-Alaninamide amidohydrolase","definition":"beta-Alaninamide + H2O <=> beta-Alanine + Ammonia","enzyme":"3.5.1.100","equation":"C19779 + C00001 <=> C00099 + C00014","reactants":{"compounds":["C19779","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C00014"],"coefficients":[1,1]}}

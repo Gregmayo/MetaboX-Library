@@ -1,0 +1,1 @@
+{"ID":"R00619","name":"ATP:thiamine diphosphotransferase","definition":"ATP + Thiamine <=> AMP + Thiamin diphosphate","enzyme":"2.7.6.2","equation":"C00002 + C00378 <=> C00020 + C00068","reactants":{"compounds":["C00002","C00378"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00068"],"coefficients":[1,1]}}

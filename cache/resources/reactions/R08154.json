@@ -1,0 +1,1 @@
+{"ID":"R08154","name":"","definition":"(10S)-Juvenile hormone III diol + ATP <=> (10S)-Juvenile hormone III diol phosphate + ADP","enzyme":null,"equation":"C16505 + C00002 <=> C16507 + C00008","reactants":{"compounds":["C16505","C00002"],"coefficients":[1,1]},"products":{"compounds":["C16507","C00008"],"coefficients":[1,1]}}

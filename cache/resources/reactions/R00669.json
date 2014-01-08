@@ -1,0 +1,1 @@
+{"ID":"R00669","name":"N2-Acetyl-L-ornithine amidohydrolase","definition":"N-Acetylornithine + H2O <=> Acetate + L-Ornithine","enzyme":"3.5.1.14","equation":"C00437 + C00001 <=> C00033 + C00077","reactants":{"compounds":["C00437","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00077"],"coefficients":[1,1]}}

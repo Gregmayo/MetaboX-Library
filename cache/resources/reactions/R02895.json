@@ -1,0 +1,1 @@
+{"ID":"R02895","name":"","definition":"D-Proline + L-Glutamine <=> Linatine","enzyme":null,"equation":"C00763 + C00064 <=> C05939","reactants":{"compounds":["C00763","C00064"],"coefficients":[1,1]},"products":{"compounds":["C05939"],"coefficients":[1]}}

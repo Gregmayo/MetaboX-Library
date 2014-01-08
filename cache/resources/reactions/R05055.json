@@ -1,0 +1,1 @@
+{"ID":"R05055","name":"","definition":"Leukotriene D4 + H2O <=> Leukotriene E4 + Glycine","enzyme":null,"equation":"C05951 + C00001 <=> C05952 + C00037","reactants":{"compounds":["C05951","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05952","C00037"],"coefficients":[1,1]}}

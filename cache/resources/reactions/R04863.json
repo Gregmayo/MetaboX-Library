@@ -1,0 +1,1 @@
+{"ID":"R04863","name":"L-2-Aminoadipate-6-semialdehyde:NAD(P)+ 6-oxidoreductase","definition":"L-2-Aminoadipate adenylate + Holo-Lys2 <=> alpha-Aminoadipoyl-S-acyl enzyme + AMP","enzyme":"1.2.1.31","equation":"C05560 + C11482 <=> C05535 + C00020","reactants":{"compounds":["C05560","C11482"],"coefficients":[1,1]},"products":{"compounds":["C05535","C00020"],"coefficients":[1,1]}}

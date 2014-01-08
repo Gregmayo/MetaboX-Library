@@ -1,0 +1,1 @@
+{"ID":"R05547","name":"","definition":"N1-Amidinostreptamine 6-phosphate + L-Arginine <=> Streptidine 6-phosphate + L-Ornithine","enzyme":null,"equation":"C11351 + C00062 <=> C01121 + C00077","reactants":{"compounds":["C11351","C00062"],"coefficients":[1,1]},"products":{"compounds":["C01121","C00077"],"coefficients":[1,1]}}

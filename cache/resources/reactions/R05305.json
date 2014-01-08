@@ -1,0 +1,1 @@
+{"ID":"R05305","name":"3-hydroxypimeloyl-CoA:NAD+ oxidoreductase","definition":"3-Hydroxypimeloyl-CoA + NAD+ <=> 3-Oxopimeloyl-CoA + NADH + H+","enzyme":"1.1.1.259","equation":"C06714 + C00003 <=> C06715 + C00004 + C00080","reactants":{"compounds":["C06714","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06715","C00004","C00080"],"coefficients":[1,1,1]}}

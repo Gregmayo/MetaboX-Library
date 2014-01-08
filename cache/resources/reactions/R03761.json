@@ -1,0 +1,1 @@
+{"ID":"R03761","name":"NADH:asparagusate oxidoreductase","definition":"Asparagusate + NADH + H+ <=> 3-Mercapto-2-mercaptomethylpropanoate + NAD+","enzyme":"1.8.1.11","equation":"C01892 + C00004 + C00080 <=> C04371 + C00003","reactants":{"compounds":["C01892","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C04371","C00003"],"coefficients":[1,1]}}

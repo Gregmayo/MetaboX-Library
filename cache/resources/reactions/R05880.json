@@ -1,0 +1,1 @@
+{"ID":"R05880","name":"17-O-acetylnorajmaline O-acetylhydrolase","definition":"17-O-Acetylnorajmaline + H2O <=> Norajmaline + Acetate","enzyme":"3.1.1.80","equation":"C11809 + C00001 <=> C11810 + C00033","reactants":{"compounds":["C11809","C00001"],"coefficients":[1,1]},"products":{"compounds":["C11810","C00033"],"coefficients":[1,1]}}

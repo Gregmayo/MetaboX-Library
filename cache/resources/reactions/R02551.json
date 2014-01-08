@@ -1,0 +1,1 @@
+{"ID":"R02551","name":"N-Benzyloxycarbonylglycine urethanehydrolase","definition":"N-Benzyloxycarbonylglycine + H2O <=> Benzyl alcohol + CO2 + Glycine","enzyme":"3.5.1.58","equation":"C03710 + C00001 <=> C00556 + C00011 + C00037","reactants":{"compounds":["C03710","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00556","C00011","C00037"],"coefficients":[1,1,1]}}

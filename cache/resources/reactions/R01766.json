@@ -1,0 +1,1 @@
+{"ID":"R01766","name":"L-threo-3-Phenylserine benzaldehyde-lyase (glycine-forming)","definition":"L-threo-3-Phenylserine <=> Glycine + Benzaldehyde","enzyme":"4.1.2.26","equation":"C03290 <=> C00037 + C00261","reactants":{"compounds":["C03290"],"coefficients":[1]},"products":{"compounds":["C00037","C00261"],"coefficients":[1,1]}}

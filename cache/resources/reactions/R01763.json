@@ -1,0 +1,1 @@
+{"ID":"R01763","name":"Benzyl alcohol:NAD+ oxidoreductase","definition":"Benzyl alcohol + NAD+ <=> Benzaldehyde + NADH + H+","enzyme":"1.1.1.90","equation":"C00556 + C00003 <=> C00261 + C00004 + C00080","reactants":{"compounds":["C00556","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00261","C00004","C00080"],"coefficients":[1,1,1]}}

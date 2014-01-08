@@ -1,0 +1,1 @@
+{"ID":"R00406","name":"succinyl-CoA:malate CoA-transferase","definition":"Succinyl-CoA + (S)-Malate <=> Succinate + (3S)-3-Carboxy-3-hydroxypropanoyl-CoA","enzyme":null,"equation":"C00091 + C00149 <=> C00042 + C04348","reactants":{"compounds":["C00091","C00149"],"coefficients":[1,1]},"products":{"compounds":["C00042","C04348"],"coefficients":[1,1]}}

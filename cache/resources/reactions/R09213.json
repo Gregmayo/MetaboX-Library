@@ -1,0 +1,1 @@
+{"ID":"R09213","name":"","definition":"4,6-Dichloro-3-methyl-cis-1,2-dihydroxycyclohexa-3,5-diene + NAD+ <=> 4,6-Dichloro-3-methylcatechol + NADH + H+","enzyme":null,"equation":"C18301 + C00003 <=> C18302 + C00004 + C00080","reactants":{"compounds":["C18301","C00003"],"coefficients":[1,1]},"products":{"compounds":["C18302","C00004","C00080"],"coefficients":[1,1,1]}}

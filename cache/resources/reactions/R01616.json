@@ -1,0 +1,1 @@
+{"ID":"R01616","name":"4-Coumarate:CoA ligase (AMP-forming)","definition":"ATP + 4-Coumarate + CoA <=> AMP + Diphosphate + p-Coumaroyl-CoA","enzyme":"6.2.1.12","equation":"C00002 + C00811 + C00010 <=> C00020 + C00013 + C00223","reactants":{"compounds":["C00002","C00811","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00223"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00549","name":"ATP:riboflavin 5'-phosphotransferase","definition":"ATP + Riboflavin <=> ADP + FMN","enzyme":"2.7.1.26","equation":"C00002 + C00255 <=> C00008 + C00061","reactants":{"compounds":["C00002","C00255"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00061"],"coefficients":[1,1]}}

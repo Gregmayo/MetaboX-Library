@@ -1,0 +1,1 @@
+{"ID":"R03445","name":"","definition":"4-(2-Aminophenyl)-2,4-dioxobutanoate <=> 4-Hydroxy-2-quinolinecarboxylic acid + H2O","enzyme":null,"equation":"C01252 <=> C01717 + C00001","reactants":{"compounds":["C01252"],"coefficients":[1]},"products":{"compounds":["C01717","C00001"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00372","name":"Glycine:2-oxoglutarate aminotransferase","definition":"Glycine + 2-Oxoglutarate <=> Glyoxylate + L-Glutamate","enzyme":"2.6.1.4","equation":"C00037 + C00026 <=> C00048 + C00025","reactants":{"compounds":["C00037","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00048","C00025"],"coefficients":[1,1]}}

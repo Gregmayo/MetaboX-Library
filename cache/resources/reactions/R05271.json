@@ -1,0 +1,1 @@
+{"ID":"R05271","name":"4-(hydroxymethyl)benzenesulfonate:NAD+ oxidoreductase","definition":"4-Sulfobenzyl alcohol + NAD+ <=> 4-Sulfobenzaldehyde + NADH + H+","enzyme":"1.1.1.257","equation":"C06678 + C00003 <=> C06679 + C00004 + C00080","reactants":{"compounds":["C06678","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06679","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R06917","name":"1-hydroxymethylnaphthalene:NAD+ oxidoreductase","definition":"1-Hydroxymethylnaphthalene + NAD+ <=> 1-Naphthaldehyde + NADH + H+","enzyme":"1.1.1.1","equation":"C14089 + C00003 <=> C14090 + C00004 + C00080","reactants":{"compounds":["C14089","C00003"],"coefficients":[1,1]},"products":{"compounds":["C14090","C00004","C00080"],"coefficients":[1,1,1]}}

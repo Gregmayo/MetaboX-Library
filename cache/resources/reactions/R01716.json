@@ -1,0 +1,1 @@
+{"ID":"R01716","name":"chorismate:L-glutamine aminotransferase","definition":"Chorismate + L-Glutamine <=> 4-Amino-4-deoxychorismate + L-Glutamate","enzyme":"2.6.1.85","equation":"C00251 + C00064 <=> C11355 + C00025","reactants":{"compounds":["C00251","C00064"],"coefficients":[1,1]},"products":{"compounds":["C11355","C00025"],"coefficients":[1,1]}}

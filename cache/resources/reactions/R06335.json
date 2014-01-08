@@ -1,0 +1,1 @@
+{"ID":"R06335","name":"","definition":"Gibberellin A24 + 2-Oxoglutarate + Oxygen <=> Gibberellin A36 + Succinate + CO2","enzyme":null,"equation":"C11861 + C00026 + C00007 <=> C11862 + C00042 + C00011","reactants":{"compounds":["C11861","C00026","C00007"],"coefficients":[1,1,1]},"products":{"compounds":["C11862","C00042","C00011"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08051","name":"2-Isopentenyl-diphosphate:ATP delta2-isopentenyltransferase","definition":"Dimethylallyl diphosphate + ATP <=> Isopentenyladenosine-5'-triphosphate + Diphosphate","enzyme":null,"equation":"C00235 + C00002 <=> C16424 + C00013","reactants":{"compounds":["C00235","C00002"],"coefficients":[1,1]},"products":{"compounds":["C16424","C00013"],"coefficients":[1,1]}}

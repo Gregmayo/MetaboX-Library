@@ -1,0 +1,1 @@
+{"ID":"R07303","name":"N-benzylformamide amidohydrolase","definition":"N-Benzylformamide + H2O <=> Formate + Benzylamine","enzyme":"3.5.1.91","equation":"C15561 + C00001 <=> C00058 + C15562","reactants":{"compounds":["C15561","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C15562"],"coefficients":[1,1]}}

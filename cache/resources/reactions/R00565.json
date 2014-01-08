@@ -1,0 +1,1 @@
+{"ID":"R00565","name":"L-Arginine:glycine amidinotransferase","definition":"L-Arginine + Glycine <=> L-Ornithine + Guanidinoacetate","enzyme":"2.1.4.1","equation":"C00062 + C00037 <=> C00077 + C00581","reactants":{"compounds":["C00062","C00037"],"coefficients":[1,1]},"products":{"compounds":["C00077","C00581"],"coefficients":[1,1]}}

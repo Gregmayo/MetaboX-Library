@@ -1,0 +1,1 @@
+{"ID":"R00324","name":"2,4-dioxopentanoate acetylhydrolase","definition":"Acetylpyruvate + H2O <=> Acetate + Pyruvate","enzyme":"3.7.1.6","equation":"C02132 + C00001 <=> C00033 + C00022","reactants":{"compounds":["C02132","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00022"],"coefficients":[1,1]}}

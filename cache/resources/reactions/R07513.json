@@ -1,0 +1,1 @@
+{"ID":"R07513","name":"17-O-acetylajmaline O-acetylhydrolase","definition":"17-O-Acetylajmaline + H2O <=> Ajmaline + Acetate","enzyme":"3.1.1.80","equation":"C15985 + C00001 <=> C06542 + C00033","reactants":{"compounds":["C15985","C00001"],"coefficients":[1,1]},"products":{"compounds":["C06542","C00033"],"coefficients":[1,1]}}

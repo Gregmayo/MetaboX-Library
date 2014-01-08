@@ -1,0 +1,1 @@
+{"ID":"R10163","name":"festuclavine:NAD+ oxidoreductase","definition":"Festuclavine + NAD+ <=> 6,8-Dimethyl-6,7-didehydroergoline + NADH + H+","enzyme":"1.5.1.44","equation":"C20408 + C00003 <=> C20409 + C00004 + C00080","reactants":{"compounds":["C20408","C00003"],"coefficients":[1,1]},"products":{"compounds":["C20409","C00004","C00080"],"coefficients":[1,1,1]}}

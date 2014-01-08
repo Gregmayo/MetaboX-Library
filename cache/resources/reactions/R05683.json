@@ -1,0 +1,1 @@
+{"ID":"R05683","name":"L-Idonate:NAD oxidoreductase","definition":"L-Idonate + NAD+ <=> 5-Dehydro-D-gluconate + NADH + H+","enzyme":"1.1.1.264","equation":"C00770 + C00003 <=> C01062 + C00004 + C00080","reactants":{"compounds":["C00770","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01062","C00004","C00080"],"coefficients":[1,1,1]}}

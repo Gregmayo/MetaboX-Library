@@ -1,0 +1,1 @@
+{"ID":"R06034","name":"sucrose:phosphate alpha-D-glucosyltransferase","definition":"Neohancoside D + Orthophosphate <=> D-Fructose + D-Glucose 1-phosphate","enzyme":"2.4.1.7","equation":"C00009 <=> C00095 + C00103","reactants":{"compounds":["C00009"],"coefficients":[1]},"products":{"compounds":["C00095","C00103"],"coefficients":[1,1]}}

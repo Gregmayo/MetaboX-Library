@@ -1,0 +1,1 @@
+{"ID":"R00435","name":"ATP:polynucleotide adenylyltransferase","definition":"ATP + RNA <=> Diphosphate + RNA","enzyme":"2.7.7.6","equation":"C00002 + C00046 <=> C00013 + C00046","reactants":{"compounds":["C00002","C00046"],"coefficients":[1,1]},"products":{"compounds":["C00013","C00046"],"coefficients":[1,1]}}

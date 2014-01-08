@@ -1,0 +1,1 @@
+{"ID":"R00337","name":"GDP-glucose glucohydrolase","definition":"GDP-glucose + H2O <=> GDP + D-Glucose","enzyme":"3.2.1.42","equation":"C00394 + C00001 <=> C00035 + C00031","reactants":{"compounds":["C00394","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00035","C00031"],"coefficients":[1,1]}}

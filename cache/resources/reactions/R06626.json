@@ -1,0 +1,1 @@
+{"ID":"R06626","name":"","definition":"4-Hydroxyphenylglyoxylate + L-Tyrosine <=> L-4-Hydroxyphenylglycine + 3-(4-Hydroxyphenyl)pyruvate","enzyme":null,"equation":"C03590 + C00082 <=> C12323 + C01179","reactants":{"compounds":["C03590","C00082"],"coefficients":[1,1]},"products":{"compounds":["C12323","C01179"],"coefficients":[1,1]}}

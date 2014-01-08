@@ -1,0 +1,1 @@
+{"ID":"R03048","name":"11-cis-retinol:NAD+ oxidoreductase","definition":"11-cis-Retinol + NAD+ <=> 11-cis-Retinal + NADH + H+","enzyme":"1.1.1.315","equation":"C00899 + C00003 <=> C02110 + C00004 + C00080","reactants":{"compounds":["C00899","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02110","C00004","C00080"],"coefficients":[1,1,1]}}

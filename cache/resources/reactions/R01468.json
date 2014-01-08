@@ -1,0 +1,1 @@
+{"ID":"R01468","name":"ATP:ethanolamine O-phosphotransferase","definition":"ATP + Ethanolamine <=> ADP + Ethanolamine phosphate","enzyme":"2.7.1.82","equation":"C00002 + C00189 <=> C00008 + C00346","reactants":{"compounds":["C00002","C00189"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00346"],"coefficients":[1,1]}}

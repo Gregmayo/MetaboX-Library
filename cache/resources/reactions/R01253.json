@@ -1,0 +1,1 @@
+{"ID":"R01253","name":"L-proline:(acceptor) oxidoreductase","definition":"L-Proline + Acceptor <=> (S)-1-Pyrroline-5-carboxylate + Reduced acceptor","enzyme":"1.5.99.8","equation":"C00148 + C00028 <=> C03912 + C00030","reactants":{"compounds":["C00148","C00028"],"coefficients":[1,1]},"products":{"compounds":["C03912","C00030"],"coefficients":[1,1]}}

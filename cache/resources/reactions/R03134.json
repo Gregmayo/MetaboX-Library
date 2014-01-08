@@ -1,0 +1,1 @@
+{"ID":"R03134","name":"O3-acetyl-L-serine:pyrazole 1-(2-amino-2-carboxyethyl)transferase","definition":"O-Acetyl-L-serine + Pyrazole <=> 3-(Pyrazol-1-yl)-L-alanine + Acetate","enzyme":"2.5.1.51","equation":"C00979 + C00481 <=> C01162 + C00033","reactants":{"compounds":["C00979","C00481"],"coefficients":[1,1]},"products":{"compounds":["C01162","C00033"],"coefficients":[1,1]}}

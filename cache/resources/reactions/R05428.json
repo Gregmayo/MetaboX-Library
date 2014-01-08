@@ -1,0 +1,1 @@
+{"ID":"R05428","name":"","definition":"o-Toluate + Oxygen + NADH + H+ <=> 1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate + NAD+","enzyme":"1.14.12.10","equation":"C07215 + C00007 + C00004 + C00080 <=> C06731 + C00003","reactants":{"compounds":["C07215","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C06731","C00003"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R06891","name":"","definition":"1-(4'-Hydroxyphenyl)ethanol + NAD+ <=> 4'-Hydroxyacetophenone + NADH + H+","enzyme":null,"equation":"C13638 + C00003 <=> C10700 + C00004 + C00080","reactants":{"compounds":["C13638","C00003"],"coefficients":[1,1]},"products":{"compounds":["C10700","C00004","C00080"],"coefficients":[1,1,1]}}

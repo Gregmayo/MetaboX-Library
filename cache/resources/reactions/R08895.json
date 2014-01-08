@@ -1,0 +1,1 @@
+{"ID":"R08895","name":"2'-N-acetylparomamine hydrolase (acetate-forming)","definition":"2'-N-Acetylparomamine + H2O <=> Paromamine + Acetate","enzyme":"3.5.1.112","equation":"C17582 + C00001 <=> C01743 + C00033","reactants":{"compounds":["C17582","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01743","C00033"],"coefficients":[1,1]}}

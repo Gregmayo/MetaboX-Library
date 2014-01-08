@@ -1,0 +1,1 @@
+{"ID":"R01343","name":"L-Ornithine:2-oxo-acid aminotransferase","definition":"L-Ornithine + 2-Oxo acid <=> L-Glutamate 5-semialdehyde + L-Amino acid","enzyme":"2.6.1.13","equation":"C00077 + C00161 <=> C01165 + C00151","reactants":{"compounds":["C00077","C00161"],"coefficients":[1,1]},"products":{"compounds":["C01165","C00151"],"coefficients":[1,1]}}

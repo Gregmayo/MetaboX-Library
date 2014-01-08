@@ -1,0 +1,1 @@
+{"ID":"R02703","name":"D-Mannitol-1-phosphate:NAD+ 5-oxidoreductase","definition":"D-Mannitol 1-phosphate + NAD+ <=> beta-D-Fructose 6-phosphate + NADH + H+","enzyme":"1.1.1.17","equation":"C00644 + C00003 <=> C05345 + C00004 + C00080","reactants":{"compounds":["C00644","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05345","C00004","C00080"],"coefficients":[1,1,1]}}

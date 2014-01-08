@@ -1,0 +1,1 @@
+{"ID":"R06976","name":"","definition":"ATP + Lombricine <=> ADP + N-Phospholombricine","enzyme":"2.7.3.5","equation":"C00002 + C14177 <=> C00008 + C14178","reactants":{"compounds":["C00002","C14177"],"coefficients":[1,1]},"products":{"compounds":["C00008","C14178"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00678","name":"L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)","definition":"L-Tryptophan + Oxygen <=> L-Formylkynurenine","enzyme":"1.13.11.11","equation":"C00078 + C00007 <=> C02700","reactants":{"compounds":["C00078","C00007"],"coefficients":[1,1]},"products":{"compounds":["C02700"],"coefficients":[1]}}

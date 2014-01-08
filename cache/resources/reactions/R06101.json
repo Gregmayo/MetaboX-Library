@@ -1,0 +1,1 @@
+{"ID":"R06101","name":"","definition":"Stachyose + H2O <=> Manninotriose + D-Fructose","enzyme":"3.2.1.26","equation":"C00001 <=> G00501 + C00095","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["G00501","C00095"],"coefficients":[1,1]}}

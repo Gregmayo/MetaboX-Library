@@ -1,0 +1,1 @@
+{"ID":"R01026","name":"Acetylcholine aectylhydrolase","definition":"Acetylcholine + H2O <=> Choline + Acetate","enzyme":"3.1.1.7","equation":"C01996 + C00001 <=> C00114 + C00033","reactants":{"compounds":["C01996","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00114","C00033"],"coefficients":[1,1]}}

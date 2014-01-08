@@ -1,0 +1,1 @@
+{"ID":"R01778","name":"(3S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase","definition":"(3S)-3-Hydroxyacyl-CoA + NAD+ <=> 3-Oxoacyl-CoA + NADH + H+","enzyme":"1.1.1.35","equation":"C00640 + C00003 <=> C00264 + C00004 + C00080","reactants":{"compounds":["C00640","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00264","C00004","C00080"],"coefficients":[1,1,1]}}

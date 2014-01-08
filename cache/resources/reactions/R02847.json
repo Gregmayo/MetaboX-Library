@@ -1,0 +1,1 @@
+{"ID":"R02847","name":"D-Aldose:NAD+ 1-oxidoreductase","definition":"D-Aldose + NAD+ <=> D-Aldonolactone + NADH + H+","enzyme":"1.1.1.121","equation":"C00737 + C00003 <=> C16830 + C00004 + C00080","reactants":{"compounds":["C00737","C00003"],"coefficients":[1,1]},"products":{"compounds":["C16830","C00004","C00080"],"coefficients":[1,1,1]}}

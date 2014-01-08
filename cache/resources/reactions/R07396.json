@@ -1,0 +1,1 @@
+{"ID":"R07396","name":"","definition":"4-Methylthio-2-oxobutanoic acid + L-Glutamate <=> L-Methionine + 2-Oxoglutarate","enzyme":"2.6.1.5","equation":"C01180 + C00025 <=> C00073 + C00026","reactants":{"compounds":["C01180","C00025"],"coefficients":[1,1]},"products":{"compounds":["C00073","C00026"],"coefficients":[1,1]}}

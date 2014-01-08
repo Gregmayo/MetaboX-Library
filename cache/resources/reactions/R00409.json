@@ -1,0 +1,1 @@
+{"ID":"R00409","name":"(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase (succinate-forming)","definition":"(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate <=> Pyruvate + Succinate","enzyme":"4.1.3.30","equation":"C04593 <=> C00022 + C00042","reactants":{"compounds":["C04593"],"coefficients":[1]},"products":{"compounds":["C00022","C00042"],"coefficients":[1,1]}}

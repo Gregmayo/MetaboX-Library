@@ -1,0 +1,1 @@
+{"ID":"R05349","name":"","definition":"Fluoren-9-ol + NAD+ <=> Fluoren-9-one + NADH + H+","enzyme":"1.1.1.256","equation":"C06711 + C00003 <=> C06712 + C00004 + C00080","reactants":{"compounds":["C06711","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06712","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00875","name":"D-Glucitol:NAD+ 2-oxidoreductase","definition":"D-Sorbitol + NAD+ <=> D-Fructose + NADH + H+","enzyme":"1.1.1.14","equation":"C00794 + C00003 <=> C00095 + C00004 + C00080","reactants":{"compounds":["C00794","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00095","C00004","C00080"],"coefficients":[1,1,1]}}

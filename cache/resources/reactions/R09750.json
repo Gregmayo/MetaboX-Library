@@ -1,0 +1,1 @@
+{"ID":"R09750","name":"reduced-riboflavin:NAD+ oxidoreductase","definition":"Reduced riboflavin + NAD+ <=> Riboflavin + NADH + H+","enzyme":"1.5.1.41","equation":"C01007 + C00003 <=> C00255 + C00004 + C00080","reactants":{"compounds":["C01007","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00255","C00004","C00080"],"coefficients":[1,1,1]}}

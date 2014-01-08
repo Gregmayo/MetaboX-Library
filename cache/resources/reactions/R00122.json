@@ -1,0 +1,1 @@
+{"ID":"R00122","name":"ADP phosphohydrolase","definition":"ADP + H2O <=> AMP + Orthophosphate","enzyme":"3.6.1.5","equation":"C00008 + C00001 <=> C00020 + C00009","reactants":{"compounds":["C00008","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00009"],"coefficients":[1,1]}}

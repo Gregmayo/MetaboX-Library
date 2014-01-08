@@ -1,0 +1,1 @@
+{"ID":"R01587","name":"N-Methyl-2-oxoglutaramate methylamidohydrolase","definition":"N-Methyl-2-oxoglutaramate + H2O <=> Methylamine + 2-Oxoglutarate","enzyme":"3.5.1.36","equation":"C03623 + C00001 <=> C00218 + C00026","reactants":{"compounds":["C03623","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00218","C00026"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R01737","name":"ATP:D-Gluconate 6-phosphotransferase","definition":"ATP + D-Gluconic acid <=> ADP + 6-Phospho-D-gluconate","enzyme":"2.7.1.12","equation":"C00002 + C00257 <=> C00008 + C00345","reactants":{"compounds":["C00002","C00257"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00345"],"coefficients":[1,1]}}

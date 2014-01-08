@@ -1,0 +1,1 @@
+{"ID":"R00086","name":"ATP phosphohydrolase","definition":"ATP + H2O <=> ADP + Orthophosphate","enzyme":"3.6.1.3","equation":"C00002 + C00001 <=> C00008 + C00009","reactants":{"compounds":["C00002","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00009"],"coefficients":[1,1]}}

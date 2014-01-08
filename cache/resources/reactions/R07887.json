@@ -1,0 +1,1 @@
+{"ID":"R07887","name":"","definition":"ATP + 8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate + CoA <=> AMP + Diphosphate + OPC8-CoA","enzyme":null,"equation":"C00002 + C04780 + C00010 <=> C00020 + C00013 + C16327","reactants":{"compounds":["C00002","C04780","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C16327"],"coefficients":[1,1,1]}}

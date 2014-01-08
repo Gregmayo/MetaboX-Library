@@ -1,0 +1,1 @@
+{"ID":"R00698","name":"L-phenylalanine:oxygen oxidoreductase (decarboxylating)","definition":"L-Phenylalanine + Oxygen <=> 2-Phenylacetamide + CO2","enzyme":"1.11.1.7","equation":"C00079 + C00007 <=> C02505 + C00011","reactants":{"compounds":["C00079","C00007"],"coefficients":[1,1]},"products":{"compounds":["C02505","C00011"],"coefficients":[1,1]}}

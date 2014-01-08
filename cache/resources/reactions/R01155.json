@@ -1,0 +1,1 @@
+{"ID":"R01155","name":"putrescine:2-oxoglutarate aminotransferase","definition":"Putrescine + 2-Oxoglutarate <=> 4-Aminobutyraldehyde + L-Glutamate","enzyme":"2.6.1.29","equation":"C00134 + C00026 <=> C00555 + C00025","reactants":{"compounds":["C00134","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00555","C00025"],"coefficients":[1,1]}}

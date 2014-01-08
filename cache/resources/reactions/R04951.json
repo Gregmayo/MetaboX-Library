@@ -1,0 +1,1 @@
+{"ID":"R04951","name":"","definition":"R-S-Cysteinylglycine + H2O <=> S-Substituted L-cysteine + Glycine","enzyme":"3.4.11.1","equation":"C05729 + C00001 <=> C05726 + C00037","reactants":{"compounds":["C05729","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05726","C00037"],"coefficients":[1,1]}}

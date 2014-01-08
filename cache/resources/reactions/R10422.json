@@ -1,0 +1,1 @@
+{"ID":"R10422","name":"3alpha-hydroxysteroid:NAD+ 3-oxidoreductase","definition":"3alpha-Hydroxysteroid + NAD+ <=> 3-Oxosteroid + NADH + H+","enzyme":"1.1.1.50","equation":"C03072 + C00003 <=> C01876 + C00004 + C00080","reactants":{"compounds":["C03072","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01876","C00004","C00080"],"coefficients":[1,1,1]}}

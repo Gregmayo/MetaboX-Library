@@ -1,0 +1,1 @@
+{"ID":"R02509","name":"N,N-Dimethylformamide amidohydrolase","definition":"N,N-Dimethylformamide + H2O <=> Dimethylamine + Formate","enzyme":"3.5.1.56","equation":"C03134 + C00001 <=> C00543 + C00058","reactants":{"compounds":["C03134","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00543","C00058"],"coefficients":[1,1]}}

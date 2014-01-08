@@ -1,0 +1,1 @@
+{"ID":"R03785","name":"ATP:taurocyamine N-phosphotransferase","definition":"ATP + Taurocyamine <=> ADP + N-Phosphotaurocyamine","enzyme":"2.7.3.4","equation":"C00002 + C01959 <=> C00008 + C03149","reactants":{"compounds":["C00002","C01959"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03149"],"coefficients":[1,1]}}

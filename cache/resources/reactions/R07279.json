@@ -1,0 +1,1 @@
+{"ID":"R07279","name":"ATP:1D-myo-inositol 3-phosphotransferase","definition":"ATP + myo-Inositol <=> ADP + 1D-myo-Inositol 3-phosphate","enzyme":"2.7.1.64","equation":"C00002 + C00137 <=> C00008 + C04006","reactants":{"compounds":["C00002","C00137"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04006"],"coefficients":[1,1]}}

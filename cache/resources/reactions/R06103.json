@@ -1,0 +1,1 @@
+{"ID":"R06103","name":"","definition":"Trehalose + H2O <=> 2 D-Glucose","enzyme":"3.2.1.28","equation":"C00001 <=> 2 C00031","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["C00031"],"coefficients":[2]}}

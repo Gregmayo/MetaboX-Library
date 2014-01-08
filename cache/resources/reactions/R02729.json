@@ -1,0 +1,1 @@
+{"ID":"R02729","name":"5-Formiminotetrahydrofolate:glycine N-formiminotransferase","definition":"5-Formiminotetrahydrofolate + Glycine <=> Tetrahydrofolate + N-Formiminoglycine","enzyme":"2.1.2.4","equation":"C00664 + C00037 <=> C00101 + C02718","reactants":{"compounds":["C00664","C00037"],"coefficients":[1,1]},"products":{"compounds":["C00101","C02718"],"coefficients":[1,1]}}

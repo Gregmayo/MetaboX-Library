@@ -1,0 +1,1 @@
+{"ID":"R03539","name":"","definition":"Hydroiodic acid + 3-Iodo-L-tyrosine <=> Iodine + L-Tyrosine","enzyme":"1.11.1.8","equation":"C05590 + C02515 <=> C01382 + C00082","reactants":{"compounds":["C05590","C02515"],"coefficients":[1,1]},"products":{"compounds":["C01382","C00082"],"coefficients":[1,1]}}

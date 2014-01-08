@@ -1,0 +1,1 @@
+{"ID":"R02540","name":"2-phenylacetamide amidohydrolase","definition":"2-Phenylacetamide + H2O <=> Phenylacetic acid + Ammonia","enzyme":"3.5.1.4","equation":"C02505 + C00001 <=> C07086 + C00014","reactants":{"compounds":["C02505","C00001"],"coefficients":[1,1]},"products":{"compounds":["C07086","C00014"],"coefficients":[1,1]}}

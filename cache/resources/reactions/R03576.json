@@ -1,0 +1,1 @@
+{"ID":"R03576","name":"ATP:D-allose 6-phosphotransferase","definition":"ATP + D-Allose <=> ADP + D-Allose 6-phosphate","enzyme":"2.7.1.55","equation":"C00002 + C01487 <=> C00008 + C02962","reactants":{"compounds":["C00002","C01487"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02962"],"coefficients":[1,1]}}

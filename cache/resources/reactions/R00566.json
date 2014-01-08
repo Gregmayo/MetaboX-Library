@@ -1,0 +1,1 @@
+{"ID":"R00566","name":"L-arginine carboxy-lyase (agmatine-forming)","definition":"L-Arginine <=> Agmatine + CO2","enzyme":"4.1.1.19","equation":"C00062 <=> C00179 + C00011","reactants":{"compounds":["C00062"],"coefficients":[1]},"products":{"compounds":["C00179","C00011"],"coefficients":[1,1]}}

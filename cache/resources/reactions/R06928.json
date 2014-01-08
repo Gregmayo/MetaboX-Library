@@ -1,0 +1,1 @@
+{"ID":"R06928","name":"","definition":"2-Naphthaldehyde + NAD+ + H2O <=> 2-Naphthoic acid + NADH + H+","enzyme":null,"equation":"C14099 + C00003 + C00001 <=> C14101 + C00004 + C00080","reactants":{"compounds":["C14099","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C14101","C00004","C00080"],"coefficients":[1,1,1]}}

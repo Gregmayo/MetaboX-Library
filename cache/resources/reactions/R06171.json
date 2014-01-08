@@ -1,0 +1,1 @@
+{"ID":"R06171","name":"L-Allothreonine acetaldehyde-lyase","definition":"L-Allothreonine <=> Glycine + Acetaldehyde","enzyme":"4.1.2.5","equation":"C05519 <=> C00037 + C00084","reactants":{"compounds":["C05519"],"coefficients":[1]},"products":{"compounds":["C00037","C00084"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R07183","name":"acetylacetone:oxygen oxidoreductase","definition":"Pentane-2,4-dione + Oxygen <=> Acetate + Methylglyoxal","enzyme":"1.13.11.50","equation":"C15499 + C00007 <=> C00033 + C00546","reactants":{"compounds":["C15499","C00007"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00546"],"coefficients":[1,1]}}

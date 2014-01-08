@@ -1,0 +1,1 @@
+{"ID":"R05119","name":"","definition":"3-Butyn-1-al + NAD+ + H2O <=> 3-Butynoate + NADH + H+","enzyme":null,"equation":"C06145 + C00003 + C00001 <=> C06144 + C00004 + C00080","reactants":{"compounds":["C06145","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C06144","C00004","C00080"],"coefficients":[1,1,1]}}

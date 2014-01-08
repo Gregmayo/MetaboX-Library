@@ -1,0 +1,1 @@
+{"ID":"R03945","name":"Perillyl-alcohol:NAD+ oxidoreductase","definition":"Perillyl alcohol + NAD+ <=> Perillyl aldehyde + NADH + H+","enzyme":"1.1.1.144","equation":"C02452 + C00003 <=> C02576 + C00004 + C00080","reactants":{"compounds":["C02452","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02576","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08590","name":"3-sulfolactate:NAD+ oxidoreductase","definition":"3-Sulfopyruvate + NADH + H+ <=> 3-Sulfolactate + NAD+","enzyme":"1.1.1.272","equation":"C05528 + C00004 + C00080 <=> C16069 + C00003","reactants":{"compounds":["C05528","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C16069","C00003"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00736","name":"L-tyrosine carboxy-lyase (tyramine-forming)","definition":"L-Tyrosine <=> Tyramine + CO2","enzyme":"4.1.1.25","equation":"C00082 <=> C00483 + C00011","reactants":{"compounds":["C00082"],"coefficients":[1]},"products":{"compounds":["C00483","C00011"],"coefficients":[1,1]}}

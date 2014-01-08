@@ -1,0 +1,1 @@
+{"ID":"R00162","name":"ATP:protein phosphotransferase","definition":"ATP + Protein <=> ADP + Phosphoprotein","enzyme":"2.7.11.1","equation":"C00002 + C00017 <=> C00008 + C00562","reactants":{"compounds":["C00002","C00017"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00562"],"coefficients":[1,1]}}

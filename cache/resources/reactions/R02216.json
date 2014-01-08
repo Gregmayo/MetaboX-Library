@@ -1,0 +1,1 @@
+{"ID":"R02216","name":"Pregnenolone:NAD+ 3-oxidoreductase","definition":"Pregnenolone + NAD+ <=> Progesterone + NADH + H+","enzyme":"1.1.1.145","equation":"C01953 + C00003 <=> C00410 + C00004 + C00080","reactants":{"compounds":["C01953","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00410","C00004","C00080"],"coefficients":[1,1,1]}}

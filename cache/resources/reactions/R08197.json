@@ -1,0 +1,1 @@
+{"ID":"R08197","name":"L-arginine:pyruvate aminotransferase","definition":"L-Arginine + Pyruvate <=> 5-Guanidino-2-oxopentanoate + L-Alanine","enzyme":"2.6.1.84","equation":"C00062 + C00022 <=> C03771 + C00041","reactants":{"compounds":["C00062","C00022"],"coefficients":[1,1]},"products":{"compounds":["C03771","C00041"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00332","name":"ATP:GMP phosphotransferase","definition":"ATP + GMP <=> ADP + GDP","enzyme":"2.7.4.8","equation":"C00002 + C00144 <=> C00008 + C00035","reactants":{"compounds":["C00002","C00144"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00035"],"coefficients":[1,1]}}

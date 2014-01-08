@@ -1,0 +1,1 @@
+{"ID":"R03261","name":"(-)-trans-isopiperitenol:NAD+ oxidoreductase","definition":"(-)-trans-Isopiperitenol + NAD+ <=> (-)-Isopiperitenone + NADH + H+","enzyme":"1.1.1.223","equation":"C01123 + C00003 <=> C02485 + C00004 + C00080","reactants":{"compounds":["C01123","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02485","C00004","C00080"],"coefficients":[1,1,1]}}

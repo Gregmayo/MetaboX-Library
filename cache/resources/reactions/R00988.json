@@ -1,0 +1,1 @@
+{"ID":"R00988","name":"N-Formylanthranilate amidohydrolase","definition":"Formylanthranilate + H2O <=> Formate + Anthranilate","enzyme":"3.5.1.9","equation":"C05653 + C00001 <=> C00058 + C00108","reactants":{"compounds":["C05653","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00108"],"coefficients":[1,1]}}

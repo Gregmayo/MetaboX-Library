@@ -1,0 +1,1 @@
+{"ID":"R08050","name":"","definition":"Ectoine + 2-Oxoglutarate + Oxygen <=> 5-Hydroxyectoine + Succinate + CO2","enzyme":null,"equation":"C06231 + C00026 + C00007 <=> C16432 + C00042 + C00011","reactants":{"compounds":["C06231","C00026","C00007"],"coefficients":[1,1,1]},"products":{"compounds":["C16432","C00042","C00011"],"coefficients":[1,1,1]}}

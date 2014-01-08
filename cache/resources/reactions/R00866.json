@@ -1,0 +1,1 @@
+{"ID":"R00866","name":"ATP:D-fructose 1-phosphotransferase","definition":"ATP + D-Fructose <=> ADP + D-Fructose 1-phosphate","enzyme":"2.7.1.3","equation":"C00002 + C00095 <=> C00008 + C01094","reactants":{"compounds":["C00002","C00095"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01094"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R09097","name":"propanal:NAD+ oxidoreductase (CoA-acylating)","definition":"Propanal + NAD+ + CoA <=> Propanoyl-CoA + NADH + H+","enzyme":null,"equation":"C00479 + C00003 + C00010 <=> C00100 + C00004 + C00080","reactants":{"compounds":["C00479","C00003","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00100","C00004","C00080"],"coefficients":[1,1,1]}}

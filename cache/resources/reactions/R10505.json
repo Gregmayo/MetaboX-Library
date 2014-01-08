@@ -1,0 +1,1 @@
+{"ID":"R10505","name":"meso-2,3-butanediol:NAD+ oxidoreductase [(R)-acetoin forming]","definition":"meso-2,3-Butanediol + NAD+ <=> (R)-Acetoin + NADH + H+","enzyme":null,"equation":"C20657 + C00003 <=> C00810 + C00004 + C00080","reactants":{"compounds":["C20657","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00810","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00373","name":"Glycine:oxaloacetate aminotransferase","definition":"Glycine + Oxaloacetate <=> Glyoxylate + L-Aspartate","enzyme":"2.6.1.35","equation":"C00037 + C00036 <=> C00048 + C00049","reactants":{"compounds":["C00037","C00036"],"coefficients":[1,1]},"products":{"compounds":["C00048","C00049"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R04488","name":"","definition":"4-Carboxy-2-hydroxymuconate semialdehyde + H2O <=> 4-Methylene-2-oxoglutarate + Formate","enzyme":null,"equation":"C04484 + C00001 <=> C06035 + C00058","reactants":{"compounds":["C04484","C00001"],"coefficients":[1,1]},"products":{"compounds":["C06035","C00058"],"coefficients":[1,1]}}

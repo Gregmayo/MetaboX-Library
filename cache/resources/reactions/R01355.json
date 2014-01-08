@@ -1,0 +1,1 @@
+{"ID":"R01355","name":"2,3-Dimethylmalate pyruvate-lyase","definition":"(2R,3S)-2,3-Dimethylmalate <=> Propanoate + Pyruvate","enzyme":"4.1.3.32","equation":"C03652 <=> C00163 + C00022","reactants":{"compounds":["C03652"],"coefficients":[1]},"products":{"compounds":["C00163","C00022"],"coefficients":[1,1]}}

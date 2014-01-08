@@ -1,0 +1,1 @@
+{"ID":"R09779","name":"LysW-gamma-L-lysine carboxypeptidase","definition":"LysW-gamma-L-lysine + H2O <=> L-Lysine + alpha-Aminoadipate carrier protein LysW","enzyme":null,"equation":"C19889 + C00001 <=> C00047 + C19885","reactants":{"compounds":["C19889","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00047","C19885"],"coefficients":[1,1]}}

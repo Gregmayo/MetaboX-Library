@@ -1,0 +1,1 @@
+{"ID":"R10462","name":"ATP:GTP adenylyltransferase (cyclizing)","definition":"ATP + GTP <=> 2 Diphosphate + Cyclic 3',5'-AMP-GMP","enzyme":"2.7.7.86","equation":"C00002 + C00044 <=> 2 C00013 + C20640","reactants":{"compounds":["C00002","C00044"],"coefficients":[1,1]},"products":{"compounds":["C00013","C20640"],"coefficients":[2,1]}}

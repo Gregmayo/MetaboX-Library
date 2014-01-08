@@ -1,0 +1,1 @@
+{"ID":"R10222","name":"(R)-2-hydroxycarboxylate:NAD+ oxidoreductase","definition":"(R)-2-Hydroxyacid + NAD+ <=> 2-Oxo acid + NADH + H+","enzyme":"1.1.1.345","equation":"C02489 + C00003 <=> C00161 + C00004 + C00080","reactants":{"compounds":["C02489","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00161","C00004","C00080"],"coefficients":[1,1,1]}}

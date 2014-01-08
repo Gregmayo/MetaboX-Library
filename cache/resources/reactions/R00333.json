@@ -1,0 +1,1 @@
+{"ID":"R00333","name":"nucleoside-triphosphate:AMP phosphotransferase","definition":"Nucleoside triphosphate + AMP <=> NDP + ADP","enzyme":"2.7.4.10","equation":"C00201 + C00020 <=> C00454 + C00008","reactants":{"compounds":["C00201","C00020"],"coefficients":[1,1]},"products":{"compounds":["C00454","C00008"],"coefficients":[1,1]}}

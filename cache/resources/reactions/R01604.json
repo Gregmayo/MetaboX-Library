@@ -1,0 +1,1 @@
+{"ID":"R01604","name":"3-Oxopropanoate:NAD+ oxidoreductase","definition":"3-Oxopropanoate + NAD+ + H2O <=> Malonate + NADH + H+","enzyme":"1.2.1.15","equation":"C00222 + C00003 + C00001 <=> C00383 + C00004 + C00080","reactants":{"compounds":["C00222","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00383","C00004","C00080"],"coefficients":[1,1,1]}}

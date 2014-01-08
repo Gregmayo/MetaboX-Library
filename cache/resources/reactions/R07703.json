@@ -1,0 +1,1 @@
+{"ID":"R07703","name":"1,2-dihydrophthalic acid:NAD+ oxidoreductase","definition":"1,2-Dihydrophthalic acid + NAD+ <=> Phthalate + NADH + H+","enzyme":"1.3.1.19","equation":"C16215 + C00003 <=> C01606 + C00004 + C00080","reactants":{"compounds":["C16215","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01606","C00004","C00080"],"coefficients":[1,1,1]}}

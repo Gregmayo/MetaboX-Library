@@ -1,0 +1,1 @@
+{"ID":"R06079","name":"","definition":"D-Glucose + G10499(n+1) <=> Neohancoside D + G10499(n)","enzyme":"2.4.1.10","equation":"C00031 + G10499 <=> G00370 + G10499(n)","reactants":{"compounds":["C00031","G10499"],"coefficients":[1,1]},"products":{"compounds":["G00370","G10499"],"coefficients":[1,1]}}

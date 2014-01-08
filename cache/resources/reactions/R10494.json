@@ -1,0 +1,1 @@
+{"ID":"R10494","name":"6-tuliposide-A D-glucose-lyase (tulipalin A forming)","definition":"6-Tuliposide A <=> Tulipalin A + D-Glucose","enzyme":"4.2.99.22","equation":"C20577 <=> C20578 + C00031","reactants":{"compounds":["C20577"],"coefficients":[1]},"products":{"compounds":["C20578","C00031"],"coefficients":[1,1]}}

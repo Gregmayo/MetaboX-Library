@@ -1,0 +1,1 @@
+{"ID":"R02412","name":"ATP:shikimate 3-phosphotransferase","definition":"ATP + Shikimate <=> ADP + Shikimate 3-phosphate","enzyme":"2.7.1.71","equation":"C00002 + C00493 <=> C00008 + C03175","reactants":{"compounds":["C00002","C00493"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03175"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00319","name":"(S)-lactate:oxygen 2-oxidoreductase (decarboxylating)","definition":"(S)-Lactate + Oxygen <=> Acetate + CO2 + H2O","enzyme":"1.13.12.4","equation":"C00186 + C00007 <=> C00033 + C00011 + C00001","reactants":{"compounds":["C00186","C00007"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00011","C00001"],"coefficients":[1,1,1]}}

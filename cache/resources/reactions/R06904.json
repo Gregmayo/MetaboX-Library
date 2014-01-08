@@ -1,0 +1,1 @@
+{"ID":"R06904","name":"","definition":"2-Naphtylmethylsuccinic acid + Succinyl-CoA <=> Naphthyl-2-methyl-succinyl-CoA + Succinate","enzyme":null,"equation":"C14115 + C00091 <=> C14116 + C00042","reactants":{"compounds":["C14115","C00091"],"coefficients":[1,1]},"products":{"compounds":["C14116","C00042"],"coefficients":[1,1]}}

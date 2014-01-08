@@ -1,0 +1,1 @@
+{"ID":"R00651","name":"O-acetyl-L-homoserine:methanethiol 3-amino-3-carboxypropyltransferase","definition":"O-Acetyl-L-homoserine + Methanethiol <=> L-Methionine + Acetate","enzyme":"2.5.1.49","equation":"C01077 + C00409 <=> C00073 + C00033","reactants":{"compounds":["C01077","C00409"],"coefficients":[1,1]},"products":{"compounds":["C00073","C00033"],"coefficients":[1,1]}}

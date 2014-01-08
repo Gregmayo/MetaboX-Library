@@ -1,0 +1,1 @@
+{"ID":"R09471","name":"","definition":"6-Hydroxypseudooxynicotine + 2 H2O <=> 6-Hydroxy-3-succinoylpyridine + Methylamine","enzyme":null,"equation":"C01297 + 2 C00001 <=> C19631 + C00218","reactants":{"compounds":["C01297","C00001"],"coefficients":[1,2]},"products":{"compounds":["C19631","C00218"],"coefficients":[1,1]}}

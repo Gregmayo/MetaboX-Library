@@ -1,0 +1,1 @@
+{"ID":"R00432","name":"Succinate:CoA ligase (GDP-forming)","definition":"GTP + Succinate + CoA <=> GDP + Orthophosphate + Succinyl-CoA","enzyme":"6.2.1.4","equation":"C00044 + C00042 + C00010 <=> C00035 + C00009 + C00091","reactants":{"compounds":["C00044","C00042","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00035","C00009","C00091"],"coefficients":[1,1,1]}}

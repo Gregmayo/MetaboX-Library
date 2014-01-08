@@ -1,0 +1,1 @@
+{"ID":"R06855","name":"","definition":"2-Chloro-3-oxoadipate <=> Chloroacetic acid + Succinate","enzyme":null,"equation":"C12836 <=> C06755 + C00042","reactants":{"compounds":["C12836"],"coefficients":[1]},"products":{"compounds":["C06755","C00042"],"coefficients":[1,1]}}

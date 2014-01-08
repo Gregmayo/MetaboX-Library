@@ -1,0 +1,1 @@
+{"ID":"R03801","name":"1,4-beta-D-Glucan glucohydrolase","definition":"Cellotetraose + H2O <=> Cellotriose + D-Glucose","enzyme":"3.2.1.74","equation":"C02013 + C00001 <=> C06219 + C00031","reactants":{"compounds":["C02013","C00001"],"coefficients":[1,1]},"products":{"compounds":["C06219","C00031"],"coefficients":[1,1]}}

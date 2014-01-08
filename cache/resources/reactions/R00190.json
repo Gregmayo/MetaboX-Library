@@ -1,0 +1,1 @@
+{"ID":"R00190","name":"AMP:diphosphate phospho-D-ribosyltransferase","definition":"AMP + Diphosphate <=> Adenine + 5-Phospho-alpha-D-ribose 1-diphosphate","enzyme":"2.4.2.7","equation":"C00020 + C00013 <=> C00147 + C00119","reactants":{"compounds":["C00020","C00013"],"coefficients":[1,1]},"products":{"compounds":["C00147","C00119"],"coefficients":[1,1]}}

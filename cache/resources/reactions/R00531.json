@@ -1,0 +1,1 @@
+{"ID":"R00531","name":"Adenylylsulfate sulfohydrolase","definition":"Adenylyl sulfate + H2O <=> AMP + Sulfate","enzyme":"3.6.2.1","equation":"C00224 + C00001 <=> C00020 + C00059","reactants":{"compounds":["C00224","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00059"],"coefficients":[1,1]}}

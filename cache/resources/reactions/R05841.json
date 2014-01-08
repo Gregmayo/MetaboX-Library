@@ -1,0 +1,1 @@
+{"ID":"R05841","name":"phenylacetyl-CoA:glycine N-phenylacetyltransferase","definition":"Phenylacetyl-CoA + Glycine <=> Phenylacetylglycine + CoA","enzyme":"2.3.1.13","equation":"C00582 + C00037 <=> C05598 + C00010","reactants":{"compounds":["C00582","C00037"],"coefficients":[1,1]},"products":{"compounds":["C05598","C00010"],"coefficients":[1,1]}}

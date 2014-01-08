@@ -1,0 +1,1 @@
+{"ID":"R06040","name":"maltose:phosphate 1-beta-D-glucosyltransferase","definition":"Maltose + Orthophosphate <=> D-Glucose + beta-D-Glucose 1-phosphate","enzyme":"2.4.1.8","equation":"C00009 <=> C00031 + C00663","reactants":{"compounds":["C00009"],"coefficients":[1]},"products":{"compounds":["C00031","C00663"],"coefficients":[1,1]}}

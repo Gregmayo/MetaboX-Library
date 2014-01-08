@@ -1,0 +1,1 @@
+{"ID":"R03012","name":"L-Histidinol:NAD+ oxidoreductase","definition":"L-Histidinol + NAD+ <=> L-Histidinal + NADH + H+","enzyme":"1.1.1.23","equation":"C00860 + C00003 <=> C01929 + C00004 + C00080","reactants":{"compounds":["C00860","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01929","C00004","C00080"],"coefficients":[1,1,1]}}

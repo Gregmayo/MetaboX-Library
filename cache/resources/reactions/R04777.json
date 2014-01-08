@@ -1,0 +1,1 @@
+{"ID":"R04777","name":"","definition":"4-Hydroxyphenylacetyl-CoA + Glycine <=> p-Hydroxyphenylacetylglycine + CoA","enzyme":null,"equation":"C05338 + C00037 <=> C05596 + C00010","reactants":{"compounds":["C05338","C00037"],"coefficients":[1,1]},"products":{"compounds":["C05596","C00010"],"coefficients":[1,1]}}

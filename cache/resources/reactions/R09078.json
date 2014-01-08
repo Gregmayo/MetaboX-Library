@@ -1,0 +1,1 @@
+{"ID":"R09078","name":"(S)-acetoin:NAD+ oxidoreductase","definition":"Diacetyl + NADH + H+ <=> (S)-Acetoin + NAD+","enzyme":"1.1.1.304","equation":"C00741 + C00004 + C00080 <=> C01769 + C00003","reactants":{"compounds":["C00741","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C01769","C00003"],"coefficients":[1,1]}}

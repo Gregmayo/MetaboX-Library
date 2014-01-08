@@ -1,0 +1,1 @@
+{"ID":"R09726","name":"ATP:molybdopterin adenylyltransferase","definition":"ATP + Molybdopterin <=> Diphosphate + Adenylated molybdopterin","enzyme":"2.7.7.75","equation":"C00002 + C05924 <=> C00013 + C19848","reactants":{"compounds":["C00002","C05924"],"coefficients":[1,1]},"products":{"compounds":["C00013","C19848"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R08616","name":"raffinose:raffinose 3F-alpha-D-galactosyltransferase","definition":"2 Raffinose <=> Isolychnose + Sucrose","enzyme":"2.4.1.166","equation":"2 C00492 <=> C03989 + C00089","reactants":{"compounds":["C00492"],"coefficients":[2]},"products":{"compounds":["C03989","C00089"],"coefficients":[1,1]}}

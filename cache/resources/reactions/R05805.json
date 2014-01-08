@@ -1,0 +1,1 @@
+{"ID":"R05805","name":"ADP:D-fructose-6-phosphate 1-phosphotransferase","definition":"ADP + D-Fructose 6-phosphate <=> AMP + D-Fructose 1,6-bisphosphate","enzyme":"2.7.1.146","equation":"C00008 + C00085 <=> C00020 + C00354","reactants":{"compounds":["C00008","C00085"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00354"],"coefficients":[1,1]}}

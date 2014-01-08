@@ -1,0 +1,1 @@
+{"ID":"R00728","name":"L-tyrosine phenol-lyase (deaminating pyruvate-forming)","definition":"L-Tyrosine + H2O <=> Phenol + Pyruvate + Ammonia","enzyme":"4.1.99.2","equation":"C00082 + C00001 <=> C00146 + C00022 + C00014","reactants":{"compounds":["C00082","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00146","C00022","C00014"],"coefficients":[1,1,1]}}

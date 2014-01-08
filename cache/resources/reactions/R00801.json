@@ -1,0 +1,1 @@
+{"ID":"R00801","name":"sucrose glucohydrolase","definition":"Sucrose + H2O <=> D-Fructose + D-Glucose","enzyme":"3.2.1.10","equation":"C00089 + C00001 <=> C00095 + C00031","reactants":{"compounds":["C00089","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00095","C00031"],"coefficients":[1,1]}}

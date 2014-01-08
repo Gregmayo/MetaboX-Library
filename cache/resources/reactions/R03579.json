@@ -1,0 +1,1 @@
+{"ID":"R03579","name":"N-Feruloylglycine amidohydrolase","definition":"N-Feruloylglycine + H2O <=> Ferulate + Glycine","enzyme":"3.5.1.71","equation":"C02564 + C00001 <=> C01494 + C00037","reactants":{"compounds":["C02564","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01494","C00037"],"coefficients":[1,1]}}

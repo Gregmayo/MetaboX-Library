@@ -1,0 +1,1 @@
+{"ID":"R09378","name":"ATP:(R)-pantoate 4-phosphotransferase","definition":"ATP + (R)-Pantoate <=> ADP + (R)-4-Phosphopantoate","enzyme":"2.7.1.169","equation":"C00002 + C00522 <=> C00008 + C18911","reactants":{"compounds":["C00002","C00522"],"coefficients":[1,1]},"products":{"compounds":["C00008","C18911"],"coefficients":[1,1]}}

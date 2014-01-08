@@ -1,0 +1,1 @@
+{"ID":"R02512","name":"Trimethylamine-N-oxide formaldehyde-lyase","definition":"Trimethylamine N-oxide <=> Dimethylamine + Formaldehyde","enzyme":"4.1.2.32","equation":"C01104 <=> C00543 + C00067","reactants":{"compounds":["C01104"],"coefficients":[1]},"products":{"compounds":["C00543","C00067"],"coefficients":[1,1]}}

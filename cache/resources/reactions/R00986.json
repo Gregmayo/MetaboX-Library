@@ -1,0 +1,1 @@
+{"ID":"R00986","name":"Chorismate pyruvate-lyase (amino-accepting)","definition":"Chorismate + L-Glutamine <=> Anthranilate + Pyruvate + L-Glutamate","enzyme":"4.1.3.27","equation":"C00251 + C00064 <=> C00108 + C00022 + C00025","reactants":{"compounds":["C00251","C00064"],"coefficients":[1,1]},"products":{"compounds":["C00108","C00022","C00025"],"coefficients":[1,1,1]}}

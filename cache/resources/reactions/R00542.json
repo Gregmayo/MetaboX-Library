@@ -1,0 +1,1 @@
+{"ID":"R00542","name":"5'-Acylphosphoadenosine acylhydrolase","definition":"5'-Acylphosphoadenosine + H2O <=> AMP + Carboxylate","enzyme":"3.6.1.20","equation":"C03361 + C00001 <=> C00020 + C00060","reactants":{"compounds":["C03361","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00060"],"coefficients":[1,1]}}

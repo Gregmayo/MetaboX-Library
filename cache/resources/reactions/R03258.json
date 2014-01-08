@@ -1,0 +1,1 @@
+{"ID":"R03258","name":"ATP:nucleoside-5'-phosphate pyrophosphotransferase","definition":"ATP + Nucleoside 5'-phosphate <=> AMP + 5'-Phosphonucleoside 3'-diphosphate","enzyme":"2.7.6.4","equation":"C00002 + C01117 <=> C00020 + C04292","reactants":{"compounds":["C00002","C01117"],"coefficients":[1,1]},"products":{"compounds":["C00020","C04292"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00369","name":"L-Alanine:glyoxylate aminotransferase","definition":"L-Alanine + Glyoxylate <=> Pyruvate + Glycine","enzyme":"2.6.1.44","equation":"C00041 + C00048 <=> C00022 + C00037","reactants":{"compounds":["C00041","C00048"],"coefficients":[1,1]},"products":{"compounds":["C00022","C00037"],"coefficients":[1,1]}}

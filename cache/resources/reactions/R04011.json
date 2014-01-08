@@ -1,0 +1,1 @@
+{"ID":"R04011","name":"L-Glutamine:D-glutamyl-peptide 5-glutamyltransferase","definition":"L-Glutamine + D-Glutamyl-peptide <=> Ammonia + 5-L-Glutamyl-D-glutamyl-peptide","enzyme":"2.3.2.1","equation":"C00064 + C02671 <=> C00014 + C16690","reactants":{"compounds":["C00064","C02671"],"coefficients":[1,1]},"products":{"compounds":["C00014","C16690"],"coefficients":[1,1]}}

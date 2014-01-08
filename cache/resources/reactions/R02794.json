@@ -1,0 +1,1 @@
+{"ID":"R02794","name":"Cholate:CoA ligase (AMP-forming)","definition":"ATP + Cholic acid + CoA <=> AMP + Diphosphate + Choloyl-CoA","enzyme":"6.2.1.7","equation":"C00002 + C00695 + C00010 <=> C00020 + C00013 + C01794","reactants":{"compounds":["C00002","C00695","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C01794"],"coefficients":[1,1,1]}}

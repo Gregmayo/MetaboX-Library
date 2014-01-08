@@ -1,0 +1,1 @@
+{"ID":"R04834","name":"Cortol:NAD+ oxidoreductase","definition":"Cortol + NAD+ <=> Urocortisol + NADH + H+","enzyme":"1.1.1.53","equation":"C05482 + C00003 <=> C05472 + C00004 + C00080","reactants":{"compounds":["C05482","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05472","C00004","C00080"],"coefficients":[1,1,1]}}

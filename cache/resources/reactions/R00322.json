@@ -1,0 +1,1 @@
+{"ID":"R00322","name":"5'-acetylphosphoadenosine acetylhydrolase","definition":"Acetyl adenylate + H2O <=> AMP + Acetate","enzyme":"3.6.1.20","equation":"C05993 + C00001 <=> C00020 + C00033","reactants":{"compounds":["C05993","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00033"],"coefficients":[1,1]}}

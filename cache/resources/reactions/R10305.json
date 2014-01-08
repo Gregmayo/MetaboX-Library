@@ -1,0 +1,1 @@
+{"ID":"R10305","name":"O3-acetyl-L-serine:L-homocysteine S-(2-amino-2-carboxyethyl)transferase","definition":"O-Acetyl-L-serine + L-Homocysteine <=> L-Cystathionine + Acetate","enzyme":null,"equation":"C00979 + C00155 <=> C02291 + C00033","reactants":{"compounds":["C00979","C00155"],"coefficients":[1,1]},"products":{"compounds":["C02291","C00033"],"coefficients":[1,1]}}

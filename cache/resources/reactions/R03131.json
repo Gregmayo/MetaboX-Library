@@ -1,0 +1,1 @@
+{"ID":"R03131","name":"O3-acetyl-L-serine:uracil 1-(2-amino-2-carboxyethyl)transferase","definition":"O-Acetyl-L-serine + Uracil <=> 3-(Uracil-1-yl)-L-alanine + Acetate","enzyme":"2.5.1.53","equation":"C00979 + C00106 <=> C03584 + C00033","reactants":{"compounds":["C00979","C00106"],"coefficients":[1,1]},"products":{"compounds":["C03584","C00033"],"coefficients":[1,1]}}

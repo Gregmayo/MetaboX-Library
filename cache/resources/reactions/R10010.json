@@ -1,0 +1,1 @@
+{"ID":"R10010","name":"L-lysine carboxy-aminomethylmutase","definition":"L-Lysine <=> (2R,3R)-3-Methylornithine","enzyme":"5.4.99.58","equation":"C00047 <=> C20277","reactants":{"compounds":["C00047"],"coefficients":[1]},"products":{"compounds":["C20277"],"coefficients":[1]}}

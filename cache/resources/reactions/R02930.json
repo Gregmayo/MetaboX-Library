@@ -1,0 +1,1 @@
+{"ID":"R02930","name":"N5-Ethyl-L-glutamine amidohydrolase","definition":"N5-Ethyl-L-glutamine + H2O <=> L-Glutamate + Ethylamine","enzyme":"3.5.1.65","equation":"C01047 + C00001 <=> C00025 + C00797","reactants":{"compounds":["C01047","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00025","C00797"],"coefficients":[1,1]}}

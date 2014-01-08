@@ -1,0 +1,1 @@
+{"ID":"R02274","name":"5-Aminopentanoate:2-oxoglutarate aminotransferase","definition":"5-Aminopentanoate + 2-Oxoglutarate <=> 5-Oxopentanoate + L-Glutamate","enzyme":"2.6.1.48","equation":"C00431 + C00026 <=> C03273 + C00025","reactants":{"compounds":["C00431","C00026"],"coefficients":[1,1]},"products":{"compounds":["C03273","C00025"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R05266","name":"","definition":"p-Cymene + Oxygen + NADH + H+ <=> p-Cumic alcohol + NAD+ + H2O","enzyme":"1.18.1.3","equation":"C06575 + C00007 + C00004 + C00080 <=> C06576 + C00003 + C00001","reactants":{"compounds":["C06575","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C06576","C00003","C00001"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00842","name":"sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase","definition":"sn-Glycerol 3-phosphate + NAD+ <=> Glycerone phosphate + NADH + H+","enzyme":"1.1.1.94","equation":"C00093 + C00003 <=> C00111 + C00004 + C00080","reactants":{"compounds":["C00093","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00111","C00004","C00080"],"coefficients":[1,1,1]}}

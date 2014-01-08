@@ -1,0 +1,1 @@
+{"ID":"R00100","name":"NADH:ferricytochrome-b5 oxidoreductase","definition":"NADH + 2 Ferricytochrome b5 <=> NAD+ + 2 Ferrocytochrome b5 + H+","enzyme":"1.6.2.2","equation":"C00004 + 2 C00996 <=> C00003 + 2 C00999 + C00080","reactants":{"compounds":["C00004","C00996"],"coefficients":[1,2]},"products":{"compounds":["C00003","C00999","C00080"],"coefficients":[1,2,1]}}

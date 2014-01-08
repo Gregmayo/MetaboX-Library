@@ -1,0 +1,1 @@
+{"ID":"R01361","name":"(R)-3-Hydroxybutanoate:NAD+ oxidoreductase","definition":"(R)-3-Hydroxybutanoate + NAD+ <=> Acetoacetate + NADH + H+","enzyme":"1.1.1.30","equation":"C01089 + C00003 <=> C00164 + C00004 + C00080","reactants":{"compounds":["C01089","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00164","C00004","C00080"],"coefficients":[1,1,1]}}

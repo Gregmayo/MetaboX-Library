@@ -1,0 +1,1 @@
+{"ID":"R01019","name":"acetaldehyde:pyrroloquinoline-quinone oxidoreductase","definition":"PQQ + Acetaldehyde + H2O <=> PQQH2 + Acetate","enzyme":"1.2.99.3","equation":"C00113 + C00084 + C00001 <=> C01359 + C00033","reactants":{"compounds":["C00113","C00084","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C01359","C00033"],"coefficients":[1,1]}}

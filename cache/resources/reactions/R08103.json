@@ -1,0 +1,1 @@
+{"ID":"R08103","name":"","definition":"Fluorobenzene + NADH + Oxygen + H+ <=> 4-Fluorocyclohexadiene-cis,cis-1,2-diol + NAD+","enzyme":null,"equation":"C11272 + C00004 + C00007 + C00080 <=> C16483 + C00003","reactants":{"compounds":["C11272","C00004","C00007","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C16483","C00003"],"coefficients":[1,1]}}

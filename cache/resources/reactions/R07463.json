@@ -1,0 +1,1 @@
+{"ID":"R07463","name":"glycine:oxygen oxidoreductase","definition":"Glycine + Oxygen <=> Iminoglycine + Hydrogen peroxide","enzyme":"1.4.3.19","equation":"C00037 + C00007 <=> C15809 + C00027","reactants":{"compounds":["C00037","C00007"],"coefficients":[1,1]},"products":{"compounds":["C15809","C00027"],"coefficients":[1,1]}}

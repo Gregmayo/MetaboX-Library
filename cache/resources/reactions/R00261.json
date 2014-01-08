@@ -1,0 +1,1 @@
+{"ID":"R00261","name":"L-glutamate 1-carboxy-lyase (4-aminobutanoate-forming)","definition":"L-Glutamate <=> 4-Aminobutanoate + CO2","enzyme":"4.1.1.15","equation":"C00025 <=> C00334 + C00011","reactants":{"compounds":["C00025"],"coefficients":[1]},"products":{"compounds":["C00334","C00011"],"coefficients":[1,1]}}

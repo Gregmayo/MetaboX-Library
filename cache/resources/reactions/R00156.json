@@ -1,0 +1,1 @@
+{"ID":"R00156","name":"ATP:UDP phosphotransferase","definition":"ATP + UDP <=> ADP + UTP","enzyme":"2.7.4.6","equation":"C00002 + C00015 <=> C00008 + C00075","reactants":{"compounds":["C00002","C00015"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00075"],"coefficients":[1,1]}}

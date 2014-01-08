@@ -1,0 +1,1 @@
+{"ID":"R08096","name":"","definition":"(S)-(-)-Citronellal + NAD+ + H2O <=> Citronellate + NADH + H+","enzyme":null,"equation":"C11384 + C00003 + C00001 <=> C16462 + C00004 + C00080","reactants":{"compounds":["C11384","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C16462","C00004","C00080"],"coefficients":[1,1,1]}}

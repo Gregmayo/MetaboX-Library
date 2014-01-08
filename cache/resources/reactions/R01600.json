@@ -1,0 +1,1 @@
+{"ID":"R01600","name":"ATP:beta-D-glucose 6-phosphotransferase","definition":"ATP + beta-D-Glucose <=> ADP + beta-D-Glucose 6-phosphate","enzyme":"2.7.1.1","equation":"C00002 + C00221 <=> C00008 + C01172","reactants":{"compounds":["C00002","C00221"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01172"],"coefficients":[1,1]}}

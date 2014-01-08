@@ -1,0 +1,1 @@
+{"ID":"R09498","name":"dimethylsulfone reductase","definition":"Dimethyl sulfoxide + H2O + NAD+ <=> Dimethyl sulfone + NADH + H+","enzyme":"1.8.1.17","equation":"C11143 + C00001 + C00003 <=> C11142 + C00004 + C00080","reactants":{"compounds":["C11143","C00001","C00003"],"coefficients":[1,1,1]},"products":{"compounds":["C11142","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R01967","name":"ATP:deoxyguanosine 5'-phosphotransferase","definition":"ATP + Deoxyguanosine <=> ADP + dGMP","enzyme":"2.7.1.113","equation":"C00002 + C00330 <=> C00008 + C00362","reactants":{"compounds":["C00002","C00330"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00362"],"coefficients":[1,1]}}

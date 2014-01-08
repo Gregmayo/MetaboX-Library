@@ -1,0 +1,1 @@
+{"ID":"R01359","name":"Acetoacetyl-CoA:acetate CoA-transferase","definition":"Acetoacetyl-CoA + Acetate <=> Acetoacetate + Acetyl-CoA","enzyme":"2.8.3.8","equation":"C00332 + C00033 <=> C00164 + C00024","reactants":{"compounds":["C00332","C00033"],"coefficients":[1,1]},"products":{"compounds":["C00164","C00024"],"coefficients":[1,1]}}

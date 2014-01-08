@@ -1,0 +1,1 @@
+{"ID":"R01718","name":"Isomaltose 6-alpha-D-glucanohydrolase","definition":"Isomaltose + H2O <=> alpha-D-Glucose + D-Glucose","enzyme":"3.2.1.10","equation":"C00252 + C00001 <=> C00267 + C00031","reactants":{"compounds":["C00252","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00267","C00031"],"coefficients":[1,1]}}

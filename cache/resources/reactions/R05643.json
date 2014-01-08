@@ -1,0 +1,1 @@
+{"ID":"R05643","name":"2-formylbenzoate:NAD+ oxidoreductase","definition":"2-Carboxybenzaldehyde + NAD+ + H2O <=> Phthalate + NADH + H+","enzyme":"1.2.1.78","equation":"C03057 + C00003 + C00001 <=> C01606 + C00004 + C00080","reactants":{"compounds":["C03057","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C01606","C00004","C00080"],"coefficients":[1,1,1]}}

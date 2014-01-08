@@ -1,0 +1,1 @@
+{"ID":"R02780","name":"","definition":"alpha,alpha-Trehalose + Protein N(pi)-phospho-L-histidine <=> alpha,alpha'-Trehalose 6-phosphate + Protein histidine","enzyme":"2.7.1.69","equation":"C01083 + C04261 <=> C00689 + C00615","reactants":{"compounds":["C01083","C04261"],"coefficients":[1,1]},"products":{"compounds":["C00689","C00615"],"coefficients":[1,1]}}

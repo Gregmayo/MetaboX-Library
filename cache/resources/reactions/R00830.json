@@ -1,0 +1,1 @@
+{"ID":"R00830","name":"succinyl-CoA:glycine C-succinyltransferase (decarboxylating)","definition":"Succinyl-CoA + Glycine <=> 5-Aminolevulinate + CoA + CO2","enzyme":"2.3.1.37","equation":"C00091 + C00037 <=> C00430 + C00010 + C00011","reactants":{"compounds":["C00091","C00037"],"coefficients":[1,1]},"products":{"compounds":["C00430","C00010","C00011"],"coefficients":[1,1,1]}}

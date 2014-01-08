@@ -1,0 +1,1 @@
+{"ID":"R01514","name":"ATP:(R)-glycerate 3-phosphotransferase","definition":"ATP + D-Glycerate <=> ADP + 3-Phospho-D-glycerate","enzyme":"2.7.1.31","equation":"C00002 + C00258 <=> C00008 + C00197","reactants":{"compounds":["C00002","C00258"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00197"],"coefficients":[1,1]}}

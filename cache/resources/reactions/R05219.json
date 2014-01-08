@@ -1,0 +1,1 @@
+{"ID":"R05219","name":"","definition":"Precorrin 6X + Acetate + S-Adenosyl-L-homocysteine <=> Precorrin 5 + S-Adenosyl-L-methionine + H2O","enzyme":"2.1.1.152","equation":"C06320 + C00033 + C00021 <=> C06416 + C00019 + C00001","reactants":{"compounds":["C06320","C00033","C00021"],"coefficients":[1,1,1]},"products":{"compounds":["C06416","C00019","C00001"],"coefficients":[1,1,1]}}

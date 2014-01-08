@@ -1,0 +1,1 @@
+{"ID":"R00725","name":"ITP:D-glucose 6-phosphotransferase","definition":"ITP + D-Glucose <=> IDP + D-Glucose 6-phosphate","enzyme":"2.7.1.1","equation":"C00081 + C00031 <=> C00104 + C00092","reactants":{"compounds":["C00081","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00104","C00092"],"coefficients":[1,1]}}

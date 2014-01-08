@@ -1,0 +1,1 @@
+{"ID":"R02927","name":"ATP:D-tagatose 6-phosphotransferase","definition":"ATP + D-Tagatose <=> ADP + D-Tagatose 6-phosphate","enzyme":"2.7.1.101","equation":"C00002 + C00795 <=> C00008 + C01097","reactants":{"compounds":["C00002","C00795"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01097"],"coefficients":[1,1]}}

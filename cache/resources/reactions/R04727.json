@@ -1,0 +1,1 @@
+{"ID":"R04727","name":"N- Acetylarylalkylamine amidohydrolase","definition":"N-Acetylarylalkylamine + H2O <=> Arylalkylamine + Acetate","enzyme":"3.5.1.76","equation":"C02998 + C00001 <=> C01890 + C00033","reactants":{"compounds":["C02998","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01890","C00033"],"coefficients":[1,1]}}

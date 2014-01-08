@@ -1,0 +1,1 @@
+{"ID":"R01771","name":"ATP:L-homoserine O-phosphotransferase","definition":"ATP + L-Homoserine <=> ADP + O-Phospho-L-homoserine","enzyme":"2.7.1.39","equation":"C00002 + C00263 <=> C00008 + C01102","reactants":{"compounds":["C00002","C00263"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01102"],"coefficients":[1,1]}}

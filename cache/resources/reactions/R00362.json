@@ -1,0 +1,1 @@
+{"ID":"R00362","name":"citrate oxaloacetate-lyase (forming acetate from the pro-S carboxymethyl group of citrate)","definition":"Citrate <=> Acetate + Oxaloacetate","enzyme":"4.1.3.6","equation":"C00158 <=> C00033 + C00036","reactants":{"compounds":["C00158"],"coefficients":[1]},"products":{"compounds":["C00033","C00036"],"coefficients":[1,1]}}

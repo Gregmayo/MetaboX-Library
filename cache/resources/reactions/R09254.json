@@ -1,0 +1,1 @@
+{"ID":"R09254","name":"L-tyrosine:pyruvate aminotransferase","definition":"L-Tyrosine + Pyruvate <=> 3-(4-Hydroxyphenyl)pyruvate + L-Alanine","enzyme":"2.6.1.58","equation":"C00082 + C00022 <=> C01179 + C00041","reactants":{"compounds":["C00082","C00022"],"coefficients":[1,1]},"products":{"compounds":["C01179","C00041"],"coefficients":[1,1]}}

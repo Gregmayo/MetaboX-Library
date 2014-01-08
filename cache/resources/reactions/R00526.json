@@ -1,0 +1,1 @@
+{"ID":"R00526","name":"N-Formyl-L-aspartate amidohydrolase","definition":"N-Formyl-L-aspartate + H2O <=> Formate + L-Aspartate","enzyme":"3.5.1.8","equation":"C01044 + C00001 <=> C00058 + C00049","reactants":{"compounds":["C01044","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00049"],"coefficients":[1,1]}}

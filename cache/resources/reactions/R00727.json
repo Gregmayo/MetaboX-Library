@@ -1,0 +1,1 @@
+{"ID":"R00727","name":"Succinate:CoA ligase (IDP-forming)","definition":"ITP + Succinate + CoA <=> IDP + Orthophosphate + Succinyl-CoA","enzyme":"6.2.1.4","equation":"C00081 + C00042 + C00010 <=> C00104 + C00009 + C00091","reactants":{"compounds":["C00081","C00042","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00104","C00009","C00091"],"coefficients":[1,1,1]}}

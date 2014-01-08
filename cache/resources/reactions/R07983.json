@@ -1,0 +1,1 @@
+{"ID":"R07983","name":"","definition":"2,6-Dihydroxynicotinate + H2O + Oxygen <=> Maleamate + CO2 + Formate","enzyme":null,"equation":"C15523 + C00001 + C00007 <=> C01596 + C00011 + C00058","reactants":{"compounds":["C15523","C00001","C00007"],"coefficients":[1,1,1]},"products":{"compounds":["C01596","C00011","C00058"],"coefficients":[1,1,1]}}

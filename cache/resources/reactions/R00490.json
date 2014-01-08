@@ -1,0 +1,1 @@
+{"ID":"R00490","name":"L-Aspartate ammonia-lyase","definition":"L-Aspartate <=> Fumarate + Ammonia","enzyme":"3.5.1.38","equation":"C00049 <=> C00122 + C00014","reactants":{"compounds":["C00049"],"coefficients":[1]},"products":{"compounds":["C00122","C00014"],"coefficients":[1,1]}}

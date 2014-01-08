@@ -1,0 +1,1 @@
+{"ID":"R00128","name":"Adenosine-tetraphosphate phosphohydrolase","definition":"Adenosine tetraphosphate + H2O <=> ATP + Orthophosphate","enzyme":"3.6.1.14","equation":"C03483 + C00001 <=> C00002 + C00009","reactants":{"compounds":["C03483","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00002","C00009"],"coefficients":[1,1]}}

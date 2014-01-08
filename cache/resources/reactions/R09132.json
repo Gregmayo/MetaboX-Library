@@ -1,0 +1,1 @@
+{"ID":"R09132","name":"","definition":"cis-Chlorobenzene dihydrodiol + NAD+ <=> Tetrachlorocatechol + NADH + H+","enzyme":null,"equation":"C18238 + C00003 <=> C18240 + C00004 + C00080","reactants":{"compounds":["C18238","C00003"],"coefficients":[1,1]},"products":{"compounds":["C18240","C00004","C00080"],"coefficients":[1,1,1]}}

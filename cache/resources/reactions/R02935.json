@@ -1,0 +1,1 @@
+{"ID":"R02935","name":"(S)-ureidoglycolate:NAD+ oxidoreductase","definition":"(-)-Ureidoglycolate + NAD+ <=> Oxalureate + NADH + H+","enzyme":"1.1.1.154","equation":"C00603 + C00003 <=> C00802 + C00004 + C00080","reactants":{"compounds":["C00603","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00802","C00004","C00080"],"coefficients":[1,1,1]}}

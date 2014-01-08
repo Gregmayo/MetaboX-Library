@@ -1,0 +1,1 @@
+{"ID":"R08323","name":"","definition":"7-Mercaptoheptanoic acid + L-Threonine + ATP <=> 7-Mercaptoheptanoylthreonine + ADP + Orthophosphate","enzyme":null,"equation":"C16593 + C00188 + C00002 <=> C16594 + C00008 + C00009","reactants":{"compounds":["C16593","C00188","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C16594","C00008","C00009"],"coefficients":[1,1,1]}}

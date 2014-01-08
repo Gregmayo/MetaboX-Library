@@ -1,0 +1,1 @@
+{"ID":"R00679","name":"L-tryptophan:oxygen 2-oxidoreductase (decarboxylating)","definition":"L-Tryptophan + Oxygen <=> (Indol-3-yl)acetamide + CO2 + H2O","enzyme":"1.13.12.3","equation":"C00078 + C00007 <=> C02693 + C00011 + C00001","reactants":{"compounds":["C00078","C00007"],"coefficients":[1,1]},"products":{"compounds":["C02693","C00011","C00001"],"coefficients":[1,1,1]}}

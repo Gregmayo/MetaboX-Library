@@ -1,0 +1,1 @@
+{"ID":"R03733","name":"L-Threonate:NAD+ 3-oxidoreductase","definition":"Threonate + NAD+ <=> 3-Dehydro-L-threonate + NADH + H+","enzyme":"1.1.1.129","equation":"C01620 + C00003 <=> C03064 + C00004 + C00080","reactants":{"compounds":["C01620","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03064","C00004","C00080"],"coefficients":[1,1,1]}}

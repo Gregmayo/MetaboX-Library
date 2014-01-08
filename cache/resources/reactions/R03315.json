@@ -1,0 +1,1 @@
+{"ID":"R03315","name":"ATP:pseudouridine 5'-phosphotransferase","definition":"ATP + Pseudouridine <=> ADP + Pseudouridine 5'-phosphate","enzyme":"2.7.1.83","equation":"C00002 + C02067 <=> C00008 + C01168","reactants":{"compounds":["C00002","C02067"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01168"],"coefficients":[1,1]}}

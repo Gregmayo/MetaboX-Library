@@ -1,0 +1,1 @@
+{"ID":"R02164","name":"Succinate:ubiquinone oxidoreductase","definition":"Ubiquinone + Succinate <=> Ubiquinol + Fumarate","enzyme":"1.3.5.1","equation":"C00399 + C00042 <=> C00390 + C00122","reactants":{"compounds":["C00399","C00042"],"coefficients":[1,1]},"products":{"compounds":["C00390","C00122"],"coefficients":[1,1]}}

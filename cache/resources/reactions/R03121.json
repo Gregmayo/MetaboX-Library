@@ -1,0 +1,1 @@
+{"ID":"R03121","name":"Aromatic-amino-acid:glyoxylate aminotransferase","definition":"Aromatic amino acid + Glyoxylate <=> Aromatic oxo acid + Glycine","enzyme":"2.6.1.60","equation":"C01021 + C00048 <=> C00972 + C00037","reactants":{"compounds":["C01021","C00048"],"coefficients":[1,1]},"products":{"compounds":["C00972","C00037"],"coefficients":[1,1]}}

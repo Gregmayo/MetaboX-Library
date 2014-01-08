@@ -1,0 +1,1 @@
+{"ID":"R06977","name":"L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase","definition":"L-Glutamate + L-Aspartate 4-semialdehyde <=> 2-Oxoglutarate + L-2,4-Diaminobutanoate","enzyme":"2.6.1.76","equation":"C00025 + C00441 <=> C00026 + C03283","reactants":{"compounds":["C00025","C00441"],"coefficients":[1,1]},"products":{"compounds":["C00026","C03283"],"coefficients":[1,1]}}

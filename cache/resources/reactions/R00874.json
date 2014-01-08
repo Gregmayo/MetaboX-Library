@@ -1,0 +1,1 @@
+{"ID":"R00874","name":"D-Glucose:D-fructose oxidoreductase","definition":"D-Fructose + D-Glucose <=> D-Glucono-1,5-lactone + D-Sorbitol","enzyme":"1.1.99.28","equation":"C00095 + C00031 <=> C00198 + C00794","reactants":{"compounds":["C00095","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00198","C00794"],"coefficients":[1,1]}}

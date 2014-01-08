@@ -1,0 +1,1 @@
+{"ID":"R05426","name":"","definition":"(S)-1-Phenylethanol + Oxygen + NADH + H+ <=> Acetophenone + NAD+ + 2 H2O","enzyme":"1.14.12.12","equation":"C11348 + C00007 + C00004 + C00080 <=> C07113 + C00003 + 2 C00001","reactants":{"compounds":["C11348","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C07113","C00003","C00001"],"coefficients":[1,1,2]}}

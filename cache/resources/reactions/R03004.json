@@ -1,0 +1,1 @@
+{"ID":"R03004","name":"Deamino-NAD+ nucleotidohydrolase","definition":"Deamino-NAD+ + H2O <=> AMP + Nicotinate D-ribonucleotide","enzyme":"3.6.1.9","equation":"C00857 + C00001 <=> C00020 + C01185","reactants":{"compounds":["C00857","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C01185"],"coefficients":[1,1]}}

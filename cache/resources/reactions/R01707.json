@@ -1,0 +1,1 @@
+{"ID":"R01707","name":"Pyridoxal:NAD+ 4-oxidoreductase","definition":"Pyridoxal + NAD+ <=> 4-Pyridoxolactone + NADH + H+","enzyme":"1.1.1.107","equation":"C00250 + C00003 <=> C00971 + C00004 + C00080","reactants":{"compounds":["C00250","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00971","C00004","C00080"],"coefficients":[1,1,1]}}

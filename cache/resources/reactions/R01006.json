@@ -1,0 +1,1 @@
+{"ID":"R01006","name":"Dolichyl-beta-D-glucosyl-phosphate dolichylphosphohydrolase","definition":"Dolichyl beta-D-glucosyl phosphate + H2O <=> Dolichyl phosphate + D-Glucose","enzyme":"3.1.4.48","equation":"C01246 + C00001 <=> C00110 + C00031","reactants":{"compounds":["C01246","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00110","C00031"],"coefficients":[1,1]}}

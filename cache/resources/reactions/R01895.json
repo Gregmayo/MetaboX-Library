@@ -1,0 +1,1 @@
+{"ID":"R01895","name":"Ribitol:NAD+ 2-oxidoreductase","definition":"Ribitol + NAD+ <=> D-Ribulose + NADH + H+","enzyme":"1.1.1.56","equation":"C00474 + C00003 <=> C00309 + C00004 + C00080","reactants":{"compounds":["C00474","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00309","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R03820","name":"Strictosidine beta-D-glucohydrolase","definition":"3-alpha(S)-Strictosidine + H2O <=> Strictosidine aglycone + D-Glucose","enzyme":"3.2.1.105","equation":"C03470 + C00001 <=> C03309 + C00031","reactants":{"compounds":["C03470","C00001"],"coefficients":[1,1]},"products":{"compounds":["C03309","C00031"],"coefficients":[1,1]}}

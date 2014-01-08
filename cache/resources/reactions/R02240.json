@@ -1,0 +1,1 @@
+{"ID":"R02240","name":"ATP:1,2-diacylglycerol 3-phosphotransferase","definition":"ATP + 1,2-Diacyl-sn-glycerol <=> ADP + Phosphatidate","enzyme":"2.7.1.107","equation":"C00002 + C00641 <=> C00008 + C00416","reactants":{"compounds":["C00002","C00641"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00416"],"coefficients":[1,1]}}

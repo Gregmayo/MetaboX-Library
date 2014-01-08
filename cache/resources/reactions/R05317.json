@@ -1,0 +1,1 @@
+{"ID":"R05317","name":"L-Tryptophan:oxygen alpha,beta-oxidoreductase","definition":"L-Tryptophan + Oxygen <=> alpha,beta-Didehydrotryptophan + Hydrogen peroxide","enzyme":"1.3.3.10","equation":"C00078 + C00007 <=> C06732 + C00027","reactants":{"compounds":["C00078","C00007"],"coefficients":[1,1]},"products":{"compounds":["C06732","C00027"],"coefficients":[1,1]}}

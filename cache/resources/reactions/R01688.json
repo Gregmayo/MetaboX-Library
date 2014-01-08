@@ -1,0 +1,1 @@
+{"ID":"R01688","name":"ATP:butanoate 1-phosphotransferase","definition":"ATP + Butanoic acid <=> ADP + Butanoylphosphate","enzyme":"2.7.2.7","equation":"C00002 + C00246 <=> C00008 + C02527","reactants":{"compounds":["C00002","C00246"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02527"],"coefficients":[1,1]}}

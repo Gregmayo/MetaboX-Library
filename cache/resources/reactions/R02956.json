@@ -1,0 +1,1 @@
+{"ID":"R02956","name":"Succinyl-CoA:citramalate CoA-transferase","definition":"Succinyl-CoA + Citramalate <=> Succinate + Citramalyl-CoA","enzyme":"2.8.3.7","equation":"C00091 + C00815 <=> C00042 + C00904","reactants":{"compounds":["C00091","C00815"],"coefficients":[1,1]},"products":{"compounds":["C00042","C00904"],"coefficients":[1,1]}}

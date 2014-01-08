@@ -1,0 +1,1 @@
+{"ID":"R00552","name":"L-Arginine iminohydrolase","definition":"L-Arginine + H2O <=> L-Citrulline + Ammonia","enzyme":"3.5.3.6","equation":"C00062 + C00001 <=> C00327 + C00014","reactants":{"compounds":["C00062","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00327","C00014"],"coefficients":[1,1]}}

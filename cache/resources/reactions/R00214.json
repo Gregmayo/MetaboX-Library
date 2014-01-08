@@ -1,0 +1,1 @@
+{"ID":"R00214","name":"(S)-malate:NAD+ oxidoreductase (decarboxylating)","definition":"(S)-Malate + NAD+ <=> Pyruvate + CO2 + NADH + H+","enzyme":"1.1.1.38","equation":"C00149 + C00003 <=> C00022 + C00011 + C00004 + C00080","reactants":{"compounds":["C00149","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00022","C00011","C00004","C00080"],"coefficients":[1,1,1,1]}}

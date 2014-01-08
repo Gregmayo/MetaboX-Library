@@ -1,0 +1,1 @@
+{"ID":"R00134","name":"formate:NADP+ oxidoreductase","definition":"Formate + NADP+ <=> CO2 + NADPH + H+","enzyme":"1.2.1.43","equation":"C00058 + C00006 <=> C00011 + C00005 + C00080","reactants":{"compounds":["C00058","C00006"],"coefficients":[1,1]},"products":{"compounds":["C00011","C00005","C00080"],"coefficients":[1,1,1]}}

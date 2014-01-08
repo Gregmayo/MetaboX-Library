@@ -1,0 +1,1 @@
+{"ID":"R09069","name":"7(1)-hydroxychlorophyll-a:NAD+ oxidoreductase","definition":"7(1)-Hydroxychlorophyll a + NAD+ <=> Chlorophyll b + NADH + H+","enzyme":"1.1.1.294","equation":"C18151 + C00003 <=> C05307 + C00004 + C00080","reactants":{"compounds":["C18151","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05307","C00004","C00080"],"coefficients":[1,1,1]}}

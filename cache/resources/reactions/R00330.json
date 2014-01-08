@@ -1,0 +1,1 @@
+{"ID":"R00330","name":"ATP:GDP phosphotransferase","definition":"ATP + GDP <=> ADP + GTP","enzyme":"2.7.4.6","equation":"C00002 + C00035 <=> C00008 + C00044","reactants":{"compounds":["C00002","C00035"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00044"],"coefficients":[1,1]}}

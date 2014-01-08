@@ -1,0 +1,1 @@
+{"ID":"R01465","name":"L-threonine:NAD+ oxidoreductase","definition":"L-Threonine + NAD+ <=> L-2-Amino-3-oxobutanoic acid + NADH + H+","enzyme":"1.1.1.103","equation":"C00188 + C00003 <=> C03508 + C00004 + C00080","reactants":{"compounds":["C00188","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03508","C00004","C00080"],"coefficients":[1,1,1]}}

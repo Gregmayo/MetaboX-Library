@@ -1,0 +1,1 @@
+{"ID":"R00897","name":"O3-acetyl-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase","definition":"O-Acetyl-L-serine + Hydrogen sulfide <=> L-Cysteine + Acetate","enzyme":"2.5.1.47","equation":"C00979 + C00283 <=> C00097 + C00033","reactants":{"compounds":["C00979","C00283"],"coefficients":[1,1]},"products":{"compounds":["C00097","C00033"],"coefficients":[1,1]}}

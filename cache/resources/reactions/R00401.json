@@ -1,0 +1,1 @@
+{"ID":"R00401","name":"alanine racemase","definition":"L-Alanine <=> D-Alanine","enzyme":"5.1.1.1","equation":"C00041 <=> C00133","reactants":{"compounds":["C00041"],"coefficients":[1]},"products":{"compounds":["C00133"],"coefficients":[1]}}

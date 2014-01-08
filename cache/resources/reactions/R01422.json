@@ -1,0 +1,1 @@
+{"ID":"R01422","name":"benzoate:CoA ligase (AMP-forming)","definition":"ATP + Benzoate + CoA <=> AMP + Diphosphate + S-Benzoate coenzyme A","enzyme":"6.2.1.25","equation":"C00002 + C00180 + C00010 <=> C00020 + C00013 + C00512","reactants":{"compounds":["C00002","C00180","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00512"],"coefficients":[1,1,1]}}

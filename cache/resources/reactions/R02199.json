@@ -1,0 +1,1 @@
+{"ID":"R02199","name":"L-Isoleucine:2-oxoglutarate aminotransferase","definition":"L-Isoleucine + 2-Oxoglutarate <=> (S)-3-Methyl-2-oxopentanoic acid + L-Glutamate","enzyme":"2.6.1.42","equation":"C00407 + C00026 <=> C00671 + C00025","reactants":{"compounds":["C00407","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00671","C00025"],"coefficients":[1,1]}}

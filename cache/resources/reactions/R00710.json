@@ -1,0 +1,1 @@
+{"ID":"R00710","name":"Acetaldehyde:NAD+ oxidoreductase","definition":"Acetaldehyde + NAD+ + H2O <=> Acetate + NADH + H+","enzyme":"1.2.1.5","equation":"C00084 + C00003 + C00001 <=> C00033 + C00004 + C00080","reactants":{"compounds":["C00084","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00033","C00004","C00080"],"coefficients":[1,1,1]}}

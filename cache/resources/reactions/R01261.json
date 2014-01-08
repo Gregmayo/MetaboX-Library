@@ -1,0 +1,1 @@
+{"ID":"R01261","name":"L-Alanine:2-oxo-acid aminotransferase","definition":"L-Alanine + 2-Oxo acid <=> Pyruvate + L-Amino acid","enzyme":"2.6.1.12","equation":"C00041 + C00161 <=> C00022 + C00151","reactants":{"compounds":["C00041","C00161"],"coefficients":[1,1]},"products":{"compounds":["C00022","C00151"],"coefficients":[1,1]}}

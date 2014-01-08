@@ -1,0 +1,1 @@
+{"ID":"R04911","name":"Aryl-formylamine amidohydrolase","definition":"5-Hydroxy-N-formylkynurenine + H2O <=> 5-Hydroxykynurenine + Formate","enzyme":"3.5.1.9","equation":"C05648 + C00001 <=> C05651 + C00058","reactants":{"compounds":["C05648","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05651","C00058"],"coefficients":[1,1]}}

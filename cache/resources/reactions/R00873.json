@@ -1,0 +1,1 @@
+{"ID":"R00873","name":"D-fructose:acceptor 5-oxidoreductase","definition":"D-Fructose + Acceptor <=> 5-Dehydro-D-fructose + Reduced acceptor","enzyme":"1.1.99.11","equation":"C00095 + C00028 <=> C00273 + C00030","reactants":{"compounds":["C00095","C00028"],"coefficients":[1,1]},"products":{"compounds":["C00273","C00030"],"coefficients":[1,1]}}

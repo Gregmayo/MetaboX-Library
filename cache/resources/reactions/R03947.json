@@ -1,0 +1,1 @@
+{"ID":"R03947","name":"S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase","definition":"Precorrin 2 + NAD+ <=> Sirohydrochlorin + NADH + H+","enzyme":"1.3.1.76","equation":"C02463 + C00003 <=> C05778 + C00004 + C00080","reactants":{"compounds":["C02463","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05778","C00004","C00080"],"coefficients":[1,1,1]}}

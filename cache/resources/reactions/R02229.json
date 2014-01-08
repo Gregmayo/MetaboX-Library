@@ -1,0 +1,1 @@
+{"ID":"R02229","name":"cyclohexanol:NAD+ oxidoreductase","definition":"Cyclohexanone + NADH + H+ <=> Cyclohexanol + NAD+","enzyme":"1.1.1.90","equation":"C00414 + C00004 + C00080 <=> C00854 + C00003","reactants":{"compounds":["C00414","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C00854","C00003"],"coefficients":[1,1]}}

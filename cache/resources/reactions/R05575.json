@@ -1,0 +1,1 @@
+{"ID":"R05575","name":"(3S)-3-Hydroxyacyl-CoA:NAD+ oxidoreductase","definition":"(Hydroxymethylphenyl)succinyl-CoA + NAD+ <=> Benzoylsuccinyl-CoA + NADH + H+","enzyme":"1.1.1.35","equation":"C09819 + C00003 <=> C09820 + C00004 + C00080","reactants":{"compounds":["C09819","C00003"],"coefficients":[1,1]},"products":{"compounds":["C09820","C00004","C00080"],"coefficients":[1,1,1]}}

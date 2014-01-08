@@ -1,0 +1,1 @@
+{"ID":"R04174","name":"6-Acetamido-2-oxohexanoate amidohydrolase","definition":"6-Acetamido-2-oxohexanoate + H2O <=> Acetate + 6-Amino-2-oxohexanoate","enzyme":"3.5.1.17","equation":"C05548 + C00001 <=> C00033 + C03239","reactants":{"compounds":["C05548","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C03239"],"coefficients":[1,1]}}

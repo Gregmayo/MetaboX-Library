@@ -1,0 +1,1 @@
+{"ID":"R02508","name":"","definition":"Cystathionine + Succinate <=> O-Succinyl-L-homoserine + L-Cysteine","enzyme":"2.5.1.48","equation":"C00542 + C00042 <=> C01118 + C00097","reactants":{"compounds":["C00542","C00042"],"coefficients":[1,1]},"products":{"compounds":["C01118","C00097"],"coefficients":[1,1]}}

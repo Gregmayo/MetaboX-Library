@@ -1,0 +1,1 @@
+{"ID":"R00870","name":"D-Mannitol:NADP+ 2-oxidoreductase","definition":"Mannitol + NADP+ <=> D-Fructose + NADPH + H+","enzyme":"1.1.1.138","equation":"C00392 + C00006 <=> C00095 + C00005 + C00080","reactants":{"compounds":["C00392","C00006"],"coefficients":[1,1]},"products":{"compounds":["C00095","C00005","C00080"],"coefficients":[1,1,1]}}

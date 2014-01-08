@@ -1,0 +1,1 @@
+{"ID":"R01257","name":"(S)-Malate:(acceptor) oxidoreductase","definition":"(S)-Malate + FAD <=> FADH2 + Oxaloacetate","enzyme":"1.1.5.4","equation":"C00149 + C00016 <=> C01352 + C00036","reactants":{"compounds":["C00149","C00016"],"coefficients":[1,1]},"products":{"compounds":["C01352","C00036"],"coefficients":[1,1]}}

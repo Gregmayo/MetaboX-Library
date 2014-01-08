@@ -1,0 +1,1 @@
+{"ID":"R01608","name":"3-hydroxypropanoate:NAD+ oxidoreductase","definition":"3-Hydroxypropanoate + NAD+ <=> 3-Oxopropanoate + NADH + H+","enzyme":"1.1.1.59","equation":"C01013 + C00003 <=> C00222 + C00004 + C00080","reactants":{"compounds":["C01013","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00222","C00004","C00080"],"coefficients":[1,1,1]}}

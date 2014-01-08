@@ -1,0 +1,1 @@
+{"ID":"R09494","name":"formate:quinone oxidoreductase","definition":"Formate + Quinone <=> CO2 + Hydroquinone","enzyme":"1.1.5.6","equation":"C00058 + C15602 <=> C00011 + C15603","reactants":{"compounds":["C00058","C15602"],"coefficients":[1,1]},"products":{"compounds":["C00011","C15603"],"coefficients":[1,1]}}

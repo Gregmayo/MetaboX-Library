@@ -1,0 +1,1 @@
+{"ID":"R00551","name":"L-Arginine amidinohydrolase","definition":"L-Arginine + H2O <=> L-Ornithine + Urea","enzyme":"3.5.3.1","equation":"C00062 + C00001 <=> C00077 + C00086","reactants":{"compounds":["C00062","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00077","C00086"],"coefficients":[1,1]}}

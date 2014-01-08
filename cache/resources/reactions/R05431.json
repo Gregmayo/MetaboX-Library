@@ -1,0 +1,1 @@
+{"ID":"R05431","name":"","definition":"2 Indanone + Oxygen + 2 NADH + 2 H+ <=> 2 3-Hydroxy-1-indanone + 2 NAD+","enzyme":null,"equation":"2 C01504 + C00007 + 2 C00004 + 2 C00080 <=> 2 C07720 + 2 C00003","reactants":{"compounds":["C01504","C00007","C00004","C00080"],"coefficients":[2,1,2,2]},"products":{"compounds":["C07720","C00003"],"coefficients":[2,2]}}

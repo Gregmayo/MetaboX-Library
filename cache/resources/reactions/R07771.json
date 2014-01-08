@@ -1,0 +1,1 @@
+{"ID":"R07771","name":"","definition":"Lipoyl-AMP + Apoprotein <=> Protein N6-(lipoyl)lysine + AMP","enzyme":"2.7.7.63","equation":"C16238 + C16240 <=> C16237 + C00020","reactants":{"compounds":["C16238","C16240"],"coefficients":[1,1]},"products":{"compounds":["C16237","C00020"],"coefficients":[1,1]}}

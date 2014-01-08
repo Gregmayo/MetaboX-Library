@@ -1,0 +1,1 @@
+{"ID":"R06919","name":"","definition":"1-Naphthoic acid + Oxygen + NADH + H+ <=> cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene + NAD+","enzyme":null,"equation":"C14091 + C00007 + C00004 + C00080 <=> C14092 + C00003","reactants":{"compounds":["C14091","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C14092","C00003"],"coefficients":[1,1]}}

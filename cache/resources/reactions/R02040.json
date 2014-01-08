@@ -1,0 +1,1 @@
+{"ID":"R02040","name":"N-Long-chain-fatty-acyl-L-glutamate amidohydrolase","definition":"N-Long-chain-fatty-acyl-L-glutamate + H2O <=> Long-chain carboxylate + L-Glutamate","enzyme":"3.5.1.55","equation":"C04305 + C00001 <=> C00347 + C00025","reactants":{"compounds":["C04305","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00347","C00025"],"coefficients":[1,1]}}

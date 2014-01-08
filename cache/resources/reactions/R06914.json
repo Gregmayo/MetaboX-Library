@@ -1,0 +1,1 @@
+{"ID":"R06914","name":"","definition":"3-Methylsalicylaldehyde + NAD+ + H2O <=> 3-Methylsalicylate + NADH + H+","enzyme":null,"equation":"C14087 + C00003 + C00001 <=> C14088 + C00004 + C00080","reactants":{"compounds":["C14087","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C14088","C00004","C00080"],"coefficients":[1,1,1]}}

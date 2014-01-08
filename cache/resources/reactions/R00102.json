@@ -1,0 +1,1 @@
+{"ID":"R00102","name":"NAD+ glycohydrolase","definition":"NAD+ + H2O <=> Nicotinamide + ADP-ribose","enzyme":"3.2.2.5","equation":"C00003 + C00001 <=> C00153 + C00301","reactants":{"compounds":["C00003","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00153","C00301"],"coefficients":[1,1]}}

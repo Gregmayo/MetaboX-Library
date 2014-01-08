@@ -1,0 +1,1 @@
+{"ID":"R01476","name":"ATP:D-glucuronate 1-phosphotransferase","definition":"ATP + D-Glucuronate <=> ADP + D-Glucuronate 1-phosphate","enzyme":"2.7.1.43","equation":"C00002 + C00191 <=> C00008 + C05385","reactants":{"compounds":["C00002","C00191"],"coefficients":[1,1]},"products":{"compounds":["C00008","C05385"],"coefficients":[1,1]}}

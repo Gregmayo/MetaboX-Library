@@ -1,0 +1,1 @@
+{"ID":"R06135","name":"sucrose:sucrose 1F-beta-D-fructosyltransferase","definition":"2 Neohancoside D <=> G02515 + D-Glucose","enzyme":"2.4.1.99","equation":"","reactants":{"compounds":[""],"coefficients":[1]},"products":{"compounds":[""],"coefficients":[1]}}

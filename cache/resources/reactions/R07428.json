@@ -1,0 +1,1 @@
+{"ID":"R07428","name":"3-beta-hydroxysteroid dehydrogenase","definition":"Campest-4-en-3beta-ol + NAD+ <=> Campest-4-en-3-one + NADH + H+","enzyme":null,"equation":"C15784 + C00003 <=> C15785 + C00004 + C00080","reactants":{"compounds":["C15784","C00003"],"coefficients":[1,1]},"products":{"compounds":["C15785","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R05444","name":"","definition":"Ethylene + Oxygen + NADH + H+ <=> Ethylene oxide + NAD+ + H2O","enzyme":"1.14.13.69","equation":"C06547 + C00007 + C00004 + C00080 <=> C06548 + C00003 + C00001","reactants":{"compounds":["C06547","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C06548","C00003","C00001"],"coefficients":[1,1,1]}}

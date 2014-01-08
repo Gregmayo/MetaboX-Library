@@ -1,0 +1,1 @@
+{"ID":"R00429","name":"ATP:GTP 3'-diphosphotransferase","definition":"ATP + GTP <=> AMP + Guanosine 3'-diphosphate 5'-triphosphate","enzyme":"2.7.6.5","equation":"C00002 + C00044 <=> C00020 + C04494","reactants":{"compounds":["C00002","C00044"],"coefficients":[1,1]},"products":{"compounds":["C00020","C04494"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R02099","name":"ATP:deoxyuridine 5'-phosphotransferase","definition":"ATP + Deoxyuridine <=> ADP + dUMP","enzyme":"2.7.1.21","equation":"C00002 + C00526 <=> C00008 + C00365","reactants":{"compounds":["C00002","C00526"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00365"],"coefficients":[1,1]}}

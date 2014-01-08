@@ -1,0 +1,1 @@
+{"ID":"R10249","name":"chavicol:NADP+ oxidoreductase","definition":"Coumaryl acetate + NADPH + H+ <=> Chavicol + NADP+ + Acetate","enzyme":"1.1.1.318","equation":"C20465 + C00005 + C00080 <=> C16930 + C00006 + C00033","reactants":{"compounds":["C20465","C00005","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C16930","C00006","C00033"],"coefficients":[1,1,1]}}

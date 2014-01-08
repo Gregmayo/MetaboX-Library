@@ -1,0 +1,1 @@
+{"ID":"R00127","name":"ATP:AMP phosphotransferase","definition":"ATP + AMP <=> 2 ADP","enzyme":"2.7.4.3","equation":"C00002 + C00020 <=> 2 C00008","reactants":{"compounds":["C00002","C00020"],"coefficients":[1,1]},"products":{"compounds":["C00008"],"coefficients":[2]}}

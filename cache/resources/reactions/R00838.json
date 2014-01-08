@@ -1,0 +1,1 @@
+{"ID":"R00838","name":"Maltose-6'-phosphate 6-phosphoglucohydrolase","definition":"H2O + Maltose 6'-phosphate <=> D-Glucose + D-Glucose 6-phosphate","enzyme":"3.2.1.122","equation":"C00001 + C02995 <=> C00031 + C00092","reactants":{"compounds":["C00001","C02995"],"coefficients":[1,1]},"products":{"compounds":["C00031","C00092"],"coefficients":[1,1]}}

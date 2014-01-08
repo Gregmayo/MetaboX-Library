@@ -1,0 +1,1 @@
+{"ID":"R03620","name":"N-Methylhexanamide amidohydrolase","definition":"N-Methylhexanamide + H2O <=> Hexanoic acid + Methylamine","enzyme":"3.5.1.39","equation":"C02722 + C00001 <=> C01585 + C00218","reactants":{"compounds":["C02722","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01585","C00218"],"coefficients":[1,1]}}

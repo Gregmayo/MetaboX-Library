@@ -1,0 +1,1 @@
+{"ID":"R06357","name":"Abietadienal:NAD+ oxidoreductase","definition":"Abietal + H2O + NAD+ <=> Abietate + NADH + 2 H+","enzyme":"1.2.1.74","equation":"C11887 + C00001 + C00003 <=> C06087 + C00004 + 2 C00080","reactants":{"compounds":["C11887","C00001","C00003"],"coefficients":[1,1,1]},"products":{"compounds":["C06087","C00004","C00080"],"coefficients":[1,1,2]}}

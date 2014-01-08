@@ -1,0 +1,1 @@
+{"ID":"R02946","name":"(R,R)-Butane-2,3-diol:NAD+ oxidoreductase","definition":"(R,R)-Butane-2,3-diol + NAD+ <=> (R)-Acetoin + NADH + H+","enzyme":"1.1.1.4","equation":"C03044 + C00003 <=> C00810 + C00004 + C00080","reactants":{"compounds":["C03044","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00810","C00004","C00080"],"coefficients":[1,1,1]}}

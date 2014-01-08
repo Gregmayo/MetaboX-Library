@@ -1,0 +1,1 @@
+{"ID":"R02221","name":"Sinapate:CoA ligase (AMP-forming)","definition":"ATP + Sinapate + CoA <=> AMP + Diphosphate + Sinapoyl-CoA","enzyme":"6.2.1.12","equation":"C00002 + C00482 + C00010 <=> C00020 + C00013 + C00411","reactants":{"compounds":["C00002","C00482","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00411"],"coefficients":[1,1,1]}}

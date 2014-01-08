@@ -1,0 +1,1 @@
+{"ID":"R00105","name":"ATP:NADH 2'-phosphotransferase","definition":"ATP + NADH <=> ADP + NADPH","enzyme":"2.7.1.86","equation":"C00002 + C00004 <=> C00008 + C00005","reactants":{"compounds":["C00002","C00004"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00005"],"coefficients":[1,1]}}

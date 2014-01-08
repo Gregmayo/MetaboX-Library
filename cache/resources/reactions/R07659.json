@@ -1,0 +1,1 @@
+{"ID":"R07659","name":"","definition":"UDP-L-Ara4O + L-Glutamate <=> UDP-L-Ara4N + 2-Oxoglutarate","enzyme":"2.6.1.87","equation":"C16155 + C00025 <=> C16153 + C00026","reactants":{"compounds":["C16155","C00025"],"coefficients":[1,1]},"products":{"compounds":["C16153","C00026"],"coefficients":[1,1]}}

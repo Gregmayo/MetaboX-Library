@@ -1,0 +1,1 @@
+{"ID":"R00559","name":"L-Arginine:oxygen 2-oxidoreductase (decarboxylating)","definition":"L-Arginine + Oxygen <=> 4-Guanidinobutanamide + CO2 + H2O","enzyme":"1.13.12.1","equation":"C00062 + C00007 <=> C03078 + C00011 + C00001","reactants":{"compounds":["C00062","C00007"],"coefficients":[1,1]},"products":{"compounds":["C03078","C00011","C00001"],"coefficients":[1,1,1]}}

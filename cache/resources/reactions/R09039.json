@@ -1,0 +1,1 @@
+{"ID":"R09039","name":"4-(beta-D-glucosyloxy)benzoate glucohydrolase","definition":"4-(beta-D-Glucosyloxy)benzoate + H2O <=> 4-Hydroxybenzoate + D-Glucose","enzyme":null,"equation":"C03993 + C00001 <=> C00156 + C00031","reactants":{"compounds":["C03993","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00156","C00031"],"coefficients":[1,1]}}

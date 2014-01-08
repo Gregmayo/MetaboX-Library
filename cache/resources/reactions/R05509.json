@@ -1,0 +1,1 @@
+{"ID":"R05509","name":"","definition":"Acetyl-CoA + Acrylic acid <=> Acetate + Propenoyl-CoA","enzyme":"2.8.3.12","equation":"C00024 + C00511 <=> C00033 + C00894","reactants":{"compounds":["C00024","C00511"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00894"],"coefficients":[1,1]}}

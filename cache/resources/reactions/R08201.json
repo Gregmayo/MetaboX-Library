@@ -1,0 +1,1 @@
+{"ID":"R08201","name":"","definition":"ATP + 2-Oxoglutarate + HCO3- <=> ADP + Orthophosphate + Oxalosuccinate","enzyme":"6.4.1.7","equation":"C00002 + C00026 + C00288 <=> C00008 + C00009 + C05379","reactants":{"compounds":["C00002","C00026","C00288"],"coefficients":[1,1,1]},"products":{"compounds":["C00008","C00009","C05379"],"coefficients":[1,1,1]}}

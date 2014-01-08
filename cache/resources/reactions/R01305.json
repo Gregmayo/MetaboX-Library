@@ -1,0 +1,1 @@
+{"ID":"R01305","name":"2,4'-dihydroxyacetophenone oxidoreductase (C-C-bond-cleaving)","definition":"4-Hydroxyphenacyl alcohol + Oxygen <=> 4-Hydroxybenzoate + Formate","enzyme":"1.13.11.41","equation":"C13635 + C00007 <=> C00156 + C00058","reactants":{"compounds":["C13635","C00007"],"coefficients":[1,1]},"products":{"compounds":["C00156","C00058"],"coefficients":[1,1]}}

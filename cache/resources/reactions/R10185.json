@@ -1,0 +1,1 @@
+{"ID":"R10185","name":"ATP:methylphosphonate 5-triphosphoribosyltransferase","definition":"ATP + Methylphosphonate <=> alpha-D-Ribose 1-methylphosphonate 5-triphosphate + Adenine","enzyme":"2.7.8.37","equation":"C00002 + C20396 <=> C20422 + C00147","reactants":{"compounds":["C00002","C20396"],"coefficients":[1,1]},"products":{"compounds":["C20422","C00147"],"coefficients":[1,1]}}

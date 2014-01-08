@@ -1,0 +1,1 @@
+{"ID":"R06926","name":"","definition":"2-Methylnaphthalene + Oxygen + NADH + H+ <=> (2-Naphthyl)methanol + NAD+ + H2O","enzyme":null,"equation":"C14098 + C00007 + C00004 + C00080 <=> C02909 + C00003 + C00001","reactants":{"compounds":["C14098","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C02909","C00003","C00001"],"coefficients":[1,1,1]}}

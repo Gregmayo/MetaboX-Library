@@ -1,0 +1,1 @@
+{"ID":"R00395","name":"Acyl-CoA:glycine N-acyltransferase","definition":"Acyl-CoA + Glycine <=> CoA + N-Acylglycine","enzyme":"2.3.1.13","equation":"C00040 + C00037 <=> C00010 + C02055","reactants":{"compounds":["C00040","C00037"],"coefficients":[1,1]},"products":{"compounds":["C00010","C02055"],"coefficients":[1,1]}}

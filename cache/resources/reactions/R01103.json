@@ -1,0 +1,1 @@
+{"ID":"R01103","name":"Raffinose galactohydrolase","definition":"Raffinose + H2O <=> D-Galactose + Sucrose","enzyme":"3.2.1.22","equation":"C00492 + C00001 <=> C00124 + C00089","reactants":{"compounds":["C00492","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00124","C00089"],"coefficients":[1,1]}}

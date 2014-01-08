@@ -1,0 +1,1 @@
+{"ID":"R01419","name":"Benzaldehyde:NAD+ oxidoreductase","definition":"Benzaldehyde + NAD+ + H2O <=> Benzoate + NADH + H+","enzyme":"1.2.1.28","equation":"C00261 + C00003 + C00001 <=> C00180 + C00004 + C00080","reactants":{"compounds":["C00261","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00180","C00004","C00080"],"coefficients":[1,1,1]}}

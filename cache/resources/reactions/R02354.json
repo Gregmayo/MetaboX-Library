@@ -1,0 +1,1 @@
+{"ID":"R02354","name":"","definition":"Estrone + H+ + Oxygen + NADH <=> 2-Hydroxyestrone + NAD+ + H2O","enzyme":"1.14.14.1","equation":"C00468 + C00080 + C00007 + C00004 <=> C05298 + C00003 + C00001","reactants":{"compounds":["C00468","C00080","C00007","C00004"],"coefficients":[1,1,1,1]},"products":{"compounds":["C05298","C00003","C00001"],"coefficients":[1,1,1]}}

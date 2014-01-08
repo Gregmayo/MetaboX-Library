@@ -1,0 +1,1 @@
+{"ID":"R09945","name":"ATP:alpha-maltose 1-phosphotransferase","definition":"ATP + Maltose <=> ADP + alpha-Maltose 1-phosphate","enzyme":"2.7.1.175","equation":"C00002 + C00208 <=> C00008 + C20237","reactants":{"compounds":["C00002","C00208"],"coefficients":[1,1]},"products":{"compounds":["C00008","C20237"],"coefficients":[1,1]}}

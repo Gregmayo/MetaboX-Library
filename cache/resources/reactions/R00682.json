@@ -1,0 +1,1 @@
+{"ID":"R00682","name":"L-Tryptophanamide amidohydrolase","definition":"L-Tryptophanamide + H2O <=> L-Tryptophan + Ammonia","enzyme":"3.5.1.57","equation":"C00977 + C00001 <=> C00078 + C00014","reactants":{"compounds":["C00977","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00078","C00014"],"coefficients":[1,1]}}

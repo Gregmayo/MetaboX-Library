@@ -1,0 +1,1 @@
+{"ID":"R06927","name":"(2-naphthyl)methanol:NAD+ oxidoreductase","definition":"(2-Naphthyl)methanol + NAD+ <=> 2-Naphthaldehyde + NADH + H+","enzyme":"1.1.1.1","equation":"C02909 + C00003 <=> C14099 + C00004 + C00080","reactants":{"compounds":["C02909","C00003"],"coefficients":[1,1]},"products":{"compounds":["C14099","C00004","C00080"],"coefficients":[1,1,1]}}

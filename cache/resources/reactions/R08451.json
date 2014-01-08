@@ -1,0 +1,1 @@
+{"ID":"R08451","name":"","definition":"N-Formyldemecolcine + H2O <=> Demecolcine + Formate","enzyme":null,"equation":"C16710 + C00001 <=> C11250 + C00058","reactants":{"compounds":["C16710","C00001"],"coefficients":[1,1]},"products":{"compounds":["C11250","C00058"],"coefficients":[1,1]}}

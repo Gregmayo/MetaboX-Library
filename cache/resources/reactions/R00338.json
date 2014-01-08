@@ -1,0 +1,1 @@
+{"ID":"R00338","name":"Oxaloacetate acetylhydrolase","definition":"Oxaloacetate + H2O <=> Oxalate + Acetate","enzyme":"3.7.1.1","equation":"C00036 + C00001 <=> C00209 + C00033","reactants":{"compounds":["C00036","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00209","C00033"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R04487","name":"Taurodeoxycholate amidohydrolase","definition":"Taurodeoxycholate + H2O <=> Deoxycholic acid + Taurine","enzyme":"3.5.1.24","equation":"C05463 + C00001 <=> C04483 + C00245","reactants":{"compounds":["C05463","C00001"],"coefficients":[1,1]},"products":{"compounds":["C04483","C00245"],"coefficients":[1,1]}}

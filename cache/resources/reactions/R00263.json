@@ -1,0 +1,1 @@
+{"ID":"R00263","name":"","definition":"L-Glutamate <=> Poly-gamma-D-glutamate","enzyme":null,"equation":"C00025 <=> C05723","reactants":{"compounds":["C00025"],"coefficients":[1]},"products":{"compounds":["C05723"],"coefficients":[1]}}

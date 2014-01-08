@@ -1,0 +1,1 @@
+{"ID":"R09219","name":"","definition":"Pyrene-4,5-dione + NADH + H+ <=> 4,5-Dihydroxypyrene + NAD+","enzyme":null,"equation":"C18251 + C00004 + C00080 <=> C18250 + C00003","reactants":{"compounds":["C18251","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C18250","C00003"],"coefficients":[1,1]}}

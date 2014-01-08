@@ -1,0 +1,1 @@
+{"ID":"R00806","name":"UDP-glucose:D-fructose 2-alpha-D-glucosyltransferase","definition":"UDP-glucose + D-Fructose <=> UDP + Sucrose","enzyme":"2.4.1.13","equation":"C00029 + C00095 <=> C00015 + C00089","reactants":{"compounds":["C00029","C00095"],"coefficients":[1,1]},"products":{"compounds":["C00015","C00089"],"coefficients":[1,1]}}

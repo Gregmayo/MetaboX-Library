@@ -1,0 +1,1 @@
+{"ID":"R00951","name":"ADP-glucose Glucose-1-phosphohydrolase","definition":"ADP-glucose + H2O <=> AMP + D-Glucose 1-phosphate","enzyme":"3.6.1.21","equation":"C00498 + C00001 <=> C00020 + C00103","reactants":{"compounds":["C00498","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00103"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R06980","name":"sulfoacetaldehyde:NAD+ oxidoreductase","definition":"Sulfoacetaldehyde + NAD+ + H2O <=> Sulfoacetate + NADH + H+","enzyme":"1.2.1.73","equation":"C00593 + C00003 + C00001 <=> C14179 + C00004 + C00080","reactants":{"compounds":["C00593","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C14179","C00004","C00080"],"coefficients":[1,1,1]}}

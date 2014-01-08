@@ -1,0 +1,1 @@
+{"ID":"R02565","name":"p-cumic alcohol:NAD+ oxidoreductase","definition":"Betaine aldehyde + NAD+ + H2O <=> Betaine + NADH + 2 H+","enzyme":"1.2.1.8","equation":"C00576 + C00003 + C00001 <=> C00719 + C00004 + 2 C00080","reactants":{"compounds":["C00576","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00719","C00004","C00080"],"coefficients":[1,1,2]}}

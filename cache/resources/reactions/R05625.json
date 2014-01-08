@@ -1,0 +1,1 @@
+{"ID":"R05625","name":"Phenylphosphate synthase","definition":"Phenol + ATP + H2O <=> Phenolic phosphate + AMP + Orthophosphate","enzyme":null,"equation":"C00146 + C00002 + C00001 <=> C02734 + C00020 + C00009","reactants":{"compounds":["C00146","C00002","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C02734","C00020","C00009"],"coefficients":[1,1,1]}}

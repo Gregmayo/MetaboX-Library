@@ -1,0 +1,1 @@
+{"ID":"R05799","name":"ATP:1D-myo-inositol-hexakisphosphate phosphotransferase","definition":"ATP + Phytic acid <=> ADP + 1-Diphosinositol pentakisphosphate","enzyme":"2.7.4.21","equation":"C00002 + C01204 <=> C00008 + C11174","reactants":{"compounds":["C00002","C01204"],"coefficients":[1,1]},"products":{"compounds":["C00008","C11174"],"coefficients":[1,1]}}

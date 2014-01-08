@@ -1,0 +1,1 @@
+{"ID":"R05598","name":"Benzylsuccinate fumarate-lyase","definition":"Toluene + Fumarate <=> Benzylsuccinate","enzyme":"4.1.99.11","equation":"C01455 + C00122 <=> C09816","reactants":{"compounds":["C01455","C00122"],"coefficients":[1,1]},"products":{"compounds":["C09816"],"coefficients":[1]}}

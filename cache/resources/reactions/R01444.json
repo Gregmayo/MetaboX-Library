@@ -1,0 +1,1 @@
+{"ID":"R01444","name":"cellotriose glucohydrolase","definition":"Cellotriose + H2O <=> Cellobiose + D-Glucose","enzyme":"3.2.1.74","equation":"C06219 + C00001 <=> C00185 + C00031","reactants":{"compounds":["C06219","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00185","C00031"],"coefficients":[1,1]}}

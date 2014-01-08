@@ -1,0 +1,1 @@
+{"ID":"R00236","name":"acetyl adenylate:CoA acetyltransferase","definition":"Acetyl adenylate + CoA <=> AMP + Acetyl-CoA","enzyme":"6.2.1.1","equation":"C05993 + C00010 <=> C00020 + C00024","reactants":{"compounds":["C05993","C00010"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00024"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R00480","name":"ATP:L-aspartate 4-phosphotransferase","definition":"ATP + L-Aspartate <=> ADP + 4-Phospho-L-aspartate","enzyme":"2.7.2.4","equation":"C00002 + C00049 <=> C00008 + C03082","reactants":{"compounds":["C00002","C00049"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03082"],"coefficients":[1,1]}}

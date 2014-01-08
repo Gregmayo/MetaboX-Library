@@ -1,0 +1,1 @@
+{"ID":"R10285","name":"choline trimethylamine-lyase (acetaldehyde-forming)","definition":"Choline <=> Trimethylamine + Acetaldehyde + H+","enzyme":"4.3.99.4","equation":"C00114 <=> C00565 + C00084 + C00080","reactants":{"compounds":["C00114"],"coefficients":[1]},"products":{"compounds":["C00565","C00084","C00080"],"coefficients":[1,1,1]}}

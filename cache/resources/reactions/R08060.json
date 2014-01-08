@@ -1,0 +1,1 @@
+{"ID":"R08060","name":"","definition":"Formylmethanofuran + H2O <=> Formate + Methanofuran","enzyme":"1.2.99.5","equation":"C01001 + C00001 <=> C00058 + C00862","reactants":{"compounds":["C01001","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00862"],"coefficients":[1,1]}}

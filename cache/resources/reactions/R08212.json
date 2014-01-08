@@ -1,0 +1,1 @@
+{"ID":"R08212","name":"choline oxidase","definition":"Choline + 2 Oxygen + H2O <=> Betaine + 2 Hydrogen peroxide","enzyme":"1.1.3.17","equation":"C00114 + 2 C00007 + C00001 <=> C00719 + 2 C00027","reactants":{"compounds":["C00114","C00007","C00001"],"coefficients":[1,2,1]},"products":{"compounds":["C00719","C00027"],"coefficients":[1,2]}}

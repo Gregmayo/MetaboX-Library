@@ -1,0 +1,1 @@
+{"ID":"R06586","name":"UDP-3-ketoglucose:L-glutamate aminotransferase","definition":"UDP-3-ketoglucose + L-Glutamate <=> UDP-kanosamine + 2-Oxoglutarate","enzyme":"4.2.1.144","equation":"C12210 + C00025 <=> C12211 + C00026","reactants":{"compounds":["C12210","C00025"],"coefficients":[1,1]},"products":{"compounds":["C12211","C00026"],"coefficients":[1,1]}}

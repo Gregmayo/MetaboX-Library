@@ -1,0 +1,1 @@
+{"ID":"R03272","name":"ATP:[acetyl-CoA carboxylase] phosphotransferase","definition":"ATP + [Acetyl-CoA carboxylase] <=> ADP + [Acetyl-CoA carboxylase] phosphate","enzyme":"2.7.11.27","equation":"C00002 + C01139 <=> C00008 + C01247","reactants":{"compounds":["C00002","C01139"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01247"],"coefficients":[1,1]}}

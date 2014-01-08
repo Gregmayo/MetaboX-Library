@@ -1,0 +1,1 @@
+{"ID":"R00367","name":"S-Adenosyl-L-methionine:glycine N-methyltransferase","definition":"S-Adenosyl-L-methionine + Glycine <=> S-Adenosyl-L-homocysteine + Sarcosine","enzyme":"2.1.1.156","equation":"C00019 + C00037 <=> C00021 + C00213","reactants":{"compounds":["C00019","C00037"],"coefficients":[1,1]},"products":{"compounds":["C00021","C00213"],"coefficients":[1,1]}}

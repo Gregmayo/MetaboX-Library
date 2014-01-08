@@ -1,0 +1,1 @@
+{"ID":"R00262","name":"L-threo-3-Methylaspartate carboxy-aminomethylmutase","definition":"L-threo-3-Methylaspartate <=> L-Glutamate","enzyme":"5.4.99.1","equation":"C03618 <=> C00025","reactants":{"compounds":["C03618"],"coefficients":[1]},"products":{"compounds":["C00025"],"coefficients":[1]}}

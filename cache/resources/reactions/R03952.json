@@ -1,0 +1,1 @@
+{"ID":"R03952","name":"L-3,5,3'-Triiodothyronine:2-oxoglutarate aminotransferase","definition":"Triiodothyronine + 2-Oxoglutarate <=> 3,5,3'-Triiodothyropyruvate + L-Glutamate","enzyme":"2.6.1.26","equation":"C02465 + C00026 <=> C03832 + C00025","reactants":{"compounds":["C02465","C00026"],"coefficients":[1,1]},"products":{"compounds":["C03832","C00025"],"coefficients":[1,1]}}

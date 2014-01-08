@@ -1,0 +1,1 @@
+{"ID":"R02245","name":"ATP:(R)-mevalonate 5-phosphotransferase","definition":"ATP + (R)-Mevalonate <=> ADP + (R)-5-Phosphomevalonate","enzyme":"2.7.1.36","equation":"C00002 + C00418 <=> C00008 + C01107","reactants":{"compounds":["C00002","C00418"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01107"],"coefficients":[1,1]}}

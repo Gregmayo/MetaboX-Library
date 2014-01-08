@@ -1,0 +1,1 @@
+{"ID":"R03977","name":"chenodeoxycholoyltaurine amidohydrolase","definition":"Taurochenodeoxycholate + H2O <=> Chenodeoxycholate + Taurine","enzyme":"3.5.1.24","equation":"C05465 + C00001 <=> C02528 + C00245","reactants":{"compounds":["C05465","C00001"],"coefficients":[1,1]},"products":{"compounds":["C02528","C00245"],"coefficients":[1,1]}}

@@ -1,0 +1,1 @@
+{"ID":"R09084","name":"ADP:D-fructose-6-phosphate 1-phosphotransferase","definition":"beta-D-Fructose 6-phosphate + ADP <=> beta-D-Fructose 1,6-bisphosphate + AMP","enzyme":"2.7.1.146","equation":"C05345 + C00008 <=> C05378 + C00020","reactants":{"compounds":["C05345","C00008"],"coefficients":[1,1]},"products":{"compounds":["C05378","C00020"],"coefficients":[1,1]}}

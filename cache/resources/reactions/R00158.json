@@ -1,0 +1,1 @@
+{"ID":"R00158","name":"ATP:UMP phosphotransferase","definition":"ATP + UMP <=> ADP + UDP","enzyme":"2.7.4.4","equation":"C00002 + C00105 <=> C00008 + C00015","reactants":{"compounds":["C00002","C00105"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00015"],"coefficients":[1,1]}}

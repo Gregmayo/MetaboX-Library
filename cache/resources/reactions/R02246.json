@@ -1,0 +1,1 @@
+{"ID":"R02246","name":"(R)-Mevalonate:NAD+ oxidoreductase","definition":"(R)-Mevalonate + NAD+ <=> Mevaldate + NADH + H+","enzyme":"1.1.1.32","equation":"C00418 + C00003 <=> C00772 + C00004 + C00080","reactants":{"compounds":["C00418","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00772","C00004","C00080"],"coefficients":[1,1,1]}}

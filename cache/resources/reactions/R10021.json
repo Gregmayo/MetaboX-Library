@@ -1,0 +1,1 @@
+{"ID":"R10021","name":"5-exo-hydroxycamphor:NAD+ oxidoreductase","definition":"(+)-exo-5-Hydroxycamphor + NAD+ <=> (+)-Bornane-2,5-dione + NADH + H+","enzyme":"1.1.1.327","equation":"C03448 + C00003 <=> C03037 + C00004 + C00080","reactants":{"compounds":["C03448","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03037","C00004","C00080"],"coefficients":[1,1,1]}}
