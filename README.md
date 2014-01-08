@@ -33,7 +33,7 @@ INSTALLING AND RUNNING
 ##############################################################################
 
 Contacts:
-Francesco Maiorano <frmaiorano@gmail.com>       High Performance Computing and Networking Institute, National Research Council of Italy
-Luca Ambrosino     <luca.bioinfo@gmail.com>     Dept. of Agricultural Sciences, University of Naples Federico II, Italy
-Mario Guarracino   <mario.guarracino@gmail.com> High Performance Computing and Networking Institute, National Research Council of Italy
++ Francesco Maiorano <frmaiorano@gmail.com>       High Performance Computing and Networking Institute, National Research Council of Italy
++ Luca Ambrosino     <luca.bioinfo@gmail.com>     Dept. of Agricultural Sciences, University of Naples Federico II, Italy
++ Mario Guarracino   <mario.guarracino@gmail.com> High Performance Computing and Networking Institute, National Research Council of Italy
 
