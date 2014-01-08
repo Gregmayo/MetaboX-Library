@@ -21,8 +21,8 @@ INSTALLING AND RUNNING
   on your system. You can find some examples in 'examples' folder.
 
 - The examples can be run as follows:
-  > php path/to/examples/build_reactants_graph.php path/to/compounds.csv
-  > php path/to/examples/resources_loader.php path/to/compounds.csv
+  + php path/to/examples/build_reactants_graph.php path/to/compounds.csv
+  + php path/to/examples/resources_loader.php path/to/compounds.csv
 
 - 'compounds.csv' file must be a csv (comma separated value) file with a list
   of KEGG IDs compounds.
