@@ -1,1 +1,1 @@
-{"ID":"2.7.1.65","name":"scyllo-inosamine 4-kinase","class":"Transferases","sysname":"ATP:1-amino-1-deoxy-scyllo-inositol 4-phosphotransferase","reference":"1  [PMID:4376579]","reaction":"R03384"}
+{"ID":"2.7.1.65","name":"scyllo-inosamine 4-kinase","class":"Transferases","sysname":"ATP:1-amino-1-deoxy-scyllo-inositol 4-phosphotransferase","reference":"1  [PMID:4376579]","reaction":["R03384"]}

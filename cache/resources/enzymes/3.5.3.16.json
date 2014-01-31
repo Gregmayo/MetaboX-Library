@@ -1,1 +1,1 @@
-{"ID":"3.5.3.16","name":"methylguanidinase","class":"Hydrolases","sysname":"methylguanidine amidinohydrolase","reference":"1  [PMID:7353662]","reaction":"R01589"}
+{"ID":"3.5.3.16","name":"methylguanidinase","class":"Hydrolases","sysname":"methylguanidine amidinohydrolase","reference":"1  [PMID:7353662]","reaction":["R01589"]}

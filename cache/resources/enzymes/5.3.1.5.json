@@ -1,1 +1,1 @@
-{"ID":"5.3.1.5","name":"xylose isomerase","class":"Isomerases","sysname":"D-xylose aldose-ketose-isomerase","reference":"1  [PMID:13125579]","reaction":"R01432"}
+{"ID":"5.3.1.5","name":"xylose isomerase","class":"Isomerases","sysname":"D-xylose aldose-ketose-isomerase","reference":"1  [PMID:13125579]","reaction":{"0":"R01432","2":"R00307","3":"R00878","4":"R20291"}}

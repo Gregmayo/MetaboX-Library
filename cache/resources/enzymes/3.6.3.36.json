@@ -1,1 +1,1 @@
-{"ID":"3.6.3.36","name":"taurine-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (taurine-importing)","reference":"1  [PMID:8808933]","reaction":"R00086"}
+{"ID":"3.6.3.36","name":"taurine-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (taurine-importing)","reference":"1  [PMID:8808933]","reaction":["R00086"]}

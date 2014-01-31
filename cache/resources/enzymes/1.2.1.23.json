@@ -1,1 +1,1 @@
-{"ID":"1.2.1.23","name":"2-oxoaldehyde dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"2-oxoaldehyde:NAD+ 2-oxidoreductase","reference":"1  [PMID:4383524]","reaction":"R01337"}
+{"ID":"1.2.1.23","name":"2-oxoaldehyde dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"2-oxoaldehyde:NAD+ 2-oxidoreductase","reference":"1  [PMID:4383524]","reaction":{"0":"R01337","2":"R00203","3":"R01735"}}

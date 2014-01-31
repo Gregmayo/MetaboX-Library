@@ -1,1 +1,1 @@
-{"ID":"3.2.1.2","name":"beta-amylase","class":"Hydrolases","sysname":"4-alpha-D-glucan maltohydrolase","reference":"1","reaction":""}
+{"ID":"3.2.1.2","name":"beta-amylase","class":"Hydrolases","sysname":"4-alpha-D-glucan maltohydrolase","reference":"1","reaction":["R02112","R06159"]}

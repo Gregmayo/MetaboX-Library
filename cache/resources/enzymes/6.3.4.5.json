@@ -1,1 +1,1 @@
-{"ID":"6.3.4.5","name":"argininosuccinate synthase","class":"Ligases","sysname":"L-citrulline:L-aspartate ligase (AMP-forming)","reference":"1  [PMID:13158183]","reaction":"R01954"}
+{"ID":"6.3.4.5","name":"argininosuccinate synthase","class":"Ligases","sysname":"L-citrulline:L-aspartate ligase (AMP-forming)","reference":"1  [PMID:13158183]","reaction":{"0":"R01954","2":"R20291"}}

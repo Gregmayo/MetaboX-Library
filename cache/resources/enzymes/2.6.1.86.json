@@ -1,1 +1,1 @@
-{"ID":"2.6.1.86","name":"2-amino-4-deoxychorismate synthase","class":"Transferases","sysname":"(2S)-2-amino-4-deoxychorismate:2-oxoglutarate aminotransferase","reference":"1  [PMID:18182490]","reaction":"R08956"}
+{"ID":"2.6.1.86","name":"2-amino-4-deoxychorismate synthase","class":"Transferases","sysname":"(2S)-2-amino-4-deoxychorismate:2-oxoglutarate aminotransferase","reference":"1  [PMID:18182490]","reaction":["R08956"]}

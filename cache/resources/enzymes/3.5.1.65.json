@@ -1,1 +1,1 @@
-{"ID":"3.5.1.65","name":"theanine hydrolase","class":"Hydrolases","sysname":"N5-ethyl-L-glutamine amidohydrolase","reference":"1","reaction":"R02930"}
+{"ID":"3.5.1.65","name":"theanine hydrolase","class":"Hydrolases","sysname":"N5-ethyl-L-glutamine amidohydrolase","reference":"1","reaction":["R02930"]}

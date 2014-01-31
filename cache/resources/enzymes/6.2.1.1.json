@@ -1,1 +1,1 @@
-{"ID":"6.2.1.1","name":"acetate---CoA ligase","class":"Ligases","sysname":"acetate:CoA ligase (AMP-forming)","reference":"1  [PMID:12980945]","reaction":"R00235"}
+{"ID":"6.2.1.1","name":"acetate---CoA ligase","class":"Ligases","sysname":"acetate:CoA ligase (AMP-forming)","reference":"1  [PMID:12980945]","reaction":{"0":"R00235","2":"R00236","3":"R00316","4":"R00925","5":"R00926","6":"R01354"}}

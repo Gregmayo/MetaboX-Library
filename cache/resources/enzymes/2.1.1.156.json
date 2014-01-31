@@ -1,1 +1,1 @@
-{"ID":"2.1.1.156","name":"glycine\/sarcosine N-methyltransferase","class":"Transferases","sysname":"S-adenosyl-L-methionine:glycine(or sarcosine) N-methyltransferase [sarcosine(or N,N-dimethylglycine)-forming]","reference":"1  [PMID:10896953]","reaction":"R10060"}
+{"ID":"2.1.1.156","name":"glycine\/sarcosine N-methyltransferase","class":"Transferases","sysname":"S-adenosyl-L-methionine:glycine(or sarcosine) N-methyltransferase [sarcosine(or N,N-dimethylglycine)-forming]","reference":"1  [PMID:10896953]","reaction":["R10060","R00367","R07243"]}

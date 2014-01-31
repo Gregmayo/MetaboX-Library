@@ -1,1 +1,1 @@
-{"ID":"2.3.1.6","name":"choline O-acetyltransferase","class":"Transferases","sysname":"acetyl-CoA:choline O-acetyltransferase","reference":"1  [PMID:13115440]","reaction":"R01023"}
+{"ID":"2.3.1.6","name":"choline O-acetyltransferase","class":"Transferases","sysname":"acetyl-CoA:choline O-acetyltransferase","reference":"1  [PMID:13115440]","reaction":["R01023"]}

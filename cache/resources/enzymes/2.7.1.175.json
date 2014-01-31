@@ -1,1 +1,1 @@
-{"ID":"2.7.1.175","name":"maltokinase","class":"Transferases","sysname":"ATP:alpha-maltose 1-phosphotransferase","reference":"1  [PMID:20507595]","reaction":"R09945"}
+{"ID":"2.7.1.175","name":"maltokinase","class":"Transferases","sysname":"ATP:alpha-maltose 1-phosphotransferase","reference":"1  [PMID:20507595]","reaction":["R09945"]}

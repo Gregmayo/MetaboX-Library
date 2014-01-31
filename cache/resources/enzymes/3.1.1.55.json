@@ -1,1 +1,1 @@
-{"ID":"3.1.1.55","name":"acetylsalicylate deacetylase","class":"Hydrolases","sysname":"acetylsalicylate O-acetylhydrolase","reference":"1  [PMID:6875867]","reaction":"R02942"}
+{"ID":"3.1.1.55","name":"acetylsalicylate deacetylase","class":"Hydrolases","sysname":"acetylsalicylate O-acetylhydrolase","reference":"1  [PMID:6875867]","reaction":["R02942"]}

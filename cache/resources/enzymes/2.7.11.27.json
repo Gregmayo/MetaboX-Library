@@ -1,1 +1,1 @@
-{"ID":"2.7.11.27","name":"[acetyl-CoA carboxylase] kinase","class":"Transferases","sysname":"ATP:[acetyl-CoA carboxylase] phosphotransferase","reference":"1  [PMID:2879833]","reaction":"R03272"}
+{"ID":"2.7.11.27","name":"[acetyl-CoA carboxylase] kinase","class":"Transferases","sysname":"ATP:[acetyl-CoA carboxylase] phosphotransferase","reference":"1  [PMID:2879833]","reaction":["R03272"]}

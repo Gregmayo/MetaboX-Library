@@ -1,1 +1,1 @@
-{"ID":"6.3.4.16","name":"carbamoyl-phosphate synthase (ammonia)","class":"Ligases","sysname":"carbon-dioxide:ammonia ligase (ADP-forming, carbamate-phosphorylating)","reference":"1  [PMID:14213379]","reaction":"R00149"}
+{"ID":"6.3.4.16","name":"carbamoyl-phosphate synthase (ammonia)","class":"Ligases","sysname":"carbon-dioxide:ammonia ligase (ADP-forming, carbamate-phosphorylating)","reference":"1  [PMID:14213379]","reaction":["R00149"]}

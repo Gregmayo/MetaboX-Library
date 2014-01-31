@@ -1,1 +1,1 @@
-{"ID":"1.1.1.140","name":"sorbitol-6-phosphate 2-dehydrogenase","class":"Oxidoreductases","sysname":"D-sorbitol-6-phosphate:NAD+ 2-oxidoreductase","reference":"1  [PMID:4318899]","reaction":"R07133"}
+{"ID":"1.1.1.140","name":"sorbitol-6-phosphate 2-dehydrogenase","class":"Oxidoreductases","sysname":"D-sorbitol-6-phosphate:NAD+ 2-oxidoreductase","reference":"1  [PMID:4318899]","reaction":{"0":"R07133","2":"R05607","3":"R20291"}}

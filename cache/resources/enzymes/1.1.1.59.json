@@ -1,1 +1,1 @@
-{"ID":"1.1.1.59","name":"3-hydroxypropionate dehydrogenase","class":"Oxidoreductases","sysname":"3-hydroxypropanoate:NAD+ oxidoreductase","reference":"1  [PMID:13672942]","reaction":"R01608"}
+{"ID":"1.1.1.59","name":"3-hydroxypropionate dehydrogenase","class":"Oxidoreductases","sysname":"3-hydroxypropanoate:NAD+ oxidoreductase","reference":"1  [PMID:13672942]","reaction":["R01608"]}

@@ -1,1 +1,1 @@
-{"ID":"3.7.1.6","name":"acetylpyruvate hydrolase","class":"Hydrolases","sysname":"2,4-dioxopentanoate acetylhydrolase","reference":"1  [PMID:236305]","reaction":"R00324"}
+{"ID":"3.7.1.6","name":"acetylpyruvate hydrolase","class":"Hydrolases","sysname":"2,4-dioxopentanoate acetylhydrolase","reference":"1  [PMID:236305]","reaction":["R00324"]}

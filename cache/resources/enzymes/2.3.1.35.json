@@ -1,1 +1,1 @@
-{"ID":"2.3.1.35","name":"glutamate N-acetyltransferase","class":"Transferases","sysname":"N2-acetyl-L-ornithine:L-glutamate N-acetyltransferase","reference":"1  [PMID:5972370]","reaction":"R02282"}
+{"ID":"2.3.1.35","name":"glutamate N-acetyltransferase","class":"Transferases","sysname":"N2-acetyl-L-ornithine:L-glutamate N-acetyltransferase","reference":"1  [PMID:5972370]","reaction":{"0":"R02282","2":"R20291"}}

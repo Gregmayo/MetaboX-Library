@@ -1,1 +1,1 @@
-{"ID":"2.6.1.58","name":"phenylalanine(histidine) transaminase","class":"Transferases","sysname":"L-phenylalanine:pyruvate aminotransferase","reference":"1  [PMID:14070]","reaction":"R00692"}
+{"ID":"2.6.1.58","name":"phenylalanine(histidine) transaminase","class":"Transferases","sysname":"L-phenylalanine:pyruvate aminotransferase","reference":"1  [PMID:14070]","reaction":{"0":"R00692","2":"R09254"}}

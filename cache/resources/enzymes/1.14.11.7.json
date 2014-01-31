@@ -1,1 +1,1 @@
-{"ID":"1.14.11.7","name":"procollagen-proline 3-dioxygenase","class":"Oxidoreductases","sysname":"procollagen-L-proline,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:191255]","reaction":"R03218"}
+{"ID":"1.14.11.7","name":"procollagen-proline 3-dioxygenase","class":"Oxidoreductases","sysname":"procollagen-L-proline,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:191255]","reaction":["R03218"]}

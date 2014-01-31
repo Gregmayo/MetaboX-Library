@@ -1,1 +1,1 @@
-{"ID":"1.1.1.112","name":"indanol dehydrogenase","class":"Oxidoreductases","sysname":"indan-1-ol:NAD(P)+ 1-oxidoreductase","reference":"1  [PMID:4397102]","reaction":"R03582"}
+{"ID":"1.1.1.112","name":"indanol dehydrogenase","class":"Oxidoreductases","sysname":"indan-1-ol:NAD(P)+ 1-oxidoreductase","reference":"1  [PMID:4397102]","reaction":["R03582","R03583"]}

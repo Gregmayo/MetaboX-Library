@@ -36,7 +36,10 @@ class Enzyme extends AbstractResourceLoader{
 	}
 	
 	protected function _extractReaction(){
-		preg_match('/RN:R[0-9]{5}/', $this->_plain, $matches);
-		return str_replace('RN:', '', $matches[0]);
+		//preg_match('/RN:R[0-9]{5}/', $this->_plain, $matches);
+		//return str_replace('RN:', '', $matches[0]);
+		
+		preg_match_all('/R[0-9]{5}/', $this->_plain, $matches);
+		return array_unique($matches[0]);
 	}
 }

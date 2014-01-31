@@ -19,6 +19,14 @@ class EnzymesBipartiteGraph extends AbstractGraphBuilder{
 		$this->_rn_list  = $rn_list;
 	}
 	
+	/**
+	 * For each input compound A
+	 * for each reaction X of compound A
+	 * if compound A is a reactant or a product of X
+	 * connect A to the enzyme E that catalyzes X
+	 *
+	 */
+	
 	public function build( $compounds = false ){
 		$_all_edgelist = array();
 		$_sub_edgelist = array();
@@ -27,14 +35,15 @@ class EnzymesBipartiteGraph extends AbstractGraphBuilder{
 		$_input_cpd_size = !$compounds ? 0 : count($compounds);
 		
 		foreach( $this->_cpd_list as $cpd ){
-			$enzymes = $cpd->enzymeIdCollection;
+			$rns = $cpd->reactionIdCollection;
 			
-			foreach( $enzymes as $enzyme ){
-				$rn = $this->_rn_list[$this->_ec_list[$enzyme]->reaction]->reactants->compounds;
-				
-				if( is_array($rn) ){
-				
-					if( in_array($cpd->ID, $rn) ){
+			if( $rns ){
+				foreach( $rns as $rn ){
+					$reactants = $this->_rn_list[$rn]->reactants->compounds;
+					$products  = $this->_rn_list[$rn]->products->compounds;
+					$enzyme    = $this->_rn_list[$rn]->enzyme;
+					
+					if( in_array($cpd->ID, $reactants) || in_array($cpd->ID, $products) ){
 						// Connect cpd and enzyme
 						$this->_global_graph['node_collection'][] = $cpd->ID;
 						$this->_global_graph['node_collection'][] = $enzyme;
@@ -54,13 +63,10 @@ class EnzymesBipartiteGraph extends AbstractGraphBuilder{
 								$_sub_edgelist[] = $row;
 							}
 						}
-						
 					}
-				
-					
-				}
-			}
-		}
+				} // endforeach $rns
+			}	
+		} // endforeach $this->_cpd_list
 		
 		$this->_global_graph['node_collection'] = array_unique($this->_global_graph['node_collection']);
 		$this->_sub_graph['node_collection']    = array_unique($this->_sub_graph['node_collection']);

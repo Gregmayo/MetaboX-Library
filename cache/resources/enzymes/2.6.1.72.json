@@ -1,1 +1,1 @@
-{"ID":"2.6.1.72","name":"D-4-hydroxyphenylglycine transaminase","class":"Transferases","sysname":"D-4-hydroxyphenylglycine:2-oxoglutarate aminotransferase","reference":"1","reaction":"R04234"}
+{"ID":"2.6.1.72","name":"D-4-hydroxyphenylglycine transaminase","class":"Transferases","sysname":"D-4-hydroxyphenylglycine:2-oxoglutarate aminotransferase","reference":"1","reaction":["R04234"]}

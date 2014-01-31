@@ -1,1 +1,1 @@
-{"ID":"1.4.1.9","name":"leucine dehydrogenase","class":"Oxidoreductases","sysname":"L-leucine:NAD+ oxidoreductase (deaminating)","reference":"1  [PMID:13746411]","reaction":"R01088"}
+{"ID":"1.4.1.9","name":"leucine dehydrogenase","class":"Oxidoreductases","sysname":"L-leucine:NAD+ oxidoreductase (deaminating)","reference":"1  [PMID:13746411]","reaction":{"0":"R01088","2":"R00145","3":"R00146","4":"R01434","5":"R02196","6":"R03960"}}

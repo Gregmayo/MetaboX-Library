@@ -1,1 +1,1 @@
-{"ID":"4.1.99.12","name":"3,4-dihydroxy-2-butanone-4-phosphate synthase","class":"Lyases","sysname":"D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)","reference":"1  [PMID:2246238]","reaction":"R07281"}
+{"ID":"4.1.99.12","name":"3,4-dihydroxy-2-butanone-4-phosphate synthase","class":"Lyases","sysname":"D-ribulose 5-phosphate formate-lyase (L-3,4-dihydroxybutan-2-one 4-phosphate-forming)","reference":"1  [PMID:2246238]","reaction":{"0":"R07281","2":"R20291"}}

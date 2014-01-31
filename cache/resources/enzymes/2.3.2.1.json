@@ -1,1 +1,1 @@
-{"ID":"2.3.2.1","name":"D-glutamyltransferase","class":"Transferases","sysname":"glutamine:D-glutamyl-peptide 5-glutamyltransferase","reference":"1  [PMID:13201582]","reaction":"R04011"}
+{"ID":"2.3.2.1","name":"D-glutamyltransferase","class":"Transferases","sysname":"glutamine:D-glutamyl-peptide 5-glutamyltransferase","reference":"1  [PMID:13201582]","reaction":["R04011","R04012"]}

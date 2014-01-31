@@ -1,1 +1,1 @@
-{"ID":"1.1.1.331","name":"secoisolariciresinol dehydrogenase","class":"Oxidoreductases","sysname":"(-)-secoisolariciresinol:NAD+ oxidoreductase","reference":"1  [PMID:11278426]","reaction":"R10129"}
+{"ID":"1.1.1.331","name":"secoisolariciresinol dehydrogenase","class":"Oxidoreductases","sysname":"(-)-secoisolariciresinol:NAD+ oxidoreductase","reference":"1  [PMID:11278426]","reaction":["R10129"]}

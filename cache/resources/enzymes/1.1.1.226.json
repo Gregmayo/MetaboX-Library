@@ -1,1 +1,1 @@
-{"ID":"1.1.1.226","name":"4-hydroxycyclohexanecarboxylate dehydrogenase","class":"Oxidoreductases","sysname":"trans-4-hydroxycyclohexanecarboxylate:NAD+ 4-oxidoreductase","reference":"1  [PMID:3292236]","reaction":"R04307"}
+{"ID":"1.1.1.226","name":"4-hydroxycyclohexanecarboxylate dehydrogenase","class":"Oxidoreductases","sysname":"trans-4-hydroxycyclohexanecarboxylate:NAD+ 4-oxidoreductase","reference":"1  [PMID:3292236]","reaction":["R04307"]}

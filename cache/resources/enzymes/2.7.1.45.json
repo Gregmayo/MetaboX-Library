@@ -1,1 +1,1 @@
-{"ID":"2.7.1.45","name":"2-dehydro-3-deoxygluconokinase","class":"Transferases","sysname":"ATP:2-dehydro-3-deoxy-D-gluconate 6-phosphotransferase","reference":"1  [PMID:13813474]","reaction":"R01541"}
+{"ID":"2.7.1.45","name":"2-dehydro-3-deoxygluconokinase","class":"Transferases","sysname":"ATP:2-dehydro-3-deoxy-D-gluconate 6-phosphotransferase","reference":"1  [PMID:13813474]","reaction":{"0":"R01541","2":"R20291"}}

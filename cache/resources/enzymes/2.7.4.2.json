@@ -1,1 +1,1 @@
-{"ID":"2.7.4.2","name":"phosphomevalonate kinase","class":"Transferases","sysname":"ATP:(R)-5-phosphomevalonate phosphotransferase","reference":"1  [PMID:13801508]","reaction":"R03245"}
+{"ID":"2.7.4.2","name":"phosphomevalonate kinase","class":"Transferases","sysname":"ATP:(R)-5-phosphomevalonate phosphotransferase","reference":"1  [PMID:13801508]","reaction":["R03245"]}

@@ -1,1 +1,1 @@
-{"ID":"3.5.1.6","name":"beta-ureidopropionase","class":"Hydrolases","sysname":"N-carbamoyl-beta-alanine amidohydrolase","reference":"1  [PMID:13849303]","reaction":"R00905"}
+{"ID":"3.5.1.6","name":"beta-ureidopropionase","class":"Hydrolases","sysname":"N-carbamoyl-beta-alanine amidohydrolase","reference":"1  [PMID:13849303]","reaction":{"0":"R00905","2":"R04666","3":"R06134","4":"R08228"}}

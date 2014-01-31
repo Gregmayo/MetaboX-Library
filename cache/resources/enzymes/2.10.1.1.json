@@ -1,1 +1,1 @@
-{"ID":"2.10.1.1","name":"molybdopterin molybdotransferase","class":"Transferases","sysname":"adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)","reference":"1  [PMID:15632135]","reaction":"R09735"}
+{"ID":"2.10.1.1","name":"molybdopterin molybdotransferase","class":"Transferases","sysname":"adenylyl-molybdopterin:molybdate molybdate transferase (AMP-forming)","reference":"1  [PMID:15632135]","reaction":{"0":"R09735","2":"R20291"}}

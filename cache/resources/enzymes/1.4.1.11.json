@@ -1,1 +1,1 @@
-{"ID":"1.4.1.11","name":"L-erythro-3,5-diaminohexanoate dehydrogenase","class":"Oxidoreductases","sysname":"L-erythro-3,5-diaminohexanoate:NAD+ oxidoreductase (deaminating)","reference":"1  [PMID:4344229]","reaction":"R03349"}
+{"ID":"1.4.1.11","name":"L-erythro-3,5-diaminohexanoate dehydrogenase","class":"Oxidoreductases","sysname":"L-erythro-3,5-diaminohexanoate:NAD+ oxidoreductase (deaminating)","reference":"1  [PMID:4344229]","reaction":["R03349"]}

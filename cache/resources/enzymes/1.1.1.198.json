@@ -1,1 +1,1 @@
-{"ID":"1.1.1.198","name":"(+)-borneol dehydrogenase","class":"Oxidoreductases","sysname":"(+)-borneol:NAD+ oxidoreductase","reference":"1  [PMID:677891]","reaction":"R02944"}
+{"ID":"1.1.1.198","name":"(+)-borneol dehydrogenase","class":"Oxidoreductases","sysname":"(+)-borneol:NAD+ oxidoreductase","reference":"1  [PMID:677891]","reaction":["R02944"]}

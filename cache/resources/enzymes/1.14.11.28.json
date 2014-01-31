@@ -1,1 +1,1 @@
-{"ID":"1.14.11.28","name":"proline 3-hydroxylase","class":"Oxidoreductases","sysname":"L-proline,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:16535329]","reaction":"R09572"}
+{"ID":"1.14.11.28","name":"proline 3-hydroxylase","class":"Oxidoreductases","sysname":"L-proline,2-oxoglutarate:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:16535329]","reaction":["R09572"]}

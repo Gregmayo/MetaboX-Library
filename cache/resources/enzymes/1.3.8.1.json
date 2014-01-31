@@ -1,1 +1,1 @@
-{"ID":"1.3.8.1","name":"short-chain acyl-CoA dehydrogenase","class":"Oxidoreductases","sysname":"short-chain acyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase","reference":"1  [PMID:13130522]","reaction":"R01178"}
+{"ID":"1.3.8.1","name":"short-chain acyl-CoA dehydrogenase","class":"Oxidoreductases","sysname":"short-chain acyl-CoA:electron-transfer flavoprotein 2,3-oxidoreductase","reference":"1  [PMID:13130522]","reaction":{"0":"R01178","2":"R01175","3":"R04751","4":"R02661","5":"R03172","6":"R20291"}}

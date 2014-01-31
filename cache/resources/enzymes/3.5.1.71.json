@@ -1,1 +1,1 @@
-{"ID":"3.5.1.71","name":"N-feruloylglycine deacylase","class":"Hydrolases","sysname":"N-feruloylglycine amidohydrolase","reference":"1","reaction":"R03579"}
+{"ID":"3.5.1.71","name":"N-feruloylglycine deacylase","class":"Hydrolases","sysname":"N-feruloylglycine amidohydrolase","reference":"1","reaction":["R03579"]}

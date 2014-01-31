@@ -1,1 +1,1 @@
-{"ID":"2.7.1.103","name":"viomycin kinase","class":"Transferases","sysname":"ATP:viomycin O-phosphotransferase","reference":"1  [PMID:6163840]","reaction":"R03607"}
+{"ID":"2.7.1.103","name":"viomycin kinase","class":"Transferases","sysname":"ATP:viomycin O-phosphotransferase","reference":"1  [PMID:6163840]","reaction":["R03607"]}

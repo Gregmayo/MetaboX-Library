@@ -1,1 +1,1 @@
-{"ID":"4.2.1.65","name":"3-cyanoalanine hydratase","class":"Lyases","sysname":"L-asparagine hydro-lyase (3-cyanoalanine-forming)","reference":"1  [PMID:4627358]","reaction":"R01267"}
+{"ID":"4.2.1.65","name":"3-cyanoalanine hydratase","class":"Lyases","sysname":"L-asparagine hydro-lyase (3-cyanoalanine-forming)","reference":"1  [PMID:4627358]","reaction":["R01267"]}

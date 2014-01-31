@@ -1,1 +1,1 @@
-{"ID":"1.2.1.47","name":"4-trimethylammoniobutyraldehyde dehydrogenase","class":"Oxidoreductases","sysname":"4-trimethylammoniobutanal:NAD+ 1-oxidoreductase","reference":"1  [PMID:6770910]","reaction":"R03283"}
+{"ID":"1.2.1.47","name":"4-trimethylammoniobutyraldehyde dehydrogenase","class":"Oxidoreductases","sysname":"4-trimethylammoniobutanal:NAD+ 1-oxidoreductase","reference":"1  [PMID:6770910]","reaction":["R03283"]}

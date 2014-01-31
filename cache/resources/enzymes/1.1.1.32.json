@@ -1,1 +1,1 @@
-{"ID":"1.1.1.32","name":"mevaldate reductase","class":"Oxidoreductases","sysname":"(R)-mevalonate:NAD+ oxidoreductase","reference":"1  [PMID:13747804]","reaction":"R02246"}
+{"ID":"1.1.1.32","name":"mevaldate reductase","class":"Oxidoreductases","sysname":"(R)-mevalonate:NAD+ oxidoreductase","reference":"1  [PMID:13747804]","reaction":["R02246"]}

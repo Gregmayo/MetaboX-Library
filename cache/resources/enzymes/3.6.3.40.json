@@ -1,1 +1,1 @@
-{"ID":"3.6.3.40","name":"teichoic-acid-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (teichoic-acid-exporting)","reference":"1  [PMID:8302219]","reaction":"R00086"}
+{"ID":"3.6.3.40","name":"teichoic-acid-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (teichoic-acid-exporting)","reference":"1  [PMID:8302219]","reaction":["R00086"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.12.2","name":"mitogen-activated protein kinase kinase","class":"Transferases","sysname":"ATP:protein phosphotransferase (MAPKKK-activated)","reference":"1  [PMID:8004006]","reaction":"R00162"}
+{"ID":"2.7.12.2","name":"mitogen-activated protein kinase kinase","class":"Transferases","sysname":"ATP:protein phosphotransferase (MAPKKK-activated)","reference":"1  [PMID:8004006]","reaction":{"0":"R00162","2":"R02584"}}

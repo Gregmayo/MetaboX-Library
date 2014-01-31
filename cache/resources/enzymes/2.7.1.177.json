@@ -1,1 +1,1 @@
-{"ID":"2.7.1.177","name":"L-threonine kinase","class":"Transferases","sysname":"ATP:L-threonine O3-phosphotransferase","reference":"1  [PMID:18308727]","reaction":"R06531"}
+{"ID":"2.7.1.177","name":"L-threonine kinase","class":"Transferases","sysname":"ATP:L-threonine O3-phosphotransferase","reference":"1  [PMID:18308727]","reaction":{"0":"R06531","2":"R20291"}}

@@ -1,1 +1,1 @@
-{"ID":"1.6.3.1","name":"NAD(P)H oxidase (H2O2-forming)","class":"Oxidoreductases","sysname":"NAD(P)H:oxygen oxidoreductase (H2O2-forming)","reference":"1  [PMID:12110737]","reaction":"R07171"}
+{"ID":"1.6.3.1","name":"NAD(P)H oxidase (H2O2-forming)","class":"Oxidoreductases","sysname":"NAD(P)H:oxygen oxidoreductase (H2O2-forming)","reference":"1  [PMID:12110737]","reaction":["R07171","R07172"]}

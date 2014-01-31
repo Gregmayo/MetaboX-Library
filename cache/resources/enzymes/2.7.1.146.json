@@ -1,1 +1,1 @@
-{"ID":"2.7.1.146","name":"ADP-specific phosphofructokinase","class":"Transferases","sysname":"ADP:D-fructose-6-phosphate 1-phosphotransferase","reference":"1  [PMID:10409652]","reaction":"R05805"}
+{"ID":"2.7.1.146","name":"ADP-specific phosphofructokinase","class":"Transferases","sysname":"ADP:D-fructose-6-phosphate 1-phosphotransferase","reference":"1  [PMID:10409652]","reaction":{"0":"R05805","2":"R09084"}}

@@ -1,1 +1,1 @@
-{"ID":"1.6.5.2","name":"NAD(P)H dehydrogenase (quinone)","class":"Oxidoreductases","sysname":"NAD(P)H:quinone oxidoreductase","reference":"1  [PMID:4171422]","reaction":"R07358"}
+{"ID":"1.6.5.2","name":"NAD(P)H dehydrogenase (quinone)","class":"Oxidoreductases","sysname":"NAD(P)H:quinone oxidoreductase","reference":"1  [PMID:4171422]","reaction":{"0":"R07358","1":"R07359","3":"R02964","4":"R03643","5":"R03816"}}

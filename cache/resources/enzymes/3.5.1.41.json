@@ -1,1 +1,1 @@
-{"ID":"3.5.1.41","name":"chitin deacetylase","class":"Hydrolases","sysname":"chitin amidohydrolase","reference":"1  [PMID:4826874]","reaction":"R02333"}
+{"ID":"3.5.1.41","name":"chitin deacetylase","class":"Hydrolases","sysname":"chitin amidohydrolase","reference":"1  [PMID:4826874]","reaction":["R02333","R06241"]}

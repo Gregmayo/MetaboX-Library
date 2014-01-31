@@ -1,1 +1,1 @@
-{"ID":"2.7.1.168","name":"D-glycero-alpha-D-manno-heptose-7-phosphate kinase","class":"Transferases","sysname":"ATP:D-glycero-alpha-D-manno-heptose 7-phosphate 1-phosphotransferase","reference":"1  [PMID:11279237]","reaction":"R09770"}
+{"ID":"2.7.1.168","name":"D-glycero-alpha-D-manno-heptose-7-phosphate kinase","class":"Transferases","sysname":"ATP:D-glycero-alpha-D-manno-heptose 7-phosphate 1-phosphotransferase","reference":"1  [PMID:11279237]","reaction":["R09770"]}

@@ -1,1 +1,1 @@
-{"ID":"3.5.1.96","name":"succinylglutamate desuccinylase","class":"Hydrolases","sysname":"N-succinyl-L-glutamate amidohydrolase","reference":"1  [PMID:2865249]","reaction":"R00411"}
+{"ID":"3.5.1.96","name":"succinylglutamate desuccinylase","class":"Hydrolases","sysname":"N-succinyl-L-glutamate amidohydrolase","reference":"1  [PMID:2865249]","reaction":["R00411"]}

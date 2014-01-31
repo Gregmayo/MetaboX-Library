@@ -1,1 +1,1 @@
-{"ID":"3.2.1.26","name":"beta-fructofuranosidase","class":"Hydrolases","sysname":"beta-D-fructofuranoside fructohydrolase","reference":"1","reaction":""}
+{"ID":"3.2.1.26","name":"beta-fructofuranosidase","class":"Hydrolases","sysname":"beta-D-fructofuranoside fructohydrolase","reference":"1","reaction":["R00802","R02410","R03635","R03921","R06088","R06100","R06101","R06102","R20291"]}

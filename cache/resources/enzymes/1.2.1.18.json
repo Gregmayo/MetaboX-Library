@@ -1,1 +1,1 @@
-{"ID":"1.2.1.18","name":"malonate-semialdehyde dehydrogenase (acetylating)","class":"Oxidoreductases","sysname":"3-oxopropanoate:NAD(P)+ oxidoreductase (decarboxylating, CoA-acetylating)","reference":"1  [PMID:13712439]","reaction":"R00705"}
+{"ID":"1.2.1.18","name":"malonate-semialdehyde dehydrogenase (acetylating)","class":"Oxidoreductases","sysname":"3-oxopropanoate:NAD(P)+ oxidoreductase (decarboxylating, CoA-acetylating)","reference":"1  [PMID:13712439]","reaction":{"0":"R00705","1":"R00706","4":"R03381"}}

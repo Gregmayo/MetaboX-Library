@@ -1,1 +1,1 @@
-{"ID":"1.1.1.86","name":"ketol-acid reductoisomerase","class":"Oxidoreductases","sysname":"(R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)","reference":"1  [PMID:4388025]","reaction":"R04439"}
+{"ID":"1.1.1.86","name":"ketol-acid reductoisomerase","class":"Oxidoreductases","sysname":"(R)-2,3-dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)","reference":"1  [PMID:4388025]","reaction":{"0":"R04439","2":"R03051","3":"R04440","4":"R05068","5":"R05069","6":"R05071","7":"R20291"}}

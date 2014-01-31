@@ -1,1 +1,1 @@
-{"ID":"1.1.1.56","name":"ribitol 2-dehydrogenase","class":"Oxidoreductases","sysname":"ribitol:NAD+ 2-oxidoreductase","reference":"1  [PMID:13416220]","reaction":"R01895"}
+{"ID":"1.1.1.56","name":"ribitol 2-dehydrogenase","class":"Oxidoreductases","sysname":"ribitol:NAD+ 2-oxidoreductase","reference":"1  [PMID:13416220]","reaction":["R01895"]}

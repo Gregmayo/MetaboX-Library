@@ -1,1 +1,1 @@
-{"ID":"2.6.1.95","name":"neomycin C transaminase","class":"Transferases","sysname":"2-oxoglutarate:neomycin C aminotransferase","reference":"1  [PMID:17206729]","reaction":"R08903"}
+{"ID":"2.6.1.95","name":"neomycin C transaminase","class":"Transferases","sysname":"2-oxoglutarate:neomycin C aminotransferase","reference":"1  [PMID:17206729]","reaction":["R08903"]}

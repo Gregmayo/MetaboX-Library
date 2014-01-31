@@ -1,1 +1,1 @@
-{"ID":"1.4.1.1","name":"alanine dehydrogenase","class":"Oxidoreductases","sysname":"L-alanine:NAD+ oxidoreductase (deaminating)","reference":"1  [PMID:13730044]","reaction":"R00396"}
+{"ID":"1.4.1.1","name":"alanine dehydrogenase","class":"Oxidoreductases","sysname":"L-alanine:NAD+ oxidoreductase (deaminating)","reference":"1  [PMID:13730044]","reaction":{"0":"R00396","2":"R00145","3":"R00146","4":"R00365"}}

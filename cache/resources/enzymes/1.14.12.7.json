@@ -1,1 +1,1 @@
-{"ID":"1.14.12.7","name":"phthalate 4,5-dioxygenase","class":"Oxidoreductases","sysname":"phthalate,NADH:oxygen oxidoreductase (4,5-hydroxylating)","reference":"1  [PMID:3805038]","reaction":"R03630"}
+{"ID":"1.14.12.7","name":"phthalate 4,5-dioxygenase","class":"Oxidoreductases","sysname":"phthalate,NADH:oxygen oxidoreductase (4,5-hydroxylating)","reference":"1  [PMID:3805038]","reaction":["R03630"]}

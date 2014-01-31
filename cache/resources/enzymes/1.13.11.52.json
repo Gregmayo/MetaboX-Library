@@ -1,1 +1,1 @@
-{"ID":"1.13.11.52","name":"indoleamine 2,3-dioxygenase","class":"Oxidoreductases","sysname":"D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)","reference":"1  [PMID:6065097]","reaction":"R07362"}
+{"ID":"1.13.11.52","name":"indoleamine 2,3-dioxygenase","class":"Oxidoreductases","sysname":"D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing)","reference":"1  [PMID:6065097]","reaction":{"0":"R07362","1":"R00678","4":"R02702","5":"R02909","6":"R03628"}}

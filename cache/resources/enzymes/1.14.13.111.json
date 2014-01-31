@@ -1,1 +1,1 @@
-{"ID":"1.14.13.111","name":"methanesulfonate monooxygenase","class":"Oxidoreductases","sysname":"methanesulfonate,NADH:oxygen oxidoreductase","reference":"1  [PMID:10094704]","reaction":"R09513"}
+{"ID":"1.14.13.111","name":"methanesulfonate monooxygenase","class":"Oxidoreductases","sysname":"methanesulfonate,NADH:oxygen oxidoreductase","reference":"1  [PMID:10094704]","reaction":["R09513"]}

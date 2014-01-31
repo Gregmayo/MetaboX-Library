@@ -1,1 +1,1 @@
-{"ID":"1.1.1.51","name":"3(or 17)beta-hydroxysteroid dehydrogenase","class":"Oxidoreductases","sysname":"3(or 17)beta-hydroxysteroid:NAD(P)+ oxidoreductase","reference":"1  [PMID:14214322]","reaction":"R01836"}
+{"ID":"1.1.1.51","name":"3(or 17)beta-hydroxysteroid dehydrogenase","class":"Oxidoreductases","sysname":"3(or 17)beta-hydroxysteroid:NAD(P)+ oxidoreductase","reference":"1  [PMID:14214322]","reaction":{"0":"R01836","1":"R01838","4":"R02352","5":"R02353","6":"R03406","7":"R03407","8":"R09956","9":"R09957"}}

@@ -1,1 +1,1 @@
-{"ID":"1.1.1.144","name":"perillyl-alcohol dehydrogenase","class":"Oxidoreductases","sysname":"perillyl-alcohol:NAD+ oxidoreductase","reference":"1  [PMID:4289759]","reaction":"R03945"}
+{"ID":"1.1.1.144","name":"perillyl-alcohol dehydrogenase","class":"Oxidoreductases","sysname":"perillyl-alcohol:NAD+ oxidoreductase","reference":"1  [PMID:4289759]","reaction":["R03945"]}

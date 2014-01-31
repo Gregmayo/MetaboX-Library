@@ -1,1 +1,1 @@
-{"ID":"2.7.1.138","name":"ceramide kinase","class":"Transferases","sysname":"ATP:ceramide 1-phosphotransferase","reference":"1  [PMID:2547795]","reaction":"R01495"}
+{"ID":"2.7.1.138","name":"ceramide kinase","class":"Transferases","sysname":"ATP:ceramide 1-phosphotransferase","reference":"1  [PMID:2547795]","reaction":["R01495"]}

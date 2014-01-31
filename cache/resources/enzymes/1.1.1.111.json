@@ -1,1 +1,1 @@
-{"ID":"1.1.1.111","name":"3-(imidazol-5-yl)lactate dehydrogenase","class":"Oxidoreductases","sysname":"(S)-3-(imidazol-5-yl)lactate:NAD(P)+ oxidoreductase","reference":"1  [PMID:4303364]","reaction":"R04185"}
+{"ID":"1.1.1.111","name":"3-(imidazol-5-yl)lactate dehydrogenase","class":"Oxidoreductases","sysname":"(S)-3-(imidazol-5-yl)lactate:NAD(P)+ oxidoreductase","reference":"1  [PMID:4303364]","reaction":["R04185","R04186"]}

@@ -1,1 +1,1 @@
-{"ID":"3.1.4.48","name":"dolichylphosphate-glucose phosphodiesterase","class":"Hydrolases","sysname":"dolichyl-beta-D-glucosyl-phosphate dolichylphosphohydrolase","reference":"1","reaction":"R01006"}
+{"ID":"3.1.4.48","name":"dolichylphosphate-glucose phosphodiesterase","class":"Hydrolases","sysname":"dolichyl-beta-D-glucosyl-phosphate dolichylphosphohydrolase","reference":"1","reaction":["R01006"]}

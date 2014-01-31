@@ -1,1 +1,1 @@
-{"ID":"1.20.1.1","name":"phosphonate dehydrogenase","class":"Oxidoreductases","sysname":"phosphonate:NAD+ oxidoreductase","reference":"1  [PMID:11278981]","reaction":"R05746"}
+{"ID":"1.20.1.1","name":"phosphonate dehydrogenase","class":"Oxidoreductases","sysname":"phosphonate:NAD+ oxidoreductase","reference":"1  [PMID:11278981]","reaction":["R05746"]}

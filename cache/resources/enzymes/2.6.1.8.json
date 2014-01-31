@@ -1,1 +1,1 @@
-{"ID":"2.6.1.8","name":"2,5-diaminovalerate transaminase","class":"Transferases","sysname":"2,5-diaminopentanoate:2-oxoglutarate aminotransferase","reference":"1  [PMID:13125615]","reaction":"R03248"}
+{"ID":"2.6.1.8","name":"2,5-diaminovalerate transaminase","class":"Transferases","sysname":"2,5-diaminopentanoate:2-oxoglutarate aminotransferase","reference":"1  [PMID:13125615]","reaction":["R03248"]}

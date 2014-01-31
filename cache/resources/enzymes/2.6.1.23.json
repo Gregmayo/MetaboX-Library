@@ -1,1 +1,1 @@
-{"ID":"2.6.1.23","name":"4-hydroxyglutamate transaminase","class":"Transferases","sysname":"4-hydroxy-L-glutamate:2-oxoglutarate aminotransferase","reference":"1  [PMID:13948827]","reaction":"R03266"}
+{"ID":"2.6.1.23","name":"4-hydroxyglutamate transaminase","class":"Transferases","sysname":"4-hydroxy-L-glutamate:2-oxoglutarate aminotransferase","reference":"1  [PMID:13948827]","reaction":{"0":"R03266","2":"R05052"}}

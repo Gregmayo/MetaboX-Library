@@ -1,1 +1,1 @@
-{"ID":"6.3.1.9","name":"trypanothione synthase","class":"Ligases","sysname":"glutathionylspermidine:glutathione ligase (ADP-forming)","reference":"1  [PMID:1304372]","reaction":"R03822"}
+{"ID":"6.3.1.9","name":"trypanothione synthase","class":"Ligases","sysname":"glutathionylspermidine:glutathione ligase (ADP-forming)","reference":"1  [PMID:1304372]","reaction":{"0":"R03822","2":"R01917","3":"R08352","4":"R08353","5":"R08354","6":"R08355"}}

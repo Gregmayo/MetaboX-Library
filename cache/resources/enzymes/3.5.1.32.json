@@ -1,1 +1,1 @@
-{"ID":"3.5.1.32","name":"hippurate hydrolase","class":"Hydrolases","sysname":"N-benzoylamino-acid amidohydrolase","reference":"1","reaction":"R01424"}
+{"ID":"3.5.1.32","name":"hippurate hydrolase","class":"Hydrolases","sysname":"N-benzoylamino-acid amidohydrolase","reference":"1","reaction":["R01424"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.4.1","name":"polyphosphate kinase","class":"Transferases","sysname":"ATP:polyphosphate phosphotransferase","reference":"1  [PMID:13172250]","reaction":"R02184"}
+{"ID":"2.7.4.1","name":"polyphosphate kinase","class":"Transferases","sysname":"ATP:polyphosphate phosphotransferase","reference":"1  [PMID:13172250]","reaction":["R02184"]}

@@ -1,1 +1,1 @@
-{"ID":"3.1.4.41","name":"sphingomyelin phosphodiesterase D","class":"Hydrolases","sysname":"sphingomyelin ceramide-phosphohydrolase","reference":"1  [PMID:622164]","reaction":"R02542"}
+{"ID":"3.1.4.41","name":"sphingomyelin phosphodiesterase D","class":"Hydrolases","sysname":"sphingomyelin ceramide-phosphohydrolase","reference":"1  [PMID:622164]","reaction":["R02542"]}

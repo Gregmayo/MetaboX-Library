@@ -1,1 +1,1 @@
-{"ID":"1.1.1.48","name":"D-galactose 1-dehydrogenase","class":"Oxidoreductases","sysname":"D-galactose:NAD+ 1-oxidoreductase","reference":"1  [PMID:13462997]","reaction":"R01094"}
+{"ID":"1.1.1.48","name":"D-galactose 1-dehydrogenase","class":"Oxidoreductases","sysname":"D-galactose:NAD+ 1-oxidoreductase","reference":"1  [PMID:13462997]","reaction":{"0":"R01094","2":"R01096","3":"R01097","4":"R08544"}}

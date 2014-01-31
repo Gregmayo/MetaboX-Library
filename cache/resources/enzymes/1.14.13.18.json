@@ -1,1 +1,1 @@
-{"ID":"1.14.13.18","name":"4-hydroxyphenylacetate 1-monooxygenase","class":"Oxidoreductases","sysname":"4-hydroxyphenylacetate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating)","reference":"1  [PMID:234937]","reaction":"R02514"}
+{"ID":"1.14.13.18","name":"4-hydroxyphenylacetate 1-monooxygenase","class":"Oxidoreductases","sysname":"4-hydroxyphenylacetate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating)","reference":"1  [PMID:234937]","reaction":["R02514","R02516"]}

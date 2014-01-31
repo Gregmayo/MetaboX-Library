@@ -1,1 +1,1 @@
-{"ID":"1.2.1.72","name":"erythrose-4-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"D-erythrose 4-phosphate:NAD+ oxidoreductase","reference":"1  [PMID:7751290]","reaction":"R01825"}
+{"ID":"1.2.1.72","name":"erythrose-4-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"D-erythrose 4-phosphate:NAD+ oxidoreductase","reference":"1  [PMID:7751290]","reaction":["R01825"]}

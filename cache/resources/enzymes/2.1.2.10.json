@@ -1,1 +1,1 @@
-{"ID":"2.1.2.10","name":"aminomethyltransferase","class":"Transferases","sysname":"[protein]-S8-aminomethyldihydrolipoyllysine:tetrahydrofolate aminomethyltransferase (ammonia-forming)","reference":"1  [PMID:7053363]","reaction":"R04125"}
+{"ID":"2.1.2.10","name":"aminomethyltransferase","class":"Transferases","sysname":"[protein]-S8-aminomethyldihydrolipoyllysine:tetrahydrofolate aminomethyltransferase (ammonia-forming)","reference":"1  [PMID:7053363]","reaction":{"0":"R04125","2":"R01221","3":"R02300","4":"R00160"}}

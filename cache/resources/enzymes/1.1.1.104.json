@@ -1,1 +1,1 @@
-{"ID":"1.1.1.104","name":"4-oxoproline reductase","class":"Oxidoreductases","sysname":"4-hydroxy-L-proline:NAD+ oxidoreductase","reference":"1  [PMID:13914427]","reaction":"R07146"}
+{"ID":"1.1.1.104","name":"4-oxoproline reductase","class":"Oxidoreductases","sysname":"4-hydroxy-L-proline:NAD+ oxidoreductase","reference":"1  [PMID:13914427]","reaction":{"0":"R07146","2":"R03290","3":"R03292"}}

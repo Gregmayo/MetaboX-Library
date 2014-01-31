@@ -1,1 +1,1 @@
-{"ID":"1.1.1.84","name":"dimethylmalate dehydrogenase","class":"Oxidoreductases","sysname":"(R)-3,3-dimethylmalate:NAD+ oxidoreductase (decarboxylating)","reference":"1  [PMID:4287371]","reaction":"R01211"}
+{"ID":"1.1.1.84","name":"dimethylmalate dehydrogenase","class":"Oxidoreductases","sysname":"(R)-3,3-dimethylmalate:NAD+ oxidoreductase (decarboxylating)","reference":"1  [PMID:4287371]","reaction":["R01211"]}

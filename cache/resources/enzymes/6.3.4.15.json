@@ -1,1 +1,1 @@
-{"ID":"6.3.4.15","name":"biotin---[acetyl-CoA-carboxylase] ligase","class":"Ligases","sysname":"biotin:apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] ligase (AMP-forming)","reference":"1  [PMID:239688]","reaction":"R04562"}
+{"ID":"6.3.4.15","name":"biotin---[acetyl-CoA-carboxylase] ligase","class":"Ligases","sysname":"biotin:apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] ligase (AMP-forming)","reference":"1  [PMID:239688]","reaction":{"0":"R04562","2":"R01074","3":"R05145","4":"R20291"}}

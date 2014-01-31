@@ -1,1 +1,1 @@
-{"ID":"6.3.2.14","name":"enterobactin synthase","class":"Ligases","sysname":"2,3-dihydroxybenzoate:L-serine ligase","reference":"1  [PMID:4966114]","reaction":"R07644"}
+{"ID":"6.3.2.14","name":"enterobactin synthase","class":"Ligases","sysname":"2,3-dihydroxybenzoate:L-serine ligase","reference":"1  [PMID:4966114]","reaction":["R07644"]}

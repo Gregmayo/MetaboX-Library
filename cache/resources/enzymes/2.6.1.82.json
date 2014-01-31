@@ -1,1 +1,1 @@
-{"ID":"2.6.1.82","name":"putrescine aminotransferase","class":"Transferases","sysname":"butane-1,4-diamine:2-oxoglutarate aminotransferase","reference":"1  [PMID:3510672]","reaction":"R10064"}
+{"ID":"2.6.1.82","name":"putrescine aminotransferase","class":"Transferases","sysname":"butane-1,4-diamine:2-oxoglutarate aminotransferase","reference":"1  [PMID:3510672]","reaction":["R10064","R01155","R07408"]}

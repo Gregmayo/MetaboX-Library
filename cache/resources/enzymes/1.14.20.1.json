@@ -1,1 +1,1 @@
-{"ID":"1.14.20.1","name":"deacetoxycephalosporin-C synthase","class":"Oxidoreductases","sysname":"penicillin-N,2-oxoglutarate:oxygen oxidoreductase (ring-expanding)","reference":"1  [PMID:1354366]","reaction":"R05301"}
+{"ID":"1.14.20.1","name":"deacetoxycephalosporin-C synthase","class":"Oxidoreductases","sysname":"penicillin-N,2-oxoglutarate:oxygen oxidoreductase (ring-expanding)","reference":"1  [PMID:1354366]","reaction":["R05301"]}

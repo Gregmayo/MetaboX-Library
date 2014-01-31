@@ -1,1 +1,1 @@
-{"ID":"3.7.1.9","name":"2-hydroxymuconate-6-semialdehyde hydrolase","class":"Hydrolases","sysname":"2-hydroxymuconate-6-semialdehyde formylhydrolase","reference":"1  [PMID:4325686]","reaction":"R02604"}
+{"ID":"3.7.1.9","name":"2-hydroxymuconate-6-semialdehyde hydrolase","class":"Hydrolases","sysname":"2-hydroxymuconate-6-semialdehyde formylhydrolase","reference":"1  [PMID:4325686]","reaction":{"0":"R02604","2":"R05296","3":"R05362","4":"R05865"}}

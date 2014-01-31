@@ -1,1 +1,1 @@
-{"ID":"1.1.1.335","name":"UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase","class":"Oxidoreductases","sysname":"UDP-N-acetyl-2-amino-2-deoxy-alpha-D-glucuronate:NAD+ 3-oxidoreductase","reference":"1  [PMID:19282284]","reaction":"R10140"}
+{"ID":"1.1.1.335","name":"UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase","class":"Oxidoreductases","sysname":"UDP-N-acetyl-2-amino-2-deoxy-alpha-D-glucuronate:NAD+ 3-oxidoreductase","reference":"1  [PMID:19282284]","reaction":["R10140"]}

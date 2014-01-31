@@ -1,1 +1,1 @@
-{"ID":"2.6.1.28","name":"tryptophan---phenylpyruvate transaminase","class":"Transferases","sysname":"L-tryptophan:phenylpyruvate aminotransferase","reference":"1","reaction":"R01376"}
+{"ID":"2.6.1.28","name":"tryptophan---phenylpyruvate transaminase","class":"Transferases","sysname":"L-tryptophan:phenylpyruvate aminotransferase","reference":"1","reaction":["R01376"]}

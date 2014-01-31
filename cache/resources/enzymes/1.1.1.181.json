@@ -1,1 +1,1 @@
-{"ID":"1.1.1.181","name":"cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase","class":"Oxidoreductases","sysname":"cholest-5-ene-3beta,7alpha-diol:NAD+ 3-oxidoreductase","reference":"1  [PMID:6937465]","reaction":"R04263"}
+{"ID":"1.1.1.181","name":"cholest-5-ene-3beta,7alpha-diol 3beta-dehydrogenase","class":"Oxidoreductases","sysname":"cholest-5-ene-3beta,7alpha-diol:NAD+ 3-oxidoreductase","reference":"1  [PMID:6937465]","reaction":{"0":"R04263","2":"R08721","3":"R08723","4":"R08724","5":"R08728","6":"R04264"}}

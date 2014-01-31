@@ -1,1 +1,1 @@
-{"ID":"6.2.1.24","name":"phytanate---CoA ligase","class":"Ligases","sysname":"phytanate:CoA ligase (AMP-forming)","reference":"1  [PMID:3753503]","reaction":"R03631"}
+{"ID":"6.2.1.24","name":"phytanate---CoA ligase","class":"Ligases","sysname":"phytanate:CoA ligase (AMP-forming)","reference":"1  [PMID:3753503]","reaction":["R03631"]}

@@ -1,1 +1,1 @@
-{"ID":"6.1.1.21","name":"histidine---tRNA ligase","class":"Ligases","sysname":"L-histidine:tRNAHis ligase (AMP-forming)","reference":"1  [PMID:6035970]","reaction":"R03655"}
+{"ID":"6.1.1.21","name":"histidine---tRNA ligase","class":"Ligases","sysname":"L-histidine:tRNAHis ligase (AMP-forming)","reference":"1  [PMID:6035970]","reaction":{"0":"R03655","2":"R20291"}}

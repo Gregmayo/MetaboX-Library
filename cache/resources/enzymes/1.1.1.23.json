@@ -1,1 +1,1 @@
-{"ID":"1.1.1.23","name":"histidinol dehydrogenase","class":"Oxidoreductases","sysname":"L-histidinol:NAD+ oxidoreductase","reference":"1  [PMID:13192138]","reaction":"R01158"}
+{"ID":"1.1.1.23","name":"histidinol dehydrogenase","class":"Oxidoreductases","sysname":"L-histidinol:NAD+ oxidoreductase","reference":"1  [PMID:13192138]","reaction":{"0":"R01158","2":"R01163","3":"R03012","4":"R20291"}}

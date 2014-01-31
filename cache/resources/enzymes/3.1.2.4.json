@@ -1,1 +1,1 @@
-{"ID":"3.1.2.4","name":"3-hydroxyisobutyryl-CoA hydrolase","class":"Hydrolases","sysname":"3-hydroxy-2-methylpropanoyl-CoA hydrolase","reference":"1  [PMID:13457352]","reaction":"R03352"}
+{"ID":"3.1.2.4","name":"3-hydroxyisobutyryl-CoA hydrolase","class":"Hydrolases","sysname":"3-hydroxy-2-methylpropanoyl-CoA hydrolase","reference":"1  [PMID:13457352]","reaction":{"0":"R03352","2":"R03158","3":"R05064"}}

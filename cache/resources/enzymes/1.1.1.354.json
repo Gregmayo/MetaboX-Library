@@ -1,1 +1,1 @@
-{"ID":"1.1.1.354","name":"farnesol dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"(2E,6E)-farnesol:NAD+ 1-oxidoreductase","reference":"1  [PMID:18422649]","reaction":"R10412"}
+{"ID":"1.1.1.354","name":"farnesol dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"(2E,6E)-farnesol:NAD+ 1-oxidoreductase","reference":"1  [PMID:18422649]","reaction":["R10412"]}

@@ -1,1 +1,1 @@
-{"ID":"1.2.1.86","name":"geranial dehydrogenase","class":"Oxidoreductases","sysname":"geranial:NAD+ oxidoreductase","reference":"1  [PMID:11778886]","reaction":"R08086"}
+{"ID":"1.2.1.86","name":"geranial dehydrogenase","class":"Oxidoreductases","sysname":"geranial:NAD+ oxidoreductase","reference":"1  [PMID:11778886]","reaction":["R08086"]}

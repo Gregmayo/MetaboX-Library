@@ -1,1 +1,1 @@
-{"ID":"1.1.1.174","name":"cyclohexane-1,2-diol dehydrogenase","class":"Oxidoreductases","sysname":"trans-cyclohexane-1,2-diol:NAD+ 1-oxidoreductase","reference":"1  [PMID:856571]","reaction":"R03279"}
+{"ID":"1.1.1.174","name":"cyclohexane-1,2-diol dehydrogenase","class":"Oxidoreductases","sysname":"trans-cyclohexane-1,2-diol:NAD+ 1-oxidoreductase","reference":"1  [PMID:856571]","reaction":{"0":"R03279","2":"R03278","3":"R06621"}}

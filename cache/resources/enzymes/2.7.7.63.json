@@ -1,1 +1,1 @@
-{"ID":"2.7.7.63","name":"lipoate---protein ligase","class":"Transferases","sysname":"ATP:lipoate adenylyltransferase","reference":"1  [PMID:8206909]","reaction":"R07770"}
+{"ID":"2.7.7.63","name":"lipoate---protein ligase","class":"Transferases","sysname":"ATP:lipoate adenylyltransferase","reference":"1  [PMID:8206909]","reaction":{"0":"R07770","1":"R07771","4":"R20291"}}

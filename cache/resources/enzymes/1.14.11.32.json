@@ -1,1 +1,1 @@
-{"ID":"1.14.11.32","name":"codeine 3-O-demethylase","class":"Oxidoreductases","sysname":"codeine,2-oxoglutarate:oxygen oxidoreductase (3-O-demethylating)","reference":"1  [PMID:20228795]","reaction":"R09402"}
+{"ID":"1.14.11.32","name":"codeine 3-O-demethylase","class":"Oxidoreductases","sysname":"codeine,2-oxoglutarate:oxygen oxidoreductase (3-O-demethylating)","reference":"1  [PMID:20228795]","reaction":{"0":"R09402","2":"R05127"}}

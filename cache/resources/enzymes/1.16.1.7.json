@@ -1,1 +1,1 @@
-{"ID":"1.16.1.7","name":"ferric-chelate reductase (NADH)","class":"Oxidoreductases","sysname":"Fe(II):NAD+ oxidoreductase","reference":"1","reaction":"R00092"}
+{"ID":"1.16.1.7","name":"ferric-chelate reductase (NADH)","class":"Oxidoreductases","sysname":"Fe(II):NAD+ oxidoreductase","reference":"1","reaction":["R00092"]}

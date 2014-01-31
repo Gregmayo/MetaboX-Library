@@ -1,1 +1,1 @@
-{"ID":"3.6.3.16","name":"arsenite-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (arsenite-exporting)","reference":"1  [PMID:2484581]","reaction":"R00086"}
+{"ID":"3.6.3.16","name":"arsenite-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (arsenite-exporting)","reference":"1  [PMID:2484581]","reaction":{"0":"R00086","2":"R01110"}}

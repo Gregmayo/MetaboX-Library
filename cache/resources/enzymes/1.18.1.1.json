@@ -1,1 +1,1 @@
-{"ID":"1.18.1.1","name":"rubredoxin---NAD+ reductase","class":"Oxidoreductases","sysname":"rubredoxin:NAD+ oxidoreductase","reference":"1  [PMID:4294330]","reaction":"R02000"}
+{"ID":"1.18.1.1","name":"rubredoxin---NAD+ reductase","class":"Oxidoreductases","sysname":"rubredoxin:NAD+ oxidoreductase","reference":"1  [PMID:4294330]","reaction":["R02000"]}

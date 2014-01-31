@@ -1,1 +1,1 @@
-{"ID":"2.6.1.11","name":"acetylornithine transaminase","class":"Transferases","sysname":"N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase","reference":"1  [PMID:14213368]","reaction":"R02283"}
+{"ID":"2.6.1.11","name":"acetylornithine transaminase","class":"Transferases","sysname":"N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase","reference":"1  [PMID:14213368]","reaction":{"0":"R02283","2":"R20291"}}

@@ -1,1 +1,1 @@
-{"ID":"1.4.1.4","name":"glutamate dehydrogenase (NADP+)","class":"Oxidoreductases","sysname":"L-glutamate:NADP+ oxidoreductase (deaminating)","reference":"1  [PMID:4144743]","reaction":"R00248"}
+{"ID":"1.4.1.4","name":"glutamate dehydrogenase (NADP+)","class":"Oxidoreductases","sysname":"L-glutamate:NADP+ oxidoreductase (deaminating)","reference":"1  [PMID:4144743]","reaction":{"0":"R00248","2":"R00145","3":"R00146"}}

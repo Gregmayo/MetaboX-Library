@@ -1,1 +1,1 @@
-{"ID":"1.1.1.90","name":"aryl-alcohol dehydrogenase","class":"Oxidoreductases","sysname":"aryl-alcohol:NAD+ oxidoreductase","reference":"1  [PMID:5778658]","reaction":"R01487"}
+{"ID":"1.1.1.90","name":"aryl-alcohol dehydrogenase","class":"Oxidoreductases","sysname":"aryl-alcohol:NAD+ oxidoreductase","reference":"1  [PMID:5778658]","reaction":{"0":"R01487","2":"R01763","3":"R02611","4":"R04304","5":"R05282","6":"R05347","7":"R05348","8":"R02229"}}

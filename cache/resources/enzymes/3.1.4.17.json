@@ -1,1 +1,1 @@
-{"ID":"3.1.4.17","name":"3',5'-cyclic-nucleotide phosphodiesterase","class":"Hydrolases","sysname":"3',5'-cyclic-nucleotide 5'-nucleotidohydrolase","reference":"1  [PMID:4365506]","reaction":"R03259"}
+{"ID":"3.1.4.17","name":"3',5'-cyclic-nucleotide phosphodiesterase","class":"Hydrolases","sysname":"3',5'-cyclic-nucleotide 5'-nucleotidohydrolase","reference":"1  [PMID:4365506]","reaction":{"0":"R03259","2":"R00191","3":"R01234"}}

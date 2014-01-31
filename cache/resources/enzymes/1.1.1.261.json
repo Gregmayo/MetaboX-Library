@@ -1,1 +1,1 @@
-{"ID":"1.1.1.261","name":"sn-glycerol-1-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"sn-glycerol-1-phosphate:NAD(P)+ 2-oxidoreductase","reference":"1  [PMID:8586635]","reaction":"R05679"}
+{"ID":"1.1.1.261","name":"sn-glycerol-1-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"sn-glycerol-1-phosphate:NAD(P)+ 2-oxidoreductase","reference":"1  [PMID:8586635]","reaction":["R05679","R05680"]}

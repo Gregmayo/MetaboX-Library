@@ -1,1 +1,1 @@
-{"ID":"3.1.4.3","name":"phospholipase C","class":"Hydrolases","sysname":"phosphatidylcholine cholinephosphohydrolase","reference":"1  [PMID:13066482]","reaction":"R01312"}
+{"ID":"3.1.4.3","name":"phospholipase C","class":"Hydrolases","sysname":"phosphatidylcholine cholinephosphohydrolase","reference":"1  [PMID:13066482]","reaction":{"0":"R01312","2":"R02027","3":"R02052","4":"R03332","5":"R07381"}}

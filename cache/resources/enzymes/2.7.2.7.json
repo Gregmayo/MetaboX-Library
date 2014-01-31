@@ -1,1 +1,1 @@
-{"ID":"2.7.2.7","name":"butyrate kinase","class":"Transferases","sysname":"ATP:butanoate 1-phosphotransferase","reference":"1  [PMID:3027059]","reaction":"R01688"}
+{"ID":"2.7.2.7","name":"butyrate kinase","class":"Transferases","sysname":"ATP:butanoate 1-phosphotransferase","reference":"1  [PMID:3027059]","reaction":{"0":"R01688","2":"R20291"}}

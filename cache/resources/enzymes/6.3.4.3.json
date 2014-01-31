@@ -1,1 +1,1 @@
-{"ID":"6.3.4.3","name":"formate---tetrahydrofolate ligase","class":"Ligases","sysname":"formate:tetrahydrofolate ligase (ADP-forming)","reference":"1  [PMID:13789141]","reaction":"R00943"}
+{"ID":"6.3.4.3","name":"formate---tetrahydrofolate ligase","class":"Ligases","sysname":"formate:tetrahydrofolate ligase (ADP-forming)","reference":"1  [PMID:13789141]","reaction":{"0":"R00943","2":"R20291"}}

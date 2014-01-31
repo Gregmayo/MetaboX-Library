@@ -1,1 +1,1 @@
-{"ID":"1.3.1.29","name":"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase","class":"Oxidoreductases","sysname":"cis-1,2-dihydronaphthalene-1,2-diol:NAD+ 1,2-oxidoreductase","reference":"1  [PMID:4369091]","reaction":"R04115"}
+{"ID":"1.3.1.29","name":"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase","class":"Oxidoreductases","sysname":"cis-1,2-dihydronaphthalene-1,2-diol:NAD+ 1,2-oxidoreductase","reference":"1  [PMID:4369091]","reaction":{"0":"R04115","2":"R06910","3":"R06931","4":"R07705","5":"R09162","6":"R09183"}}

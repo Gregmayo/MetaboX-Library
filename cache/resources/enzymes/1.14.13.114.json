@@ -1,1 +1,1 @@
-{"ID":"1.14.13.114","name":"6-hydroxynicotinate 3-monooxygenase","class":"Oxidoreductases","sysname":"6-hydroxynicotinate,NADH:oxygen oxidoreductase (3-hydroxylating, decarboxylating)","reference":"1  [PMID:10091591]","reaction":"R08764"}
+{"ID":"1.14.13.114","name":"6-hydroxynicotinate 3-monooxygenase","class":"Oxidoreductases","sysname":"6-hydroxynicotinate,NADH:oxygen oxidoreductase (3-hydroxylating, decarboxylating)","reference":"1  [PMID:10091591]","reaction":["R08764"]}

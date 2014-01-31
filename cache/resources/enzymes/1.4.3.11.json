@@ -1,1 +1,1 @@
-{"ID":"1.4.3.11","name":"L-glutamate oxidase","class":"Oxidoreductases","sysname":"L-glutamate:oxygen oxidoreductase (deaminating)","reference":"1","reaction":"R00250"}
+{"ID":"1.4.3.11","name":"L-glutamate oxidase","class":"Oxidoreductases","sysname":"L-glutamate:oxygen oxidoreductase (deaminating)","reference":"1","reaction":{"0":"R00250","2":"R06124"}}

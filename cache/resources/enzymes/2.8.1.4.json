@@ -1,1 +1,1 @@
-{"ID":"2.8.1.4","name":"tRNA sulfurtransferase","class":"Transferases","sysname":"L-cysteine:tRNA sulfurtransferase","reference":"1  [PMID:5541999]","reaction":"R03923"}
+{"ID":"2.8.1.4","name":"tRNA sulfurtransferase","class":"Transferases","sysname":"L-cysteine:tRNA sulfurtransferase","reference":"1  [PMID:5541999]","reaction":{"0":"R03923","2":"R08700"}}

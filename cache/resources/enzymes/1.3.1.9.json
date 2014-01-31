@@ -1,1 +1,1 @@
-{"ID":"1.3.1.9","name":"enoyl-[acyl-carrier-protein] reductase (NADH)","class":"Oxidoreductases","sysname":"acyl-[acyl-carrier protein]:NAD+ oxidoreductase","reference":"1  [PMID:6756317]","reaction":"R01403"}
+{"ID":"1.3.1.9","name":"enoyl-[acyl-carrier-protein] reductase (NADH)","class":"Oxidoreductases","sysname":"acyl-[acyl-carrier protein]:NAD+ oxidoreductase","reference":"1  [PMID:6756317]","reaction":{"0":"R01403","2":"R04429","3":"R04724","4":"R04955","5":"R04958","6":"R04961","7":"R04966","8":"R04969"}}

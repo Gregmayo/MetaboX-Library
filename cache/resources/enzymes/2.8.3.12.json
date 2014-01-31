@@ -1,1 +1,1 @@
-{"ID":"2.8.3.12","name":"glutaconate CoA-transferase","class":"Transferases","sysname":"acetyl-CoA:(E)-glutaconate CoA-transferase","reference":"1  [PMID:6945182]","reaction":"R03884"}
+{"ID":"2.8.3.12","name":"glutaconate CoA-transferase","class":"Transferases","sysname":"acetyl-CoA:(E)-glutaconate CoA-transferase","reference":"1  [PMID:6945182]","reaction":{"0":"R03884","2":"R04000","3":"R05509"}}

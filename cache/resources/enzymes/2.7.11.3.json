@@ -1,1 +1,1 @@
-{"ID":"2.7.11.3","name":"dephospho-[reductase kinase] kinase","class":"Transferases","sysname":"ATP:dephospho-{[hydroxymethylglutaryl-CoA reductase (NADPH)] kinase} phosphotransferase","reference":"1  [PMID:291971]","reaction":"R04589"}
+{"ID":"2.7.11.3","name":"dephospho-[reductase kinase] kinase","class":"Transferases","sysname":"ATP:dephospho-{[hydroxymethylglutaryl-CoA reductase (NADPH)] kinase} phosphotransferase","reference":"1  [PMID:291971]","reaction":["R04589"]}

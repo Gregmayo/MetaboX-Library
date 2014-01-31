@@ -1,1 +1,1 @@
-{"ID":"1.17.1.1","name":"CDP-4-dehydro-6-deoxyglucose reductase","class":"Oxidoreductases","sysname":"CDP-4-dehydro-3,6-dideoxy-D-glucose:NAD(P)+ 3-oxidoreductase","reference":"1  [PMID:4389672]","reaction":"R03391"}
+{"ID":"1.17.1.1","name":"CDP-4-dehydro-6-deoxyglucose reductase","class":"Oxidoreductases","sysname":"CDP-4-dehydro-3,6-dideoxy-D-glucose:NAD(P)+ 3-oxidoreductase","reference":"1  [PMID:4389672]","reaction":["R03391","R03392"]}

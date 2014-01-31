@@ -1,1 +1,1 @@
-{"ID":"1.1.1.237","name":"hydroxyphenylpyruvate reductase","class":"Oxidoreductases","sysname":"4-hydroxyphenyllactate:NAD+ oxidoreductase","reference":"1","reaction":"R03336"}
+{"ID":"1.1.1.237","name":"hydroxyphenylpyruvate reductase","class":"Oxidoreductases","sysname":"4-hydroxyphenyllactate:NAD+ oxidoreductase","reference":"1","reaction":{"0":"R03336","2":"R01370","3":"R01371","4":"R03338","5":"R03373"}}

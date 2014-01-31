@@ -1,1 +1,1 @@
-{"ID":"1.1.1.95","name":"phosphoglycerate dehydrogenase","class":"Oxidoreductases","sysname":"3-phospho-D-glycerate:NAD+ 2-oxidoreductase","reference":"1  [PMID:4384871]","reaction":"R01513"}
+{"ID":"1.1.1.95","name":"phosphoglycerate dehydrogenase","class":"Oxidoreductases","sysname":"3-phospho-D-glycerate:NAD+ 2-oxidoreductase","reference":"1  [PMID:4384871]","reaction":{"0":"R01513","1":"R08198","4":"R20291"}}

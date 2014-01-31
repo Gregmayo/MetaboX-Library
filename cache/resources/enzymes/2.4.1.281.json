@@ -1,1 +1,1 @@
-{"ID":"2.4.1.281","name":"4-O-beta-D-mannosyl-D-glucose phosphorylase","class":"Transferases","sysname":"4-O-beta-D-mannopyranosyl-D-glucopyranose:phosphate alpha-D-mannosyltransferase","reference":"1  [PMID:21539815]","reaction":"R09943"}
+{"ID":"2.4.1.281","name":"4-O-beta-D-mannosyl-D-glucose phosphorylase","class":"Transferases","sysname":"4-O-beta-D-mannopyranosyl-D-glucopyranose:phosphate alpha-D-mannosyltransferase","reference":"1  [PMID:21539815]","reaction":["R09943"]}

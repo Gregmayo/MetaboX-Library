@@ -1,1 +1,1 @@
-{"ID":"3.5.1.8","name":"formylaspartate deformylase","class":"Hydrolases","sysname":"N-formyl-L-aspartate amidohydrolase","reference":"1  [PMID:13449063]","reaction":"R00526"}
+{"ID":"3.5.1.8","name":"formylaspartate deformylase","class":"Hydrolases","sysname":"N-formyl-L-aspartate amidohydrolase","reference":"1  [PMID:13449063]","reaction":["R00526"]}

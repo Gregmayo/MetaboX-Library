@@ -1,1 +1,1 @@
-{"ID":"2.6.1.59","name":"dTDP-4-amino-4,6-dideoxygalactose transaminase","class":"Transferases","sysname":"dTDP-4,6-dideoxy-alpha-D-galactose:2-oxoglutarate aminotransferase","reference":"1  [PMID:4928644]","reaction":"R04438"}
+{"ID":"2.6.1.59","name":"dTDP-4-amino-4,6-dideoxygalactose transaminase","class":"Transferases","sysname":"dTDP-4,6-dideoxy-alpha-D-galactose:2-oxoglutarate aminotransferase","reference":"1  [PMID:4928644]","reaction":["R04438"]}

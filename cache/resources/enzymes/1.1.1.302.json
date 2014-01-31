@@ -1,1 +1,1 @@
-{"ID":"1.1.1.302","name":"2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase","class":"Oxidoreductases","sysname":"2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one:NAD(P)+ oxidoreductase","reference":"1  [PMID:11889103]","reaction":"R09375"}
+{"ID":"1.1.1.302","name":"2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase","class":"Oxidoreductases","sysname":"2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one:NAD(P)+ oxidoreductase","reference":"1  [PMID:11889103]","reaction":["R09375","R09376"]}

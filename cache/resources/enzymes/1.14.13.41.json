@@ -1,1 +1,1 @@
-{"ID":"1.14.13.41","name":"tyrosine N-monooxygenase","class":"Oxidoreductases","sysname":"L-tyrosine,NADPH:oxygen oxidoreductase (N-hydroxylating)","reference":"1  [PMID:2250015]","reaction":"R08656"}
+{"ID":"1.14.13.41","name":"tyrosine N-monooxygenase","class":"Oxidoreductases","sysname":"L-tyrosine,NADPH:oxygen oxidoreductase (N-hydroxylating)","reference":"1  [PMID:2250015]","reaction":{"0":"R08656","1":"R00730","2":"R04460","3":"R07190","8":"R06585"}}

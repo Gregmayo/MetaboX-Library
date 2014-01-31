@@ -11,10 +11,12 @@ namespace MetaboX\Graph;
 class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 	protected $_ec_list = array();
 	protected $_rn_list = array();
+	protected $_rn_keys = array();
 	
 	public function __construct($ec_list, $rn_list){
 		$this->_ec_list = $ec_list;
 		$this->_rn_list = $rn_list;
+		$this->_rn_keys = array_keys($this->_rn_list);
 	}
 	
 	public function build( $compounds = false ){
@@ -73,11 +75,23 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 	}
 	
 	protected function _getReactionSubstrates($rn){
-		return $this->_rn_list[$rn]->reactants->compounds;
+		//return $this->_rn_list[$rn]->reactants->compounds;
+		
+		foreach( $rn as $r ){
+			if( in_array($r, $this->_rn_keys) ){
+				return $this->_rn_list[$r]->reactants->compounds;
+			} 
+		}
 	}
 	
 	protected function _getReactionProducts($rn){
-		return $this->_rn_list[$rn]->products->compounds;
+		//return $this->_rn_list[$rn]->products->compounds;
+		
+		foreach( $rn as $r ){
+			if( in_array($r, $this->_rn_keys) ){
+				return $this->_rn_list[$r]->products->compounds;
+			} 
+		}
 	}
 	
 }

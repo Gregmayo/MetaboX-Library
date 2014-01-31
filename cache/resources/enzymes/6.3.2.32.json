@@ -1,1 +1,1 @@
-{"ID":"6.3.2.32","name":"coenzyme gamma-F420-2:alpha-L-glutamate ligase","class":"Ligases","sysname":"L-glutamate:coenzyme gamma-F420-2 (ADP-forming)","reference":"1  [PMID:12909715]","reaction":"R09401"}
+{"ID":"6.3.2.32","name":"coenzyme gamma-F420-2:alpha-L-glutamate ligase","class":"Ligases","sysname":"L-glutamate:coenzyme gamma-F420-2 (ADP-forming)","reference":"1  [PMID:12909715]","reaction":["R09401"]}

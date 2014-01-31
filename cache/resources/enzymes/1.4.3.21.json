@@ -1,1 +1,1 @@
-{"ID":"1.4.3.21","name":"primary-amine oxidase","class":"Oxidoreductases","sysname":"primary-amine:oxygen oxidoreductase (deaminating)","reference":"1  [PMID:7337701]","reaction":"R01853"}
+{"ID":"1.4.3.21","name":"primary-amine oxidase","class":"Oxidoreductases","sysname":"primary-amine:oxygen oxidoreductase (deaminating)","reference":"1  [PMID:7337701]","reaction":{"0":"R01853","2":"R02382","3":"R02529","4":"R02613","5":"R03139","6":"R04027","7":"R04300","8":"R05334","9":"R06154","10":"R06740"}}

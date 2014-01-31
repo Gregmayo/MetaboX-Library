@@ -1,1 +1,1 @@
-{"ID":"2.7.1.170","name":"anhydro-N-acetylmuramic acid kinase","class":"Transferases","sysname":"ATP:1,6-anhydro-N-acetyl-beta-muramate 6-phosphotransferase","reference":"1  [PMID:15901686]","reaction":"R09640"}
+{"ID":"2.7.1.170","name":"anhydro-N-acetylmuramic acid kinase","class":"Transferases","sysname":"ATP:1,6-anhydro-N-acetyl-beta-muramate 6-phosphotransferase","reference":"1  [PMID:15901686]","reaction":{"0":"R09640","2":"R20291"}}

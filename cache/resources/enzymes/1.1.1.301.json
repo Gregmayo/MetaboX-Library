@@ -1,1 +1,1 @@
-{"ID":"1.1.1.301","name":"D-arabitol-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"D-arabitol-phosphate:NAD+ oxidoreductase","reference":"1  [PMID:12467497]","reaction":"R09544"}
+{"ID":"1.1.1.301","name":"D-arabitol-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"D-arabitol-phosphate:NAD+ oxidoreductase","reference":"1  [PMID:12467497]","reaction":["R09544"]}

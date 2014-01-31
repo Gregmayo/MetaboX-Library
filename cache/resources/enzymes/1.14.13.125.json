@@ -1,1 +1,1 @@
-{"ID":"1.14.13.125","name":"tryptophan N-monooxygenase","class":"Oxidoreductases","sysname":"L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)","reference":"1  [PMID:10922360]","reaction":"R08160"}
+{"ID":"1.14.13.125","name":"tryptophan N-monooxygenase","class":"Oxidoreductases","sysname":"L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)","reference":"1  [PMID:10922360]","reaction":["R08160","R09583","R09584","R09585"]}

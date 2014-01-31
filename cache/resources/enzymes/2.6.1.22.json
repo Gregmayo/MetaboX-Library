@@ -1,1 +1,1 @@
-{"ID":"2.6.1.22","name":"(S)-3-amino-2-methylpropionate transaminase","class":"Transferases","sysname":"(S)-3-amino-2-methylpropanoate:2-oxoglutarate aminotransferase","reference":"1  [PMID:5641913]","reaction":""}
+{"ID":"2.6.1.22","name":"(S)-3-amino-2-methylpropionate transaminase","class":"Transferases","sysname":"(S)-3-amino-2-methylpropanoate:2-oxoglutarate aminotransferase","reference":"1  [PMID:5641913]","reaction":["R04188"]}

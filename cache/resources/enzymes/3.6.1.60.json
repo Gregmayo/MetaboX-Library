@@ -1,1 +1,1 @@
-{"ID":"3.6.1.60","name":"diadenosine hexaphosphate hydrolase (AMP-forming)","class":"Hydrolases","sysname":"P1,P6-bis(5'-adenosyl)hexaphosphate nucleotidohydrolase (AMP-forming)","reference":"1  [PMID:12121577]","reaction":"R09881"}
+{"ID":"3.6.1.60","name":"diadenosine hexaphosphate hydrolase (AMP-forming)","class":"Hydrolases","sysname":"P1,P6-bis(5'-adenosyl)hexaphosphate nucleotidohydrolase (AMP-forming)","reference":"1  [PMID:12121577]","reaction":["R09881","R09882"]}

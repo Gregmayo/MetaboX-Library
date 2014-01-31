@@ -1,1 +1,1 @@
-{"ID":"1.4.1.18","name":"lysine 6-dehydrogenase","class":"Oxidoreductases","sysname":"L-lysine:NAD+ 6-oxidoreductase (deaminating)","reference":"1  [PMID:6801024]","reaction":"R10054"}
+{"ID":"1.4.1.18","name":"lysine 6-dehydrogenase","class":"Oxidoreductases","sysname":"L-lysine:NAD+ 6-oxidoreductase (deaminating)","reference":"1  [PMID:6801024]","reaction":["R10054","R00446","R02317"]}

@@ -1,1 +1,1 @@
-{"ID":"3.6.3.10","name":"H+\/K+-exchanging ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (H+\/K+-exchanging)","reference":"1  [PMID:5682852]","reaction":"R00086"}
+{"ID":"3.6.3.10","name":"H+\/K+-exchanging ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (H+\/K+-exchanging)","reference":"1  [PMID:5682852]","reaction":["R00086"]}

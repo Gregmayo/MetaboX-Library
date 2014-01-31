@@ -1,1 +1,1 @@
-{"ID":"2.4.2.30","name":"NAD+ ADP-ribosyltransferase","class":"Transferases","sysname":"NAD+:poly(ADP-D-ribosyl)-acceptor ADP-D-ribosyl-transferase","reference":"1  [PMID:3927821]","reaction":"R04176"}
+{"ID":"2.4.2.30","name":"NAD+ ADP-ribosyltransferase","class":"Transferases","sysname":"NAD+:poly(ADP-D-ribosyl)-acceptor ADP-D-ribosyl-transferase","reference":"1  [PMID:3927821]","reaction":["R04176"]}

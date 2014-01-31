@@ -1,1 +1,1 @@
-{"ID":"2.6.1.32","name":"valine---3-methyl-2-oxovalerate transaminase","class":"Transferases","sysname":"L-valine:(S)-3-methyl-2-oxopentanoate aminotransferase","reference":"1","reaction":"R02200"}
+{"ID":"2.6.1.32","name":"valine---3-methyl-2-oxovalerate transaminase","class":"Transferases","sysname":"L-valine:(S)-3-methyl-2-oxopentanoate aminotransferase","reference":"1","reaction":["R02200"]}

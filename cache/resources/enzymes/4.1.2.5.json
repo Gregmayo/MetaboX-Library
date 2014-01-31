@@ -1,1 +1,1 @@
-{"ID":"4.1.2.5","name":"L-threonine aldolase","class":"Lyases","sysname":"L-threonine acetaldehyde-lyase (glycine-forming)","reference":"1  [PMID:5419751]","reaction":"R00751"}
+{"ID":"4.1.2.5","name":"L-threonine aldolase","class":"Lyases","sysname":"L-threonine acetaldehyde-lyase (glycine-forming)","reference":"1  [PMID:5419751]","reaction":{"0":"R00751","2":"R06171","3":"R20291"}}

@@ -1,1 +1,1 @@
-{"ID":"2.7.4.14","name":"UMP\/CMP kinase","class":"Transferases","sysname":"ATP:CMP(UMP) phosphotransferase","reference":"1  [PMID:14405566]","reaction":"R00512"}
+{"ID":"2.7.4.14","name":"UMP\/CMP kinase","class":"Transferases","sysname":"ATP:CMP(UMP) phosphotransferase","reference":"1  [PMID:14405566]","reaction":{"0":"R00512","1":"R01665","4":"R00158","5":"R20291"}}

@@ -1,1 +1,1 @@
-{"ID":"2.6.1.81","name":"succinylornithine transaminase","class":"Transferases","sysname":"N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase","reference":"1  [PMID:2865249]","reaction":"R04217"}
+{"ID":"2.6.1.81","name":"succinylornithine transaminase","class":"Transferases","sysname":"N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase","reference":"1  [PMID:2865249]","reaction":["R04217"]}

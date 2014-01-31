@@ -1,1 +1,1 @@
-{"ID":"6.3.2.17","name":"tetrahydrofolate synthase","class":"Ligases","sysname":"tetrahydropteroyl-gamma-polyglutamate:L-glutamate gamma-ligase (ADP-forming)","reference":"1  [PMID:6458762]","reaction":"R04241"}
+{"ID":"6.3.2.17","name":"tetrahydrofolate synthase","class":"Ligases","sysname":"tetrahydropteroyl-gamma-polyglutamate:L-glutamate gamma-ligase (ADP-forming)","reference":"1  [PMID:6458762]","reaction":{"0":"R04241","2":"R00942","3":"R01654","4":"R02237","5":"R05197","6":"R20291"}}

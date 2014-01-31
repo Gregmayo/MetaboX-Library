@@ -1,1 +1,1 @@
-{"ID":"2.7.11.12","name":"cGMP-dependent protein kinase","class":"Transferases","sysname":"ATP:protein phosphotransferase (cGMP-dependent)","reference":"1  [PMID:186778]","reaction":"R00162"}
+{"ID":"2.7.11.12","name":"cGMP-dependent protein kinase","class":"Transferases","sysname":"ATP:protein phosphotransferase (cGMP-dependent)","reference":"1  [PMID:186778]","reaction":["R00162"]}

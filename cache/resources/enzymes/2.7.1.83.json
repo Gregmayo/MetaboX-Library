@@ -1,1 +1,1 @@
-{"ID":"2.7.1.83","name":"pseudouridine kinase","class":"Transferases","sysname":"ATP:pseudouridine 5'-phosphotransferase","reference":"1  [PMID:4334133]","reaction":"R03315"}
+{"ID":"2.7.1.83","name":"pseudouridine kinase","class":"Transferases","sysname":"ATP:pseudouridine 5'-phosphotransferase","reference":"1  [PMID:4334133]","reaction":["R03315"]}

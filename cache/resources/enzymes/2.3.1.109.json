@@ -1,1 +1,1 @@
-{"ID":"2.3.1.109","name":"arginine N-succinyltransferase","class":"Transferases","sysname":"succinyl-CoA:L-arginine N2-succinyltransferase","reference":"1  [PMID:3144259]","reaction":"R00832"}
+{"ID":"2.3.1.109","name":"arginine N-succinyltransferase","class":"Transferases","sysname":"succinyl-CoA:L-arginine N2-succinyltransferase","reference":"1  [PMID:3144259]","reaction":["R00832"]}

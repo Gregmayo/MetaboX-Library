@@ -1,1 +1,1 @@
-{"ID":"2.7.1.66","name":"undecaprenol kinase","class":"Transferases","sysname":"ATP:undecaprenol phosphotransferase","reference":"1  [PMID:4248528]","reaction":"R05626"}
+{"ID":"2.7.1.66","name":"undecaprenol kinase","class":"Transferases","sysname":"ATP:undecaprenol phosphotransferase","reference":"1  [PMID:4248528]","reaction":["R05626"]}

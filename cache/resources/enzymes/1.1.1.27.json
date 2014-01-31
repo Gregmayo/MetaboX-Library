@@ -1,1 +1,1 @@
-{"ID":"1.1.1.27","name":"L-lactate dehydrogenase","class":"Oxidoreductases","sysname":"(S)-lactate:NAD+ oxidoreductase","reference":"1  [PMID:13815938]","reaction":"R00703"}
+{"ID":"1.1.1.27","name":"L-lactate dehydrogenase","class":"Oxidoreductases","sysname":"(S)-lactate:NAD+ oxidoreductase","reference":"1  [PMID:13815938]","reaction":{"0":"R00703","2":"R01000","3":"R03104","4":"R20291"}}

@@ -1,1 +1,1 @@
-{"ID":"2.6.1.92","name":"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase","class":"Transferases","sysname":"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine:2-oxoglutarate aminotransferase","reference":"1  [PMID:16286454]","reaction":"R09825"}
+{"ID":"2.6.1.92","name":"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase","class":"Transferases","sysname":"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine:2-oxoglutarate aminotransferase","reference":"1  [PMID:16286454]","reaction":["R09825"]}

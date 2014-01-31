@@ -1,1 +1,1 @@
-{"ID":"6.3.2.19","name":"ubiquitin---protein ligase","class":"Ligases","sysname":"ubiquitin:protein-lysine N-ligase (AMP-forming)","reference":"1  [PMID:6277904]","reaction":"R03876"}
+{"ID":"6.3.2.19","name":"ubiquitin---protein ligase","class":"Ligases","sysname":"ubiquitin:protein-lysine N-ligase (AMP-forming)","reference":"1  [PMID:6277904]","reaction":{"0":"R03876","2":"R16219"}}

@@ -1,1 +1,1 @@
-{"ID":"1.8.1.7","name":"glutathione-disulfide reductase","class":"Oxidoreductases","sysname":"glutathione:NADP+ oxidoreductase","reference":"1","reaction":"R00115"}
+{"ID":"1.8.1.7","name":"glutathione-disulfide reductase","class":"Oxidoreductases","sysname":"glutathione:NADP+ oxidoreductase","reference":"1","reaction":{"0":"R00115","2":"R00094"}}

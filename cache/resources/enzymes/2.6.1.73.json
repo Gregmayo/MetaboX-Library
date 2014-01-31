@@ -1,1 +1,1 @@
-{"ID":"2.6.1.73","name":"methionine---glyoxylate transaminase","class":"Transferases","sysname":"L-methionine:glyoxylate aminotransferase","reference":"1","reaction":"R00652"}
+{"ID":"2.6.1.73","name":"methionine---glyoxylate transaminase","class":"Transferases","sysname":"L-methionine:glyoxylate aminotransferase","reference":"1","reaction":["R00652"]}

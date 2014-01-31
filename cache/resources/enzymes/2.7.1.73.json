@@ -1,1 +1,1 @@
-{"ID":"2.7.1.73","name":"inosine kinase","class":"Transferases","sysname":"ATP:inosine 5'-phosphotransferase","reference":"1  [PMID:5645030]","reaction":"R01131"}
+{"ID":"2.7.1.73","name":"inosine kinase","class":"Transferases","sysname":"ATP:inosine 5'-phosphotransferase","reference":"1  [PMID:5645030]","reaction":{"0":"R01131","2":"R01228"}}

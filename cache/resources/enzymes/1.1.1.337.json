@@ -1,1 +1,1 @@
-{"ID":"1.1.1.337","name":"L-2-hydroxycarboxylate dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"(2S)-2-hydroxycarboxylate:NAD+ oxidoreductase","reference":"1  [PMID:10850983]","reaction":"R10189"}
+{"ID":"1.1.1.337","name":"L-2-hydroxycarboxylate dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"(2S)-2-hydroxycarboxylate:NAD+ oxidoreductase","reference":"1  [PMID:10850983]","reaction":{"0":"R10189","2":"R07136"}}

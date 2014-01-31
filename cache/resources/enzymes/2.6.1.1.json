@@ -1,1 +1,1 @@
-{"ID":"2.6.1.1","name":"aspartate transaminase","class":"Transferases","sysname":"L-aspartate:2-oxoglutarate aminotransferase","reference":"1","reaction":"R00355"}
+{"ID":"2.6.1.1","name":"aspartate transaminase","class":"Transferases","sysname":"L-aspartate:2-oxoglutarate aminotransferase","reference":"1","reaction":{"0":"R00355","2":"R00694","3":"R00734","4":"R00895","5":"R00896","6":"R02433","7":"R02619","8":"R05052","9":"R20291"}}

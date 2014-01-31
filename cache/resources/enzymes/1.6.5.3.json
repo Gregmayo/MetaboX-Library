@@ -1,1 +1,1 @@
-{"ID":"1.6.5.3","name":"NADH:ubiquinone reductase (H+-translocating)","class":"Oxidoreductases","sysname":"NADH:ubiquinone oxidoreductase","reference":"1","reaction":"R02163"}
+{"ID":"1.6.5.3","name":"NADH:ubiquinone reductase (H+-translocating)","class":"Oxidoreductases","sysname":"NADH:ubiquinone oxidoreductase","reference":"1","reaction":{"0":"R02163","2":"R02166","3":"R20291"}}

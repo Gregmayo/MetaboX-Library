@@ -1,1 +1,1 @@
-{"ID":"1.1.1.76","name":"(S,S)-butanediol dehydrogenase","class":"Oxidoreductases","sysname":"(S,S)-butane-2,3-diol:NAD+ oxidoreductase","reference":"1  [PMID:13837186]","reaction":"R03707"}
+{"ID":"1.1.1.76","name":"(S,S)-butanediol dehydrogenase","class":"Oxidoreductases","sysname":"(S,S)-butane-2,3-diol:NAD+ oxidoreductase","reference":"1  [PMID:13837186]","reaction":["R03707"]}

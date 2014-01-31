@@ -1,1 +1,1 @@
-{"ID":"6.2.1.13","name":"acetate---CoA ligase (ADP-forming)","class":"Ligases","sysname":"acetate:CoA ligase (ADP-forming)","reference":"1  [PMID:13076]","reaction":"R00229"}
+{"ID":"6.2.1.13","name":"acetate---CoA ligase (ADP-forming)","class":"Ligases","sysname":"acetate:CoA ligase (ADP-forming)","reference":"1  [PMID:13076]","reaction":{"0":"R00229","2":"R00920"}}

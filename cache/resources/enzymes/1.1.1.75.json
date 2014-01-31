@@ -1,1 +1,1 @@
-{"ID":"1.1.1.75","name":"(R)-aminopropanol dehydrogenase","class":"Oxidoreductases","sysname":"(R)-1-aminopropan-2-ol:NAD+ oxidoreductase","reference":"1  [PMID:4385233]","reaction":"R03759"}
+{"ID":"1.1.1.75","name":"(R)-aminopropanol dehydrogenase","class":"Oxidoreductases","sysname":"(R)-1-aminopropan-2-ol:NAD+ oxidoreductase","reference":"1  [PMID:4385233]","reaction":["R03759"]}

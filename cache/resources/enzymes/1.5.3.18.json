@@ -1,1 +1,1 @@
-{"ID":"1.5.3.18","name":"L-saccharopine oxidase","class":"Oxidoreductases","sysname":"L-saccharopine:oxygen oxidoreductase (L-glutamate forming)","reference":"1  [PMID:16233628]","reaction":"R09495"}
+{"ID":"1.5.3.18","name":"L-saccharopine oxidase","class":"Oxidoreductases","sysname":"L-saccharopine:oxygen oxidoreductase (L-glutamate forming)","reference":"1  [PMID:16233628]","reaction":["R09495"]}

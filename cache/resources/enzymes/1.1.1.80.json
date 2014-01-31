@@ -1,1 +1,1 @@
-{"ID":"1.1.1.80","name":"isopropanol dehydrogenase (NADP+)","class":"Oxidoreductases","sysname":"propan-2-ol:NADP+ oxidoreductase","reference":"1","reaction":"R01550"}
+{"ID":"1.1.1.80","name":"isopropanol dehydrogenase (NADP+)","class":"Oxidoreductases","sysname":"propan-2-ol:NADP+ oxidoreductase","reference":"1","reaction":["R01550"]}

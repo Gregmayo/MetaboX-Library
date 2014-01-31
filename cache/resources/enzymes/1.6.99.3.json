@@ -1,1 +1,1 @@
-{"ID":"1.6.99.3","name":"NADH dehydrogenase","class":"Oxidoreductases","sysname":"NADH:acceptor oxidoreductase","reference":"1  [PMID:4402556]","reaction":"R00281"}
+{"ID":"1.6.99.3","name":"NADH dehydrogenase","class":"Oxidoreductases","sysname":"NADH:acceptor oxidoreductase","reference":"1  [PMID:4402556]","reaction":["R00281"]}

@@ -1,1 +1,1 @@
-{"ID":"1.1.1.62","name":"17beta-estradiol 17-dehydrogenase","class":"Oxidoreductases","sysname":"17beta-estradiol:NAD(P)+ 17-oxidoreductase","reference":"1  [PMID:4314937]","reaction":"R02352"}
+{"ID":"1.1.1.62","name":"17beta-estradiol 17-dehydrogenase","class":"Oxidoreductases","sysname":"17beta-estradiol:NAD(P)+ 17-oxidoreductase","reference":"1  [PMID:4314937]","reaction":{"0":"R02352","1":"R02353","4":"R04681","5":"R04682","6":"R08945","7":"R08980"}}

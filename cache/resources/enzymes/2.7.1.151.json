@@ -1,1 +1,1 @@
-{"ID":"2.7.1.151","name":"inositol-polyphosphate multikinase","class":"Transferases","sysname":"ATP:1D-myo-inositol-1,4,5-trisphosphate 6-phosphotransferase","reference":"1  [PMID:10574768]","reaction":"R10065"}
+{"ID":"2.7.1.151","name":"inositol-polyphosphate multikinase","class":"Transferases","sysname":"ATP:1D-myo-inositol-1,4,5-trisphosphate 6-phosphotransferase","reference":"1  [PMID:10574768]","reaction":["R10065","R05800","R05801"]}

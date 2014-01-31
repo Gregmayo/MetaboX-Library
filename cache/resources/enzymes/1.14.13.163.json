@@ -1,1 +1,1 @@
-{"ID":"1.14.13.163","name":"6-hydroxy-3-succinoylpyridine 3-monooxygenase","class":"Oxidoreductases","sysname":"4-(6-hydroxypyridin-3-yl)-4-oxobutanoate,NADH:oxygen oxidoreductase (3-hydroxylating, succinate semialdehyde releasing)","reference":"1  [PMID:18203859]","reaction":"R09472"}
+{"ID":"1.14.13.163","name":"6-hydroxy-3-succinoylpyridine 3-monooxygenase","class":"Oxidoreductases","sysname":"4-(6-hydroxypyridin-3-yl)-4-oxobutanoate,NADH:oxygen oxidoreductase (3-hydroxylating, succinate semialdehyde releasing)","reference":"1  [PMID:18203859]","reaction":["R09472"]}

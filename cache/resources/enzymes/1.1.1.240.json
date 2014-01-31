@@ -1,1 +1,1 @@
-{"ID":"1.1.1.240","name":"N-acetylhexosamine 1-dehydrogenase","class":"Oxidoreductases","sysname":"N-acetyl-D-hexosamine:NAD+ 1-oxidoreductase","reference":"1","reaction":"R01202"}
+{"ID":"1.1.1.240","name":"N-acetylhexosamine 1-dehydrogenase","class":"Oxidoreductases","sysname":"N-acetyl-D-hexosamine:NAD+ 1-oxidoreductase","reference":"1","reaction":["R01202"]}

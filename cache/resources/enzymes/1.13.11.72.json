@@ -1,1 +1,1 @@
-{"ID":"1.13.11.72","name":"2-hydroxyethylphosphonate dioxygenase","class":"Oxidoreductases","sysname":"2-hydroxyethylphosphonate:O2 1,2-oxidoreductase (hydroxymethylphosphonate forming)","reference":"1  [PMID:19516340]","reaction":"R08864"}
+{"ID":"1.13.11.72","name":"2-hydroxyethylphosphonate dioxygenase","class":"Oxidoreductases","sysname":"2-hydroxyethylphosphonate:O2 1,2-oxidoreductase (hydroxymethylphosphonate forming)","reference":"1  [PMID:19516340]","reaction":["R08864"]}

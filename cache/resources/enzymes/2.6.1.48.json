@@ -1,1 +1,1 @@
-{"ID":"2.6.1.48","name":"5-aminovalerate transaminase","class":"Transferases","sysname":"5-aminopentanoate:2-oxoglutarate aminotransferase","reference":"1","reaction":"R02274"}
+{"ID":"2.6.1.48","name":"5-aminovalerate transaminase","class":"Transferases","sysname":"5-aminopentanoate:2-oxoglutarate aminotransferase","reference":"1","reaction":["R02274"]}

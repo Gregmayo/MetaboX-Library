@@ -1,1 +1,1 @@
-{"ID":"1.5.1.2","name":"pyrroline-5-carboxylate reductase","class":"Oxidoreductases","sysname":"L-proline:NAD(P)+ 5-oxidoreductase","reference":"1  [PMID:13681369]","reaction":"R01248"}
+{"ID":"1.5.1.2","name":"pyrroline-5-carboxylate reductase","class":"Oxidoreductases","sysname":"L-proline:NAD(P)+ 5-oxidoreductase","reference":"1  [PMID:13681369]","reaction":{"0":"R01248","1":"R01251","4":"R03291","5":"R03293","6":"R20291"}}

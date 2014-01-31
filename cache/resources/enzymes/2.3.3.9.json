@@ -1,1 +1,1 @@
-{"ID":"2.3.3.9","name":"malate synthase","class":"Transferases","sysname":"acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)","reference":"1  [PMID:13816984]","reaction":"R00472"}
+{"ID":"2.3.3.9","name":"malate synthase","class":"Transferases","sysname":"acetyl-CoA:glyoxylate C-acetyltransferase (thioester-hydrolysing, carboxymethyl-forming)","reference":"1  [PMID:13816984]","reaction":["R00472"]}

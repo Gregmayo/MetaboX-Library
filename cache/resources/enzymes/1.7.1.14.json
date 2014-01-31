@@ -1,1 +1,1 @@
-{"ID":"1.7.1.14","name":"nitric oxide reductase [NAD(P)+, nitrous oxide-forming]","class":"Oxidoreductases","sysname":"nitrous oxide:NAD(P) oxidoreductase","reference":"1  [PMID:2040619]","reaction":"R02492"}
+{"ID":"1.7.1.14","name":"nitric oxide reductase [NAD(P)+, nitrous oxide-forming]","class":"Oxidoreductases","sysname":"nitrous oxide:NAD(P) oxidoreductase","reference":"1  [PMID:2040619]","reaction":{"0":"R02492","1":"R09446","4":"R09808","5":"R09809"}}

@@ -1,1 +1,1 @@
-{"ID":"1.14.12.18","name":"biphenyl 2,3-dioxygenase","class":"Oxidoreductases","sysname":"biphenyl,NADH:oxygen oxidoreductase (2,3-hydroxylating)","reference":"1  [PMID:7592331]","reaction":"R05263"}
+{"ID":"1.14.12.18","name":"biphenyl 2,3-dioxygenase","class":"Oxidoreductases","sysname":"biphenyl,NADH:oxygen oxidoreductase (2,3-hydroxylating)","reference":"1  [PMID:7592331]","reaction":{"0":"R05263","2":"R05261","3":"R05262","4":"R05264"}}

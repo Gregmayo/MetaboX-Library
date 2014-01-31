@@ -1,1 +1,1 @@
-{"ID":"1.1.1.318","name":"eugenol synthase","class":"Oxidoreductases","sysname":"eugenol:NADP+ oxidoreductase (coniferyl ester reducing)","reference":"1  [PMID:16782809]","reaction":"R09930"}
+{"ID":"1.1.1.318","name":"eugenol synthase","class":"Oxidoreductases","sysname":"eugenol:NADP+ oxidoreductase (coniferyl ester reducing)","reference":"1  [PMID:16782809]","reaction":{"0":"R09930","2":"R10248","3":"R10249"}}

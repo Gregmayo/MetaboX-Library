@@ -1,1 +1,1 @@
-{"ID":"2.7.1.86","name":"NADH kinase","class":"Transferases","sysname":"ATP:NADH 2'-phosphotransferase","reference":"1  [PMID:4335000]","reaction":"R00105"}
+{"ID":"2.7.1.86","name":"NADH kinase","class":"Transferases","sysname":"ATP:NADH 2'-phosphotransferase","reference":"1  [PMID:4335000]","reaction":["R00105"]}

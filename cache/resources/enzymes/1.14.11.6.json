@@ -1,1 +1,1 @@
-{"ID":"1.14.11.6","name":"thymine dioxygenase","class":"Oxidoreductases","sysname":"thymine,2-oxoglutarate:oxygen oxidoreductase (7-hydroxylating)","reference":"1  [PMID:11946494]","reaction":"R01412"}
+{"ID":"1.14.11.6","name":"thymine dioxygenase","class":"Oxidoreductases","sysname":"thymine,2-oxoglutarate:oxygen oxidoreductase (7-hydroxylating)","reference":"1  [PMID:11946494]","reaction":{"0":"R01412","2":"R08610","3":"R08611"}}

@@ -1,1 +1,1 @@
-{"ID":"6.2.1.32","name":"anthranilate---CoA ligase","class":"Ligases","sysname":"anthranilate:CoA ligase (AMP-forming)","reference":"1  [PMID:2176602]","reaction":"R00982"}
+{"ID":"6.2.1.32","name":"anthranilate---CoA ligase","class":"Ligases","sysname":"anthranilate:CoA ligase (AMP-forming)","reference":"1  [PMID:2176602]","reaction":{"0":"R00982","2":"R07416"}}

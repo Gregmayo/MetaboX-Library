@@ -1,1 +1,1 @@
-{"ID":"2.7.1.40","name":"pyruvate kinase","class":"Transferases","sysname":"ATP:pyruvate 2-O-phosphotransferase","reference":"1","reaction":"R00200"}
+{"ID":"2.7.1.40","name":"pyruvate kinase","class":"Transferases","sysname":"ATP:pyruvate 2-O-phosphotransferase","reference":"1","reaction":{"0":"R00200","2":"R00430","3":"R00572","4":"R00659","5":"R00724","6":"R01138","7":"R01858","8":"R02320","9":"R20291"}}

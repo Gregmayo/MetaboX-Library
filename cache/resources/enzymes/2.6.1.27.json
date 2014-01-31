@@ -1,1 +1,1 @@
-{"ID":"2.6.1.27","name":"tryptophan transaminase","class":"Transferases","sysname":"L-tryptophan:2-oxoglutarate aminotransferase","reference":"1  [PMID:5722279]","reaction":"R00684"}
+{"ID":"2.6.1.27","name":"tryptophan transaminase","class":"Transferases","sysname":"L-tryptophan:2-oxoglutarate aminotransferase","reference":"1  [PMID:5722279]","reaction":{"0":"R00684","2":"R02700"}}

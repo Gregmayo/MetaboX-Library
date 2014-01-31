@@ -1,1 +1,1 @@
-{"ID":"6.2.1.35","name":"ACP-SH:acetate ligase","class":"Ligases","sysname":"acetate:[acyl-carrier-protein] ligase (AMP-forming)","reference":"1  [PMID:1628643]","reaction":"R09475"}
+{"ID":"6.2.1.35","name":"ACP-SH:acetate ligase","class":"Ligases","sysname":"acetate:[acyl-carrier-protein] ligase (AMP-forming)","reference":"1  [PMID:1628643]","reaction":["R09475"]}

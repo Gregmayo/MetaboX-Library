@@ -1,1 +1,1 @@
-{"ID":"2.7.13.1","name":"protein-histidine pros-kinase","class":"Transferases","sysname":"ATP:protein-L-histidine Npi-phosphotransferase","reference":"1  [PMID:7196259]","reaction":"R02625"}
+{"ID":"2.7.13.1","name":"protein-histidine pros-kinase","class":"Transferases","sysname":"ATP:protein-L-histidine Npi-phosphotransferase","reference":"1  [PMID:7196259]","reaction":["R02625"]}

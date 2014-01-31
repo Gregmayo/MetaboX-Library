@@ -1,1 +1,1 @@
-{"ID":"3.6.3.50","name":"protein-secreting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (protein-secreting)","reference":"1  [PMID:8022262]","reaction":"R00086"}
+{"ID":"3.6.3.50","name":"protein-secreting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (protein-secreting)","reference":"1  [PMID:8022262]","reaction":["R00086"]}

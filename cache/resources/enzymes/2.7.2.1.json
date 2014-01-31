@@ -1,1 +1,1 @@
-{"ID":"2.7.2.1","name":"acetate kinase","class":"Transferases","sysname":"ATP:acetate phosphotransferase","reference":"1  [PMID:6956338]","reaction":"R00315"}
+{"ID":"2.7.2.1","name":"acetate kinase","class":"Transferases","sysname":"ATP:acetate phosphotransferase","reference":"1  [PMID:6956338]","reaction":{"0":"R00315","2":"R01353","3":"R20291"}}

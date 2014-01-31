@@ -1,1 +1,1 @@
-{"ID":"3.2.1.22","name":"alpha-galactosidase","class":"Hydrolases","sysname":"alpha-D-galactoside galactohydrolase","reference":"1  [PMID:5418105]","reaction":""}
+{"ID":"3.2.1.22","name":"alpha-galactosidase","class":"Hydrolases","sysname":"alpha-D-galactoside galactohydrolase","reference":"1  [PMID:5418105]","reaction":["R01101","R01103","R01104","R01194","R01329","R02926","R03618","R03634","R04019","R04470","R05549","R05961","R06070","R06091","R06093","R06094","R06096","R06142","R06152"]}

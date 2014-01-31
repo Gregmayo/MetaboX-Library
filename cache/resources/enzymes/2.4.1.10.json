@@ -1,1 +1,1 @@
-{"ID":"2.4.1.10","name":"levansucrase","class":"Transferases","sysname":"sucrose:[6)-beta-D-fructofuranosyl-(2->]n alpha-D-glucopyranoside 6-beta-D-fructosyltransferase","reference":"1","reaction":"R05140"}
+{"ID":"2.4.1.10","name":"levansucrase","class":"Transferases","sysname":"sucrose:[6)-beta-D-fructofuranosyl-(2->]n alpha-D-glucopyranoside 6-beta-D-fructosyltransferase","reference":"1","reaction":["R05140","R06079"]}

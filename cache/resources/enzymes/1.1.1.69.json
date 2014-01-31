@@ -1,1 +1,1 @@
-{"ID":"1.1.1.69","name":"gluconate 5-dehydrogenase","class":"Oxidoreductases","sysname":"D-gluconate:NAD(P)+ 5-oxidoreductase","reference":"1","reaction":"R01738"}
+{"ID":"1.1.1.69","name":"gluconate 5-dehydrogenase","class":"Oxidoreductases","sysname":"D-gluconate:NAD(P)+ 5-oxidoreductase","reference":"1","reaction":["R01738","R01740"]}

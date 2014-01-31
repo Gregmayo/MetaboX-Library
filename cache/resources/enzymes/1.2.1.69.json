@@ -1,1 +1,1 @@
-{"ID":"1.2.1.69","name":"fluoroacetaldehyde dehydrogenase","class":"Oxidoreductases","sysname":"fluoroacetaldehyde:NAD+ oxidoreductase","reference":"1  [PMID:11571203]","reaction":"R07156"}
+{"ID":"1.2.1.69","name":"fluoroacetaldehyde dehydrogenase","class":"Oxidoreductases","sysname":"fluoroacetaldehyde:NAD+ oxidoreductase","reference":"1  [PMID:11571203]","reaction":["R07156"]}

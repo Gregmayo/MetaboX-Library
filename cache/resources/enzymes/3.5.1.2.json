@@ -1,1 +1,1 @@
-{"ID":"3.5.1.2","name":"glutaminase","class":"Hydrolases","sysname":"L-glutamine amidohydrolase","reference":"1  [PMID:5800436]","reaction":"R00256"}
+{"ID":"3.5.1.2","name":"glutaminase","class":"Hydrolases","sysname":"L-glutamine amidohydrolase","reference":"1  [PMID:5800436]","reaction":{"0":"R00256","2":"R01579","3":"R06134","4":"R20291"}}

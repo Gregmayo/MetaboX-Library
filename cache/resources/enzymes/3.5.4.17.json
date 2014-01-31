@@ -1,1 +1,1 @@
-{"ID":"3.5.4.17","name":"adenosine-phosphate deaminase","class":"Hydrolases","sysname":"adenosine-phosphate aminohydrolase","reference":"1  [PMID:5940938]","reaction":"R00181"}
+{"ID":"3.5.4.17","name":"adenosine-phosphate deaminase","class":"Hydrolases","sysname":"adenosine-phosphate aminohydrolase","reference":"1  [PMID:5940938]","reaction":["R00181"]}

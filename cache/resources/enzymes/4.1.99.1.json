@@ -1,1 +1,1 @@
-{"ID":"4.1.99.1","name":"tryptophanase","class":"Lyases","sysname":"L-tryptophan indole-lyase (deaminating pyruvate-forming)","reference":"1  [PMID:14017164]","reaction":"R00673"}
+{"ID":"4.1.99.1","name":"tryptophanase","class":"Lyases","sysname":"L-tryptophan indole-lyase (deaminating pyruvate-forming)","reference":"1  [PMID:14017164]","reaction":["R00673"]}

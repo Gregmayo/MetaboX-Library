@@ -1,1 +1,1 @@
-{"ID":"3.1.1.22","name":"hydroxybutyrate-dimer hydrolase","class":"Hydrolases","sysname":"(R)-3-((R)-3-hydroxybutanoyloxy)butanoate hydroxybutanoylhydrolase","reference":"1  [PMID:4954074]","reaction":"R00048"}
+{"ID":"3.1.1.22","name":"hydroxybutyrate-dimer hydrolase","class":"Hydrolases","sysname":"(R)-3-((R)-3-hydroxybutanoyloxy)butanoate hydroxybutanoylhydrolase","reference":"1  [PMID:4954074]","reaction":["R00048"]}

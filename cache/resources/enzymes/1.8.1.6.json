@@ -1,1 +1,1 @@
-{"ID":"1.8.1.6","name":"cystine reductase","class":"Oxidoreductases","sysname":"L-cysteine:NAD+ oxidoreductase","reference":"1  [PMID:13174550]","reaction":"R00892"}
+{"ID":"1.8.1.6","name":"cystine reductase","class":"Oxidoreductases","sysname":"L-cysteine:NAD+ oxidoreductase","reference":"1  [PMID:13174550]","reaction":["R00892"]}

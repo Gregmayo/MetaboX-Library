@@ -1,1 +1,1 @@
-{"ID":"1.14.13.178","name":"methylxanthine N1-demethylase","class":"Oxidoreductases","sysname":"caffeine:oxygen oxidoreductase (N1-demethylating)","reference":"1  [PMID:20966097]","reaction":"R07955"}
+{"ID":"1.14.13.178","name":"methylxanthine N1-demethylase","class":"Oxidoreductases","sysname":"caffeine:oxygen oxidoreductase (N1-demethylating)","reference":"1  [PMID:20966097]","reaction":{"0":"R07955","1":"R07956","2":"R07973","3":"R07974","4":"R07957","5":"R07958","12":"R07969","13":"R07970"}}

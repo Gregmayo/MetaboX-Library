@@ -1,1 +1,1 @@
-{"ID":"1.3.1.49","name":"cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase","class":"Oxidoreductases","sysname":"(+)-cis-3,4-dihydrophenanthrene-3,4-diol:NAD+ 3,4-oxidoreductase","reference":"1","reaction":"R04151"}
+{"ID":"1.3.1.49","name":"cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase","class":"Oxidoreductases","sysname":"(+)-cis-3,4-dihydrophenanthrene-3,4-diol:NAD+ 3,4-oxidoreductase","reference":"1","reaction":["R04151"]}

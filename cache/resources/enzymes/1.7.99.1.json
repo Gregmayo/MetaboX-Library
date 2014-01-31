@@ -1,1 +1,1 @@
-{"ID":"1.7.99.1","name":"hydroxylamine reductase","class":"Oxidoreductases","sysname":"ammonia:acceptor oxidoreductase","reference":"1","reaction":"R00284"}
+{"ID":"1.7.99.1","name":"hydroxylamine reductase","class":"Oxidoreductases","sysname":"ammonia:acceptor oxidoreductase","reference":"1","reaction":{"0":"R00284","2":"R00143","3":"R20291"}}

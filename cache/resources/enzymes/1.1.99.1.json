@@ -1,1 +1,1 @@
-{"ID":"1.1.99.1","name":"choline dehydrogenase","class":"Oxidoreductases","sysname":"choline:acceptor 1-oxidoreductase","reference":"1","reaction":"R01025"}
+{"ID":"1.1.99.1","name":"choline dehydrogenase","class":"Oxidoreductases","sysname":"choline:acceptor 1-oxidoreductase","reference":"1","reaction":["R01025"]}

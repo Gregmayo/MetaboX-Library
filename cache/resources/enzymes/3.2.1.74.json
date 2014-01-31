@@ -1,1 +1,1 @@
-{"ID":"3.2.1.74","name":"glucan 1,4-beta-glucosidase","class":"Hydrolases","sysname":"4-beta-D-glucan glucohydrolase","reference":"1","reaction":""}
+{"ID":"3.2.1.74","name":"glucan 1,4-beta-glucosidase","class":"Hydrolases","sysname":"4-beta-D-glucan glucohydrolase","reference":"1","reaction":["R00306","R01444","R03801","R03802","R05141","R05142","R06104","R06105","R06106","R06107","R06108","R06109"]}

@@ -1,1 +1,1 @@
-{"ID":"2.3.1.61","name":"dihydrolipoyllysine-residue succinyltransferase","class":"Transferases","sysname":"succinyl-CoA:enzyme-N6-(dihydrolipoyl)lysine S-succinyltransferase","reference":"1  [PMID:4942179]","reaction":"R02570"}
+{"ID":"2.3.1.61","name":"dihydrolipoyllysine-residue succinyltransferase","class":"Transferases","sysname":"succinyl-CoA:enzyme-N6-(dihydrolipoyl)lysine S-succinyltransferase","reference":"1  [PMID:4942179]","reaction":{"0":"R02570","2":"R01933","3":"R02571","4":"R08549"}}

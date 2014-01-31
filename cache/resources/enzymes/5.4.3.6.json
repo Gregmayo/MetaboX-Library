@@ -1,1 +1,1 @@
-{"ID":"5.4.3.6","name":"tyrosine 2,3-aminomutase","class":"Isomerases","sysname":"L-tyrosine 2,3-aminomutase","reference":"1  [PMID:5021987]","reaction":"R00739"}
+{"ID":"5.4.3.6","name":"tyrosine 2,3-aminomutase","class":"Isomerases","sysname":"L-tyrosine 2,3-aminomutase","reference":"1  [PMID:5021987]","reaction":["R00739"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.4.10","name":"nucleoside-triphosphate---adenylate kinase","class":"Transferases","sysname":"nucleoside-triphosphate:AMP phosphotransferase","reference":"1  [PMID:5423264]","reaction":"R00333"}
+{"ID":"2.7.4.10","name":"nucleoside-triphosphate---adenylate kinase","class":"Transferases","sysname":"nucleoside-triphosphate:AMP phosphotransferase","reference":"1  [PMID:5423264]","reaction":{"0":"R00333","2":"R00157"}}

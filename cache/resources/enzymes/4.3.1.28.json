@@ -1,1 +1,1 @@
-{"ID":"4.3.1.28","name":"L-lysine cyclodeaminase","class":"Lyases","sysname":"L-lysine ammonia-lyase (cyclizing ammonia-forming)","reference":"1  [PMID:9473033]","reaction":"R10277"}
+{"ID":"4.3.1.28","name":"L-lysine cyclodeaminase","class":"Lyases","sysname":"L-lysine ammonia-lyase (cyclizing ammonia-forming)","reference":"1  [PMID:9473033]","reaction":["R10277"]}

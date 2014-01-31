@@ -1,1 +1,1 @@
-{"ID":"2.7.1.19","name":"phosphoribulokinase","class":"Transferases","sysname":"ATP:D-ribulose-5-phosphate 1-phosphotransferase","reference":"1  [PMID:13295229]","reaction":"R01523"}
+{"ID":"2.7.1.19","name":"phosphoribulokinase","class":"Transferases","sysname":"ATP:D-ribulose-5-phosphate 1-phosphotransferase","reference":"1  [PMID:13295229]","reaction":["R01523"]}

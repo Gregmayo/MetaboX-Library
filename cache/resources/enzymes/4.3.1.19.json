@@ -1,1 +1,1 @@
-{"ID":"4.3.1.19","name":"threonine ammonia-lyase","class":"Lyases","sysname":"L-threonine ammonia-lyase (2-oxobutanoate-forming)","reference":"1  [PMID:4814721]","reaction":"R00996"}
+{"ID":"4.3.1.19","name":"threonine ammonia-lyase","class":"Lyases","sysname":"L-threonine ammonia-lyase (2-oxobutanoate-forming)","reference":"1  [PMID:4814721]","reaction":{"0":"R00996","2":"R00220","3":"R06131","4":"R20291"}}

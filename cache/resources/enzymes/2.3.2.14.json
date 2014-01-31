@@ -1,1 +1,1 @@
-{"ID":"2.3.2.14","name":"D-alanine gamma-glutamyltransferase","class":"Transferases","sysname":"L-glutamine:D-alanine gamma-glutamyltransferase","reference":"1","reaction":"R01149"}
+{"ID":"2.3.2.14","name":"D-alanine gamma-glutamyltransferase","class":"Transferases","sysname":"L-glutamine:D-alanine gamma-glutamyltransferase","reference":"1","reaction":["R01149"]}

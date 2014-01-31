@@ -1,1 +1,1 @@
-{"ID":"2.3.1.152","name":"alcohol O-cinnamoyltransferase","class":"Transferases","sysname":"1-O-trans-cinnamoyl-beta-D-glucopyranose:alcohol O-cinnamoyltransferase","reference":"1","reaction":"R04411"}
+{"ID":"2.3.1.152","name":"alcohol O-cinnamoyltransferase","class":"Transferases","sysname":"1-O-trans-cinnamoyl-beta-D-glucopyranose:alcohol O-cinnamoyltransferase","reference":"1","reaction":{"0":"R04411","2":"R04409","3":"R04410","4":"R05061"}}

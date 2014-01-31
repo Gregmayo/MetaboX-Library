@@ -1,1 +1,1 @@
-{"ID":"3.5.1.104","name":"peptidoglycan-N-acetylglucosamine deacetylase","class":"Hydrolases","sysname":"peptidoglycan-N-acetylglucosamine amidohydrolase","reference":"1  [PMID:15961396]","reaction":"R09721"}
+{"ID":"3.5.1.104","name":"peptidoglycan-N-acetylglucosamine deacetylase","class":"Hydrolases","sysname":"peptidoglycan-N-acetylglucosamine amidohydrolase","reference":"1  [PMID:15961396]","reaction":["R09721"]}

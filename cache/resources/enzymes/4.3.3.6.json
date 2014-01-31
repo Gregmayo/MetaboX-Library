@@ -1,1 +1,1 @@
-{"ID":"4.3.3.6","name":"pyridoxal 5'-phosphate synthase (glutamine hydrolysing)","class":"Lyases","sysname":"D-ribose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase","reference":"1  [PMID:15771487]","reaction":"R10089"}
+{"ID":"4.3.3.6","name":"pyridoxal 5'-phosphate synthase (glutamine hydrolysing)","class":"Lyases","sysname":"D-ribose 5-phosphate,D-glyceraldehyde 3-phosphate pyridoxal 5'-phosphate-lyase","reference":"1  [PMID:15771487]","reaction":{"0":"R10089","1":"R00256","2":"R10088","6":"R07456"}}

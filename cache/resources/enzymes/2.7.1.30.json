@@ -1,1 +1,1 @@
-{"ID":"2.7.1.30","name":"glycerol kinase","class":"Transferases","sysname":"ATP:glycerol 3-phosphotransferase","reference":"1","reaction":"R00847"}
+{"ID":"2.7.1.30","name":"glycerol kinase","class":"Transferases","sysname":"ATP:glycerol 3-phosphotransferase","reference":"1","reaction":{"0":"R00847","2":"R20291"}}

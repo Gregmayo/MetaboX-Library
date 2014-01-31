@@ -1,1 +1,1 @@
-{"ID":"2.7.4.12","name":"T2-induced deoxynucleotide kinase","class":"Transferases","sysname":"ATP:(d)NMP phosphotransferase","reference":"1  [PMID:13967158]","reaction":"R02090"}
+{"ID":"2.7.4.12","name":"T2-induced deoxynucleotide kinase","class":"Transferases","sysname":"ATP:(d)NMP phosphotransferase","reference":"1  [PMID:13967158]","reaction":{"0":"R02090","1":"R02094","4":"R00140"}}

@@ -1,1 +1,1 @@
-{"ID":"5.1.1.9","name":"arginine racemase","class":"Isomerases","sysname":"arginine racemase","reference":"1  [PMID:5779761]","reaction":"R00567"}
+{"ID":"5.1.1.9","name":"arginine racemase","class":"Isomerases","sysname":"arginine racemase","reference":"1  [PMID:5779761]","reaction":{"0":"R00567","2":"R00460","3":"R00672"}}

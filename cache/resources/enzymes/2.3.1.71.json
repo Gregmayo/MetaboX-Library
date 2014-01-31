@@ -1,1 +1,1 @@
-{"ID":"2.3.1.71","name":"glycine N-benzoyltransferase","class":"Transferases","sysname":"benzoyl-CoA:glycine N-benzoyltransferase","reference":"1  [PMID:457678]","reaction":""}
+{"ID":"2.3.1.71","name":"glycine N-benzoyltransferase","class":"Transferases","sysname":"benzoyl-CoA:glycine N-benzoyltransferase","reference":"1  [PMID:457678]","reaction":["R02452"]}

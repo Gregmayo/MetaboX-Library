@@ -1,1 +1,1 @@
-{"ID":"4.3.99.4","name":"choline trimethylamine-lyase","class":"Lyases","sysname":"choline trimethylamine-lyase (acetaldehyde-forming)","reference":"1  [PMID:23151509]","reaction":"R10285"}
+{"ID":"4.3.99.4","name":"choline trimethylamine-lyase","class":"Lyases","sysname":"choline trimethylamine-lyase (acetaldehyde-forming)","reference":"1  [PMID:23151509]","reaction":["R10285"]}

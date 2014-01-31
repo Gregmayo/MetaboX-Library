@@ -1,1 +1,1 @@
-{"ID":"1.1.1.53","name":"3alpha(or 20beta)-hydroxysteroid dehydrogenase","class":"Oxidoreductases","sysname":"3alpha(or 20beta)-hydroxysteroid:NAD+ oxidoreductase","reference":"1  [PMID:718844]","reaction":"R04330"}
+{"ID":"1.1.1.53","name":"3alpha(or 20beta)-hydroxysteroid dehydrogenase","class":"Oxidoreductases","sysname":"3alpha(or 20beta)-hydroxysteroid:NAD+ oxidoreductase","reference":"1  [PMID:718844]","reaction":{"0":"R04330","2":"R04831","3":"R04834","4":"R04844","5":"R04847"}}

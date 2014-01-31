@@ -1,1 +1,1 @@
-{"ID":"1.1.1.312","name":"2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase","class":"Oxidoreductases","sysname":"4-carboxy-2-hydroxymuconate semialdehyde hemiacetal:NADP+ 2-oxidoreductase","reference":"1  [PMID:26671]","reaction":"R04279"}
+{"ID":"1.1.1.312","name":"2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase","class":"Oxidoreductases","sysname":"4-carboxy-2-hydroxymuconate semialdehyde hemiacetal:NADP+ 2-oxidoreductase","reference":"1  [PMID:26671]","reaction":{"0":"R04279","2":"R04278","3":"R04418","4":"R04419"}}

@@ -1,1 +1,1 @@
-{"ID":"1.4.99.2","name":"taurine dehydrogenase","class":"Oxidoreductases","sysname":"taurine:acceptor oxidoreductase (deaminating)","reference":"1  [PMID:4724302]","reaction":"R07167"}
+{"ID":"1.4.99.2","name":"taurine dehydrogenase","class":"Oxidoreductases","sysname":"taurine:acceptor oxidoreductase (deaminating)","reference":"1  [PMID:4724302]","reaction":["R07167"]}

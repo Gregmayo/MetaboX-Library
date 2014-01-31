@@ -1,1 +1,1 @@
-{"ID":"3.1.6.3","name":"glycosulfatase","class":"Hydrolases","sysname":"sugar-sulfate sulfohydrolase","reference":"1  [PMID:16748876]","reaction":"R00534"}
+{"ID":"3.1.6.3","name":"glycosulfatase","class":"Hydrolases","sysname":"sugar-sulfate sulfohydrolase","reference":"1  [PMID:16748876]","reaction":["R00534"]}

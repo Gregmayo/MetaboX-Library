@@ -1,1 +1,1 @@
-{"ID":"6.3.5.5","name":"carbamoyl-phosphate synthase (glutamine-hydrolysing)","class":"Ligases","sysname":"hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)","reference":"1  [PMID:5326356]","reaction":"R00575"}
+{"ID":"6.3.5.5","name":"carbamoyl-phosphate synthase (glutamine-hydrolysing)","class":"Ligases","sysname":"hydrogen-carbonate:L-glutamine amido-ligase (ADP-forming, carbamate-phosphorylating)","reference":"1  [PMID:5326356]","reaction":{"0":"R00575","1":"R00256","2":"R07641","6":"R20291"}}

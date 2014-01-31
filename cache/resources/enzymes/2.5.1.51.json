@@ -1,1 +1,1 @@
-{"ID":"2.5.1.51","name":"beta-pyrazolylalanine synthase","class":"Transferases","sysname":"O3-acetyl-L-serine:pyrazole 1-(2-amino-2-carboxyethyl)transferase","reference":"1","reaction":"R03134"}
+{"ID":"2.5.1.51","name":"beta-pyrazolylalanine synthase","class":"Transferases","sysname":"O3-acetyl-L-serine:pyrazole 1-(2-amino-2-carboxyethyl)transferase","reference":"1","reaction":["R03134"]}

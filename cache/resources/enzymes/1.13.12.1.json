@@ -1,1 +1,1 @@
-{"ID":"1.13.12.1","name":"arginine 2-monooxygenase","class":"Oxidoreductases","sysname":"L-arginine:oxygen 2-oxidoreductase (decarboxylating)","reference":"1  [PMID:4295160]","reaction":"R00559"}
+{"ID":"1.13.12.1","name":"arginine 2-monooxygenase","class":"Oxidoreductases","sysname":"L-arginine:oxygen 2-oxidoreductase (decarboxylating)","reference":"1  [PMID:4295160]","reaction":["R00559"]}

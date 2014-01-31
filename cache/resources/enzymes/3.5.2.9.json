@@ -1,1 +1,1 @@
-{"ID":"3.5.2.9","name":"5-oxoprolinase (ATP-hydrolysing)","class":"Hydrolases","sysname":"5-oxo-L-proline amidohydrolase (ATP-hydrolysing)","reference":"1  [PMID:5289242]","reaction":"R00251"}
+{"ID":"3.5.2.9","name":"5-oxoprolinase (ATP-hydrolysing)","class":"Hydrolases","sysname":"5-oxo-L-proline amidohydrolase (ATP-hydrolysing)","reference":"1  [PMID:5289242]","reaction":["R00251"]}

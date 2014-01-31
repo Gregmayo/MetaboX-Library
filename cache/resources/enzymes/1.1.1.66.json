@@ -1,1 +1,1 @@
-{"ID":"1.1.1.66","name":"omega-hydroxydecanoate dehydrogenase","class":"Oxidoreductases","sysname":"10-hydroxydecanoate:NAD+ 10-oxidoreductase","reference":"1  [PMID:14202238]","reaction":"R03886"}
+{"ID":"1.1.1.66","name":"omega-hydroxydecanoate dehydrogenase","class":"Oxidoreductases","sysname":"10-hydroxydecanoate:NAD+ 10-oxidoreductase","reference":"1  [PMID:14202238]","reaction":["R03886"]}

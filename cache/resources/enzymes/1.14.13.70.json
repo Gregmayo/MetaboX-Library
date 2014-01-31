@@ -1,1 +1,1 @@
-{"ID":"1.14.13.70","name":"sterol 14alpha-demethylase","class":"Oxidoreductases","sysname":"sterol,NADPH:oxygen oxidoreductase (14-methyl cleaving)","reference":"1  [PMID:9076987]","reaction":"R05731"}
+{"ID":"1.14.13.70","name":"sterol 14alpha-demethylase","class":"Oxidoreductases","sysname":"sterol,NADPH:oxygen oxidoreductase (14-methyl cleaving)","reference":"1  [PMID:9076987]","reaction":{"0":"R05731","2":"R05640"}}

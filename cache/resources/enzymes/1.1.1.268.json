@@ -1,1 +1,1 @@
-{"ID":"1.1.1.268","name":"2-(R)-hydroxypropyl-CoM dehydrogenase","class":"Oxidoreductases","sysname":"2-[2-(R)-hydroxypropylthio]ethanesulfonate:NAD+ oxidoreductase","reference":"1  [PMID:10411892]","reaction":"R05689"}
+{"ID":"1.1.1.268","name":"2-(R)-hydroxypropyl-CoM dehydrogenase","class":"Oxidoreductases","sysname":"2-[2-(R)-hydroxypropylthio]ethanesulfonate:NAD+ oxidoreductase","reference":"1  [PMID:10411892]","reaction":["R05689"]}

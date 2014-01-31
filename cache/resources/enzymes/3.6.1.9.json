@@ -1,1 +1,1 @@
-{"ID":"3.6.1.9","name":"nucleotide diphosphatase","class":"Hydrolases","sysname":"dinucleotide nucleotidohydrolase","reference":"1  [PMID:13428775]","reaction":"R00056"}
+{"ID":"3.6.1.9","name":"nucleotide diphosphatase","class":"Hydrolases","sysname":"dinucleotide nucleotidohydrolase","reference":"1  [PMID:13428775]","reaction":{"0":"R00056","2":"R00103","3":"R00160","4":"R03004","5":"R00287","6":"R00507","7":"R03036"}}

@@ -1,1 +1,1 @@
-{"ID":"1.4.3.14","name":"L-lysine oxidase","class":"Oxidoreductases","sysname":"L-lysine:oxygen 2-oxidoreductase (deaminating)","reference":"1  [PMID:6101334]","reaction":"R00447"}
+{"ID":"1.4.3.14","name":"L-lysine oxidase","class":"Oxidoreductases","sysname":"L-lysine:oxygen 2-oxidoreductase (deaminating)","reference":"1  [PMID:6101334]","reaction":["R00447"]}

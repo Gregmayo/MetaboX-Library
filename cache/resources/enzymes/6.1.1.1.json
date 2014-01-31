@@ -1,1 +1,1 @@
-{"ID":"6.1.1.1","name":"tyrosine---tRNA ligase","class":"Ligases","sysname":"L-tyrosine:tRNATyr ligase (AMP-forming)","reference":"1  [PMID:13792726]","reaction":"R02918"}
+{"ID":"6.1.1.1","name":"tyrosine---tRNA ligase","class":"Ligases","sysname":"L-tyrosine:tRNATyr ligase (AMP-forming)","reference":"1  [PMID:13792726]","reaction":{"0":"R02918","2":"R20291"}}

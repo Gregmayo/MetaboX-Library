@@ -1,1 +1,1 @@
-{"ID":"1.5.1.25","name":"thiomorpholine-carboxylate dehydrogenase","class":"Oxidoreductases","sysname":"thiomorpholine-3-carboxylate:NAD(P)+ 5,6-oxidoreductase","reference":"1  [PMID:3371353]","reaction":"R04339"}
+{"ID":"1.5.1.25","name":"thiomorpholine-carboxylate dehydrogenase","class":"Oxidoreductases","sysname":"thiomorpholine-3-carboxylate:NAD(P)+ 5,6-oxidoreductase","reference":"1  [PMID:3371353]","reaction":["R04339","R04340"]}

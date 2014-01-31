@@ -1,1 +1,1 @@
-{"ID":"1.14.13.4","name":"melilotate 3-monooxygenase","class":"Oxidoreductases","sysname":"3-(2-hydroxyphenyl)propanoate,NADH:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:6017743]","reaction":"R03369"}
+{"ID":"1.14.13.4","name":"melilotate 3-monooxygenase","class":"Oxidoreductases","sysname":"3-(2-hydroxyphenyl)propanoate,NADH:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:6017743]","reaction":["R03369"]}

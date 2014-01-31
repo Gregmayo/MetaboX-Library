@@ -1,1 +1,1 @@
-{"ID":"1.14.15.7","name":"choline monooxygenase","class":"Oxidoreductases","sysname":"choline,reduced-ferredoxin:oxygen oxidoreductase","reference":"1  [PMID:16666757]","reaction":"R05739"}
+{"ID":"1.14.15.7","name":"choline monooxygenase","class":"Oxidoreductases","sysname":"choline,reduced-ferredoxin:oxygen oxidoreductase","reference":"1  [PMID:16666757]","reaction":{"0":"R05739","2":"R07409"}}

@@ -1,1 +1,1 @@
-{"ID":"1.14.13.64","name":"4-hydroxybenzoate 1-hydroxylase","class":"Oxidoreductases","sysname":"4-hydroxybenzoate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating, decarboxylating)","reference":"1  [PMID:7926672]","reaction":"R01297"}
+{"ID":"1.14.13.64","name":"4-hydroxybenzoate 1-hydroxylase","class":"Oxidoreductases","sysname":"4-hydroxybenzoate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating, decarboxylating)","reference":"1  [PMID:7926672]","reaction":{"0":"R01297","1":"R01299","4":"R01629","5":"R01630"}}

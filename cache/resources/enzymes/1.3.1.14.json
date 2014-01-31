@@ -1,1 +1,1 @@
-{"ID":"1.3.1.14","name":"dihydroorotate dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"(S)-dihydroorotate:NAD+ oxidoreductase","reference":"1  [PMID:13610849]","reaction":"R01869"}
+{"ID":"1.3.1.14","name":"dihydroorotate dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"(S)-dihydroorotate:NAD+ oxidoreductase","reference":"1  [PMID:13610849]","reaction":{"0":"R01869","2":"R20291"}}

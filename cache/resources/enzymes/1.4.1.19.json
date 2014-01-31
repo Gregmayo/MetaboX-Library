@@ -1,1 +1,1 @@
-{"ID":"1.4.1.19","name":"tryptophan dehydrogenase","class":"Oxidoreductases","sysname":"L-tryptophan:NAD(P)+ oxidoreductase (deaminating)","reference":"1","reaction":"R00675"}
+{"ID":"1.4.1.19","name":"tryptophan dehydrogenase","class":"Oxidoreductases","sysname":"L-tryptophan:NAD(P)+ oxidoreductase (deaminating)","reference":"1","reaction":{"0":"R00675","1":"R00676","4":"R00145","5":"R00146"}}

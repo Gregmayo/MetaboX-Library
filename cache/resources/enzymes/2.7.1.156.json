@@ -1,1 +1,1 @@
-{"ID":"2.7.1.156","name":"adenosylcobinamide kinase","class":"Transferases","sysname":"RTP:adenosylcobinamide phosphotransferase","reference":"1  [PMID:7559521]","reaction":"R05221"}
+{"ID":"2.7.1.156","name":"adenosylcobinamide kinase","class":"Transferases","sysname":"RTP:adenosylcobinamide phosphotransferase","reference":"1  [PMID:7559521]","reaction":{"0":"R05221","1":"R06558","4":"R20291"}}

@@ -1,1 +1,1 @@
-{"ID":"6.3.2.31","name":"coenzyme F420-0:L-glutamate ligase","class":"Ligases","sysname":"L-glutamate:coenzyme F420-0 ligase (GDP-forming)","reference":"1  [PMID:12911320]","reaction":"R09399"}
+{"ID":"6.3.2.31","name":"coenzyme F420-0:L-glutamate ligase","class":"Ligases","sysname":"L-glutamate:coenzyme F420-0 ligase (GDP-forming)","reference":"1  [PMID:12911320]","reaction":["R09399"]}

@@ -1,1 +1,1 @@
-{"ID":"4.1.99.5","name":"aldehyde oxygenase (deformylating)","class":"Lyases","sysname":"a long-chain aldehyde alkane-lyase","reference":"1  [PMID:6593720]","reaction":"R03728"}
+{"ID":"4.1.99.5","name":"aldehyde oxygenase (deformylating)","class":"Lyases","sysname":"a long-chain aldehyde alkane-lyase","reference":"1  [PMID:6593720]","reaction":{"0":"R03728","2":"R09466"}}

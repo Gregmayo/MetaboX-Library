@@ -1,1 +1,1 @@
-{"ID":"2.7.1.118","name":"ADP---thymidine kinase","class":"Transferases","sysname":"ADP:thymidine 5'-phosphotransferase","reference":"1  [PMID:6293576]","reaction":"R01568"}
+{"ID":"2.7.1.118","name":"ADP---thymidine kinase","class":"Transferases","sysname":"ADP:thymidine 5'-phosphotransferase","reference":"1  [PMID:6293576]","reaction":["R01568"]}

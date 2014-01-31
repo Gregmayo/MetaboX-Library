@@ -1,1 +1,1 @@
-{"ID":"1.14.11.22","name":"flavone synthase","class":"Oxidoreductases","sysname":"flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)","reference":"1  [PMID:11524111]","reaction":"R07367"}
+{"ID":"1.14.11.22","name":"flavone synthase","class":"Oxidoreductases","sysname":"flavanone,2-oxoglutarate:oxygen oxidoreductase (dehydrating)","reference":"1  [PMID:11524111]","reaction":{"0":"R07367","2":"R02445","3":"R03590","4":"R06551","5":"R08081"}}

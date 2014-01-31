@@ -1,1 +1,1 @@
-{"ID":"2.7.1.7","name":"mannokinase","class":"Transferases","sysname":"ATP:D-mannose 6-phosphotransferase","reference":"1  [PMID:13242546]","reaction":"R01326"}
+{"ID":"2.7.1.7","name":"mannokinase","class":"Transferases","sysname":"ATP:D-mannose 6-phosphotransferase","reference":"1  [PMID:13242546]","reaction":["R01326"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.11.9","name":"Goodpasture-antigen-binding protein kinase","class":"Transferases","sysname":"ATP:[Goodpasture antigen-binding protein] phosphotransferase","reference":"1  [PMID:10212244]","reaction":""}
+{"ID":"2.7.11.9","name":"Goodpasture-antigen-binding protein kinase","class":"Transferases","sysname":"ATP:[Goodpasture antigen-binding protein] phosphotransferase","reference":"1  [PMID:10212244]","reaction":["R00162"]}

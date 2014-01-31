@@ -1,1 +1,1 @@
-{"ID":"2.1.1.249","name":"dimethylamine---corrinoid protein Co-methyltransferase","class":"Transferases","sysname":"dimethylamine:5-hydroxybenzimidazolylcobamide Co-methyltransferase","reference":"1  [PMID:9654067]","reaction":"R10015"}
+{"ID":"2.1.1.249","name":"dimethylamine---corrinoid protein Co-methyltransferase","class":"Transferases","sysname":"dimethylamine:5-hydroxybenzimidazolylcobamide Co-methyltransferase","reference":"1  [PMID:9654067]","reaction":{"0":"R10015","2":"R09999"}}

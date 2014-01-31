@@ -1,1 +1,1 @@
-{"ID":"1.14.13.142","name":"3-ketosteroid 9alpha-monooxygenase","class":"Oxidoreductases","sysname":"androsta-1,4-diene-3,17-dione,NADH:oxygen oxidoreductase (9alpha-hydroxylating)","reference":"1  [PMID:19561185]","reaction":"R09860"}
+{"ID":"1.14.13.142","name":"3-ketosteroid 9alpha-monooxygenase","class":"Oxidoreductases","sysname":"androsta-1,4-diene-3,17-dione,NADH:oxygen oxidoreductase (9alpha-hydroxylating)","reference":"1  [PMID:19561185]","reaction":["R09860"]}

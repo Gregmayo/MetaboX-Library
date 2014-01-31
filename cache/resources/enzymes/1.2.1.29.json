@@ -1,1 +1,1 @@
-{"ID":"1.2.1.29","name":"aryl-aldehyde dehydrogenase","class":"Oxidoreductases","sysname":"aryl-aldehyde:NAD+ oxidoreductase","reference":"1  [PMID:4289834]","reaction":"R01486"}
+{"ID":"1.2.1.29","name":"aryl-aldehyde dehydrogenase","class":"Oxidoreductases","sysname":"aryl-aldehyde:NAD+ oxidoreductase","reference":"1  [PMID:4289834]","reaction":{"0":"R01486","2":"R02655","3":"R02695","4":"R03300","5":"R05235"}}

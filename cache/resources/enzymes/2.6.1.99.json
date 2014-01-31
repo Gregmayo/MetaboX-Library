@@ -1,1 +1,1 @@
-{"ID":"2.6.1.99","name":"L-tryptophan---pyruvate aminotransferase","class":"Transferases","sysname":"L-tryptophan:pyruvate aminotransferase","reference":"1  [PMID:18394996]","reaction":"R10180"}
+{"ID":"2.6.1.99","name":"L-tryptophan---pyruvate aminotransferase","class":"Transferases","sysname":"L-tryptophan:pyruvate aminotransferase","reference":"1  [PMID:18394996]","reaction":["R10180"]}

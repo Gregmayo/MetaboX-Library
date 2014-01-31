@@ -1,1 +1,1 @@
-{"ID":"3.6.1.7","name":"acylphosphatase","class":"Hydrolases","sysname":"acylphosphate phosphohydrolase","reference":"1  [PMID:14435883]","reaction":"R00539"}
+{"ID":"3.6.1.7","name":"acylphosphatase","class":"Hydrolases","sysname":"acylphosphate phosphohydrolase","reference":"1  [PMID:14435883]","reaction":{"0":"R00539","2":"R00317","3":"R01421","4":"R01515"}}

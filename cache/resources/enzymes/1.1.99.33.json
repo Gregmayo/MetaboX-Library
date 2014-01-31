@@ -1,1 +1,1 @@
-{"ID":"1.1.99.33","name":"formate dehydrogenase (acceptor)","class":"Oxidoreductases","sysname":"formate:acceptor oxidoreductase","reference":"1  [PMID:2211698]","reaction":"R09481"}
+{"ID":"1.1.99.33","name":"formate dehydrogenase (acceptor)","class":"Oxidoreductases","sysname":"formate:acceptor oxidoreductase","reference":"1  [PMID:2211698]","reaction":["R09481"]}

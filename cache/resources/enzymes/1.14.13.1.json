@@ -1,1 +1,1 @@
-{"ID":"1.14.13.1","name":"salicylate 1-monooxygenase","class":"Oxidoreductases","sysname":"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)","reference":"1  [PMID:4390441]","reaction":"R00818"}
+{"ID":"1.14.13.1","name":"salicylate 1-monooxygenase","class":"Oxidoreductases","sysname":"salicylate,NADH:oxygen oxidoreductase (1-hydroxylating, decarboxylating)","reference":"1  [PMID:4390441]","reaction":{"0":"R00818","2":"R05632","3":"R06915","4":"R06936","5":"R06939"}}

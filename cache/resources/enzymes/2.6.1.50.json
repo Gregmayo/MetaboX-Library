@@ -1,1 +1,1 @@
-{"ID":"2.6.1.50","name":"glutamine---scyllo-inositol transaminase","class":"Transferases","sysname":"L-glutamine:2,4,6\/3,5-pentahydroxycyclohexanone aminotransferase","reference":"1  [PMID:5781017]","reaction":"R02781"}
+{"ID":"2.6.1.50","name":"glutamine---scyllo-inositol transaminase","class":"Transferases","sysname":"L-glutamine:2,4,6\/3,5-pentahydroxycyclohexanone aminotransferase","reference":"1  [PMID:5781017]","reaction":["R02781"]}

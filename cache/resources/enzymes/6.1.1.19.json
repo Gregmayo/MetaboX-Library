@@ -1,1 +1,1 @@
-{"ID":"6.1.1.19","name":"arginine---tRNA ligase","class":"Ligases","sysname":"L-arginine:tRNAArg ligase (AMP-forming)","reference":"1  [PMID:14165914]","reaction":"R03646"}
+{"ID":"6.1.1.19","name":"arginine---tRNA ligase","class":"Ligases","sysname":"L-arginine:tRNAArg ligase (AMP-forming)","reference":"1  [PMID:14165914]","reaction":{"0":"R03646","2":"R20291"}}

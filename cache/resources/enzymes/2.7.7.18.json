@@ -1,1 +1,1 @@
-{"ID":"2.7.7.18","name":"nicotinate-nucleotide adenylyltransferase","class":"Transferases","sysname":"ATP:beta-nicotinate-D-ribonucleotide adenylyltransferase","reference":"1  [PMID:13717628]","reaction":"R03005"}
+{"ID":"2.7.7.18","name":"nicotinate-nucleotide adenylyltransferase","class":"Transferases","sysname":"ATP:beta-nicotinate-D-ribonucleotide adenylyltransferase","reference":"1  [PMID:13717628]","reaction":{"0":"R03005","2":"R00137","3":"R20291"}}

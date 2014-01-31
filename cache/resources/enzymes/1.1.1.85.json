@@ -1,1 +1,1 @@
-{"ID":"1.1.1.85","name":"3-isopropylmalate dehydrogenase","class":"Oxidoreductases","sysname":"(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase","reference":"1  [PMID:14087358]","reaction":"R10052"}
+{"ID":"1.1.1.85","name":"3-isopropylmalate dehydrogenase","class":"Oxidoreductases","sysname":"(2R,3S)-3-isopropylmalate:NAD+ oxidoreductase","reference":"1  [PMID:14087358]","reaction":{"0":"R10052","1":"R04426","2":"R01652","6":"R00994","7":"R20291"}}

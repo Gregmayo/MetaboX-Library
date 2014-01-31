@@ -1,1 +1,1 @@
-{"ID":"1.5.1.42","name":"FMN reductase (NADH)","class":"Oxidoreductases","sysname":"FMNH2:NAD+ oxidoreductase","reference":"1  [PMID:47604]","reaction":"R05705"}
+{"ID":"1.5.1.42","name":"FMN reductase (NADH)","class":"Oxidoreductases","sysname":"FMNH2:NAD+ oxidoreductase","reference":"1  [PMID:47604]","reaction":["R05705"]}

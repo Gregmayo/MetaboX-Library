@@ -1,1 +1,1 @@
-{"ID":"4.1.2.26","name":"phenylserine aldolase","class":"Lyases","sysname":"L-threo-3-phenylserine benzaldehyde-lyase (glycine-forming)","reference":"1  [PMID:13566053]","reaction":"R01766"}
+{"ID":"4.1.2.26","name":"phenylserine aldolase","class":"Lyases","sysname":"L-threo-3-phenylserine benzaldehyde-lyase (glycine-forming)","reference":"1  [PMID:13566053]","reaction":["R01766"]}

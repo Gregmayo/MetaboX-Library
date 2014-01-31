@@ -1,1 +1,1 @@
-{"ID":"1.2.1.48","name":"long-chain-aldehyde dehydrogenase","class":"Oxidoreductases","sysname":"long-chain-aldehyde:NAD+ oxidoreductase","reference":"1  [PMID:5499619]","reaction":"R02039"}
+{"ID":"1.2.1.48","name":"long-chain-aldehyde dehydrogenase","class":"Oxidoreductases","sysname":"long-chain-aldehyde:NAD+ oxidoreductase","reference":"1  [PMID:5499619]","reaction":{"0":"R02039","2":"R01704"}}

@@ -1,1 +1,1 @@
-{"ID":"2.7.1.18","name":"phosphoribokinase","class":"Transferases","sysname":"ATP:D-ribose-5-phosphate 1-phosphotransferase","reference":"1","reaction":"R01050"}
+{"ID":"2.7.1.18","name":"phosphoribokinase","class":"Transferases","sysname":"ATP:D-ribose-5-phosphate 1-phosphotransferase","reference":"1","reaction":["R01050"]}

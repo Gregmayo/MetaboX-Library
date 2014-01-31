@@ -1,1 +1,1 @@
-{"ID":"1.13.99.3","name":"tryptophan 2'-dioxygenase","class":"Oxidoreductases","sysname":"L-tryptophan:oxygen 2'-oxidoreductase (side-chain-cleaving)","reference":"1  [PMID:15994]","reaction":"R00681"}
+{"ID":"1.13.99.3","name":"tryptophan 2'-dioxygenase","class":"Oxidoreductases","sysname":"L-tryptophan:oxygen 2'-oxidoreductase (side-chain-cleaving)","reference":"1  [PMID:15994]","reaction":["R00681"]}

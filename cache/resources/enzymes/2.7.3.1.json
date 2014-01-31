@@ -1,1 +1,1 @@
-{"ID":"2.7.3.1","name":"guanidinoacetate kinase","class":"Transferases","sysname":"ATP:guanidinoacetate N-phosphotransferase","reference":"1  [PMID:13403909]","reaction":"R02575"}
+{"ID":"2.7.3.1","name":"guanidinoacetate kinase","class":"Transferases","sysname":"ATP:guanidinoacetate N-phosphotransferase","reference":"1  [PMID:13403909]","reaction":["R02575"]}

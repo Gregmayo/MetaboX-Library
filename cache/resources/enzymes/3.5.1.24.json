@@ -1,1 +1,1 @@
-{"ID":"3.5.1.24","name":"choloylglycine hydrolase","class":"Hydrolases","sysname":"glycocholate amidohydrolase","reference":"1  [PMID:6016335]","reaction":"R05835"}
+{"ID":"3.5.1.24","name":"choloylglycine hydrolase","class":"Hydrolases","sysname":"glycocholate amidohydrolase","reference":"1  [PMID:6016335]","reaction":{"0":"R05835","2":"R02797","3":"R03975","4":"R03977","5":"R04486","6":"R04487"}}

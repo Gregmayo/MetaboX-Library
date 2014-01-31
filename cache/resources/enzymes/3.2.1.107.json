@@ -1,1 +1,1 @@
-{"ID":"3.2.1.107","name":"protein-glucosylgalactosylhydroxylysine glucosidase","class":"Hydrolases","sysname":"protein-alpha-D-glucosyl-(1->2)-beta-D-galactosyl-L-hydroxylysine glucohydrolase","reference":"1  [PMID:385589]","reaction":"R04503"}
+{"ID":"3.2.1.107","name":"protein-glucosylgalactosylhydroxylysine glucosidase","class":"Hydrolases","sysname":"protein-alpha-D-glucosyl-(1->2)-beta-D-galactosyl-L-hydroxylysine glucohydrolase","reference":"1  [PMID:385589]","reaction":["R04503"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.7.4","name":"sulfate adenylyltransferase","class":"Transferases","sysname":"ATP:sulfate adenylyltransferase","reference":"1","reaction":"R00529"}
+{"ID":"2.7.7.4","name":"sulfate adenylyltransferase","class":"Transferases","sysname":"ATP:sulfate adenylyltransferase","reference":"1","reaction":{"0":"R00529","2":"R04929"}}

@@ -1,1 +1,1 @@
-{"ID":"1.1.99.35","name":"soluble quinoprotein glucose dehydrogenase","class":"Oxidoreductases","sysname":"D-glucose:acceptor oxidoreductase","reference":"1","reaction":"R10411"}
+{"ID":"1.1.99.35","name":"soluble quinoprotein glucose dehydrogenase","class":"Oxidoreductases","sysname":"D-glucose:acceptor oxidoreductase","reference":"1","reaction":["R10411"]}

@@ -1,1 +1,1 @@
-{"ID":"2.6.1.68","name":"ornithine(lysine) transaminase","class":"Transferases","sysname":"L-ornithine:2-oxoglutarate-aminotransferase","reference":"1  [PMID:3095639]","reaction":"R00668"}
+{"ID":"2.6.1.68","name":"ornithine(lysine) transaminase","class":"Transferases","sysname":"L-ornithine:2-oxoglutarate-aminotransferase","reference":"1  [PMID:3095639]","reaction":["R00668"]}

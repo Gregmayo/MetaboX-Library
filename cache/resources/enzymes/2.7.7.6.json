@@ -1,1 +1,1 @@
-{"ID":"2.7.7.6","name":"DNA-directed RNA polymerase","class":"Transferases","sysname":"nucleoside-triphosphate:RNA nucleotidyltransferase (DNA-directed)","reference":"1","reaction":"R00444"}
+{"ID":"2.7.7.6","name":"DNA-directed RNA polymerase","class":"Transferases","sysname":"nucleoside-triphosphate:RNA nucleotidyltransferase (DNA-directed)","reference":"1","reaction":{"0":"R00444","2":"R00435","3":"R00441","4":"R00442","5":"R00443","6":"R20291"}}

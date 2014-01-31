@@ -1,1 +1,1 @@
-{"ID":"1.1.1.12","name":"L-arabinitol 4-dehydrogenase","class":"Oxidoreductases","sysname":"L-arabinitol:NAD+ 4-oxidoreductase (L-xylulose-forming)","reference":"1  [PMID:13692998]","reaction":"R01903"}
+{"ID":"1.1.1.12","name":"L-arabinitol 4-dehydrogenase","class":"Oxidoreductases","sysname":"L-arabinitol:NAD+ 4-oxidoreductase (L-xylulose-forming)","reference":"1  [PMID:13692998]","reaction":["R01903"]}

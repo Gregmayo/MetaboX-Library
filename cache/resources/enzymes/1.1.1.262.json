@@ -1,1 +1,1 @@
-{"ID":"1.1.1.262","name":"4-hydroxythreonine-4-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"4-phosphonooxy-L-threonine:NAD+ oxidoreductase","reference":"1","reaction":"R05837"}
+{"ID":"1.1.1.262","name":"4-hydroxythreonine-4-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"4-phosphonooxy-L-threonine:NAD+ oxidoreductase","reference":"1","reaction":["R05837","R05681","R07406"]}

@@ -1,1 +1,1 @@
-{"ID":"2.6.1.79","name":"glutamate---prephenate aminotransferase","class":"Transferases","sysname":"L-arogenate:2-oxoglutarate aminotransferase","reference":"1  [PMID:3985619]","reaction":"R07276"}
+{"ID":"2.6.1.79","name":"glutamate---prephenate aminotransferase","class":"Transferases","sysname":"L-arogenate:2-oxoglutarate aminotransferase","reference":"1  [PMID:3985619]","reaction":["R07276"]}

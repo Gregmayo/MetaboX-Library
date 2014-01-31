@@ -1,1 +1,1 @@
-{"ID":"6.1.1.14","name":"glycine---tRNA ligase","class":"Ligases","sysname":"glycine:tRNAGly ligase (AMP-forming)","reference":"1  [PMID:13959340]","reaction":"R03654"}
+{"ID":"6.1.1.14","name":"glycine---tRNA ligase","class":"Ligases","sysname":"glycine:tRNAGly ligase (AMP-forming)","reference":"1  [PMID:13959340]","reaction":{"0":"R03654","2":"R20291"}}

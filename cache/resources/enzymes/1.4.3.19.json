@@ -1,1 +1,1 @@
-{"ID":"1.4.3.19","name":"glycine oxidase","class":"Oxidoreductases","sysname":"glycine:oxygen oxidoreductase (deaminating)","reference":"1  [PMID:11744710]","reaction":"R00366"}
+{"ID":"1.4.3.19","name":"glycine oxidase","class":"Oxidoreductases","sysname":"glycine:oxygen oxidoreductase (deaminating)","reference":"1  [PMID:11744710]","reaction":{"0":"R00366","1":"R07463","2":"R10245","6":"R05861","7":"R05862","8":"R05863"}}

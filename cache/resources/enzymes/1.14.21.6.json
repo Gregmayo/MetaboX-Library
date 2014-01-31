@@ -1,1 +1,1 @@
-{"ID":"1.14.21.6","name":"lathosterol oxidase","class":"Oxidoreductases","sysname":"5alpha-cholest-7-en-3beta-ol,NAD(P)H:oxygen 5-oxidoreductase","reference":"1  [PMID:14189869]","reaction":"R03310"}
+{"ID":"1.14.21.6","name":"lathosterol oxidase","class":"Oxidoreductases","sysname":"5alpha-cholest-7-en-3beta-ol,NAD(P)H:oxygen 5-oxidoreductase","reference":"1  [PMID:14189869]","reaction":{"0":"R03310","1":"R07215","4":"R07486","5":"R07491","6":"R07505"}}

@@ -1,1 +1,1 @@
-{"ID":"1.4.1.21","name":"aspartate dehydrogenase","class":"Oxidoreductases","sysname":"L-aspartate:NAD(P)+ oxidoreductase (deaminating)","reference":"1  [PMID:12496312]","reaction":"R07164"}
+{"ID":"1.4.1.21","name":"aspartate dehydrogenase","class":"Oxidoreductases","sysname":"L-aspartate:NAD(P)+ oxidoreductase (deaminating)","reference":"1  [PMID:12496312]","reaction":{"0":"R07164","1":"R07165","4":"R07407","5":"R07410"}}

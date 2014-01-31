@@ -1,1 +1,1 @@
-{"ID":"3.6.1.8","name":"ATP diphosphatase","class":"Hydrolases","sysname":"ATP diphosphohydrolase (diphosphate-forming)","reference":"1  [PMID:13061448]","reaction":"R00087"}
+{"ID":"3.6.1.8","name":"ATP diphosphatase","class":"Hydrolases","sysname":"ATP diphosphohydrolase (diphosphate-forming)","reference":"1  [PMID:13061448]","reaction":{"0":"R00087","2":"R00086","3":"R00287","4":"R00426","5":"R00515","6":"R00662","7":"R00720"}}

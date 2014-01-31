@@ -1,1 +1,1 @@
-{"ID":"1.4.3.24","name":"pseudooxynicotine oxidase","class":"Oxidoreductases","sysname":"4-(methylamino)-1-(pyridin-3-yl)butan-1-one:oxygen oxidoreductase (methylamine releasing)","reference":"1  [PMID:22267672]","reaction":"R10103"}
+{"ID":"1.4.3.24","name":"pseudooxynicotine oxidase","class":"Oxidoreductases","sysname":"4-(methylamino)-1-(pyridin-3-yl)butan-1-one:oxygen oxidoreductase (methylamine releasing)","reference":"1  [PMID:22267672]","reaction":["R10103"]}

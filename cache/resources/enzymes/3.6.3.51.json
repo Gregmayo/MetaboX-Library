@@ -1,1 +1,1 @@
-{"ID":"3.6.3.51","name":"mitochondrial protein-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (mitochondrial protein-importing)","reference":"1  [PMID:9171336]","reaction":"R00086"}
+{"ID":"3.6.3.51","name":"mitochondrial protein-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (mitochondrial protein-importing)","reference":"1  [PMID:9171336]","reaction":["R00086"]}

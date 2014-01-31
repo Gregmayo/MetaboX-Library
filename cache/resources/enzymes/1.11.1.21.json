@@ -1,1 +1,1 @@
-{"ID":"1.11.1.21","name":"catalase-peroxidase","class":"Oxidoreductases","sysname":"donor:hydrogen-peroxide oxidoreductase","reference":"1  [PMID:3886630]","reaction":"R03532"}
+{"ID":"1.11.1.21","name":"catalase-peroxidase","class":"Oxidoreductases","sysname":"donor:hydrogen-peroxide oxidoreductase","reference":"1  [PMID:3886630]","reaction":{"0":"R03532","1":"R00009","4":"R00602","5":"R00698","6":"R02596","7":"R02670","8":"R03919","9":"R04007","10":"R07443"}}

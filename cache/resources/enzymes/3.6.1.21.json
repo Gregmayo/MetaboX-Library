@@ -1,1 +1,1 @@
-{"ID":"3.6.1.21","name":"ADP-sugar diphosphatase","class":"Hydrolases","sysname":"ADP-sugar sugarphosphohydrolase","reference":"1  [PMID:5686292]","reaction":"R03570"}
+{"ID":"3.6.1.21","name":"ADP-sugar diphosphatase","class":"Hydrolases","sysname":"ADP-sugar sugarphosphohydrolase","reference":"1  [PMID:5686292]","reaction":{"0":"R03570","2":"R00951","3":"R01885","4":"R02677","5":"R00881","6":"R01054","7":"R01233"}}

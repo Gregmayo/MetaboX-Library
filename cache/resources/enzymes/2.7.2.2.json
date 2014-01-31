@@ -1,1 +1,1 @@
-{"ID":"2.7.2.2","name":"carbamate kinase","class":"Transferases","sysname":"ATP:carbamate phosphotransferase","reference":"1  [PMID:4959296]","reaction":"R00150"}
+{"ID":"2.7.2.2","name":"carbamate kinase","class":"Transferases","sysname":"ATP:carbamate phosphotransferase","reference":"1  [PMID:4959296]","reaction":{"0":"R00150","2":"R01395"}}

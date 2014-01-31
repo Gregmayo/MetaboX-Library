@@ -1,1 +1,1 @@
-{"ID":"2.7.7.27","name":"glucose-1-phosphate adenylyltransferase","class":"Transferases","sysname":"ATP:alpha-D-glucose-1-phosphate adenylyltransferase","reference":"1  [PMID:5922972]","reaction":"R00948"}
+{"ID":"2.7.7.27","name":"glucose-1-phosphate adenylyltransferase","class":"Transferases","sysname":"ATP:alpha-D-glucose-1-phosphate adenylyltransferase","reference":"1  [PMID:5922972]","reaction":{"0":"R00948","2":"R20291"}}

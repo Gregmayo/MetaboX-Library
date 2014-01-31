@@ -1,1 +1,1 @@
-{"ID":"2.6.1.76","name":"diaminobutyrate---2-oxoglutarate transaminase","class":"Transferases","sysname":"L-2,4-diaminobutanoate:2-oxoglutarate 4-aminotransferase","reference":"1  [PMID:9260954]","reaction":"R06977"}
+{"ID":"2.6.1.76","name":"diaminobutyrate---2-oxoglutarate transaminase","class":"Transferases","sysname":"L-2,4-diaminobutanoate:2-oxoglutarate 4-aminotransferase","reference":"1  [PMID:9260954]","reaction":["R06977"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.1.58","name":"2-dehydro-3-deoxygalactonokinase","class":"Transferases","sysname":"ATP:2-dehydro-3-deoxy-D-galactonate 6-phosphotransferase","reference":"1","reaction":"R03387"}
+{"ID":"2.7.1.58","name":"2-dehydro-3-deoxygalactonokinase","class":"Transferases","sysname":"ATP:2-dehydro-3-deoxy-D-galactonate 6-phosphotransferase","reference":"1","reaction":["R03387"]}

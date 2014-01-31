@@ -1,1 +1,1 @@
-{"ID":"1.4.9.1","name":"methylamine dehydrogenase (amicyanin)","class":"Oxidoreductases","sysname":"methylamine:amicyanin oxidoreductase (deaminating)","reference":"1  [PMID:6246962]","reaction":"R00606"}
+{"ID":"1.4.9.1","name":"methylamine dehydrogenase (amicyanin)","class":"Oxidoreductases","sysname":"methylamine:amicyanin oxidoreductase (deaminating)","reference":"1  [PMID:6246962]","reaction":["R00606"]}

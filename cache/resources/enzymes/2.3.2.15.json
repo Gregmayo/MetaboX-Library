@@ -1,1 +1,1 @@
-{"ID":"2.3.2.15","name":"glutathione gamma-glutamylcysteinyltransferase","class":"Transferases","sysname":"glutathione:poly(4-glutamyl-cysteinyl)glycine 4-glutamylcysteinyltransferase","reference":"1  [PMID:16594069]","reaction":"R03956"}
+{"ID":"2.3.2.15","name":"glutathione gamma-glutamylcysteinyltransferase","class":"Transferases","sysname":"glutathione:poly(4-glutamyl-cysteinyl)glycine 4-glutamylcysteinyltransferase","reference":"1  [PMID:16594069]","reaction":["R03956"]}

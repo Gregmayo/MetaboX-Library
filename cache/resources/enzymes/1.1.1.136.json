@@ -1,1 +1,1 @@
-{"ID":"1.1.1.136","name":"UDP-N-acetylglucosamine 6-dehydrogenase","class":"Oxidoreductases","sysname":"UDP-N-acetyl-alpha-D-glucosamine:NAD+ 6-oxidoreductase","reference":"1  [PMID:4312076]","reaction":"R00421"}
+{"ID":"1.1.1.136","name":"UDP-N-acetylglucosamine 6-dehydrogenase","class":"Oxidoreductases","sysname":"UDP-N-acetyl-alpha-D-glucosamine:NAD+ 6-oxidoreductase","reference":"1  [PMID:4312076]","reaction":["R00421"]}

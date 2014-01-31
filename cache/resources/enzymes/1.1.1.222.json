@@ -1,1 +1,1 @@
-{"ID":"1.1.1.222","name":"(R)-4-hydroxyphenyllactate dehydrogenase","class":"Oxidoreductases","sysname":"(R)-3-(4-hydroxyphenyl)lactate:NAD(P)+ 2-oxidoreductase","reference":"1","reaction":"R03337"}
+{"ID":"1.1.1.222","name":"(R)-4-hydroxyphenyllactate dehydrogenase","class":"Oxidoreductases","sysname":"(R)-3-(4-hydroxyphenyl)lactate:NAD(P)+ 2-oxidoreductase","reference":"1","reaction":{"0":"R03337","1":"R03339","4":"R01370","5":"R01371","6":"R03336","7":"R03338"}}

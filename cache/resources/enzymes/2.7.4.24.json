@@ -1,1 +1,1 @@
-{"ID":"2.7.4.24","name":"diphosphoinositol-pentakisphosphate kinase","class":"Transferases","sysname":"ATP:1D-myo-inositol-5-diphosphate-pentakisphosphate phosphotransferase","reference":"1  [PMID:7737983]","reaction":"R08964"}
+{"ID":"2.7.4.24","name":"diphosphoinositol-pentakisphosphate kinase","class":"Transferases","sysname":"ATP:1D-myo-inositol-5-diphosphate-pentakisphosphate phosphotransferase","reference":"1  [PMID:7737983]","reaction":{"0":"R08964","2":"R05799"}}

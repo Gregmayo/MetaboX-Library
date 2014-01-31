@@ -1,1 +1,1 @@
-{"ID":"3.5.2.14","name":"N-methylhydantoinase (ATP-hydrolysing)","class":"Hydrolases","sysname":"N-methylhydantoin amidohydrolase (ATP-hydrolysing)","reference":"1  [PMID:3827889]","reaction":"R03187"}
+{"ID":"3.5.2.14","name":"N-methylhydantoinase (ATP-hydrolysing)","class":"Hydrolases","sysname":"N-methylhydantoin amidohydrolase (ATP-hydrolysing)","reference":"1  [PMID:3827889]","reaction":["R03187"]}

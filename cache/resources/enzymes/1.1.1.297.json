@@ -1,1 +1,1 @@
-{"ID":"1.1.1.297","name":"limonene-1,2-diol dehydrogenase","class":"Oxidoreductases","sysname":"menth-8-ene-1,2-diol:NAD+ oxidoreductase","reference":"1  [PMID:10224006]","reaction":"R08919"}
+{"ID":"1.1.1.297","name":"limonene-1,2-diol dehydrogenase","class":"Oxidoreductases","sysname":"menth-8-ene-1,2-diol:NAD+ oxidoreductase","reference":"1  [PMID:10224006]","reaction":["R08919","R06399","R09388"]}

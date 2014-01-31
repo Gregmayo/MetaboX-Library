@@ -1,1 +1,1 @@
-{"ID":"2.7.1.176","name":"UDP-N-acetylglucosamine kinase","class":"Transferases","sysname":"ATP:UDP-N-acetyl-alpha-D-glucosamine 3'-phosphotransferase","reference":"1  [PMID:17488720]","reaction":"R09946"}
+{"ID":"2.7.1.176","name":"UDP-N-acetylglucosamine kinase","class":"Transferases","sysname":"ATP:UDP-N-acetyl-alpha-D-glucosamine 3'-phosphotransferase","reference":"1  [PMID:17488720]","reaction":["R09946"]}

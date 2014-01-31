@@ -1,1 +1,1 @@
-{"ID":"1.18.1.5","name":"putidaredoxin---NAD+ reductase","class":"Oxidoreductases","sysname":"putidaredoxin:NAD+ oxidoreductase","reference":"1  [PMID:6401738]","reaction":"R10048"}
+{"ID":"1.18.1.5","name":"putidaredoxin---NAD+ reductase","class":"Oxidoreductases","sysname":"putidaredoxin:NAD+ oxidoreductase","reference":"1  [PMID:6401738]","reaction":["R10048"]}

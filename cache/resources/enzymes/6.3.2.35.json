@@ -1,1 +1,1 @@
-{"ID":"6.3.2.35","name":"D-alanine---D-serine ligase","class":"Ligases","sysname":"D-alanine:D-serine ligase (ADP-forming)","reference":"1  [PMID:1551598]","reaction":"R09595"}
+{"ID":"6.3.2.35","name":"D-alanine---D-serine ligase","class":"Ligases","sysname":"D-alanine:D-serine ligase (ADP-forming)","reference":"1  [PMID:1551598]","reaction":["R09595"]}

@@ -1,1 +1,1 @@
-{"ID":"1.11.1.7","name":"peroxidase","class":"Oxidoreductases","sysname":"phenolic donor:hydrogen-peroxide oxidoreductase","reference":"1  [PMID:13172193]","reaction":"R03532"}
+{"ID":"1.11.1.7","name":"peroxidase","class":"Oxidoreductases","sysname":"phenolic donor:hydrogen-peroxide oxidoreductase","reference":"1  [PMID:13172193]","reaction":{"0":"R03532","2":"R00602","3":"R00698","4":"R02596","5":"R03919","6":"R04007","7":"R07443"}}

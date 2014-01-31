@@ -1,1 +1,1 @@
-{"ID":"1.1.1.185","name":"L-glycol dehydrogenase","class":"Oxidoreductases","sysname":"L-glycol:NAD(P)+ oxidoreductase","reference":"1  [PMID:7018582]","reaction":"R03584"}
+{"ID":"1.1.1.185","name":"L-glycol dehydrogenase","class":"Oxidoreductases","sysname":"L-glycol:NAD(P)+ oxidoreductase","reference":"1  [PMID:7018582]","reaction":["R03584","R03585"]}

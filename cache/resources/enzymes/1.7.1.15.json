@@ -1,1 +1,1 @@
-{"ID":"1.7.1.15","name":"nitrite reductase (NADH)","class":"Oxidoreductases","sysname":"ammonia:NAD+ oxidoreductase","reference":"1  [PMID:4147887]","reaction":"R00787"}
+{"ID":"1.7.1.15","name":"nitrite reductase (NADH)","class":"Oxidoreductases","sysname":"ammonia:NAD+ oxidoreductase","reference":"1  [PMID:4147887]","reaction":["R00787"]}

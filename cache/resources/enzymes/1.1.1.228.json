@@ -1,1 +1,1 @@
-{"ID":"1.1.1.228","name":"(+)-sabinol dehydrogenase","class":"Oxidoreductases","sysname":"(+)-cis-sabinol:NAD+ oxidoreductase","reference":"1  [PMID:3310901]","reaction":"R03745"}
+{"ID":"1.1.1.228","name":"(+)-sabinol dehydrogenase","class":"Oxidoreductases","sysname":"(+)-cis-sabinol:NAD+ oxidoreductase","reference":"1  [PMID:3310901]","reaction":["R03745"]}

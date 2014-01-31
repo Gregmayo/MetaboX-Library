@@ -1,1 +1,1 @@
-{"ID":"2.1.4.2","name":"scyllo-inosamine-4-phosphate amidinotransferase","class":"Transferases","sysname":"L-arginine:1-amino-1-deoxy-scyllo-inositol-4-phosphate amidinotransferase","reference":"1  [PMID:5935341]","reaction":"R03477"}
+{"ID":"2.1.4.2","name":"scyllo-inosamine-4-phosphate amidinotransferase","class":"Transferases","sysname":"L-arginine:1-amino-1-deoxy-scyllo-inositol-4-phosphate amidinotransferase","reference":"1  [PMID:5935341]","reaction":["R03477"]}

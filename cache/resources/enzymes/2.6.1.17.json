@@ -1,1 +1,1 @@
-{"ID":"2.6.1.17","name":"succinyldiaminopimelate transaminase","class":"Transferases","sysname":"N-succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate aminotransferase","reference":"1  [PMID:13734750]","reaction":"R04475"}
+{"ID":"2.6.1.17","name":"succinyldiaminopimelate transaminase","class":"Transferases","sysname":"N-succinyl-L-2,6-diaminoheptanedioate:2-oxoglutarate aminotransferase","reference":"1  [PMID:13734750]","reaction":{"0":"R04475","2":"R20291"}}

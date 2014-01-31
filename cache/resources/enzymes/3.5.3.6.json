@@ -1,1 +1,1 @@
-{"ID":"3.5.3.6","name":"arginine deiminase","class":"Hydrolases","sysname":"L-arginine iminohydrolase","reference":"1  [PMID:12999797]","reaction":"R00552"}
+{"ID":"3.5.3.6","name":"arginine deiminase","class":"Hydrolases","sysname":"L-arginine iminohydrolase","reference":"1  [PMID:12999797]","reaction":{"0":"R00552","2":"R06138"}}

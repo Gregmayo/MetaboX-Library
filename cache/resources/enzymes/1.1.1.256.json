@@ -1,1 +1,1 @@
-{"ID":"1.1.1.256","name":"fluoren-9-ol dehydrogenase","class":"Oxidoreductases","sysname":"fluoren-9-ol:NAD(P)+ oxidoreductase","reference":"1  [PMID:9055403]","reaction":"R05349"}
+{"ID":"1.1.1.256","name":"fluoren-9-ol dehydrogenase","class":"Oxidoreductases","sysname":"fluoren-9-ol:NAD(P)+ oxidoreductase","reference":"1  [PMID:9055403]","reaction":["R05349","R05350"]}

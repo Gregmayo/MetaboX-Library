@@ -1,1 +1,1 @@
-{"ID":"4.1.1.20","name":"diaminopimelate decarboxylase","class":"Lyases","sysname":"meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming)","reference":"1  [PMID:14378182]","reaction":"R00451"}
+{"ID":"4.1.1.20","name":"diaminopimelate decarboxylase","class":"Lyases","sysname":"meso-2,6-diaminoheptanedioate carboxy-lyase (L-lysine-forming)","reference":"1  [PMID:14378182]","reaction":{"0":"R00451","2":"R20291","4":"R01300"}}

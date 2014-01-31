@@ -1,1 +1,1 @@
-{"ID":"2.4.1.31","name":"laminaribiose phosphorylase","class":"Transferases","sysname":"3-beta-D-glucosyl-D-glucose:phosphate alpha-D-glucosyltransferase","reference":"1  [PMID:5901055]","reaction":"R00953"}
+{"ID":"2.4.1.31","name":"laminaribiose phosphorylase","class":"Transferases","sysname":"3-beta-D-glucosyl-D-glucose:phosphate alpha-D-glucosyltransferase","reference":"1  [PMID:5901055]","reaction":["R00953","R06058"]}

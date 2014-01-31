@@ -1,1 +1,1 @@
-{"ID":"2.3.1.91","name":"sinapoylglucose---choline O-sinapoyltransferase","class":"Transferases","sysname":"1-O-sinapoyl-beta-D-glucose:choline 1-O-sinapoyltransferase","reference":"1","reaction":"R03075"}
+{"ID":"2.3.1.91","name":"sinapoylglucose---choline O-sinapoyltransferase","class":"Transferases","sysname":"1-O-sinapoyl-beta-D-glucose:choline 1-O-sinapoyltransferase","reference":"1","reaction":["R03075"]}

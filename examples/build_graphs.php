@@ -96,8 +96,8 @@ $ec_network    = $enzymes_uni_graph->getGlobalGraph();
 $ec_subnetwork = $enzymes_uni_graph->getSubGraph();
 $filename = 'enzyme_unipartite';
 
-// Create enzymes bipartite graph
 /*
+// Create enzymes bipartite graph
 $enzymes_bi_graph = new MetaboX\Graph\EnzymesBipartiteGraph($processed_compounds, $processed_enzymes, $processed_reactions);
 $enzymes_bi_graph->build( $compounds );
 
@@ -105,7 +105,6 @@ $ec_network    = $enzymes_bi_graph->getGlobalGraph();
 $ec_subnetwork = $enzymes_bi_graph->getSubGraph();
 $filename = 'enzyme_bipartite';
 */
-
 // Write to file
 $cytoscape_writer = new MetaboX\Graph\Writer\CytoscapeGraphWriter();
 $cytoscape_writer->write($graph_path . $filename . '_all', $ec_network['weighted_edgelist']);

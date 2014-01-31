@@ -1,1 +1,1 @@
-{"ID":"3.1.4.12","name":"sphingomyelin phosphodiesterase","class":"Hydrolases","sysname":"sphingomyelin cholinephosphohydrolase","reference":"1  [PMID:5916388]","reaction":"R02541"}
+{"ID":"3.1.4.12","name":"sphingomyelin phosphodiesterase","class":"Hydrolases","sysname":"sphingomyelin cholinephosphohydrolase","reference":"1  [PMID:5916388]","reaction":["R02541"]}

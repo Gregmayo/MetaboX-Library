@@ -1,1 +1,1 @@
-{"ID":"2.7.1.136","name":"macrolide 2'-kinase","class":"Transferases","sysname":"ATP:macrolide 2'-O-phosphotransferase","reference":"1  [PMID:3042731]","reaction":"R03780"}
+{"ID":"2.7.1.136","name":"macrolide 2'-kinase","class":"Transferases","sysname":"ATP:macrolide 2'-O-phosphotransferase","reference":"1  [PMID:3042731]","reaction":["R03780"]}

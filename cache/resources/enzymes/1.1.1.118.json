@@ -1,1 +1,1 @@
-{"ID":"1.1.1.118","name":"glucose 1-dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"D-glucose:NAD+ 1-oxidoreductase","reference":"1  [PMID:14251301]","reaction":"R00300"}
+{"ID":"1.1.1.118","name":"glucose 1-dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"D-glucose:NAD+ 1-oxidoreductase","reference":"1  [PMID:14251301]","reaction":["R00300"]}

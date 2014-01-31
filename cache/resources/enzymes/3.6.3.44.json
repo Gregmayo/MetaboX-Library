@@ -1,1 +1,1 @@
-{"ID":"3.6.3.44","name":"xenobiotic-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (xenobiotic-exporting)","reference":"1  [PMID:8725386]","reaction":"R00086"}
+{"ID":"3.6.3.44","name":"xenobiotic-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (xenobiotic-exporting)","reference":"1  [PMID:8725386]","reaction":["R00086"]}

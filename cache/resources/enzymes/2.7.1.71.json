@@ -1,1 +1,1 @@
-{"ID":"2.7.1.71","name":"shikimate kinase","class":"Transferases","sysname":"ATP:shikimate 3-phosphotransferase","reference":"1  [PMID:4866525]","reaction":"R02412"}
+{"ID":"2.7.1.71","name":"shikimate kinase","class":"Transferases","sysname":"ATP:shikimate 3-phosphotransferase","reference":"1  [PMID:4866525]","reaction":{"0":"R02412","2":"R20291"}}

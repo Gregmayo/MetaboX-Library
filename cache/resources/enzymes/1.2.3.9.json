@@ -1,1 +1,1 @@
-{"ID":"1.2.3.9","name":"aryl-aldehyde oxidase","class":"Oxidoreductases","sysname":"aryl-aldehyde:oxygen oxidoreductase","reference":"1","reaction":"R01489"}
+{"ID":"1.2.3.9","name":"aryl-aldehyde oxidase","class":"Oxidoreductases","sysname":"aryl-aldehyde:oxygen oxidoreductase","reference":"1","reaction":{"0":"R01489","2":"R05273"}}

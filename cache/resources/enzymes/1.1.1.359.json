@@ -1,1 +1,1 @@
-{"ID":"1.1.1.359","name":"aldose 1-dehydrogenase [NAD(P)+]","class":"Oxidoreductases","sysname":"an aldopyranose:NAD(P)+ 1-oxidoreductase","reference":"1  [PMID:3827812]","reaction":""}
+{"ID":"1.1.1.359","name":"aldose 1-dehydrogenase [NAD(P)+]","class":"Oxidoreductases","sysname":"an aldopyranose:NAD(P)+ 1-oxidoreductase","reference":"1  [PMID:3827812]","reaction":["R10428","R10429"]}

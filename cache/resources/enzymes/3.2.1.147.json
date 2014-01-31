@@ -1,1 +1,1 @@
-{"ID":"3.2.1.147","name":"thioglucosidase","class":"Hydrolases","sysname":"thioglucoside glucohydrolase","reference":"1  [PMID:13675769]","reaction":"R01237"}
+{"ID":"3.2.1.147","name":"thioglucosidase","class":"Hydrolases","sysname":"thioglucoside glucohydrolase","reference":"1  [PMID:13675769]","reaction":{"0":"R01237","2":"R04094"}}

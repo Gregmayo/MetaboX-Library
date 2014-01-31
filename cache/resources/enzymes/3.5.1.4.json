@@ -1,1 +1,1 @@
-{"ID":"3.5.1.4","name":"amidase","class":"Hydrolases","sysname":"acylamide amidohydrolase","reference":"1  [PMID:16748573]","reaction":"R03909"}
+{"ID":"3.5.1.4","name":"amidase","class":"Hydrolases","sysname":"acylamide amidohydrolase","reference":"1  [PMID:16748573]","reaction":{"0":"R03909","2":"R00321","3":"R02540","4":"R03096","5":"R03180","6":"R05551","7":"R05590","8":"R06134"}}

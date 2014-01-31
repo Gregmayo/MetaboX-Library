@@ -1,1 +1,1 @@
-{"ID":"6.2.1.19","name":"long-chain-fatty-acid---luciferin-component ligase","class":"Ligases","sysname":"long-chain-fatty-acid:protein ligase (AMP-forming)","reference":"1  [PMID:7085612]","reaction":"R01407"}
+{"ID":"6.2.1.19","name":"long-chain-fatty-acid---luciferin-component ligase","class":"Ligases","sysname":"long-chain-fatty-acid:protein ligase (AMP-forming)","reference":"1  [PMID:7085612]","reaction":["R01407"]}

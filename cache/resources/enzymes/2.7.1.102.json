@@ -1,1 +1,1 @@
-{"ID":"2.7.1.102","name":"hamamelose kinase","class":"Transferases","sysname":"ATP:D-hamamelose 2'-phosphotransferase","reference":"1  [PMID:6249593]","reaction":"R03766"}
+{"ID":"2.7.1.102","name":"hamamelose kinase","class":"Transferases","sysname":"ATP:D-hamamelose 2'-phosphotransferase","reference":"1  [PMID:6249593]","reaction":["R03766"]}

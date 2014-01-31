@@ -1,1 +1,1 @@
-{"ID":"2.4.1.13","name":"sucrose synthase","class":"Transferases","sysname":"NDP-glucose:D-fructose 2-alpha-D-glucosyltransferase","reference":"1","reaction":"R07256"}
+{"ID":"2.4.1.13","name":"sucrose synthase","class":"Transferases","sysname":"NDP-glucose:D-fructose 2-alpha-D-glucosyltransferase","reference":"1","reaction":{"0":"R07256","2":"R00806","3":"R06036","4":"R08676"}}

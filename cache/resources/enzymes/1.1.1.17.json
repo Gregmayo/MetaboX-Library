@@ -1,1 +1,1 @@
-{"ID":"1.1.1.17","name":"mannitol-1-phosphate 5-dehydrogenase","class":"Oxidoreductases","sysname":"D-mannitol-1-phosphate:NAD+ 5-oxidoreductase","reference":"1  [PMID:14367396]","reaction":"R00758"}
+{"ID":"1.1.1.17","name":"mannitol-1-phosphate 5-dehydrogenase","class":"Oxidoreductases","sysname":"D-mannitol-1-phosphate:NAD+ 5-oxidoreductase","reference":"1  [PMID:14367396]","reaction":{"0":"R00758","2":"R02703","3":"R20291"}}

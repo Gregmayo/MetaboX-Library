@@ -1,1 +1,1 @@
-{"ID":"1.14.99.21","name":"Latia-luciferin monooxygenase (demethylating)","class":"Oxidoreductases","sysname":"Latia-luciferin,hydrogen-donor:oxygen oxidoreductase (demethylating)","reference":"1  [PMID:5650377]","reaction":"R03907"}
+{"ID":"1.14.99.21","name":"Latia-luciferin monooxygenase (demethylating)","class":"Oxidoreductases","sysname":"Latia-luciferin,hydrogen-donor:oxygen oxidoreductase (demethylating)","reference":"1  [PMID:5650377]","reaction":["R03907"]}

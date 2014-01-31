@@ -1,1 +1,1 @@
-{"ID":"2.7.1.147","name":"ADP-specific glucokinase","class":"Transferases","sysname":"ADP:D-glucose 6-phosphotransferase","reference":"1  [PMID:8530474]","reaction":"R05804"}
+{"ID":"2.7.1.147","name":"ADP-specific glucokinase","class":"Transferases","sysname":"ADP:D-glucose 6-phosphotransferase","reference":"1  [PMID:8530474]","reaction":{"0":"R05804","2":"R09085","3":"R09086"}}

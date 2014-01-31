@@ -1,1 +1,1 @@
-{"ID":"2.3.1.122","name":"trehalose O-mycolyltransferase","class":"Transferases","sysname":"alpha,alpha-trehalose-6-mycolate:alpha,alpha-trehalose-6-mycolate 6'-mycolyltransferase","reference":"1  [PMID:3654621]","reaction":"R07248"}
+{"ID":"2.3.1.122","name":"trehalose O-mycolyltransferase","class":"Transferases","sysname":"alpha,alpha-trehalose-6-mycolate:alpha,alpha-trehalose-6-mycolate 6'-mycolyltransferase","reference":"1  [PMID:3654621]","reaction":["R07248"]}

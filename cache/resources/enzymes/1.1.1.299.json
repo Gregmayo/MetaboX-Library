@@ -1,1 +1,1 @@
-{"ID":"1.1.1.299","name":"malate dehydrogenase [NAD(P)+]","class":"Oxidoreductases","sysname":"(S)-malate:NAD(P)+ oxidoreductase","reference":"1  [PMID:9639601]","reaction":"R00342"}
+{"ID":"1.1.1.299","name":"malate dehydrogenase [NAD(P)+]","class":"Oxidoreductases","sysname":"(S)-malate:NAD(P)+ oxidoreductase","reference":"1  [PMID:9639601]","reaction":["R00342","R00343"]}

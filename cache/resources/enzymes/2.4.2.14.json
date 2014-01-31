@@ -1,1 +1,1 @@
-{"ID":"2.4.2.14","name":"amidophosphoribosyltransferase","class":"Transferases","sysname":"5-phospho-beta-D-ribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)","reference":"1  [PMID:14235537]","reaction":"R01072"}
+{"ID":"2.4.2.14","name":"amidophosphoribosyltransferase","class":"Transferases","sysname":"5-phospho-beta-D-ribosylamine:diphosphate phospho-alpha-D-ribosyltransferase (glutamate-amidating)","reference":"1  [PMID:14235537]","reaction":{"0":"R01072","2":"R20291"}}

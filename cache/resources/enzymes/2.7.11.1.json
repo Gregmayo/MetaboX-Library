@@ -1,1 +1,1 @@
-{"ID":"2.7.11.1","name":"non-specific serine\/threonine protein kinase","class":"Transferases","sysname":"ATP:protein phosphotransferase (non-specific)","reference":"1  [PMID:2835010]","reaction":"R00162"}
+{"ID":"2.7.11.1","name":"non-specific serine\/threonine protein kinase","class":"Transferases","sysname":"ATP:protein phosphotransferase (non-specific)","reference":"1  [PMID:2835010]","reaction":{"0":"R00162","2":"R03632","3":"R20291","6":"R00560"}}

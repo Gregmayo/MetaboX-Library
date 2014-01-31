@@ -1,1 +1,1 @@
-{"ID":"6.2.1.38","name":"(2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA synthase","class":"Ligases","sysname":"[(1R)-2,2,3-trimethyl-5-oxocyclopent-3-enyl]acetate:CoA ligase (AMP-forming)","reference":"1  [PMID:6848481]","reaction":"R10003"}
+{"ID":"6.2.1.38","name":"(2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA synthase","class":"Ligases","sysname":"[(1R)-2,2,3-trimethyl-5-oxocyclopent-3-enyl]acetate:CoA ligase (AMP-forming)","reference":"1  [PMID:6848481]","reaction":["R10003"]}

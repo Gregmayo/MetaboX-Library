@@ -1,1 +1,1 @@
-{"ID":"1.1.1.7","name":"propanediol-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"propane-1,2-diol-1-phosphate:NAD+ oxidoreductase","reference":"1  [PMID:13672935]","reaction":"R04236"}
+{"ID":"1.1.1.7","name":"propanediol-phosphate dehydrogenase","class":"Oxidoreductases","sysname":"propane-1,2-diol-1-phosphate:NAD+ oxidoreductase","reference":"1  [PMID:13672935]","reaction":["R04236"]}

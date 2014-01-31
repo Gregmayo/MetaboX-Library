@@ -1,1 +1,1 @@
-{"ID":"1.13.12.7","name":"Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)","class":"Oxidoreductases","sysname":"Photinus-luciferin:oxygen 4-oxidoreductase (decarboxylating, ATP-hydrolysing)","reference":"1  [PMID:6064360]","reaction":"R04036"}
+{"ID":"1.13.12.7","name":"Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)","class":"Oxidoreductases","sysname":"Photinus-luciferin:oxygen 4-oxidoreductase (decarboxylating, ATP-hydrolysing)","reference":"1  [PMID:6064360]","reaction":["R04036"]}

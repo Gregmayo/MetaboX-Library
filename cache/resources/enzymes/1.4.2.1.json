@@ -1,1 +1,1 @@
-{"ID":"1.4.2.1","name":"glycine dehydrogenase (cytochrome)","class":"Oxidoreductases","sysname":"glycine:ferricytochrome-c oxidoreductase (deaminating)","reference":"1  [PMID:5016640]","reaction":"R00364"}
+{"ID":"1.4.2.1","name":"glycine dehydrogenase (cytochrome)","class":"Oxidoreductases","sysname":"glycine:ferricytochrome-c oxidoreductase (deaminating)","reference":"1  [PMID:5016640]","reaction":["R00364"]}

@@ -1,1 +1,1 @@
-{"ID":"1.16.1.4","name":"cob(II)alamin reductase","class":"Oxidoreductases","sysname":"cob(I)alamin:NAD+ oxidoreductase","reference":"1  [PMID:4390543]","reaction":"R00099"}
+{"ID":"1.16.1.4","name":"cob(II)alamin reductase","class":"Oxidoreductases","sysname":"cob(I)alamin:NAD+ oxidoreductase","reference":"1  [PMID:4390543]","reaction":["R00099"]}

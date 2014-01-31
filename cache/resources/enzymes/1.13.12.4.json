@@ -1,1 +1,1 @@
-{"ID":"1.13.12.4","name":"lactate 2-monooxygenase","class":"Oxidoreductases","sysname":"(S)-lactate:oxygen 2-oxidoreductase (decarboxylating)","reference":"1","reaction":"R00319"}
+{"ID":"1.13.12.4","name":"lactate 2-monooxygenase","class":"Oxidoreductases","sysname":"(S)-lactate:oxygen 2-oxidoreductase (decarboxylating)","reference":"1","reaction":["R00319"]}

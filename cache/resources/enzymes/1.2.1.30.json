@@ -1,1 +1,1 @@
-{"ID":"1.2.1.30","name":"aryl-aldehyde dehydrogenase (NADP+)","class":"Oxidoreductases","sysname":"aryl-aldehyde:NADP+ oxidoreductase (ATP-forming)","reference":"1  [PMID:4405494]","reaction":"R01490"}
+{"ID":"1.2.1.30","name":"aryl-aldehyde dehydrogenase (NADP+)","class":"Oxidoreductases","sysname":"aryl-aldehyde:NADP+ oxidoreductase (ATP-forming)","reference":"1  [PMID:4405494]","reaction":["R01490"]}

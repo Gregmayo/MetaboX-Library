@@ -1,1 +1,1 @@
-{"ID":"2.7.1.49","name":"hydroxymethylpyrimidine kinase","class":"Transferases","sysname":"ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase","reference":"1","reaction":"R03471"}
+{"ID":"2.7.1.49","name":"hydroxymethylpyrimidine kinase","class":"Transferases","sysname":"ATP:4-amino-5-hydroxymethyl-2-methylpyrimidine 5-phosphotransferase","reference":"1","reaction":{"0":"R03471","2":"R20291"}}

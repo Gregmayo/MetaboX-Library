@@ -1,1 +1,1 @@
-{"ID":"3.2.1.93","name":"alpha,alpha-phosphotrehalase","class":"Hydrolases","sysname":"alpha,alpha-trehalose-6-phosphate phosphoglucohydrolase","reference":"1  [PMID:4369400]","reaction":"R00837"}
+{"ID":"3.2.1.93","name":"alpha,alpha-phosphotrehalase","class":"Hydrolases","sysname":"alpha,alpha-trehalose-6-phosphate phosphoglucohydrolase","reference":"1  [PMID:4369400]","reaction":{"0":"R00837","1":"R06113","4":"R20291"}}

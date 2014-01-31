@@ -1,1 +1,1 @@
-{"ID":"2.7.1.145","name":"deoxynucleoside kinase","class":"Transferases","sysname":"ATP:deoxynucleoside 5'-phosphotransferase","reference":"1  [PMID:9461577]","reaction":"R05806"}
+{"ID":"2.7.1.145","name":"deoxynucleoside kinase","class":"Transferases","sysname":"ATP:deoxynucleoside 5'-phosphotransferase","reference":"1  [PMID:9461577]","reaction":["R05806"]}

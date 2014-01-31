@@ -1,1 +1,1 @@
-{"ID":"2.6.1.56","name":"1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase","class":"Transferases","sysname":"1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol:pyruvate aminotransferase","reference":"1  [PMID:4376579]","reaction":"R03502"}
+{"ID":"2.6.1.56","name":"1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase","class":"Transferases","sysname":"1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol:pyruvate aminotransferase","reference":"1  [PMID:4376579]","reaction":["R03502"]}

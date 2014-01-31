@@ -1,1 +1,1 @@
-{"ID":"1.14.13.131","name":"dimethyl-sulfide monooxygenase","class":"Oxidoreductases","sysname":"dimethyl sulfide,NADH:oxygen oxidoreductase","reference":"1","reaction":"R09786"}
+{"ID":"1.14.13.131","name":"dimethyl-sulfide monooxygenase","class":"Oxidoreductases","sysname":"dimethyl sulfide,NADH:oxygen oxidoreductase","reference":"1","reaction":["R09786"]}

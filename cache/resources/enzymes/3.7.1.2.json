@@ -1,1 +1,1 @@
-{"ID":"3.7.1.2","name":"fumarylacetoacetase","class":"Hydrolases","sysname":"4-fumarylacetoacetate fumarylhydrolase","reference":"1  [PMID:18117010]","reaction":"R01364"}
+{"ID":"3.7.1.2","name":"fumarylacetoacetase","class":"Hydrolases","sysname":"4-fumarylacetoacetate fumarylhydrolase","reference":"1  [PMID:18117010]","reaction":["R01364"]}

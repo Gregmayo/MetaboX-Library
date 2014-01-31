@@ -1,1 +1,1 @@
-{"ID":"3.5.1.88","name":"peptide deformylase","class":"Hydrolases","sysname":"formyl-L-methionyl peptide amidohydrolase","reference":"1  [PMID:4973445]","reaction":"R05635"}
+{"ID":"3.5.1.88","name":"peptide deformylase","class":"Hydrolases","sysname":"formyl-L-methionyl peptide amidohydrolase","reference":"1  [PMID:4973445]","reaction":{"0":"R05635","2":"R20291"}}

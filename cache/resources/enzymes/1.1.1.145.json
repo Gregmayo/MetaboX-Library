@@ -1,1 +1,1 @@
-{"ID":"1.1.1.145","name":"3beta-hydroxy-Delta5-steroid dehydrogenase","class":"Oxidoreductases","sysname":"3beta-hydroxy-Delta5-steroid:NAD+ 3-oxidoreductase","reference":"1  [PMID:4226148]","reaction":"R03176"}
+{"ID":"1.1.1.145","name":"3beta-hydroxy-Delta5-steroid dehydrogenase","class":"Oxidoreductases","sysname":"3beta-hydroxy-Delta5-steroid:NAD+ 3-oxidoreductase","reference":"1  [PMID:4226148]","reaction":{"0":"R03176","2":"R01837","3":"R02216","4":"R02499","5":"R02840","6":"R03327","7":"R04163","8":"R04678","9":"R04849","10":"R09920"}}

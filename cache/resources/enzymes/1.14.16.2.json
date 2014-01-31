@@ -1,1 +1,1 @@
-{"ID":"1.14.16.2","name":"tyrosine 3-monooxygenase","class":"Oxidoreductases","sysname":"L-tyrosine,tetrahydrobiopterin:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:6133218]","reaction":"R07212"}
+{"ID":"1.14.16.2","name":"tyrosine 3-monooxygenase","class":"Oxidoreductases","sysname":"L-tyrosine,tetrahydrobiopterin:oxygen oxidoreductase (3-hydroxylating)","reference":"1  [PMID:6133218]","reaction":{"0":"R07212","2":"R01815"}}

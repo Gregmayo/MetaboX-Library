@@ -1,1 +1,1 @@
-{"ID":"2.3.2.2","name":"gamma-glutamyltransferase","class":"Transferases","sysname":"(5-L-glutamyl)-peptide:amino-acid 5-glutamyltransferase","reference":"1  [PMID:6030345]","reaction":"R04159"}
+{"ID":"2.3.2.2","name":"gamma-glutamyltransferase","class":"Transferases","sysname":"(5-L-glutamyl)-peptide:amino-acid 5-glutamyltransferase","reference":"1  [PMID:6030345]","reaction":{"0":"R04159","2":"R01262","3":"R01687","4":"R03867","5":"R04935","6":"R00494","7":"R03916","8":"R03970","9":"R03971","10":"R20291"}}

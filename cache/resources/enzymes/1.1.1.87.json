@@ -1,1 +1,1 @@
-{"ID":"1.1.1.87","name":"homoisocitrate dehydrogenase","class":"Oxidoreductases","sysname":"(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)","reference":"1  [PMID:4284830]","reaction":"R01934"}
+{"ID":"1.1.1.87","name":"homoisocitrate dehydrogenase","class":"Oxidoreductases","sysname":"(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate:NAD+ oxidoreductase (decarboxylating)","reference":"1  [PMID:4284830]","reaction":{"0":"R01934","2":"R01936","3":"R04862"}}

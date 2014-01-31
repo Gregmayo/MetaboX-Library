@@ -1,1 +1,1 @@
-{"ID":"1.14.13.27","name":"4-aminobenzoate 1-monooxygenase","class":"Oxidoreductases","sysname":"4-aminobenzoate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating, decarboxylating)","reference":"1  [PMID:3489713]","reaction":"R02561"}
+{"ID":"1.14.13.27","name":"4-aminobenzoate 1-monooxygenase","class":"Oxidoreductases","sysname":"4-aminobenzoate,NAD(P)H:oxygen oxidoreductase (1-hydroxylating, decarboxylating)","reference":"1  [PMID:3489713]","reaction":["R02561","R02562"]}

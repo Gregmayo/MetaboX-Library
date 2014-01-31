@@ -1,1 +1,1 @@
-{"ID":"2.7.1.20","name":"adenosine kinase","class":"Transferases","sysname":"ATP:adenosine 5'-phosphotransferase","reference":"1  [PMID:4290214]","reaction":"R00185"}
+{"ID":"2.7.1.20","name":"adenosine kinase","class":"Transferases","sysname":"ATP:adenosine 5'-phosphotransferase","reference":"1  [PMID:4290214]","reaction":["R00185"]}

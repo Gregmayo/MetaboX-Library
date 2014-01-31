@@ -1,1 +1,1 @@
-{"ID":"6.3.2.21","name":"ubiquitin---calmodulin ligase","class":"Ligases","sysname":"calmodulin:ubiquitin ligase (AMP-forming)","reference":"1  [PMID:2853950]","reaction":"R05193"}
+{"ID":"6.3.2.21","name":"ubiquitin---calmodulin ligase","class":"Ligases","sysname":"calmodulin:ubiquitin ligase (AMP-forming)","reference":"1  [PMID:2853950]","reaction":["R05193"]}

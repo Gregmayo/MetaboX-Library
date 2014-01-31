@@ -1,1 +1,1 @@
-{"ID":"2.7.1.74","name":"deoxycytidine kinase","class":"Transferases","sysname":"NTP:deoxycytidine 5'-phosphotransferase","reference":"1  [PMID:5442271]","reaction":"R02321"}
+{"ID":"2.7.1.74","name":"deoxycytidine kinase","class":"Transferases","sysname":"NTP:deoxycytidine 5'-phosphotransferase","reference":"1  [PMID:5442271]","reaction":{"0":"R02321","2":"R01666","3":"R00185"}}

@@ -1,1 +1,1 @@
-{"ID":"2.7.7.19","name":"polynucleotide adenylyltransferase","class":"Transferases","sysname":"ATP:polynucleotide adenylyltransferase","reference":"1  [PMID:13965521]","reaction":"R00435"}
+{"ID":"2.7.7.19","name":"polynucleotide adenylyltransferase","class":"Transferases","sysname":"ATP:polynucleotide adenylyltransferase","reference":"1  [PMID:13965521]","reaction":["R00435"]}

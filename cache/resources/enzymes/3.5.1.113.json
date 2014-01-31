@@ -1,1 +1,1 @@
-{"ID":"3.5.1.113","name":"2'''-acetyl-6'''-hydroxyneomycin C deacetylase","class":"Hydrolases","sysname":"2'''-acetyl-6'''-hydroxyneomycin C hydrolase (acetate-forming)","reference":"1  [PMID:18311744]","reaction":"R08901"}
+{"ID":"3.5.1.113","name":"2'''-acetyl-6'''-hydroxyneomycin C deacetylase","class":"Hydrolases","sysname":"2'''-acetyl-6'''-hydroxyneomycin C hydrolase (acetate-forming)","reference":"1  [PMID:18311744]","reaction":["R08901"]}

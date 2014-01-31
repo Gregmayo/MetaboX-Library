@@ -1,1 +1,1 @@
-{"ID":"3.5.1.14","name":"aminoacylase","class":"Hydrolases","sysname":"N-acyl-L-amino-acid amidohydrolase","reference":"1  [PMID:14927637]","reaction":"R01263"}
+{"ID":"3.5.1.14","name":"N-acyl-aliphatic-L-amino acid amidohydrolase","class":"Hydrolases","sysname":"N-acyl-aliphatic-L-amino acid amidohydrolase (carboxylate-forming)","reference":"1  [PMID:14927637]","reaction":{"0":"R01263","1":"R10553","3":"R00669"}}

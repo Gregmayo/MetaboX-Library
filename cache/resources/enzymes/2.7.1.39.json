@@ -1,1 +1,1 @@
-{"ID":"2.7.1.39","name":"homoserine kinase","class":"Transferases","sysname":"ATP:L-homoserine O-phosphotransferase","reference":"1  [PMID:13823379]","reaction":"R01771"}
+{"ID":"2.7.1.39","name":"homoserine kinase","class":"Transferases","sysname":"ATP:L-homoserine O-phosphotransferase","reference":"1  [PMID:13823379]","reaction":{"0":"R01771","2":"R20291"}}

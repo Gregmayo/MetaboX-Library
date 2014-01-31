@@ -1,1 +1,1 @@
-{"ID":"1.1.1.149","name":"20alpha-hydroxysteroid dehydrogenase","class":"Oxidoreductases","sysname":"20alpha-hydroxysteroid:NAD(P)+ 20-oxidoreductase","reference":"1  [PMID:4382486]","reaction":"R03325"}
+{"ID":"1.1.1.149","name":"20alpha-hydroxysteroid dehydrogenase","class":"Oxidoreductases","sysname":"20alpha-hydroxysteroid:NAD(P)+ 20-oxidoreductase","reference":"1  [PMID:4382486]","reaction":{"0":"R03325","2":"R02207","3":"R02209","4":"R08958","5":"R08959"}}

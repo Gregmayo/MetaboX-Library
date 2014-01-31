@@ -1,1 +1,1 @@
-{"ID":"2.1.1.250","name":"trimethylamine---corrinoid protein Co-methyltransferase","class":"Transferases","sysname":"trimethylamine:5-hydroxybenzimidazolylcobamide Co-methyltransferase","reference":"1  [PMID:9006042]","reaction":"R10016"}
+{"ID":"2.1.1.250","name":"trimethylamine---corrinoid protein Co-methyltransferase","class":"Transferases","sysname":"trimethylamine:5-hydroxybenzimidazolylcobamide Co-methyltransferase","reference":"1  [PMID:9006042]","reaction":{"0":"R10016","2":"R09124"}}

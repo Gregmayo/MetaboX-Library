@@ -1,1 +1,1 @@
-{"ID":"3.5.1.16","name":"acetylornithine deacetylase","class":"Hydrolases","sysname":"N2-acetyl-L-ornithine amidohydrolase","reference":"1  [PMID:16589307]","reaction":"R00669"}
+{"ID":"3.5.1.16","name":"acetylornithine deacetylase","class":"Hydrolases","sysname":"N2-acetyl-L-ornithine amidohydrolase","reference":"1  [PMID:16589307]","reaction":{"0":"R00669","2":"R09107","3":"R20291"}}

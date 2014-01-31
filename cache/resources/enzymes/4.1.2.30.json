@@ -1,1 +1,1 @@
-{"ID":"4.1.2.30","name":"17alpha-hydroxyprogesterone aldolase","class":"Lyases","sysname":"17alpha-hydroxyprogesterone acetaldehyde-lyase (4-androstene-3,17-dione-forming)","reference":"1  [PMID:4435747]","reaction":"R01841"}
+{"ID":"4.1.2.30","name":"17alpha-hydroxyprogesterone aldolase","class":"Lyases","sysname":"17alpha-hydroxyprogesterone acetaldehyde-lyase (4-androstene-3,17-dione-forming)","reference":"1  [PMID:4435747]","reaction":{"0":"R01841","2":"R08516"}}

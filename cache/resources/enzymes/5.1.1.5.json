@@ -1,1 +1,1 @@
-{"ID":"5.1.1.5","name":"lysine racemase","class":"Isomerases","sysname":"lysine racemase","reference":"1","reaction":"R00460"}
+{"ID":"5.1.1.5","name":"lysine racemase","class":"Isomerases","sysname":"lysine racemase","reference":"1","reaction":["R00460"]}

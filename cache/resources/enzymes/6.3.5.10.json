@@ -1,1 +1,1 @@
-{"ID":"6.3.5.10","name":"adenosylcobyric acid synthase (glutamine-hydrolysing)","class":"Ligases","sysname":"adenosylcobyrinic-acid-a,c-diamide:L-glutamine amido-ligase (ADP-forming)","reference":"1  [PMID:1917839]","reaction":"R05225"}
+{"ID":"6.3.5.10","name":"adenosylcobyric acid synthase (glutamine-hydrolysing)","class":"Ligases","sysname":"adenosylcobyrinic-acid-a,c-diamide:L-glutamine amido-ligase (ADP-forming)","reference":"1  [PMID:1917839]","reaction":{"0":"R05225","2":"R20291"}}

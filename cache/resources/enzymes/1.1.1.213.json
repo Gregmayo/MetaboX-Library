@@ -1,1 +1,1 @@
-{"ID":"1.1.1.213","name":"3alpha-hydroxysteroid 3-dehydrogenase (Re-specific)","class":"Oxidoreductases","sysname":"3alpha-hydroxysteroid:NAD(P)+ 3-oxidoreductase (Re-specific)","reference":"1  [PMID:4392180]","reaction":"R10422"}
+{"ID":"1.1.1.213","name":"3alpha-hydroxysteroid 3-dehydrogenase (Re-specific)","class":"Oxidoreductases","sysname":"3alpha-hydroxysteroid:NAD(P)+ 3-oxidoreductase (Re-specific)","reference":"1  [PMID:4392180]","reaction":{"0":"R10422","1":"R10423","3":"R02476","5":"R02477","6":"R08955","7":"R08957","8":"R08960"}}

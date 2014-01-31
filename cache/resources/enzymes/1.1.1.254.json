@@ -1,1 +1,1 @@
-{"ID":"1.1.1.254","name":"(S)-carnitine 3-dehydrogenase","class":"Oxidoreductases","sysname":"(S)-carnitine:NAD+ oxidoreductase","reference":"1  [PMID:9214773]","reaction":"R01921"}
+{"ID":"1.1.1.254","name":"(S)-carnitine 3-dehydrogenase","class":"Oxidoreductases","sysname":"(S)-carnitine:NAD+ oxidoreductase","reference":"1  [PMID:9214773]","reaction":["R01921"]}

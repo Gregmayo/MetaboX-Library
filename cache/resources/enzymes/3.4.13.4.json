@@ -1,1 +1,1 @@
-{"ID":"3.4.13.4","name":"Xaa-Arg dipeptidase","class":"Hydrolases","sysname":"","reference":"1  [PMID:5436646]","reaction":""}
+{"ID":"3.4.13.4","name":"Xaa-Arg dipeptidase","class":"Hydrolases","sysname":"","reference":"1  [PMID:5436646]","reaction":["R00911","R03935"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.2.11","name":"glutamate 5-kinase","class":"Transferases","sysname":"ATP:L-glutamate 5-phosphotransferase","reference":"1  [PMID:4904678]","reaction":"R00239"}
+{"ID":"2.7.2.11","name":"glutamate 5-kinase","class":"Transferases","sysname":"ATP:L-glutamate 5-phosphotransferase","reference":"1  [PMID:4904678]","reaction":["R00239"]}

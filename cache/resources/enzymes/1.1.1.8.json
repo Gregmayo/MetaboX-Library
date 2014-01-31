@@ -1,1 +1,1 @@
-{"ID":"1.1.1.8","name":"glycerol-3-phosphate dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"sn-glycerol-3-phosphate:NAD+ 2-oxidoreductase","reference":"1","reaction":"R00842"}
+{"ID":"1.1.1.8","name":"glycerol-3-phosphate dehydrogenase (NAD+)","class":"Oxidoreductases","sysname":"sn-glycerol-3-phosphate:NAD+ 2-oxidoreductase","reference":"1","reaction":["R00842"]}

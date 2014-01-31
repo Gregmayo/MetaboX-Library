@@ -1,1 +1,1 @@
-{"ID":"3.6.1.20","name":"5'-acylphosphoadenosine hydrolase","class":"Hydrolases","sysname":"5'-acylphosphoadenosine acylhydrolase","reference":"1  [PMID:13651188]","reaction":"R00542"}
+{"ID":"3.6.1.20","name":"5'-acylphosphoadenosine hydrolase","class":"Hydrolases","sysname":"5'-acylphosphoadenosine acylhydrolase","reference":"1  [PMID:13651188]","reaction":{"0":"R00542","2":"R00322","3":"R01423","4":"R01690"}}

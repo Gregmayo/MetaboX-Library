@@ -40,7 +40,7 @@ class Compound extends AbstractResourceLoader{
 			'enzymeIdCollection'   => $this->_extractEnzymes()
 		);
 
-		$this->_getLocalRP()->write($this->_getResourceFullPath(), $resource);		
+		$this->_getLocalRP()->write($this->_getResourceFullPath(), $resource);
 		$this->_resource = $resource;
 		
 		return $resource;
@@ -77,7 +77,7 @@ class Compound extends AbstractResourceLoader{
 	 * 
 	 * @return array
 	 */
-	public function _extractReactions(){
+	protected function _extractReactions(){
 		preg_match_all('/R[0-9]{5}/', $this->_plain, $matches);
 		return array_unique($matches[0]);
 	}
@@ -89,7 +89,7 @@ class Compound extends AbstractResourceLoader{
 	 * 
 	 * @return array
 	 */
-	public function _extractPathways(){
+	protected function _extractPathways(){
 		preg_match_all('/map[0-9]{5}/', $this->_plain, $matches);
 		return array_unique($matches[0]);
 	}
@@ -101,7 +101,7 @@ class Compound extends AbstractResourceLoader{
 	 * 
 	 * @return array
 	 */
-	public function _extractEnzymes(){
+	protected function _extractEnzymes(){
 		// NOTE: #pattern match fix '([0-9]{1,3}\.){4}' not working
 		preg_match_all('/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/', $this->_plain, $matches);
 		

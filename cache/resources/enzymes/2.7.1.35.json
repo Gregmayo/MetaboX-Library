@@ -1,1 +1,1 @@
-{"ID":"2.7.1.35","name":"pyridoxal kinase","class":"Transferases","sysname":"ATP:pyridoxal 5'-phosphotransferase","reference":"1  [PMID:13773826]","reaction":"R00174"}
+{"ID":"2.7.1.35","name":"pyridoxal kinase","class":"Transferases","sysname":"ATP:pyridoxal 5'-phosphotransferase","reference":"1  [PMID:13773826]","reaction":{"0":"R00174","2":"R01909","3":"R02493","4":"R20291"}}

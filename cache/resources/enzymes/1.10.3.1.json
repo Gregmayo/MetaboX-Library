@@ -1,1 +1,1 @@
-{"ID":"1.10.3.1","name":"catechol oxidase","class":"Oxidoreductases","sysname":"1,2-benzenediol:oxygen oxidoreductase","reference":"1","reaction":"R00058"}
+{"ID":"1.10.3.1","name":"catechol oxidase","class":"Oxidoreductases","sysname":"1,2-benzenediol:oxygen oxidoreductase","reference":"1","reaction":{"0":"R00058","2":"R00031","3":"R00045","4":"R00080","5":"R02078"}}

@@ -1,1 +1,1 @@
-{"ID":"1.2.1.25","name":"2-oxoisovalerate dehydrogenase (acylating)","class":"Oxidoreductases","sysname":"3-methyl-2-oxobutanoate:NAD+ 2-oxidoreductase (CoA-methyl-propanoylating)","reference":"1  [PMID:4308861]","reaction":"R01210"}
+{"ID":"1.2.1.25","name":"2-oxoisovalerate dehydrogenase (acylating)","class":"Oxidoreductases","sysname":"3-methyl-2-oxobutanoate:NAD+ 2-oxidoreductase (CoA-methyl-propanoylating)","reference":"1  [PMID:4308861]","reaction":{"0":"R01210","2":"R01651","3":"R03171"}}

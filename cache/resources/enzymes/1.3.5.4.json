@@ -1,1 +1,1 @@
-{"ID":"1.3.5.4","name":"fumarate reductase (menaquinone)","class":"Oxidoreductases","sysname":"succinate:menaquinone oxidoreductase","reference":"1  [PMID:10373108]","reaction":"R09490"}
+{"ID":"1.3.5.4","name":"fumarate reductase (quinol)","class":"Oxidoreductases","sysname":"succinate:quinone oxidoreductase","reference":"1  [PMID:7998964]","reaction":["R09490"]}

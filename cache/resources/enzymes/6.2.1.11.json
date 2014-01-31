@@ -1,1 +1,1 @@
-{"ID":"6.2.1.11","name":"biotin---CoA ligase","class":"Ligases","sysname":"biotin:CoA ligase (AMP-forming)","reference":"1  [PMID:14257635]","reaction":"R01075"}
+{"ID":"6.2.1.11","name":"biotin---CoA ligase","class":"Ligases","sysname":"biotin:CoA ligase (AMP-forming)","reference":"1  [PMID:14257635]","reaction":{"0":"R01075","2":"R01074","3":"R03762"}}

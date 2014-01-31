@@ -1,1 +1,1 @@
-{"ID":"1.2.1.8","name":"betaine-aldehyde dehydrogenase","class":"Oxidoreductases","sysname":"betaine-aldehyde:NAD+ oxidoreductase","reference":"1  [PMID:13192104]","reaction":"R02565"}
+{"ID":"1.2.1.8","name":"betaine-aldehyde dehydrogenase","class":"Oxidoreductases","sysname":"betaine-aldehyde:NAD+ oxidoreductase","reference":"1  [PMID:13192104]","reaction":{"0":"R02565","2":"R02566"}}

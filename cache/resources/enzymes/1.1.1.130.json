@@ -1,1 +1,1 @@
-{"ID":"1.1.1.130","name":"3-dehydro-L-gulonate 2-dehydrogenase","class":"Oxidoreductases","sysname":"3-dehydro-L-gulonate:NAD(P)+ 2-oxidoreductase","reference":"1  [PMID:13926592]","reaction":"R02637"}
+{"ID":"1.1.1.130","name":"3-dehydro-L-gulonate 2-dehydrogenase","class":"Oxidoreductases","sysname":"3-dehydro-L-gulonate:NAD(P)+ 2-oxidoreductase","reference":"1  [PMID:13926592]","reaction":["R02637","R02639"]}

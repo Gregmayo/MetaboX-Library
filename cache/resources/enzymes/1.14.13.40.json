@@ -1,1 +1,1 @@
-{"ID":"1.14.13.40","name":"anthraniloyl-CoA monooxygenase","class":"Oxidoreductases","sysname":"anthraniloyl-CoA,NAD(P)H:oxygen oxidoreductase (de-aromatizing)","reference":"1  [PMID:2591379]","reaction":"R03998"}
+{"ID":"1.14.13.40","name":"anthraniloyl-CoA monooxygenase","class":"Oxidoreductases","sysname":"anthraniloyl-CoA,NAD(P)H:oxygen oxidoreductase (de-aromatizing)","reference":"1  [PMID:2591379]","reaction":["R03998","R03999"]}

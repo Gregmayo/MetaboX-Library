@@ -1,1 +1,1 @@
-{"ID":"2.5.1.53","name":"uracilylalanine synthase","class":"Transferases","sysname":"O3-acetyl-L-serine:uracil 1-(2-amino-2-carboxyethyl)transferase","reference":"1","reaction":"R03131"}
+{"ID":"2.5.1.53","name":"uracilylalanine synthase","class":"Transferases","sysname":"O3-acetyl-L-serine:uracil 1-(2-amino-2-carboxyethyl)transferase","reference":"1","reaction":["R03131"]}

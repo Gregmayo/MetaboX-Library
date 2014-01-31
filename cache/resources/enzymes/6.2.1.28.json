@@ -1,1 +1,1 @@
-{"ID":"6.2.1.28","name":"3alpha,7alpha-dihydroxy-5beta-cholestanate---CoA ligase","class":"Ligases","sysname":"(25R)-3alpha,7alpha-dihydroxy-5beta-cholestan-26-oate:CoA ligase (AMP-forming)","reference":"1  [PMID:3183523]","reaction":"R04507"}
+{"ID":"6.2.1.28","name":"3alpha,7alpha-dihydroxy-5beta-cholestanate---CoA ligase","class":"Ligases","sysname":"(25R)-3alpha,7alpha-dihydroxy-5beta-cholestan-26-oate:CoA ligase (AMP-forming)","reference":"1  [PMID:3183523]","reaction":["R04507"]}

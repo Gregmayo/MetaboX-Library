@@ -1,1 +1,1 @@
-{"ID":"3.6.3.25","name":"sulfate-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (sulfate-importing)","reference":"1  [PMID:7608089]","reaction":"R00086"}
+{"ID":"3.6.3.25","name":"sulfate-transporting ATPase","class":"Hydrolases","sysname":"ATP phosphohydrolase (sulfate-importing)","reference":"1  [PMID:7608089]","reaction":["R00086"]}

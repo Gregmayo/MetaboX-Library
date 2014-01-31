@@ -1,1 +1,1 @@
-{"ID":"1.1.1.99","name":"(S)-2-hydroxy-fatty-acid dehydrogenase","class":"Oxidoreductases","sysname":"(S)-2-hydroxystearate:NAD+ oxidoreductase","reference":"1  [PMID:5443694]","reaction":"R03022"}
+{"ID":"1.1.1.99","name":"(S)-2-hydroxy-fatty-acid dehydrogenase","class":"Oxidoreductases","sysname":"(S)-2-hydroxystearate:NAD+ oxidoreductase","reference":"1  [PMID:5443694]","reaction":["R03022"]}

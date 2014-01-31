@@ -1,1 +1,1 @@
-{"ID":"2.4.1.245","name":"alpha,alpha-trehalose synthase","class":"Transferases","sysname":"NDP-alpha-D-glucose:D-glucose 1-alpha-D-glucosyltransferase","reference":"1  [PMID:15364950]","reaction":"R08946"}
+{"ID":"2.4.1.245","name":"alpha,alpha-trehalose synthase","class":"Transferases","sysname":"NDP-alpha-D-glucose:D-glucose 1-alpha-D-glucosyltransferase","reference":"1  [PMID:15364950]","reaction":{"0":"R10525","2":"R08946"}}

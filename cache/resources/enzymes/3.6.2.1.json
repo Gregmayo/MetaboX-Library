@@ -1,1 +1,1 @@
-{"ID":"3.6.2.1","name":"adenylylsulfatase","class":"Hydrolases","sysname":"adenylyl-sulfate sulfohydrolase","reference":"1  [PMID:5801298]","reaction":"R00531"}
+{"ID":"3.6.2.1","name":"adenylylsulfatase","class":"Hydrolases","sysname":"adenylyl-sulfate sulfohydrolase","reference":"1  [PMID:5801298]","reaction":["R00531"]}

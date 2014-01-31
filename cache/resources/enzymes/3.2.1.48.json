@@ -1,1 +1,1 @@
-{"ID":"3.2.1.48","name":"sucrose alpha-glucosidase","class":"Hydrolases","sysname":"sucrose-alpha-D-glucohydrolase","reference":"1  [PMID:807575]","reaction":"R00801"}
+{"ID":"3.2.1.48","name":"sucrose alpha-glucosidase","class":"Hydrolases","sysname":"sucrose-alpha-D-glucohydrolase","reference":"1  [PMID:807575]","reaction":{"0":"R00801","1":"R06087","4":"R00802","5":"R06088"}}

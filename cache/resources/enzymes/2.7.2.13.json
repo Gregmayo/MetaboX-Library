@@ -1,1 +1,1 @@
-{"ID":"2.7.2.13","name":"glutamate 1-kinase","class":"Transferases","sysname":"ATP:L-glutamate 1-phosphotransferase","reference":"1","reaction":"R00241"}
+{"ID":"2.7.2.13","name":"glutamate 1-kinase","class":"Transferases","sysname":"ATP:L-glutamate 1-phosphotransferase","reference":"1","reaction":["R00241"]}

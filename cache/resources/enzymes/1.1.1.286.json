@@ -1,1 +1,1 @@
-{"ID":"1.1.1.286","name":"isocitrate---homoisocitrate dehydrogenase","class":"Oxidoreductases","sysname":"isocitrate(homoisocitrate):NAD+ oxidoreductase (decarboxylating)","reference":"1  [PMID:15845397]","reaction":"R00709"}
+{"ID":"1.1.1.286","name":"isocitrate---homoisocitrate dehydrogenase","class":"Oxidoreductases","sysname":"isocitrate(homoisocitrate):NAD+ oxidoreductase (decarboxylating)","reference":"1  [PMID:15845397]","reaction":{"0":"R00709","1":"R01934","4":"R01936","5":"R04862"}}

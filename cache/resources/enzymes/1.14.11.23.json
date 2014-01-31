@@ -1,1 +1,1 @@
-{"ID":"1.14.11.23","name":"flavonol synthase","class":"Oxidoreductases","sysname":"dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase","reference":"1  [PMID:12180990]","reaction":"R07368"}
+{"ID":"1.14.11.23","name":"flavonol synthase","class":"Oxidoreductases","sysname":"dihydroflavonol,2-oxoglutarate:oxygen oxidoreductase","reference":"1  [PMID:12180990]","reaction":{"0":"R07368","2":"R02160","3":"R03126","4":"R06539","5":"R08082"}}

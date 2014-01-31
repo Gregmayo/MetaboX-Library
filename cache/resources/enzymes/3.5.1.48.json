@@ -1,1 +1,1 @@
-{"ID":"3.5.1.48","name":"acetylspermidine deacetylase","class":"Hydrolases","sysname":"N8-acetylspermidine amidohydrolase","reference":"1  [PMID:28089]","reaction":"R07300"}
+{"ID":"3.5.1.48","name":"acetylspermidine deacetylase","class":"Hydrolases","sysname":"N8-acetylspermidine amidohydrolase","reference":"1  [PMID:28089]","reaction":["R07300"]}

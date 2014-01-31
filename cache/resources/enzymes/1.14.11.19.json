@@ -1,1 +1,1 @@
-{"ID":"1.14.11.19","name":"leucocyanidin oxygenase","class":"Oxidoreductases","sysname":"leucocyanidin,2-oxoglutarate:oxygen oxidoreductase","reference":"1  [PMID:10074715]","reaction":"R05723"}
+{"ID":"1.14.11.19","name":"leucocyanidin oxygenase","class":"Oxidoreductases","sysname":"leucocyanidin,2-oxoglutarate:oxygen oxidoreductase","reference":"1  [PMID:10074715]","reaction":{"0":"R05723","1":"R07366","4":"R04276","5":"R05036","6":"R05037","7":"R06540"}}

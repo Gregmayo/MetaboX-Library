@@ -1,1 +1,1 @@
-{"ID":"1.14.12.9","name":"4-chlorophenylacetate 3,4-dioxygenase","class":"Oxidoreductases","sysname":"4-chlorophenylacetate,NADH:oxygen oxidoreductase (3,4-hydroxylating, dechlorinating)","reference":"1  [PMID:3745216]","reaction":"R03306"}
+{"ID":"1.14.12.9","name":"4-chlorophenylacetate 3,4-dioxygenase","class":"Oxidoreductases","sysname":"4-chlorophenylacetate,NADH:oxygen oxidoreductase (3,4-hydroxylating, dechlorinating)","reference":"1  [PMID:3745216]","reaction":["R03306"]}

@@ -1,1 +1,1 @@
-{"ID":"6.3.2.29","name":"cyanophycin synthase (L-aspartate-adding)","class":"Ligases","sysname":"cyanophycin:L-aspartate ligase (ADP-forming)","reference":"1  [PMID:11131019]","reaction":"R09592"}
+{"ID":"6.3.2.29","name":"cyanophycin synthase (L-aspartate-adding)","class":"Ligases","sysname":"cyanophycin:L-aspartate ligase (ADP-forming)","reference":"1  [PMID:11131019]","reaction":["R09592"]}

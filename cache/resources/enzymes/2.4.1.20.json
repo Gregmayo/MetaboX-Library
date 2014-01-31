@@ -1,1 +1,1 @@
-{"ID":"2.4.1.20","name":"cellobiose phosphorylase","class":"Transferases","sysname":"cellobiose:phosphate alpha-D-glucosyltransferase","reference":"1  [PMID:5653182]","reaction":"R00952"}
+{"ID":"2.4.1.20","name":"cellobiose phosphorylase","class":"Transferases","sysname":"cellobiose:phosphate alpha-D-glucosyltransferase","reference":"1  [PMID:5653182]","reaction":["R00952","R06056"]}

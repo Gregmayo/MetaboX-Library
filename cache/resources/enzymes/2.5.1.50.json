@@ -1,1 +1,1 @@
-{"ID":"2.5.1.50","name":"zeatin 9-aminocarboxyethyltransferase","class":"Transferases","sysname":"O3-acetyl-L-serine:zeatin 2-amino-2-carboxyethyltransferase","reference":"1","reaction":"R03133"}
+{"ID":"2.5.1.50","name":"zeatin 9-aminocarboxyethyltransferase","class":"Transferases","sysname":"O3-acetyl-L-serine:zeatin 2-amino-2-carboxyethyltransferase","reference":"1","reaction":["R03133"]}

@@ -1,1 +1,1 @@
-{"ID":"2.7.1.85","name":"beta-glucoside kinase","class":"Transferases","sysname":"ATP:cellobiose 6-phosphotransferase","reference":"1  [PMID:5030625]","reaction":"R01441"}
+{"ID":"2.7.1.85","name":"beta-glucoside kinase","class":"Transferases","sysname":"ATP:cellobiose 6-phosphotransferase","reference":"1  [PMID:5030625]","reaction":["R01441","R06176"]}
