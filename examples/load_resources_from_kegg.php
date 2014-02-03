@@ -22,8 +22,8 @@
  *  along with The MetaboX Library. If not, see <http://www.gnu.org/licenses/>.
  */
  
-include('includes/_init.php');
 include('includes/functions.php');
+include('includes/_init.php');
 
 // Track execution time
 $start = microtime(true);

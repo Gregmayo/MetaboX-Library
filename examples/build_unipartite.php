@@ -24,8 +24,8 @@
  
 ini_set('memory_limit', '-1');
 
-include('includes/_init.php');
 include('includes/functions.php');
+include('includes/_init.php');
 
 // Track execution time
 $start = microtime(true);

@@ -31,3 +31,5 @@ $loader->register();
 // use MetaboX\Resource\Loader as MXL;
 // use MetaboX\Resource\Provider\Remote as MX_RPR;
 // use MetaboX\Resource\Provider\Local  as MX_RPL;
+
+createCacheDirectories();

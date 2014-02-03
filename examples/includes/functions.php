@@ -97,10 +97,26 @@ function loadEnzymes( $processed_compounds, $config ){
 	return $processed_enzymes;
 }
 
-function deleteCacheFolder($folder){
+function getFullpath(){
 	$path     = getcwd();
-	$fullpath = str_replace(basename($path), '', $path); 
-	$files    = glob($fullpath . $folder);
+	$fullpath = str_replace(basename($path), '', $path);
+	
+	return $fullpath;
+}
+
+function deleteCacheFolder($folder){ 
+	$files    = glob(getFullpath() . $folder);
 	
 	array_map('unlink', $files);
+}
+
+function createCacheDirectories(){
+	$fullpath = getFullpath() . 'cache/resources/';
+	$directories = array('compounds', 'reactions', 'enzymes', 'pathways');
+	
+	foreach( $directories as $dir ){
+		if( !is_dir($fullpath . $dir) && !file_exists($fullpath . $dir) ){
+			mkdir($fullpath . $dir);
+		}	
+	}
 }
