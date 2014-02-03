@@ -34,6 +34,23 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 		$this->_rn_keys = array_keys($this->_rn_list);
 	}
 	
+	protected function _getCouple($i, $j){
+		$A = $i->ID;
+		$B = $j->ID;
+		
+		$intA = (int)str_replace('.', '', $i->ID);
+		$intB = (int)str_replace('.', '', $j->ID);
+		
+		$_c = array( $intA => $A, $intB => $B );
+		$_couple = array($intA, $intB);
+		
+		sort($_couple);
+		
+		//var_dump($_c[$_couple[0]], $_c[$_couple[1]]);exit;
+		
+		return array($_c[$_couple[0]], $_c[$_couple[1]]);
+	}
+	
 	public function build( $compounds = false ){
 		$_all_edgelist = array();
 		$_sub_edgelist = array();
@@ -54,7 +71,9 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 						$this->_global_graph['node_collection'][] = $_i_enzyme->ID;
 						$this->_global_graph['node_collection'][] = $_j_enzyme->ID;
 						
-						$row = implode(',', $this->_prepareCouple($_i_enzyme->ID, $_j_enzyme->ID));
+						$couple = $this->_getCouple($_i_enzyme, $_j_enzyme);
+
+						$row = implode(',', $couple);
 						
 						$_all_edgelist[] = $row;
 						

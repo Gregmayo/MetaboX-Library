@@ -51,6 +51,7 @@ if( !$content ){
 
 $compounds   = explode(',', $content);
 $config      = parse_ini_file($config_file, true);
+$graph_path  = getcwd() . '/' . $config['directory']['graph'];
 
 $processed_compounds = loadCompounds( $compounds, $config );
 $processed_reactions = loadReactions( $processed_compounds, $config );
