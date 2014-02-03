@@ -16,6 +16,7 @@
  * @author Matthew Weier O'Phinney <matthew@zend.com>
  * @author Kris Wallsmith <kris.wallsmith@gmail.com>
  * @author Fabien Potencier <fabien.potencier@symfony-project.org>
+ * @link https://gist.github.com/jwage/221634/
  */
 class SplClassLoader
 {
