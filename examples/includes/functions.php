@@ -111,6 +111,15 @@ function deleteCacheFolder($folder){
 }
 
 function createCacheDirectories(){
+	
+	if( !is_dir(getFullpath() . 'cache') && !file_exists(getFullpath() . 'cache') ){
+		mkdir(getFullpath() . 'cache');
+	}
+	
+	if( !is_dir(getFullpath() . 'cache/resources') && !file_exists(getFullpath() . 'cache/resources') ){
+		mkdir(getFullpath() . 'cache/resources');
+	}
+	
 	$fullpath = getFullpath() . 'cache/resources/';
 	$directories = array('compounds', 'reactions', 'enzymes', 'pathways');
 	
