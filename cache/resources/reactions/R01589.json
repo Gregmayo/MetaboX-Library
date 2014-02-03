@@ -1,1 +1,0 @@
-{"ID":"R01589","name":"Methylguanidine amidinohydrolase","definition":"Methylguanidine + H2O <=> Methylamine + Urea","enzyme":"3.5.3.16","equation":"C02294 + C00001 <=> C00218 + C00086","reactants":{"compounds":["C02294","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00218","C00086"],"coefficients":[1,1]}}

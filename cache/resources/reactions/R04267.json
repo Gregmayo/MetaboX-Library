@@ -1,1 +1,0 @@
-{"ID":"R04267","name":"ATP:deoxynucleoside-phosphate phosphotransferase","definition":"ATP + Deoxynucleoside phosphate <=> ADP + Deoxynucleoside diphosphate","enzyme":"2.7.4.13","equation":"C00002 + C03607 <=> C00008 + C03786","reactants":{"compounds":["C00002","C03607"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03786"],"coefficients":[1,1]}}

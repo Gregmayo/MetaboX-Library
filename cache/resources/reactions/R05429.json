@@ -1,1 +1,0 @@
-{"ID":"R05429","name":"","definition":"1,4-Dichlorobenzene + Oxygen + NADH + H+ <=> 3,6-Dichloro-cis-1,2-dihydroxycyclohexa-3,5-diene + NAD+","enzyme":null,"equation":"C07092 + C00007 + C00004 + C00080 <=> C07093 + C00003","reactants":{"compounds":["C07092","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C07093","C00003"],"coefficients":[1,1]}}

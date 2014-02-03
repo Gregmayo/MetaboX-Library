@@ -1,1 +1,0 @@
-{"ID":"R03854","name":"2,2-Dialkylglycine carboxylyase(amino-transferring)","definition":"2,2-Dialkylglycine + Pyruvate <=> Dialkyl ketone + CO2 + L-Alanine","enzyme":"4.1.1.64","equation":"C02623 + C00022 <=> C02146 + C00011 + C00041","reactants":{"compounds":["C02623","C00022"],"coefficients":[1,1]},"products":{"compounds":["C02146","C00011","C00041"],"coefficients":[1,1,1]}}

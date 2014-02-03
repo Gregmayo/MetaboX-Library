@@ -1,1 +1,0 @@
-{"ID":"R00737","name":"L-tyrosine ammonia-lyase (trans-p-hydroxycinnamate-forming)","definition":"L-Tyrosine <=> 4-Coumarate + Ammonia","enzyme":"4.3.1.23","equation":"C00082 <=> C00811 + C00014","reactants":{"compounds":["C00082"],"coefficients":[1]},"products":{"compounds":["C00811","C00014"],"coefficients":[1,1]}}

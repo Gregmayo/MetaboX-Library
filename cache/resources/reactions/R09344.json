@@ -1,1 +1,0 @@
-{"ID":"R09344","name":"","definition":"2,3-Dehydro-UWM6 + L-Isoleucine <=> Jadomycin A + CO2 + H2O","enzyme":null,"equation":"C18679 + C00407 <=> C18680 + C00011 + C00001","reactants":{"compounds":["C18679","C00407"],"coefficients":[1,1]},"products":{"compounds":["C18680","C00011","C00001"],"coefficients":[1,1,1]}}

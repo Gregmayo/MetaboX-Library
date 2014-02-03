@@ -1,1 +1,0 @@
-{"ID":"R02544","name":"meso-tartrate:NAD+ oxidoreductase","definition":"meso-Tartaric acid + NAD+ <=> Dihydroxyfumarate + NADH + H+","enzyme":"1.3.1.7","equation":"C00552 + C00003 <=> C00975 + C00004 + C00080","reactants":{"compounds":["C00552","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00975","C00004","C00080"],"coefficients":[1,1,1]}}

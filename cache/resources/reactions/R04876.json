@@ -1,1 +1,0 @@
-{"ID":"R04876","name":"","definition":"Imidazol-5-yl-pyruvate + NADH + H+ <=> Imidazole lactate + NAD+","enzyme":null,"equation":"C03277 + C00004 + C00080 <=> C05568 + C00003","reactants":{"compounds":["C03277","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C05568","C00003"],"coefficients":[1,1]}}

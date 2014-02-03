@@ -1,1 +1,0 @@
-{"ID":"R01888","name":"ATP:kanamycin 3'-O-phosphotransferase","definition":"ATP + Kanamycin A <=> ADP + Kanamycin A 3'-phosphate","enzyme":"2.7.1.95","equation":"C00002 + C01822 <=> C00008 + C03281","reactants":{"compounds":["C00002","C01822"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03281"],"coefficients":[1,1]}}

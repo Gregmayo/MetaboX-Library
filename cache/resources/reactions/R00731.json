@@ -1,1 +1,0 @@
-{"ID":"R00731","name":"L-Tyrosine:oxygen oxidoreductase","definition":"L-Tyrosine + Oxygen <=> 3,4-Dihydroxy-L-phenylalanine + H2O","enzyme":"1.14.18.1","equation":"C00082 + C00007 <=> C00355 + C00001","reactants":{"compounds":["C00082","C00007"],"coefficients":[1,1]},"products":{"compounds":["C00355","C00001"],"coefficients":[1,1]}}

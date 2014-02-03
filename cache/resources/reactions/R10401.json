@@ -1,1 +1,0 @@
-{"ID":"R10401","name":"versiconal-hemiacetal-acetate O-acetylhydrolase","definition":"Versiconal hemiacetal acetate + H2O <=> Versiconal + Acetate","enzyme":"3.1.1.94","equation":"C20505 + C00001 <=> C20507 + C00033","reactants":{"compounds":["C20505","C00001"],"coefficients":[1,1]},"products":{"compounds":["C20507","C00033"],"coefficients":[1,1]}}

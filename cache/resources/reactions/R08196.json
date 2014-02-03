@@ -1,1 +1,0 @@
-{"ID":"R08196","name":"","definition":"D-Allothreonine <=> Glycine + Acetaldehyde","enzyme":"4.1.2.42","equation":"C12317 <=> C00037 + C00084","reactants":{"compounds":["C12317"],"coefficients":[1]},"products":{"compounds":["C00037","C00084"],"coefficients":[1,1]}}

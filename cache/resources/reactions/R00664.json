@@ -1,1 +1,0 @@
-{"ID":"R00664","name":"Bezoyl-CoA:L-ornithine N-benzoyltransferase","definition":"2 S-Benzoate coenzyme A + L-Ornithine <=> 2 CoA + N2,N5-Dibenzoyl-L-ornithine","enzyme":"2.3.1.127","equation":"2 C00512 + C00077 <=> 2 C00010 + C03712","reactants":{"compounds":["C00512","C00077"],"coefficients":[2,1]},"products":{"compounds":["C00010","C03712"],"coefficients":[2,1]}}

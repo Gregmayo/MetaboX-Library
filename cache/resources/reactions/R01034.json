@@ -1,1 +1,0 @@
-{"ID":"R01034","name":"glycerol:NAD+ 2-oxidoreductase","definition":"Glycerol + NAD+ <=> Glycerone + NADH + H+","enzyme":"1.1.1.6","equation":"C00116 + C00003 <=> C00184 + C00004 + C00080","reactants":{"compounds":["C00116","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00184","C00004","C00080"],"coefficients":[1,1,1]}}

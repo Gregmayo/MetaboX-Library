@@ -1,1 +1,0 @@
-{"ID":"R10411","name":"D-glucose:acceptor oxidoreductase","definition":"D-Glucose + Acceptor <=> D-Glucono-1,5-lactone + Reduced acceptor","enzyme":"1.1.99.35","equation":"C00031 + C00028 <=> C00198 + C00030","reactants":{"compounds":["C00031","C00028"],"coefficients":[1,1]},"products":{"compounds":["C00198","C00030"],"coefficients":[1,1]}}

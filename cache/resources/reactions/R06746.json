@@ -1,1 +1,0 @@
-{"ID":"R06746","name":"","definition":"L-Proline + ATP <=> L-Prolyl-[pcp] + AMP + Diphosphate","enzyme":null,"equation":"C00148 + C00002 <=> C12470 + C00020 + C00013","reactants":{"compounds":["C00148","C00002"],"coefficients":[1,1]},"products":{"compounds":["C12470","C00020","C00013"],"coefficients":[1,1,1]}}

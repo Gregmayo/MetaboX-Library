@@ -1,1 +1,0 @@
-{"ID":"R00239","name":"ATP:L-glutamate 5-phosphotransferase","definition":"ATP + L-Glutamate <=> ADP + L-Glutamyl 5-phosphate","enzyme":"2.7.2.11","equation":"C00002 + C00025 <=> C00008 + C03287","reactants":{"compounds":["C00002","C00025"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03287"],"coefficients":[1,1]}}

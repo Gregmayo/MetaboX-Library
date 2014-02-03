@@ -1,1 +1,0 @@
-{"ID":"R00674","name":"L-serine hydro-lyase (adding indole L-tryptophan-forming)","definition":"L-Serine + Indole <=> L-Tryptophan + H2O","enzyme":"4.2.1.20","equation":"C00065 + C00463 <=> C00078 + C00001","reactants":{"compounds":["C00065","C00463"],"coefficients":[1,1]},"products":{"compounds":["C00078","C00001"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R06378","name":"menth-8-en-2-ol:NAD+ oxidoreductase","definition":"(1R,2S,4R)-Neo-dihydrocarveol + NAD+ <=> (1R,4R)-Dihydrocarvone + NADH + H+","enzyme":"1.1.1.296","equation":"C11397 + C00003 <=> C11398 + C00004 + C00080","reactants":{"compounds":["C11397","C00003"],"coefficients":[1,1]},"products":{"compounds":["C11398","C00004","C00080"],"coefficients":[1,1,1]}}

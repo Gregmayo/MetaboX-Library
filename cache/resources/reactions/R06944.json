@@ -1,1 +1,0 @@
-{"ID":"R06944","name":"","definition":"Adipate + CoA + ATP <=> Adipyl-CoA + AMP + Diphosphate","enzyme":null,"equation":"C06104 + C00010 + C00002 <=> C14143 + C00020 + C00013","reactants":{"compounds":["C06104","C00010","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C14143","C00020","C00013"],"coefficients":[1,1,1]}}

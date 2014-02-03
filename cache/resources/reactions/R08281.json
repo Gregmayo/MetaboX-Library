@@ -1,1 +1,0 @@
-{"ID":"R08281","name":"alcophosphamide:NAD+ oxidoreductase","definition":"Aldophosphamide + NADH + H+ <=> Alcophosphamide + NAD+","enzyme":"1.1.1.1","equation":"C07645 + C00004 + C00080 <=> C16551 + C00003","reactants":{"compounds":["C07645","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C16551","C00003"],"coefficients":[1,1]}}

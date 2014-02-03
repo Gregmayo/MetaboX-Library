@@ -1,1 +1,0 @@
-{"ID":"R07770","name":"ATP:lipoate adenylyltransferase","definition":"ATP + Lipoate <=> Diphosphate + Lipoyl-AMP","enzyme":"2.7.7.63","equation":"C00002 + C00725 <=> C00013 + C16238","reactants":{"compounds":["C00002","C00725"],"coefficients":[1,1]},"products":{"compounds":["C00013","C16238"],"coefficients":[1,1]}}

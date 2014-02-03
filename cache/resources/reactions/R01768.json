@@ -1,1 +1,0 @@
-{"ID":"R01768","name":"hypoxanthine:NAD+ oxidoreductase","definition":"Hypoxanthine + NAD+ + H2O <=> Xanthine + NADH + H+","enzyme":"1.17.1.4","equation":"C00262 + C00003 + C00001 <=> C00385 + C00004 + C00080","reactants":{"compounds":["C00262","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00385","C00004","C00080"],"coefficients":[1,1,1]}}

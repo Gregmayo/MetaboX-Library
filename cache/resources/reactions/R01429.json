@@ -1,1 +1,0 @@
-{"ID":"R01429","name":"D-xylose:NAD+ 1-oxidoreductase","definition":"D-Xylose + NAD+ <=> D-Xylonolactone + NADH + H+","enzyme":"1.1.1.121","equation":"C00181 + C00003 <=> C02266 + C00004 + C00080","reactants":{"compounds":["C00181","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02266","C00004","C00080"],"coefficients":[1,1,1]}}

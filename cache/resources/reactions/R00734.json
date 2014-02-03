@@ -1,1 +1,0 @@
-{"ID":"R00734","name":"L-tyrosine:2-oxoglutarate aminotransferase","definition":"L-Tyrosine + 2-Oxoglutarate <=> 3-(4-Hydroxyphenyl)pyruvate + L-Glutamate","enzyme":"2.6.1.1","equation":"C00082 + C00026 <=> C01179 + C00025","reactants":{"compounds":["C00082","C00026"],"coefficients":[1,1]},"products":{"compounds":["C01179","C00025"],"coefficients":[1,1]}}

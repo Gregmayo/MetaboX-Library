@@ -1,1 +1,0 @@
-{"ID":"R04172","name":"","definition":"3-Hydroxy-L-kynurenine <=> 3-Hydroxykynurenamine + CO2","enzyme":null,"equation":"C03227 <=> C05636 + C00011","reactants":{"compounds":["C03227"],"coefficients":[1]},"products":{"compounds":["C05636","C00011"],"coefficients":[1,1]}}

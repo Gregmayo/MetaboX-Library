@@ -1,1 +1,0 @@
-{"ID":"R03352","name":"3-Hydroxy-2-methylpropanoyl-CoA hydrolase","definition":"3-Hydroxy-2-methylpropanoyl-CoA + H2O <=> 3-Hydroxy-2-methylpropanoate + CoA","enzyme":"3.1.2.4","equation":"C04047 + C00001 <=> C01188 + C00010","reactants":{"compounds":["C04047","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01188","C00010"],"coefficients":[1,1]}}

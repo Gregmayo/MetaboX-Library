@@ -1,1 +1,0 @@
-{"ID":"R00229","name":"Acetate:CoA ligase (ADP-forming)","definition":"ATP + Acetate + CoA <=> ADP + Acetyl-CoA + Orthophosphate","enzyme":"6.2.1.13","equation":"C00002 + C00033 + C00010 <=> C00008 + C00024 + C00009","reactants":{"compounds":["C00002","C00033","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00008","C00024","C00009"],"coefficients":[1,1,1]}}

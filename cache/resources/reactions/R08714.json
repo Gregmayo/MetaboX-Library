@@ -1,1 +1,0 @@
-{"ID":"R08714","name":"putrescine:pyruvate aminotransferase","definition":"Putrescine + Pyruvate <=> 4-Aminobutyraldehyde + L-Alanine","enzyme":null,"equation":"C00134 + C00022 <=> C00555 + C00041","reactants":{"compounds":["C00134","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00555","C00041"],"coefficients":[1,1]}}

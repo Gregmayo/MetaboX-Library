@@ -1,1 +1,0 @@
-{"ID":"R05397","name":"","definition":"3,6-Dichloro-cis-1,2-dihydroxycyclohexa-3,5-diene + NAD+ <=> 3,6-Dichlorocatechol + NADH + H+","enzyme":null,"equation":"C07093 + C00003 <=> C07094 + C00004 + C00080","reactants":{"compounds":["C07093","C00003"],"coefficients":[1,1]},"products":{"compounds":["C07094","C00004","C00080"],"coefficients":[1,1,1]}}

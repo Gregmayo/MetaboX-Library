@@ -1,1 +1,0 @@
-{"ID":"R06117","name":"(+)-trans-carveol: NAD+ oxidoreductase","definition":"(+)-trans-Carveol + NAD+ <=> (+)-(S)-Carvone + NADH + H+","enzyme":"1.1.1.275","equation":"C11409 + C00003 <=> C11383 + C00004 + C00080","reactants":{"compounds":["C11409","C00003"],"coefficients":[1,1]},"products":{"compounds":["C11383","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R10107","name":"","definition":"L-Arginine + Oxygen + NADH + H+ <=> N(omega)-Hydroxyarginine + NAD+ + H2O","enzyme":"1.14.13.165","equation":"C00062 + C00007 + C00004 + C00080 <=> C05933 + C00003 + C00001","reactants":{"compounds":["C00062","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C05933","C00003","C00001"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R02986","name":"2-furoate:CoA ligase (AMP-forming)","definition":"ATP + 2-Furoate + CoA <=> AMP + Diphosphate + 2-Furoyl-CoA","enzyme":"6.2.1.31","equation":"C00002 + C01546 + C00010 <=> C00020 + C00013 + C00845","reactants":{"compounds":["C00002","C01546","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00845"],"coefficients":[1,1,1]}}

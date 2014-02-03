@@ -1,1 +1,0 @@
-{"ID":"R00397","name":"L-aspartate 4-carboxy-lyase (L-alanine-forming)","definition":"L-Aspartate <=> L-Alanine + CO2","enzyme":"4.1.1.12","equation":"C00049 <=> C00041 + C00011","reactants":{"compounds":["C00049"],"coefficients":[1]},"products":{"compounds":["C00041","C00011"],"coefficients":[1,1]}}

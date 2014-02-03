@@ -1,1 +1,0 @@
-{"ID":"R00326","name":"acetaldehyde:acceptor oxidoreductase","definition":"Acetaldehyde + Acceptor + H2O <=> Acetate + Reduced acceptor","enzyme":"1.2.99.6","equation":"C00084 + C00028 + C00001 <=> C00033 + C00030","reactants":{"compounds":["C00084","C00028","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00033","C00030"],"coefficients":[1,1]}}

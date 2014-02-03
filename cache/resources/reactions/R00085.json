@@ -1,1 +1,0 @@
-{"ID":"R00085","name":"ATP diphosphohydrolase (phosphate-forming)","definition":"ATP + 2 H2O <=> AMP + 2 Orthophosphate","enzyme":"3.6.1.5","equation":"C00002 + 2 C00001 <=> C00020 + 2 C00009","reactants":{"compounds":["C00002","C00001"],"coefficients":[1,2]},"products":{"compounds":["C00020","C00009"],"coefficients":[1,2]}}

@@ -1,1 +1,0 @@
-{"ID":"R00579","name":"glutamine racemase","definition":"L-Glutamine <=> D-Glutamine","enzyme":"5.1.1.10","equation":"C00064 <=> C00819","reactants":{"compounds":["C00064"],"coefficients":[1]},"products":{"compounds":["C00819"],"coefficients":[1]}}

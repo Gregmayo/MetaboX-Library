@@ -1,1 +1,0 @@
-{"ID":"R01926","name":"ATP:sphingosine 1-phosphotransferase","definition":"Sphingosine + ATP <=> Sphingosine 1-phosphate + ADP","enzyme":"2.7.1.91","equation":"C00319 + C00002 <=> C06124 + C00008","reactants":{"compounds":["C00319","C00002"],"coefficients":[1,1]},"products":{"compounds":["C06124","C00008"],"coefficients":[1,1]}}

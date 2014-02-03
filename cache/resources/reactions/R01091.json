@@ -1,1 +1,0 @@
-{"ID":"R01091","name":"(2S)-alpha-leucine 2,3-aminomutase","definition":"L-Leucine <=> (3R)-beta-Leucine","enzyme":"5.4.3.7","equation":"C00123 <=> C02486","reactants":{"compounds":["C00123"],"coefficients":[1]},"products":{"compounds":["C02486"],"coefficients":[1]}}

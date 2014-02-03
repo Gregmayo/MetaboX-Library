@@ -1,1 +1,0 @@
-{"ID":"R02347","name":"Estradiol-17alpha:NAD+ 17-oxidoreductase","definition":"Estradiol-17alpha + NAD+ <=> Estrone + NADH + H+","enzyme":"1.1.1.148","equation":"C02537 + C00003 <=> C00468 + C00004 + C00080","reactants":{"compounds":["C02537","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00468","C00004","C00080"],"coefficients":[1,1,1]}}

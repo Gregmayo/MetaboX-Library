@@ -1,1 +1,0 @@
-{"ID":"R09544","name":"D-arabitol-phosphate:NAD+ oxidoreductase","definition":"D-Arabinitol 1-phosphate + NAD+ <=> D-Xylulose 5-phosphate + NADH + H+","enzyme":"1.1.1.301","equation":"C19674 + C00003 <=> C00231 + C00004 + C00080","reactants":{"compounds":["C19674","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00231","C00004","C00080"],"coefficients":[1,1,1]}}

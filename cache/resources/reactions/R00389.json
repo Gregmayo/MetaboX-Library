@@ -1,1 +1,0 @@
-{"ID":"R00389","name":"Acid:CoA ligase (AMP-forming)","definition":"ATP + Acid + CoA <=> AMP + Diphosphate + Acyl-CoA","enzyme":"6.2.1.2","equation":"C00002 + C00174 + C00010 <=> C00020 + C00013 + C00040","reactants":{"compounds":["C00002","C00174","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00040"],"coefficients":[1,1,1]}}

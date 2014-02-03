@@ -1,1 +1,0 @@
-{"ID":"R01029","name":"Acylcholine acylhydrolase","definition":"Acylcholine + H2O <=> Choline + Carboxylate","enzyme":"3.1.1.8","equation":"C01777 + C00001 <=> C00114 + C00060","reactants":{"compounds":["C01777","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00114","C00060"],"coefficients":[1,1]}}

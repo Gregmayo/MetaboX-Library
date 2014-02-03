@@ -1,1 +1,0 @@
-{"ID":"R07419","name":"4-(L-gamma-glutamylamino)butanoate amidohydrolase","definition":"4-(L-gamma-Glutamylamino)butanoate + H2O <=> 4-Aminobutanoate + L-Glutamate","enzyme":"3.5.1.94","equation":"C15767 + C00001 <=> C00334 + C00025","reactants":{"compounds":["C15767","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00334","C00025"],"coefficients":[1,1]}}

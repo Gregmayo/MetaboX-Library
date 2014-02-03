@@ -1,1 +1,0 @@
-{"ID":"R00182","name":"AMP phosphoribohydrolase","definition":"AMP + H2O <=> Adenine + D-Ribose 5-phosphate","enzyme":"3.2.2.4","equation":"C00020 + C00001 <=> C00147 + C00117","reactants":{"compounds":["C00020","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00147","C00117"],"coefficients":[1,1]}}

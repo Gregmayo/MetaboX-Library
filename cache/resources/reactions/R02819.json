@@ -1,1 +1,0 @@
-{"ID":"R02819","name":"Alditol:NAD+ 1-oxidoreductase","definition":"Alditol + NAD+ <=> Aldose + NADH + H+","enzyme":"1.1.1.21","equation":"C00717 + C00003 <=> C01370 + C00004 + C00080","reactants":{"compounds":["C00717","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01370","C00004","C00080"],"coefficients":[1,1,1]}}

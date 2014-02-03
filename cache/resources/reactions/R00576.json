@@ -1,1 +1,0 @@
-{"ID":"R00576","name":"L-Glutamine:pyruvate aminotransferase","definition":"L-Glutamine + Pyruvate <=> 2-Oxoglutaramate + L-Alanine","enzyme":"2.6.1.15","equation":"C00064 + C00022 <=> C00940 + C00041","reactants":{"compounds":["C00064","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00940","C00041"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R01704","name":"Palmitaldehyde:NAD+ oxidoreductase","definition":"Hexadecanal + NAD+ + H2O <=> Hexadecanoic acid + NADH + H+","enzyme":"1.2.1.48","equation":"C00517 + C00003 + C00001 <=> C00249 + C00004 + C00080","reactants":{"compounds":["C00517","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00249","C00004","C00080"],"coefficients":[1,1,1]}}

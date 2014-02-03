@@ -1,1 +1,0 @@
-{"ID":"R01513","name":"3-Phospho-D-glycerate:NAD+ 2-oxidoreductase","definition":"3-Phospho-D-glycerate + NAD+ <=> 3-Phosphonooxypyruvate + NADH + H+","enzyme":"1.1.1.95","equation":"C00197 + C00003 <=> C03232 + C00004 + C00080","reactants":{"compounds":["C00197","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03232","C00004","C00080"],"coefficients":[1,1,1]}}

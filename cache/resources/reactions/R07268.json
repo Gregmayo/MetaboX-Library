@@ -1,1 +1,0 @@
-{"ID":"R07268","name":"ATP:cobinamide Cobeta-adenosyltransferase","definition":"ATP + Cobinamide <=> Triphosphate + Adenosyl cobinamide","enzyme":"2.5.1.17","equation":"C00002 + C05774 <=> C00536 + C06508","reactants":{"compounds":["C00002","C05774"],"coefficients":[1,1]},"products":{"compounds":["C00536","C06508"],"coefficients":[1,1]}}

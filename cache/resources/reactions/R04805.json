@@ -1,1 +1,0 @@
-{"ID":"R04805","name":"","definition":"3alpha,7alpha,26-Trihydroxy-5beta-cholestane + NAD+ <=> 3alpha,7alpha-Dihydroxy-5beta-cholestan-26-al + NADH + H+","enzyme":"1.1.1.1","equation":"C05444 + C00003 <=> C05445 + C00004 + C00080","reactants":{"compounds":["C05444","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05445","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R02990","name":"Succinyl-CoA:3-oxoadipate CoA-transferase","definition":"Succinyl-CoA + 3-Oxoadipate <=> Succinate + 3-Oxoadipyl-CoA","enzyme":"2.8.3.6","equation":"C00091 + C00846 <=> C00042 + C02232","reactants":{"compounds":["C00091","C00846"],"coefficients":[1,1]},"products":{"compounds":["C00042","C02232"],"coefficients":[1,1]}}

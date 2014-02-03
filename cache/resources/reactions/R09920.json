@@ -1,1 +1,0 @@
-{"ID":"R09920","name":"cholesterol:NAD+ 3-oxidoreductase","definition":"Cholesterol + NAD+ <=> Cholest-4-en-3-one + NADH + H+","enzyme":"1.1.1.145","equation":"C00187 + C00003 <=> C00599 + C00004 + C00080","reactants":{"compounds":["C00187","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00599","C00004","C00080"],"coefficients":[1,1,1]}}

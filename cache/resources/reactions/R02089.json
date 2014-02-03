@@ -1,1 +1,0 @@
-{"ID":"R02089","name":"ATP:deoxyadenosine 5'-phosphotransferase","definition":"ATP + Deoxyadenosine <=> ADP + dAMP","enzyme":"2.7.1.76","equation":"C00002 + C00559 <=> C00008 + C00360","reactants":{"compounds":["C00002","C00559"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00360"],"coefficients":[1,1]}}

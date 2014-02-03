@@ -1,1 +1,0 @@
-{"ID":"R00614","name":"Formaldehyde:formaldehyde oxidoreductase","definition":"2 Formaldehyde + H2O <=> Formate + Methanol","enzyme":"1.2.99.4","equation":"2 C00067 + C00001 <=> C00058 + C00132","reactants":{"compounds":["C00067","C00001"],"coefficients":[2,1]},"products":{"compounds":["C00058","C00132"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03406","name":"Androst-5-ene-3beta,17beta-diol:NAD+ oxidoreductase","definition":"Androstenediol + NAD+ <=> Dehydroepiandrosterone + NADH + H+","enzyme":"1.1.1.51","equation":"C04295 + C00003 <=> C01227 + C00004 + C00080","reactants":{"compounds":["C04295","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01227","C00004","C00080"],"coefficients":[1,1,1]}}

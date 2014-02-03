@@ -1,1 +1,0 @@
-{"ID":"R00928","name":"Acetyl-CoA:propanoate CoA-transferase","definition":"Acetyl-CoA + Propanoate <=> Acetate + Propanoyl-CoA","enzyme":"2.8.3.1","equation":"C00024 + C00163 <=> C00033 + C00100","reactants":{"compounds":["C00024","C00163"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00100"],"coefficients":[1,1]}}

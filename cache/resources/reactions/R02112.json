@@ -1,1 +1,0 @@
-{"ID":"R02112","name":"1,4-alpha-D-Glucan maltohydrolase","definition":"Starch <=> Maltodextrin + Maltose","enzyme":"3.2.1.2","equation":"C00369 <=> C01935 + C00208","reactants":{"compounds":["C00369"],"coefficients":[1]},"products":{"compounds":["C01935","C00208"],"coefficients":[1,1]}}

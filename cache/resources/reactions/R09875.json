@@ -1,1 +1,0 @@
-{"ID":"R09875","name":"leukotriene-C4 hydrolase","definition":"Leukotriene C4 + H2O <=> Leukotriene D4 + L-Glutamate","enzyme":"3.4.19.14","equation":"C02166 + C00001 <=> C05951 + C00025","reactants":{"compounds":["C02166","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05951","C00025"],"coefficients":[1,1]}}

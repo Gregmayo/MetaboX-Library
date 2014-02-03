@@ -1,1 +1,0 @@
-{"ID":"R05434","name":"","definition":"Dibenzofuran + Oxygen + NADH + H+ <=> 2,2',3-Trihydroxybiphenyl + NAD+","enzyme":null,"equation":"C07729 + C00007 + C00004 + C00080 <=> C03569 + C00003","reactants":{"compounds":["C07729","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C03569","C00003"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R01959","name":"N-Formyl-L-kynurenine amidohydrolase","definition":"L-Formylkynurenine + H2O <=> Formate + L-Kynurenine","enzyme":"3.5.1.9","equation":"C02700 + C00001 <=> C00058 + C00328","reactants":{"compounds":["C02700","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00328"],"coefficients":[1,1]}}

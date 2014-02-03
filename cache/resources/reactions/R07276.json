@@ -1,1 +1,0 @@
-{"ID":"R07276","name":"L-arogenate:2-oxoglutarate aminotransferase","definition":"L-Arogenate + 2-Oxoglutarate <=> Prephenate + L-Glutamate","enzyme":"2.6.1.79","equation":"C00826 + C00026 <=> C00254 + C00025","reactants":{"compounds":["C00826","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00254","C00025"],"coefficients":[1,1]}}

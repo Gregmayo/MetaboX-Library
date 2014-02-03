@@ -1,1 +1,0 @@
-{"ID":"R09879","name":"P1,P6-bis(5'-adenosyl)hexaphosphate nucleotidohydrolase (ATP-forming)","definition":"P1,P6-Bis(5'-adenosyl)hexaphosphate + H2O <=> 2 ATP","enzyme":"3.6.1.61","equation":"C20190 + C00001 <=> 2 C00002","reactants":{"compounds":["C20190","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00002"],"coefficients":[2]}}

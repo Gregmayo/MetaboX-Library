@@ -1,1 +1,0 @@
-{"ID":"R03942","name":"L-Rhamnofuranose:NAD+ 1-oxidoreductase","definition":"L-Rhamnofuranose + NAD+ <=> L-Rhamnono-1,4-lactone + NADH + H+","enzyme":"1.1.1.173","equation":"C02431 + C00003 <=> C02991 + C00004 + C00080","reactants":{"compounds":["C02431","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02991","C00004","C00080"],"coefficients":[1,1,1]}}

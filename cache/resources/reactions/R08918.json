@@ -1,1 +1,0 @@
-{"ID":"R08918","name":"menth-8-en-2-ol:NAD+ oxidoreductase","definition":"8-p-Menthen-2-ol + NAD+ <=> p-Menth-8-en-2-one + NADH + H+","enzyme":"1.1.1.296","equation":"C18017 + C00003 <=> C18018 + C00004 + C00080","reactants":{"compounds":["C18017","C00003"],"coefficients":[1,1]},"products":{"compounds":["C18018","C00004","C00080"],"coefficients":[1,1,1]}}

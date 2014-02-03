@@ -1,1 +1,0 @@
-{"ID":"R01201","name":"ATP:N-acetyl-D-glucosamine 6-phosphotransferase","definition":"ATP + N-Acetyl-D-glucosamine <=> ADP + N-Acetyl-D-glucosamine 6-phosphate","enzyme":"2.7.1.59","equation":"C00002 + C00140 <=> C00008 + C00357","reactants":{"compounds":["C00002","C00140"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00357"],"coefficients":[1,1]}}

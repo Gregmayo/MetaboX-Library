@@ -1,1 +1,0 @@
-{"ID":"R00920","name":"Propanoate:CoA ligase (ADP-forming)","definition":"ATP + Propanoate + CoA <=> ADP + Orthophosphate + Propanoyl-CoA","enzyme":"6.2.1.13","equation":"C00002 + C00163 + C00010 <=> C00008 + C00009 + C00100","reactants":{"compounds":["C00002","C00163","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00008","C00009","C00100"],"coefficients":[1,1,1]}}

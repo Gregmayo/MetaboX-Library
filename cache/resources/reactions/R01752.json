@@ -1,1 +1,0 @@
-{"ID":"R01752","name":"D-Glyceraldehyde:NAD+ oxidoreductase","definition":"D-Glyceraldehyde + NAD+ + H2O <=> D-Glycerate + NADH + H+","enzyme":"1.2.1.3","equation":"C00577 + C00003 + C00001 <=> C00258 + C00004 + C00080","reactants":{"compounds":["C00577","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00258","C00004","C00080"],"coefficients":[1,1,1]}}

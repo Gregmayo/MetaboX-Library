@@ -1,1 +1,0 @@
-{"ID":"R08897","name":"neamine:2-oxoglutarate aminotransferase","definition":"Neamine + 2-Oxoglutarate <=> 6'-Dehydro-6'-oxoparomamine + L-Glutamate","enzyme":"2.6.1.93","equation":"C01441 + C00026 <=> C17583 + C00025","reactants":{"compounds":["C01441","C00026"],"coefficients":[1,1]},"products":{"compounds":["C17583","C00025"],"coefficients":[1,1]}}

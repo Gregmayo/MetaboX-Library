@@ -1,1 +1,0 @@
-{"ID":"R01082","name":"(S)-malate hydro-lyase (fumarate-forming)","definition":"(S)-Malate <=> Fumarate + H2O","enzyme":"4.2.1.2","equation":"C00149 <=> C00122 + C00001","reactants":{"compounds":["C00149"],"coefficients":[1]},"products":{"compounds":["C00122","C00001"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00944","name":"10-Formyltetrahydrofolate amidohydrolase","definition":"10-Formyltetrahydrofolate + H2O <=> Formate + Tetrahydrofolate","enzyme":"3.5.1.10","equation":"C00234 + C00001 <=> C00058 + C00101","reactants":{"compounds":["C00234","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00101"],"coefficients":[1,1]}}

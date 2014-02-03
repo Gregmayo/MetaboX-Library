@@ -1,1 +1,0 @@
-{"ID":"R09490","name":"succinate:menaquinone oxidoreductase","definition":"Succinate + Menaquinone <=> Fumarate + Menaquinol","enzyme":"1.3.5.4","equation":"C00042 + C00828 <=> C00122 + C05819","reactants":{"compounds":["C00042","C00828"],"coefficients":[1,1]},"products":{"compounds":["C00122","C05819"],"coefficients":[1,1]}}

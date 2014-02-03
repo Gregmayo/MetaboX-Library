@@ -1,1 +1,0 @@
-{"ID":"R00524","name":"Formamide amidohydrolase","definition":"Formamide + H2O <=> Formate + Ammonia","enzyme":"3.5.1.49","equation":"C00488 + C00001 <=> C00058 + C00014","reactants":{"compounds":["C00488","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00014"],"coefficients":[1,1]}}

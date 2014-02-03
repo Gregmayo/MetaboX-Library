@@ -1,1 +1,0 @@
-{"ID":"R01971","name":"Indolelactate:NAD+ oxidoreductase","definition":"Indolelactate + NAD+ <=> Indolepyruvate + NADH + H+","enzyme":"1.1.1.110","equation":"C02043 + C00003 <=> C00331 + C00004 + C00080","reactants":{"compounds":["C02043","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00331","C00004","C00080"],"coefficients":[1,1,1]}}

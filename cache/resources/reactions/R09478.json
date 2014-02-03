@@ -1,1 +1,0 @@
-{"ID":"R09478","name":"2-hydroxyethylphosphonate:NAD+ oxidoreductase","definition":"2-Hydroxyethylphosphonate + NAD+ <=> Phosphonoacetaldehyde + NADH + H+","enzyme":"1.1.1.309","equation":"C06451 + C00003 <=> C03167 + C00004 + C00080","reactants":{"compounds":["C06451","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03167","C00004","C00080"],"coefficients":[1,1,1]}}

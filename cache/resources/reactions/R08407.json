@@ -1,1 +1,0 @@
-{"ID":"R08407","name":"acyl-phosphate:D-fructose phosphotransferase","definition":"Acyl phosphate + D-Fructose <=> Carboxylate + D-Fructose 1-phosphate","enzyme":"2.7.1.61","equation":"C02133 + C00095 <=> C00060 + C01094","reactants":{"compounds":["C02133","C00095"],"coefficients":[1,1]},"products":{"compounds":["C00060","C01094"],"coefficients":[1,1]}}

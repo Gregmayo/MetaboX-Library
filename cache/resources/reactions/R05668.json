@@ -1,1 +1,0 @@
-{"ID":"R05668","name":"","definition":"ATP + NAD+ <=> 3'-Keto-3'-deoxy-ATP + NADH + H+","enzyme":null,"equation":"C00002 + C00003 <=> C07024 + C00004 + C00080","reactants":{"compounds":["C00002","C00003"],"coefficients":[1,1]},"products":{"compounds":["C07024","C00004","C00080"],"coefficients":[1,1,1]}}

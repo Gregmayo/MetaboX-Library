@@ -1,1 +1,0 @@
-{"ID":"R03956","name":"Glutathione:poly(4-glutamyl-cysteinyl)glycine 4-glutamylcysteinyltransferase","definition":"Glutathione + [Glu(-Cys)]n-Gly <=> Glycine + [Glu(-Cys)]n+1-Gly","enzyme":"2.3.2.15","equation":"C00051 + C02471 <=> C00037 + C02755","reactants":{"compounds":["C00051","C02471"],"coefficients":[1,1]},"products":{"compounds":["C00037","C02755"],"coefficients":[1,1]}}

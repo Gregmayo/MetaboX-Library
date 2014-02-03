@@ -1,1 +1,0 @@
-{"ID":"R00325","name":"(2S)-2-hydroxy-2-methylbutanedioate pyruvate-lyase (acetate-forming)","definition":"(S)-2-Methylmalate <=> Acetate + Pyruvate","enzyme":"4.1.3.22","equation":"C02614 <=> C00033 + C00022","reactants":{"compounds":["C02614"],"coefficients":[1]},"products":{"compounds":["C00033","C00022"],"coefficients":[1,1]}}

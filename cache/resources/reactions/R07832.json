@@ -1,1 +1,0 @@
-{"ID":"R07832","name":"3-hydroxy-5-oxohexanoyl-CoA:acetate CoA-transferase","definition":"3-Hydroxy-5-oxohexanoate + Acetyl-CoA <=> 3-Hydroxy-5-oxohexanoyl-CoA + Acetate","enzyme":"2.8.3.8","equation":"C16272 + C00024 <=> C16273 + C00033","reactants":{"compounds":["C16272","C00024"],"coefficients":[1,1]},"products":{"compounds":["C16273","C00033"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R09984","name":"(-)-endo-fenchol:NAD+ oxidoreductase","definition":"(-)-endo-Fenchol + NAD+ <=> (1S,4R)-(+)-Fenchone + NADH + H+","enzyme":"1.1.1.322","equation":"C02344 + C00003 <=> C11387 + C00004 + C00080","reactants":{"compounds":["C02344","C00003"],"coefficients":[1,1]},"products":{"compounds":["C11387","C00004","C00080"],"coefficients":[1,1,1]}}

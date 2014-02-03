@@ -1,1 +1,0 @@
-{"ID":"R04748","name":"(S)-hydroxyhexanoyl-CoA:NAD+ oxidoreductase","definition":"(S)-Hydroxyhexanoyl-CoA + NAD+ <=> 3-Oxohexanoyl-CoA + NADH + H+","enzyme":"1.1.1.35","equation":"C05268 + C00003 <=> C05269 + C00004 + C00080","reactants":{"compounds":["C05268","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05269","C00004","C00080"],"coefficients":[1,1,1]}}

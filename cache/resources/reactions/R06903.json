@@ -1,1 +1,0 @@
-{"ID":"R06903","name":"","definition":"2-Methylnaphthalene + Fumarate <=> 2-Naphtylmethylsuccinic acid","enzyme":null,"equation":"C14098 + C00122 <=> C14115","reactants":{"compounds":["C14098","C00122"],"coefficients":[1,1]},"products":{"compounds":["C14115"],"coefficients":[1]}}

@@ -1,1 +1,0 @@
-{"ID":"R08124","name":"","definition":"Fructoselysine + ATP <=> Fructoselysine 6-phosphate + ADP","enzyme":null,"equation":"C16488 + C00002 <=> C16489 + C00008","reactants":{"compounds":["C16488","C00002"],"coefficients":[1,1]},"products":{"compounds":["C16489","C00008"],"coefficients":[1,1]}}

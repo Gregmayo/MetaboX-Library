@@ -1,1 +1,0 @@
-{"ID":"R00775","name":"Guanidinoacetate amidohydrolase","definition":"Guanidinoacetate + H2O <=> Glycine + Urea","enzyme":"3.5.3.2","equation":"C00581 + C00001 <=> C00037 + C00086","reactants":{"compounds":["C00581","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00037","C00086"],"coefficients":[1,1]}}

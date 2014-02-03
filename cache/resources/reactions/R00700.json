@@ -1,1 +1,0 @@
-{"ID":"R00700","name":"hydrogen:NAD+ oxidoreductase","definition":"Hydrogen + NAD+ <=> NADH + H+","enzyme":"1.12.1.2","equation":"C00282 + C00003 <=> C00004 + C00080","reactants":{"compounds":["C00282","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00004","C00080"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R10398","name":"versiconol acetate O-acetylhydrolase","definition":"Versiconol acetate + H2O <=> Versiconol + Acetate","enzyme":"3.1.1.94","equation":"C20506 + C00001 <=> C20508 + C00033","reactants":{"compounds":["C20506","C00001"],"coefficients":[1,1]},"products":{"compounds":["C20508","C00033"],"coefficients":[1,1]}}

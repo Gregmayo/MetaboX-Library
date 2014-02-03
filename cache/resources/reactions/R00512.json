@@ -1,1 +1,0 @@
-{"ID":"R00512","name":"ATP:CMP phosphotransferase","definition":"ATP + CMP <=> ADP + CDP","enzyme":"2.7.4.14","equation":"C00002 + C00055 <=> C00008 + C00112","reactants":{"compounds":["C00002","C00055"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00112"],"coefficients":[1,1]}}

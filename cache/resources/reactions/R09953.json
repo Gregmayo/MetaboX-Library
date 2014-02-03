@@ -1,1 +1,0 @@
-{"ID":"R09953","name":"scyllo-inositol:NAD+ oxidoreductase","definition":"scyllo-Inositol + NAD+ <=> 2,4,6\/3,5-Pentahydroxycyclohexanone + NADH + H+","enzyme":null,"equation":"C06153 + C00003 <=> C00691 + C00004 + C00080","reactants":{"compounds":["C06153","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00691","C00004","C00080"],"coefficients":[1,1,1]}}

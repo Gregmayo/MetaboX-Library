@@ -1,1 +1,0 @@
-{"ID":"R03298","name":"","definition":"2,3-Bisphospho-D-glycerate + ATP <=> Cyclic 2,3-bisphospho-D-glycerate + ADP + Orthophosphate","enzyme":null,"equation":"C01159 + C00002 <=> C06189 + C00008 + C00009","reactants":{"compounds":["C01159","C00002"],"coefficients":[1,1]},"products":{"compounds":["C06189","C00008","C00009"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00623","name":"primary_alcohol:NAD+ oxidoreductase","definition":"Primary alcohol + NAD+ <=> Aldehyde + NADH + H+","enzyme":"1.1.1.71","equation":"C00226 + C00003 <=> C00071 + C00004 + C00080","reactants":{"compounds":["C00226","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00071","C00004","C00080"],"coefficients":[1,1,1]}}

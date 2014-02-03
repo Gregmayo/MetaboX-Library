@@ -1,1 +1,0 @@
-{"ID":"R00911","name":"beta-Alanyl-L-lysine hydrolase","definition":"beta-Alanyl-L-lysine + H2O <=> beta-Alanine + L-Lysine","enzyme":"3.4.13.4","equation":"C05341 + C00001 <=> C00099 + C00047","reactants":{"compounds":["C05341","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C00047"],"coefficients":[1,1]}}

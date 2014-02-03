@@ -1,1 +1,0 @@
-{"ID":"R07828","name":"","definition":"Cyclopropanecarboxylate + CoA + ATP <=> Cyclopropanecarboxyl-CoA + ADP + Orthophosphate","enzyme":null,"equation":"C16267 + C00010 + C00002 <=> C16268 + C00008 + C00009","reactants":{"compounds":["C16267","C00010","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C16268","C00008","C00009"],"coefficients":[1,1,1]}}

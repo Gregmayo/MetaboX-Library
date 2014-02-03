@@ -1,1 +1,0 @@
-{"ID":"R08412","name":"","definition":"L-Histidine + 3-Methylbutanoic acid <=> Dolichotheline","enzyme":null,"equation":"C00135 + C08262 <=> C16696","reactants":{"compounds":["C00135","C08262"],"coefficients":[1,1]},"products":{"compounds":["C16696"],"coefficients":[1]}}

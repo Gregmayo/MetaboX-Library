@@ -1,1 +1,0 @@
-{"ID":"R05652","name":"taurine:pyruvate aminotransferase","definition":"Taurine + Pyruvate <=> Sulfoacetaldehyde + L-Alanine","enzyme":"2.6.1.77","equation":"C00245 + C00022 <=> C00593 + C00041","reactants":{"compounds":["C00245","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00593","C00041"],"coefficients":[1,1]}}

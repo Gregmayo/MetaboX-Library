@@ -1,1 +1,0 @@
-{"ID":"R02971","name":"ATP:pantothenate 4'-phosphotransferase","definition":"ATP + Pantetheine <=> ADP + Pantetheine 4'-phosphate","enzyme":"2.7.1.33","equation":"C00002 + C00831 <=> C00008 + C01134","reactants":{"compounds":["C00002","C00831"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01134"],"coefficients":[1,1]}}

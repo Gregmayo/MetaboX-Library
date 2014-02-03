@@ -1,1 +1,0 @@
-{"ID":"R00189","name":"deamido-NAD+:ammonia ligase (AMP-forming)","definition":"ATP + Deamino-NAD+ + Ammonia <=> AMP + Diphosphate + NAD+","enzyme":"6.3.1.5","equation":"C00002 + C00857 + C00014 <=> C00020 + C00013 + C00003","reactants":{"compounds":["C00002","C00857","C00014"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00003"],"coefficients":[1,1,1]}}

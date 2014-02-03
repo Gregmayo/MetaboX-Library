@@ -1,1 +1,0 @@
-{"ID":"R01990","name":"4-Guanidinobutanoate amidinohydrolase","definition":"4-Guanidinobutanoate + H2O <=> 4-Aminobutanoate + Urea","enzyme":"3.5.3.7","equation":"C01035 + C00001 <=> C00334 + C00086","reactants":{"compounds":["C01035","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00334","C00086"],"coefficients":[1,1]}}

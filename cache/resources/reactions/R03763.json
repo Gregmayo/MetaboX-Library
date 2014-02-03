@@ -1,1 +1,0 @@
-{"ID":"R03763","name":"23,24-dihydrocucurbitacin:NAD+ delta23-oxidoreductase","definition":"23,24-Dihydrocucurbitacin + NAD+ <=> Cucurbitacin + NADH + H+","enzyme":"1.3.1.5","equation":"C03578 + C00003 <=> C01901 + C00004 + C00080","reactants":{"compounds":["C03578","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01901","C00004","C00080"],"coefficients":[1,1,1]}}

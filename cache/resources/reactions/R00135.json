@@ -1,1 +1,0 @@
-{"ID":"R00135","name":"","definition":"Peptide + H2O <=> L-Proline + Peptide","enzyme":"3.4.11.5","equation":"C00012 + C00001 <=> C00148 + C00012","reactants":{"compounds":["C00012","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00148","C00012"],"coefficients":[1,1]}}

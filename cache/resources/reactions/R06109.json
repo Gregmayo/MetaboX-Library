@@ -1,1 +1,0 @@
-{"ID":"R06109","name":"","definition":"Cellohexaose + H2O <=> Cellopentaose + D-Glucose","enzyme":"3.2.1.74","equation":"C00001 <=> G00546 + C00031","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["G00546","C00031"],"coefficients":[1,1]}}

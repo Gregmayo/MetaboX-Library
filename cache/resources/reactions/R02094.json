@@ -1,1 +1,0 @@
-{"ID":"R02094","name":"ATP:dTMP phosphotransferase","definition":"ATP + dTMP <=> ADP + dTDP","enzyme":"2.7.4.9","equation":"C00002 + C00364 <=> C00008 + C00363","reactants":{"compounds":["C00002","C00364"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00363"],"coefficients":[1,1]}}

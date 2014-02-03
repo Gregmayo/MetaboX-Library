@@ -1,1 +1,0 @@
-{"ID":"R01450","name":"lactate racemase","definition":"(S)-Lactate <=> (R)-Lactate","enzyme":"5.1.2.1","equation":"C00186 <=> C00256","reactants":{"compounds":["C00186"],"coefficients":[1]},"products":{"compounds":["C00256"],"coefficients":[1]}}

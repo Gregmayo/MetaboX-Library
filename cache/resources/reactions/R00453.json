@@ -1,1 +1,0 @@
-{"ID":"R00453","name":"L-Lysine:pyruvate aminotransferase","definition":"L-Lysine + Pyruvate <=> L-2-Aminoadipate 6-semialdehyde + L-Alanine","enzyme":"2.6.1.71","equation":"C00047 + C00022 <=> C04076 + C00041","reactants":{"compounds":["C00047","C00022"],"coefficients":[1,1]},"products":{"compounds":["C04076","C00041"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R01083","name":"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming)","definition":"N6-(1,2-Dicarboxyethyl)-AMP <=> Fumarate + AMP","enzyme":"4.3.2.2","equation":"C03794 <=> C00122 + C00020","reactants":{"compounds":["C03794"],"coefficients":[1]},"products":{"compounds":["C00122","C00020"],"coefficients":[1,1]}}

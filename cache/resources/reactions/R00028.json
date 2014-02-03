@@ -1,1 +1,0 @@
-{"ID":"R00028","name":"maltose glucohydrolase","definition":"Maltose + H2O <=> 2 alpha-D-Glucose","enzyme":"3.2.1.20","equation":"C00208 + C00001 <=> 2 C00267","reactants":{"compounds":["C00208","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00267"],"coefficients":[2]}}

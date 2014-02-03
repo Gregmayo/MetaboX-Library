@@ -1,1 +1,0 @@
-{"ID":"R02493","name":"ATP:pyridoxal 5'-phosphotransferase","definition":"ATP + Pyridoxamine <=> ADP + Pyridoxamine phosphate","enzyme":"2.7.1.35","equation":"C00002 + C00534 <=> C00008 + C00647","reactants":{"compounds":["C00002","C00534"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00647"],"coefficients":[1,1]}}

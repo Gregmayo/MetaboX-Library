@@ -1,1 +1,0 @@
-{"ID":"R09312","name":"","definition":"Dihydrokalafungin + NADH + H+ <=> Dihydrokalafungin dihydroquinone form + NAD+","enzyme":null,"equation":"C12436 + C00004 + C00080 <=> C18360 + C00003","reactants":{"compounds":["C12436","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C18360","C00003"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R08117","name":"4-fluorobenzoate:CoA ligase","definition":"4-Fluorobenzoate + CoA + ATP <=> 4-Fluorobenzoyl-CoA + AMP + Diphosphate","enzyme":"6.2.1.33","equation":"C02371 + C00010 + C00002 <=> C02802 + C00020 + C00013","reactants":{"compounds":["C02371","C00010","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C02802","C00020","C00013"],"coefficients":[1,1,1]}}

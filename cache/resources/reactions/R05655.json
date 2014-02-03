@@ -1,1 +1,0 @@
-{"ID":"R05655","name":"","definition":"Phenanthrene + Oxygen + NADH + H+ <=> 1-Phenanthrol + H2O + NAD+","enzyme":null,"equation":"C11422 + C00007 + C00004 + C00080 <=> C11432 + C00001 + C00003","reactants":{"compounds":["C11422","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C11432","C00001","C00003"],"coefficients":[1,1,1]}}

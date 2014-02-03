@@ -1,1 +1,0 @@
-{"ID":"R01485","name":"L-Asparagine:hydroxylamine gamma-aspartyltransferase","definition":"L-Asparagine + Hydroxylamine <=> Ammonia + beta-L-Aspartylhydroxamate","enzyme":"2.3.2.7","equation":"C00152 + C00192 <=> C00014 + C03124","reactants":{"compounds":["C00152","C00192"],"coefficients":[1,1]},"products":{"compounds":["C00014","C03124"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R02276","name":"5-Acetamidopentanoate amidohydrolase","definition":"5-Acetamidopentanoate + H2O <=> Acetate + 5-Aminopentanoate","enzyme":"3.5.1.63","equation":"C03087 + C00001 <=> C00033 + C00431","reactants":{"compounds":["C03087","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00431"],"coefficients":[1,1]}}

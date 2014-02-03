@@ -1,1 +1,0 @@
-{"ID":"R00130","name":"ATP:dephospho-CoA 3'-phosphotransferase","definition":"ATP + Dephospho-CoA <=> ADP + CoA","enzyme":"2.7.1.24","equation":"C00002 + C00882 <=> C00008 + C00010","reactants":{"compounds":["C00002","C00882"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00010"],"coefficients":[1,1]}}

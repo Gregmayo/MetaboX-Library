@@ -1,1 +1,0 @@
-{"ID":"R03847","name":"Corticosterone:NAD+ 11-oxidoreductase","definition":"Corticosterone + NAD+ <=> 11-Dehydrocorticosterone + NADH + H+","enzyme":null,"equation":"C02140 + C00003 <=> C05490 + C00004 + C00080","reactants":{"compounds":["C02140","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05490","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R02225","name":"ATP:streptomycin 6-phosphotransferase","definition":"ATP + Streptomycin <=> ADP + Streptomycin 6-phosphate","enzyme":"2.7.1.72","equation":"C00002 + C00413 <=> C00008 + C01138","reactants":{"compounds":["C00002","C00413"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01138"],"coefficients":[1,1]}}

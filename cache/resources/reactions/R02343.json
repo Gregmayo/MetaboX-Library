@@ -1,1 +1,0 @@
-{"ID":"R02343","name":"Acetoin:NAD+ oxidoreductase","definition":"Acetoin + NAD+ <=> Diacetyl + NADH + H+","enzyme":null,"equation":"C00466 + C00003 <=> C00741 + C00004 + C00080","reactants":{"compounds":["C00466","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00741","C00004","C00080"],"coefficients":[1,1,1]}}

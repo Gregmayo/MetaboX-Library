@@ -1,1 +1,0 @@
-{"ID":"R06621","name":"","definition":"cis-1,2-Cyclohexanediol + NAD+ <=> 2-Hydroxycyclohexan-1-one + NADH","enzyme":"1.1.1.174","equation":"C12313 + C00003 <=> C01147 + C00004","reactants":{"compounds":["C12313","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01147","C00004"],"coefficients":[1,1]}}

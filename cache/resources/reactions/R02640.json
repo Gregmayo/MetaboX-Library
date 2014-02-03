@@ -1,1 +1,0 @@
-{"ID":"R02640","name":"L-Gulonate:NAD+ 3-oxidoreductase","definition":"L-Gulonate + NAD+ <=> 3-Dehydro-L-gulonate + NADH + H+","enzyme":"1.1.1.45","equation":"C00800 + C00003 <=> C00618 + C00004 + C00080","reactants":{"compounds":["C00800","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00618","C00004","C00080"],"coefficients":[1,1,1]}}

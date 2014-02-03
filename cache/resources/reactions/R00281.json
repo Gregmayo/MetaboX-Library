@@ -1,1 +1,0 @@
-{"ID":"R00281","name":"NADH:acceptor oxidoreductase","definition":"Acceptor + NADH + H+ <=> Reduced acceptor + NAD+","enzyme":"1.6.99.3","equation":"C00028 + C00004 + C00080 <=> C00030 + C00003","reactants":{"compounds":["C00028","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C00030","C00003"],"coefficients":[1,1]}}

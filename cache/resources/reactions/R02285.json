@@ -1,1 +1,0 @@
-{"ID":"R02285","name":"N-Formimino-L-glutamate formiminohydrolase","definition":"N-Formimino-L-glutamate + H2O <=> L-Glutamate + Formamide","enzyme":"3.5.3.8","equation":"C00439 + C00001 <=> C00025 + C00488","reactants":{"compounds":["C00439","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00025","C00488"],"coefficients":[1,1]}}

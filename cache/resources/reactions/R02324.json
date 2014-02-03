@@ -1,1 +1,0 @@
-{"ID":"R02324","name":"ATP:N-ribosylnicotinamide 5'-phosphotransferase","definition":"ATP + Nicotinamide-beta-riboside <=> ADP + Nicotinamide D-ribonucleotide","enzyme":"2.7.1.22","equation":"C00002 + C03150 <=> C00008 + C00455","reactants":{"compounds":["C00002","C03150"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00455"],"coefficients":[1,1]}}

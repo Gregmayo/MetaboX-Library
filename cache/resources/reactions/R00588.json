@@ -1,1 +1,0 @@
-{"ID":"R00588","name":"L-Serine:glyoxylate aminotransferase","definition":"L-Serine + Glyoxylate <=> Hydroxypyruvate + Glycine","enzyme":"2.6.1.45","equation":"C00065 + C00048 <=> C00168 + C00037","reactants":{"compounds":["C00065","C00048"],"coefficients":[1,1]},"products":{"compounds":["C00168","C00037"],"coefficients":[1,1]}}

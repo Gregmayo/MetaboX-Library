@@ -1,1 +1,0 @@
-{"ID":"R05621","name":"","definition":"Benzoate + NADH + H+ + Oxygen <=> (1R,6S)-1,6-Dihydroxycyclohexa-2,4-diene-1-carboxylate + NAD+","enzyme":"1.14.12.10","equation":"C00180 + C00004 + C00080 + C00007 <=> C06321 + C00003","reactants":{"compounds":["C00180","C00004","C00080","C00007"],"coefficients":[1,1,1,1]},"products":{"compounds":["C06321","C00003"],"coefficients":[1,1]}}

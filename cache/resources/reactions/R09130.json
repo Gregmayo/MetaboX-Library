@@ -1,1 +1,0 @@
-{"ID":"R09130","name":"","definition":"1,2,3,4-Tetrachlorobenzene + Oxygen + NADH + H+ <=> cis-Chlorobenzene dihydrodiol + NAD+","enzyme":null,"equation":"C18236 + C00007 + C00004 + C00080 <=> C18238 + C00003","reactants":{"compounds":["C18236","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C18238","C00003"],"coefficients":[1,1]}}

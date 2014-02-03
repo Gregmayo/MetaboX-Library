@@ -1,1 +1,0 @@
-{"ID":"R01179","name":"Butanoyl-CoA:acetate CoA-transferase","definition":"Butanoyl-CoA + Acetate <=> Butanoic acid + Acetyl-CoA","enzyme":"2.8.3.8","equation":"C00136 + C00033 <=> C00246 + C00024","reactants":{"compounds":["C00136","C00033"],"coefficients":[1,1]},"products":{"compounds":["C00246","C00024"],"coefficients":[1,1]}}

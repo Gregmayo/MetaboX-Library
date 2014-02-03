@@ -1,1 +1,0 @@
-{"ID":"R00577","name":"acyl-CoA:L-glutamine N-acyltransferase","definition":"Acyl-CoA + L-Glutamine <=> CoA + N-Acyl-L-glutamine","enzyme":"2.3.1.68","equation":"C00040 + C00064 <=> C00010 + C02716","reactants":{"compounds":["C00040","C00064"],"coefficients":[1,1]},"products":{"compounds":["C00010","C02716"],"coefficients":[1,1]}}

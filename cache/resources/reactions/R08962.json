@@ -1,1 +1,0 @@
-{"ID":"R08962","name":"ATP:N-acetyl-D-hexosamine 1-phosphotransferase","definition":"ATP + N-Acetyl-D-hexosamine <=> ADP + N-Acetyl-alpha-D-hexosamine 1-phosphate","enzyme":"2.7.1.162","equation":"C00002 + C03136 <=> C00008 + C18055","reactants":{"compounds":["C00002","C03136"],"coefficients":[1,1]},"products":{"compounds":["C00008","C18055"],"coefficients":[1,1]}}

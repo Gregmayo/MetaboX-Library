@@ -1,1 +1,0 @@
-{"ID":"R00685","name":"L-Tryptophan decarboxy-lyase","definition":"L-Tryptophan <=> Tryptamine + CO2","enzyme":"4.1.1.28","equation":"C00078 <=> C00398 + C00011","reactants":{"compounds":["C00078"],"coefficients":[1]},"products":{"compounds":["C00398","C00011"],"coefficients":[1,1]}}

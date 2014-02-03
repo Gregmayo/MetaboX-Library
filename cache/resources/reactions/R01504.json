@@ -1,1 +1,0 @@
-{"ID":"R01504","name":"ATP:2,3-dihydroxybenzoate adenylyltransferase","definition":"ATP + 2,3-Dihydroxybenzoate <=> Diphosphate + (2,3-Dihydroxybenzoyl)adenylate","enzyme":"2.7.7.58","equation":"C00002 + C00196 <=> C00013 + C04030","reactants":{"compounds":["C00002","C00196"],"coefficients":[1,1]},"products":{"compounds":["C00013","C04030"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R07058","name":"13-HODE:NAD+ oxidoreductase","definition":"13(S)-HODE + NAD+ <=> 13-OxoODE + NADH + H+","enzyme":null,"equation":"C14762 + C00003 <=> C14765 + C00004 + C00080","reactants":{"compounds":["C14762","C00003"],"coefficients":[1,1]},"products":{"compounds":["C14765","C00004","C00080"],"coefficients":[1,1,1]}}

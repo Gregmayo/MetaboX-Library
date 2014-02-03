@@ -1,1 +1,0 @@
-{"ID":"bta:517111","name":"RDX","definition":"radixin","orthology":"K05762  radixin","organism":"bta  Bos taurus (cow)","class":"Cellular Processes Cell motility Regulation of actin cytoskeleton [PATH:bta04810]","position":"15","motif":"Pfam: ERM FERM_C FERM_M FERM_N","aaseq":"583","ntseq":"1752","pathwayIdCollection":["bta04810","bta05205","bta05206"]}

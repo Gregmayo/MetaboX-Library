@@ -1,1 +1,0 @@
-{"ID":"R06987","name":"propanoyl-CoA:formate C-propanoyltransferase","definition":"2-Oxobutanoate + CoA <=> Propanoyl-CoA + Formate","enzyme":"2.3.1.54","equation":"C00109 + C00010 <=> C00100 + C00058","reactants":{"compounds":["C00109","C00010"],"coefficients":[1,1]},"products":{"compounds":["C00100","C00058"],"coefficients":[1,1]}}

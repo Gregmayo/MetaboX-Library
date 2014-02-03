@@ -1,1 +1,0 @@
-{"ID":"R04681","name":"Estriol:NAD+ 17-oxidoreductase","definition":"Estriol + NAD+ <=> 16alpha-Hydroxyestrone + NADH + H+","enzyme":"1.1.1.62","equation":"C05141 + C00003 <=> C05300 + C00004 + C00080","reactants":{"compounds":["C05141","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05300","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R07290","name":"formyl-CoA:oxalate CoA-transferase","definition":"Formyl-CoA + Oxalate <=> Formate + Oxalyl-CoA","enzyme":"2.8.3.16","equation":"C00798 + C00209 <=> C00058 + C00313","reactants":{"compounds":["C00798","C00209"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00313"],"coefficients":[1,1]}}

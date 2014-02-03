@@ -1,1 +1,0 @@
-{"ID":"R05806","name":"ATP:deoxynucleoside 5'-phosphotransferase","definition":"ATP + Deoxynucleoside <=> ADP + Deoxynucleoside 5'-phosphate","enzyme":"2.7.1.145","equation":"C00002 + C02269 <=> C00008 + C00676","reactants":{"compounds":["C00002","C02269"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00676"],"coefficients":[1,1]}}

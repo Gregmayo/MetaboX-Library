@@ -1,1 +1,0 @@
-{"ID":"R01885","name":"","definition":"ADP-ribose + H2O <=> alpha-D-Ribose 1-phosphate + AMP","enzyme":"3.6.1.21","equation":"C00301 + C00001 <=> C00620 + C00020","reactants":{"compounds":["C00301","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00620","C00020"],"coefficients":[1,1]}}

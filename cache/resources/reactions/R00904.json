@@ -1,1 +1,0 @@
-{"ID":"R00904","name":"3-aminopropanal:NAD+ oxidoreductase","definition":"3-Aminopropanal + NAD+ + H2O <=> beta-Alanine + NADH + H+","enzyme":"1.2.1.3","equation":"C05665 + C00003 + C00001 <=> C00099 + C00004 + C00080","reactants":{"compounds":["C05665","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00099","C00004","C00080"],"coefficients":[1,1,1]}}

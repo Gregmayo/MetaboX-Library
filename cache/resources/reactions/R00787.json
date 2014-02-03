@@ -1,1 +1,0 @@
-{"ID":"R00787","name":"ammonia:NAD+ oxidoreductase","definition":"Ammonia + 3 NAD+ + 2 H2O <=> Nitrite + 3 NADH + 3 H+","enzyme":"1.7.1.4","equation":"C00014 + 3 C00003 + 2 C00001 <=> C00088 + 3 C00004 + 3 C00080","reactants":{"compounds":["C00014","C00003","C00001"],"coefficients":[1,3,2]},"products":{"compounds":["C00088","C00004","C00080"],"coefficients":[1,3,3]}}

@@ -1,1 +1,0 @@
-{"ID":"R07386","name":"","definition":"O-1-Alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine + Choline <=> Plasmenylcholine + Ethanolamine","enzyme":null,"equation":"C04756 + C00114 <=> C00958 + C00189","reactants":{"compounds":["C04756","C00114"],"coefficients":[1,1]},"products":{"compounds":["C00958","C00189"],"coefficients":[1,1]}}

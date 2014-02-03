@@ -1,1 +1,0 @@
-{"ID":"R03288","name":"beta-Alanyl-N(pai)-methyl-L-histidine  hydrolase","definition":"beta-Alanyl-N(pi)-methyl-L-histidine + H2O <=> beta-Alanine + N(pi)-Methyl-L-histidine","enzyme":"3.4.13.5","equation":"C01262 + C00001 <=> C00099 + C01152","reactants":{"compounds":["C01262","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C01152"],"coefficients":[1,1]}}

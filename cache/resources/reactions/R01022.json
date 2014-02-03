@@ -1,1 +1,0 @@
-{"ID":"R01022","name":"choline:oxygen 1-oxidoreductase","definition":"Choline + Oxygen <=> Betaine aldehyde + Hydrogen peroxide","enzyme":"1.1.3.17","equation":"C00114 + C00007 <=> C00576 + C00027","reactants":{"compounds":["C00114","C00007"],"coefficients":[1,1]},"products":{"compounds":["C00576","C00027"],"coefficients":[1,1]}}

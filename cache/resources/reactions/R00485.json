@@ -1,1 +1,0 @@
-{"ID":"R00485","name":"L-Asparagine amidohydrolase","definition":"L-Asparagine + H2O <=> L-Aspartate + Ammonia","enzyme":"3.5.1.1","equation":"C00152 + C00001 <=> C00049 + C00014","reactants":{"compounds":["C00152","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00049","C00014"],"coefficients":[1,1]}}

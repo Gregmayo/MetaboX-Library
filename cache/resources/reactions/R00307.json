@@ -1,1 +1,0 @@
-{"ID":"R00307","name":"D-glucose aldose-ketose-isomerase","definition":"D-Glucose <=> D-Fructose","enzyme":"5.3.1.5","equation":"C00031 <=> C00095","reactants":{"compounds":["C00031"],"coefficients":[1]},"products":{"compounds":["C00095"],"coefficients":[1]}}

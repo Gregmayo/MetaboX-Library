@@ -1,1 +1,0 @@
-{"ID":"R03604","name":"Syringin beta-D-glucosidase","definition":"Syringin + H2O <=> Sinapyl alcohol + D-Glucose","enzyme":"3.2.1.126","equation":"C01533 + C00001 <=> C02325 + C00031","reactants":{"compounds":["C01533","C00001"],"coefficients":[1,1]},"products":{"compounds":["C02325","C00031"],"coefficients":[1,1]}}

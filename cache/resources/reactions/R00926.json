@@ -1,1 +1,0 @@
-{"ID":"R00926","name":"Propionyladenylate:CoA propionyltransferase","definition":"Propionyladenylate + CoA <=> AMP + Propanoyl-CoA","enzyme":"6.2.1.1","equation":"C05983 + C00010 <=> C00020 + C00100","reactants":{"compounds":["C05983","C00010"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00100"],"coefficients":[1,1]}}

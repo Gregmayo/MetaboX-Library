@@ -1,1 +1,0 @@
-{"ID":"R06091","name":"","definition":"Melibiose + H2O <=> D-Galactose + D-Glucose","enzyme":"3.2.1.22","equation":"C00001 <=> C00124 + C00031","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["C00124","C00031"],"coefficients":[1,1]}}

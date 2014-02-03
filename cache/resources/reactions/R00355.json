@@ -1,1 +1,0 @@
-{"ID":"R00355","name":"L-Aspartate:2-oxoglutarate aminotransferase","definition":"L-Aspartate + 2-Oxoglutarate <=> Oxaloacetate + L-Glutamate","enzyme":"2.6.1.1","equation":"C00049 + C00026 <=> C00036 + C00025","reactants":{"compounds":["C00049","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00036","C00025"],"coefficients":[1,1]}}

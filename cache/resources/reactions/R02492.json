@@ -1,1 +1,0 @@
-{"ID":"R02492","name":"nitrous-oxide:NAD+ oxidoreductase","definition":"2 Nitric oxide + NADH + H+ <=> Nitrous oxide + NAD+ + H2O","enzyme":"1.7.1.14","equation":"2 C00533 + C00004 + C00080 <=> C00887 + C00003 + C00001","reactants":{"compounds":["C00533","C00004","C00080"],"coefficients":[2,1,1]},"products":{"compounds":["C00887","C00003","C00001"],"coefficients":[1,1,1]}}

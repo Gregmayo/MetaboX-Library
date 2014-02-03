@@ -1,1 +1,0 @@
-{"ID":"R01346","name":"L-Asparagine:2-oxo-acid aminotransferase","definition":"L-Asparagine + 2-Oxo acid <=> 2-Oxosuccinamate + L-Amino acid","enzyme":"2.6.1.14","equation":"C00152 + C00161 <=> C02362 + C00151","reactants":{"compounds":["C00152","C00161"],"coefficients":[1,1]},"products":{"compounds":["C02362","C00151"],"coefficients":[1,1]}}

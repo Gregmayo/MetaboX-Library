@@ -1,1 +1,0 @@
-{"ID":"R05582","name":"","definition":"2-Hydroxycyclohexane-1-carboxyl-CoA + NAD+ <=> 2-Ketocyclohexane-1-carboxyl-CoA + NADH + H+","enzyme":null,"equation":"C09812 + C00003 <=> C09813 + C00004 + C00080","reactants":{"compounds":["C09812","C00003"],"coefficients":[1,1]},"products":{"compounds":["C09813","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03932","name":"4-chlorobenzoate:CoA ligase","definition":"ATP + 4-Chlorobenzoate + CoA <=> AMP + Diphosphate + 4-Chlorobenzoyl-CoA","enzyme":"6.2.1.33","equation":"C00002 + C02370 + C00010 <=> C00020 + C00013 + C06387","reactants":{"compounds":["C00002","C02370","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C06387"],"coefficients":[1,1,1]}}

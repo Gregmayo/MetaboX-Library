@@ -1,1 +1,0 @@
-{"ID":"R03260","name":"O-Succinyl-L-homoserine succinate-lyase (adding cysteine)","definition":"O-Succinyl-L-homoserine + L-Cysteine <=> L-Cystathionine + Succinate","enzyme":"2.5.1.48","equation":"C01118 + C00097 <=> C02291 + C00042","reactants":{"compounds":["C01118","C00097"],"coefficients":[1,1]},"products":{"compounds":["C02291","C00042"],"coefficients":[1,1]}}

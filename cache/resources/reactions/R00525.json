@@ -1,1 +1,0 @@
-{"ID":"R00525","name":"N-Formyl-L-glutamate amidohydrolase","definition":"N-Formyl-L-glutamate + H2O <=> Formate + L-Glutamate","enzyme":"3.5.1.68","equation":"C01045 + C00001 <=> C00058 + C00025","reactants":{"compounds":["C01045","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C00025"],"coefficients":[1,1]}}

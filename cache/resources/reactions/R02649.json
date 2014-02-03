@@ -1,1 +1,0 @@
-{"ID":"R02649","name":"ATP:N-acetyl-L-glutamate 5-phosphotransferase","definition":"ATP + N-Acetyl-L-glutamate <=> ADP + N-Acetyl-L-glutamate 5-phosphate","enzyme":"2.7.2.8","equation":"C00002 + C00624 <=> C00008 + C04133","reactants":{"compounds":["C00002","C00624"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04133"],"coefficients":[1,1]}}

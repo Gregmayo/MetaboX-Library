@@ -1,1 +1,0 @@
-{"ID":"R00513","name":"ATP:cytidine 5'-phosphotransferase","definition":"ATP + Cytidine <=> ADP + CMP","enzyme":"2.7.1.48","equation":"C00002 + C00475 <=> C00008 + C00055","reactants":{"compounds":["C00002","C00475"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00055"],"coefficients":[1,1]}}

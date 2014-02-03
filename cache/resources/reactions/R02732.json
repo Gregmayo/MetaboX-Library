@@ -1,1 +1,0 @@
-{"ID":"R02732","name":"ATP:D-fructose-6-phosphate 2-phosphotransferase","definition":"ATP + beta-D-Fructose 6-phosphate <=> ADP + beta-D-Fructose 2,6-bisphosphate","enzyme":"2.7.1.105","equation":"C00002 + C05345 <=> C00008 + C00665","reactants":{"compounds":["C00002","C05345"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00665"],"coefficients":[1,1]}}

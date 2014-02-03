@@ -1,1 +1,0 @@
-{"ID":"R06107","name":"","definition":"Cellopentaose + H2O <=> Cellotetraose + D-Glucose","enzyme":"3.2.1.74","equation":"C00001 <=> G00459 + C00031","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["G00459","C00031"],"coefficients":[1,1]}}

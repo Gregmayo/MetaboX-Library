@@ -1,1 +1,0 @@
-{"ID":"R05232","name":"p-cumic alcohol:NAD+ oxidoreductase","definition":"p-Cumic alcohol + NAD+ <=> 4-Isopropylbenzaldehyde + NADH + H+","enzyme":null,"equation":"C06576 + C00003 <=> C06577 + C00004 + C00080","reactants":{"compounds":["C06576","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06577","C00004","C00080"],"coefficients":[1,1,1]}}

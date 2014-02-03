@@ -1,1 +1,0 @@
-{"ID":"R01666","name":"ATP:deoxycitidine 5'-phosphotransferase","definition":"ATP + Deoxycytidine <=> ADP + dCMP","enzyme":"2.7.1.74","equation":"C00002 + C00881 <=> C00008 + C00239","reactants":{"compounds":["C00002","C00881"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00239"],"coefficients":[1,1]}}

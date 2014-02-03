@@ -1,1 +1,0 @@
-{"ID":"R03248","name":"2,5-Diaminopentanoate:2-oxoglutarate aminotransferase","definition":"Ornithine + 2-Oxoglutarate <=> 5-Amino-2-oxopentanoic acid + L-Glutamate","enzyme":"2.6.1.8","equation":"C01602 + C00026 <=> C01110 + C00025","reactants":{"compounds":["C01602","C00026"],"coefficients":[1,1]},"products":{"compounds":["C01110","C00025"],"coefficients":[1,1]}}

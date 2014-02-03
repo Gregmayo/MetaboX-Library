@@ -1,1 +1,0 @@
-{"ID":"R08825","name":"","definition":"L-Tyrosine + Betalamic acid <=> Portulacaxanthin II + H2O","enzyme":null,"equation":"C00082 + C08538 <=> C08565 + C00001","reactants":{"compounds":["C00082","C08538"],"coefficients":[1,1]},"products":{"compounds":["C08565","C00001"],"coefficients":[1,1]}}

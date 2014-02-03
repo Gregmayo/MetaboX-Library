@@ -1,1 +1,0 @@
-{"ID":"R01466","name":"O-phospho-L-homoserine phosphate-lyase (adding waterL-threonine-forming)","definition":"O-Phospho-L-homoserine + H2O <=> L-Threonine + Orthophosphate","enzyme":"4.2.3.1","equation":"C01102 + C00001 <=> C00188 + C00009","reactants":{"compounds":["C01102","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00188","C00009"],"coefficients":[1,1]}}

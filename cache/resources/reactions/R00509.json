@@ -1,1 +1,0 @@
-{"ID":"R00509","name":"ATP:adenylylsulfate 3'-phosphotransferase","definition":"ATP + Adenylyl sulfate <=> ADP + 3'-Phosphoadenylyl sulfate","enzyme":"2.7.1.25","equation":"C00002 + C00224 <=> C00008 + C00053","reactants":{"compounds":["C00002","C00224"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00053"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R08890","name":"L-glutamine:2-deoxy-scyllo-inosose aminotransferase","definition":"2-Deoxy-scyllo-inosose + L-Glutamine <=> 2-Deoxy-scyllo-inosamine + 2-Oxoglutaramate","enzyme":"2.6.1.100","equation":"C17209 + C00064 <=> C17580 + C00940","reactants":{"compounds":["C17209","C00064"],"coefficients":[1,1]},"products":{"compounds":["C17580","C00940"],"coefficients":[1,1]}}

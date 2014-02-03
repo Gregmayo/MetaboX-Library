@@ -1,1 +1,0 @@
-{"ID":"R09561","name":"glutathione amide:NAD+ oxidoreductase","definition":"2 Glutathione amide + NAD+ <=> Glutathione amide disulfide + NADH + H+","enzyme":"1.8.1.16","equation":"2 C19689 + C00003 <=> C19690 + C00004 + C00080","reactants":{"compounds":["C19689","C00003"],"coefficients":[2,1]},"products":{"compounds":["C19690","C00004","C00080"],"coefficients":[1,1,1]}}

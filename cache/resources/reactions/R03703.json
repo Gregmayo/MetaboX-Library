@@ -1,1 +1,0 @@
-{"ID":"R03703","name":"Raucaffricine beta-D-glucohydrolase","definition":"Raucaffricine + H2O <=> Vomilenine + D-Glucose","enzyme":"3.2.1.125","equation":"C02074 + C00001 <=> C01761 + C00031","reactants":{"compounds":["C02074","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01761","C00031"],"coefficients":[1,1]}}

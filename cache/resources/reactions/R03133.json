@@ -1,1 +1,0 @@
-{"ID":"R03133","name":"O-Acetyl-L-serine acetate-lyase (adding N6-substituted adenine)","definition":"O-Acetyl-L-serine + Zeatin <=> Lupinate + Acetate","enzyme":"2.5.1.50","equation":"C00979 + C00371 <=> C01513 + C00033","reactants":{"compounds":["C00979","C00371"],"coefficients":[1,1]},"products":{"compounds":["C01513","C00033"],"coefficients":[1,1]}}

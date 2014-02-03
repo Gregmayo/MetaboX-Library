@@ -1,1 +1,0 @@
-{"ID":"R07890","name":"","definition":"3-Hydroxy-OPC8-CoA + NAD+ <=> 3-Oxo-OPC8-CoA + NADH + H+","enzyme":"1.1.1.35","equation":"C16329 + C00003 <=> C16330 + C00004 + C00080","reactants":{"compounds":["C16329","C00003"],"coefficients":[1,1]},"products":{"compounds":["C16330","C00004","C00080"],"coefficients":[1,1,1]}}

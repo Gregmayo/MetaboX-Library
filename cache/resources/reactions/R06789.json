@@ -1,1 +1,0 @@
-{"ID":"R06789","name":"","definition":"2-Hydroxy-6-ketononatrienedioate + H2O <=> 2-Hydroxy-2,4-pentadienoate + Fumarate","enzyme":null,"equation":"C12624 + C00001 <=> C00596 + C00122","reactants":{"compounds":["C12624","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00596","C00122"],"coefficients":[1,1]}}

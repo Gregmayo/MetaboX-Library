@@ -1,1 +1,0 @@
-{"ID":"R06847","name":"shikimate:NAD+ 3-oxidoreductase","definition":"Shikimate + NAD+ <=> 3-Dehydroshikimate + NADH + H+","enzyme":"1.1.1.282","equation":"C00493 + C00003 <=> C02637 + C00004 + C00080","reactants":{"compounds":["C00493","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02637","C00004","C00080"],"coefficients":[1,1,1]}}

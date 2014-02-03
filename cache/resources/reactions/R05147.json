@@ -1,1 +1,0 @@
-{"ID":"R05147","name":"galactitol-1-phosphate:NAD+ oxidoreductase","definition":"Galactitol 1-phosphate + NAD+ <=> L-Tagatose 6-phosphate + NADH + H+","enzyme":"1.1.1.251","equation":"C06311 + C00003 <=> C06312 + C00004 + C00080","reactants":{"compounds":["C06311","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06312","C00004","C00080"],"coefficients":[1,1,1]}}

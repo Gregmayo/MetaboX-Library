@@ -1,1 +1,0 @@
-{"ID":"R00503","name":"UDP-alpha-D-galactose:D-glucose 4-beta-D-galactosyltransferase","definition":"UDP-alpha-D-galactose + D-Glucose <=> UDP + Lactose","enzyme":"2.4.1.22","equation":"C00052 + C00031 <=> C00015 + C00243","reactants":{"compounds":["C00052","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00015","C00243"],"coefficients":[1,1]}}

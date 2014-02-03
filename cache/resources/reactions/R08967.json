@@ -1,1 +1,0 @@
-{"ID":"R08967","name":"ATP:N-acetyl-D-galactosamine 1-phosphotransferase","definition":"N-Acetyl-D-galactosamine + ATP <=> N-Acetyl-alpha-D-galactosamine 1-phosphate + ADP","enzyme":"2.7.1.157","equation":"C01132 + C00002 <=> C18060 + C00008","reactants":{"compounds":["C01132","C00002"],"coefficients":[1,1]},"products":{"compounds":["C18060","C00008"],"coefficients":[1,1]}}

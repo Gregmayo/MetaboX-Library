@@ -1,1 +1,0 @@
-{"ID":"R02134","name":"ATP:thiamine phosphotransferase","definition":"ATP + Thiamine <=> ADP + Thiamin monophosphate","enzyme":"2.7.1.89","equation":"C00002 + C00378 <=> C00008 + C01081","reactants":{"compounds":["C00002","C00378"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01081"],"coefficients":[1,1]}}

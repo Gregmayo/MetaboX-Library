@@ -1,1 +1,0 @@
-{"ID":"R00371","name":"Acetyl-CoA:glycine C-acetyltransferase","definition":"Acetyl-CoA + Glycine <=> CoA + L-2-Amino-3-oxobutanoic acid","enzyme":"2.3.1.29","equation":"C00024 + C00037 <=> C00010 + C03508","reactants":{"compounds":["C00024","C00037"],"coefficients":[1,1]},"products":{"compounds":["C00010","C03508"],"coefficients":[1,1]}}

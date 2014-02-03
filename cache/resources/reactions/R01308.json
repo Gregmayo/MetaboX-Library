@@ -1,1 +1,0 @@
-{"ID":"R01308","name":"","definition":"4-Hydroxybenzoate + Acetate + NADH + H+ <=> 4-Coumarate + 2 H2O + NAD+","enzyme":null,"equation":"C00156 + C00033 + C00004 + C00080 <=> C00811 + 2 C00001 + C00003","reactants":{"compounds":["C00156","C00033","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C00811","C00001","C00003"],"coefficients":[1,2,1]}}

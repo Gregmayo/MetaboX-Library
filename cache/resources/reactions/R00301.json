@@ -1,1 +1,0 @@
-{"ID":"R00301","name":"D-Glucose:NADP+ 1-oxidoreductase","definition":"D-Glucose + NADP+ <=> D-Glucono-1,4-lactone + NADPH + H+","enzyme":"1.1.1.119","equation":"C00031 + C00006 <=> C03107 + C00005 + C00080","reactants":{"compounds":["C00031","C00006"],"coefficients":[1,1]},"products":{"compounds":["C03107","C00005","C00080"],"coefficients":[1,1,1]}}

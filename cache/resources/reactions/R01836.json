@@ -1,1 +1,0 @@
-{"ID":"R01836","name":"Testosterone:NAD+ 17-oxidoreductase","definition":"Testosterone + NAD+ <=> Androstenedione + NADH + H+","enzyme":"1.1.1.51","equation":"C00535 + C00003 <=> C00280 + C00004 + C00080","reactants":{"compounds":["C00535","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00280","C00004","C00080"],"coefficients":[1,1,1]}}

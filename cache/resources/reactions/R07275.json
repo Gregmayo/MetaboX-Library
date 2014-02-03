@@ -1,1 +1,0 @@
-{"ID":"R07275","name":"diamine:2-oxoglutarate aminotransferase","definition":"alpha,omega-Diamine + 2-Oxoglutarate <=> omega-Aminoaldehyde + L-Glutamate","enzyme":"2.6.1.29","equation":"C02896 + C00026 <=> C02903 + C00025","reactants":{"compounds":["C02896","C00026"],"coefficients":[1,1]},"products":{"compounds":["C02903","C00025"],"coefficients":[1,1]}}

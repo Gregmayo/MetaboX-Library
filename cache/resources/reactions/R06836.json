@@ -1,1 +1,0 @@
-{"ID":"R06836","name":"ATP:ribose-1,5-bisphosphate phosphotransferase","definition":"D-Ribose 1,5-bisphosphate + ATP <=> 5-Phospho-alpha-D-ribose 1-diphosphate + ADP","enzyme":"2.7.4.23","equation":"C01151 + C00002 <=> C00119 + C00008","reactants":{"compounds":["C01151","C00002"],"coefficients":[1,1]},"products":{"compounds":["C00119","C00008"],"coefficients":[1,1]}}

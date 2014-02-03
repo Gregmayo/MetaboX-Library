@@ -1,1 +1,0 @@
-{"ID":"R07410","name":"L-aspartate:NAD+ oxidoreductase (deaminating)","definition":"L-Aspartate + NAD+ <=> Iminoaspartate + NADH + H+","enzyme":"1.4.1.21","equation":"C00049 + C00003 <=> C05840 + C00004 + C00080","reactants":{"compounds":["C00049","C00003"],"coefficients":[1,1]},"products":{"compounds":["C05840","C00004","C00080"],"coefficients":[1,1,1]}}

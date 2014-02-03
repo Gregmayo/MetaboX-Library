@@ -1,1 +1,0 @@
-{"ID":"R04146","name":"N-Acetyl-D-galactosaminoglycan acetylhydrolase","definition":"N-Acetyl-D-galactosaminoglycan + H2O <=> D-Galactosaminoglycan + Acetate","enzyme":"3.1.1.58","equation":"C04018 + C00001 <=> C03106 + C00033","reactants":{"compounds":["C04018","C00001"],"coefficients":[1,1]},"products":{"compounds":["C03106","C00033"],"coefficients":[1,1]}}

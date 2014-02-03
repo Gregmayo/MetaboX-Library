@@ -1,1 +1,0 @@
-{"ID":"R09718","name":"D-erythro-3-hydroxyaspartate glyoxylate-lyase (glycine-forming)","definition":"D-erythro-3-Hydroxyaspartate <=> Glycine + Glyoxylate","enzyme":"4.1.3.41","equation":"C19838 <=> C00037 + C00048","reactants":{"compounds":["C19838"],"coefficients":[1]},"products":{"compounds":["C00037","C00048"],"coefficients":[1,1]}}

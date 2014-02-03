@@ -1,1 +1,0 @@
-{"ID":"R02050","name":"(R)-3-Amino-2-methylpropanoate:pyruvate aminotransferase","definition":"(R)-3-Amino-2-methylpropanoate + Pyruvate <=> 2-Methyl-3-oxopropanoate + L-Alanine","enzyme":"2.6.1.40","equation":"C01205 + C00022 <=> C00349 + C00041","reactants":{"compounds":["C01205","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00349","C00041"],"coefficients":[1,1]}}

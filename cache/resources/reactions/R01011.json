@@ -1,1 +1,0 @@
-{"ID":"R01011","name":"ATP:glycerone phosphotransferase","definition":"ATP + Glycerone <=> ADP + Glycerone phosphate","enzyme":"2.7.1.29","equation":"C00002 + C00184 <=> C00008 + C00111","reactants":{"compounds":["C00002","C00184"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00111"],"coefficients":[1,1]}}

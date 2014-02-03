@@ -1,1 +1,0 @@
-{"ID":"R10218","name":"","definition":"5-Hydroxymethyl-2-furaldehyde + NADH + H+ <=> 5-Hydroxymethylfurfuryl alcohol + NAD+","enzyme":null,"equation":"C11101 + C00004 + C00080 <=> C20443 + C00003","reactants":{"compounds":["C11101","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C20443","C00003"],"coefficients":[1,1]}}

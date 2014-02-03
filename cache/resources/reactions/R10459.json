@@ -1,1 +1,0 @@
-{"ID":"R10459","name":"","definition":"dTDP-4-oxo-5-C-methyl-L-rhamnose + NADH + H+ <=> dTDP-5-dimethyl-L-lyxose + NAD+","enzyme":null,"equation":"C11460 + C00004 + C00080 <=> C12481 + C00003","reactants":{"compounds":["C11460","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C12481","C00003"],"coefficients":[1,1]}}

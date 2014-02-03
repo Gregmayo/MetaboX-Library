@@ -1,1 +1,0 @@
-{"ID":"R05229","name":"","definition":"Deacetylcephalosporin C + Succinate + CO2 <=> Deacetoxycephalosporin C + 2-Oxoglutarate + Oxygen","enzyme":"1.14.11.26","equation":"C03112 + C00042 + C00011 <=> C06565 + C00026 + C00007","reactants":{"compounds":["C03112","C00042","C00011"],"coefficients":[1,1,1]},"products":{"compounds":["C06565","C00026","C00007"],"coefficients":[1,1,1]}}

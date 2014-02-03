@@ -1,1 +1,0 @@
-{"ID":"R00300","name":"D-Glucose:NAD+ 1-oxidoreductase","definition":"D-Glucose + NAD+ <=> D-Glucono-1,5-lactone + NADH + H+","enzyme":"1.1.1.118","equation":"C00031 + C00003 <=> C00198 + C00004 + C00080","reactants":{"compounds":["C00031","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00198","C00004","C00080"],"coefficients":[1,1,1]}}

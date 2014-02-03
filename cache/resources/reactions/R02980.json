@@ -1,1 +1,0 @@
-{"ID":"R02980","name":"ATP:tropomyosin O-phosphotransferase","definition":"ATP + Tropomyosin <=> ADP + O-Phosphotropomyosin","enzyme":"2.7.11.28","equation":"C00002 + C00839 <=> C00008 + C03016","reactants":{"compounds":["C00002","C00839"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03016"],"coefficients":[1,1]}}

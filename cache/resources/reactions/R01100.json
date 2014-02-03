@@ -1,1 +1,0 @@
-{"ID":"R01100","name":"Lactose galactohydrolase","definition":"Lactose + H2O <=> D-Glucose + D-Galactose","enzyme":"3.2.1.23","equation":"C00243 + C00001 <=> C00031 + C00124","reactants":{"compounds":["C00243","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00031","C00124"],"coefficients":[1,1]}}

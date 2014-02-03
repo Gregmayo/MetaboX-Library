@@ -1,1 +1,0 @@
-{"ID":"R02797","name":"Taurocholate amidohydrolase","definition":"Taurocholate + H2O <=> Cholic acid + Taurine","enzyme":"3.5.1.24","equation":"C05122 + C00001 <=> C00695 + C00245","reactants":{"compounds":["C05122","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00695","C00245"],"coefficients":[1,1]}}

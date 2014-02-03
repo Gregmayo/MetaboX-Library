@@ -1,1 +1,0 @@
-{"ID":"R04268","name":"N-Formyl-L-methionylaminoacyl-tRNA amidohydrolase","definition":"N-Formyl-L-methionylaminoacyl-tRNA + H2O <=> Formate + L-Methionylaminoacyl-tRNA","enzyme":"3.5.1.27","equation":"C04258 + C00001 <=> C00058 + C03617","reactants":{"compounds":["C04258","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00058","C03617"],"coefficients":[1,1]}}

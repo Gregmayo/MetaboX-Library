@@ -1,1 +1,0 @@
-{"ID":"R06100","name":"","definition":"Raffinose + H2O <=> Melibiose + D-Fructose","enzyme":"3.2.1.26","equation":"C00001 <=> G01275 + C00095","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["G01275","C00095"],"coefficients":[1,1]}}

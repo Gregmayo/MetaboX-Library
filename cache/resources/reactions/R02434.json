@@ -1,1 +1,0 @@
-{"ID":"R02434","name":"","definition":"L-Cysteate + NADH + H+ <=> 3-Sulfino-L-alanine + H2O + NAD+","enzyme":null,"equation":"C00506 + C00004 + C00080 <=> C00606 + C00001 + C00003","reactants":{"compounds":["C00506","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C00606","C00001","C00003"],"coefficients":[1,1,1]}}

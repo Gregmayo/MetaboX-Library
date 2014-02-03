@@ -1,1 +1,0 @@
-{"ID":"R00694","name":"L-Phenylalanine:2-oxoglutarate aminotransferase","definition":"L-Phenylalanine + 2-Oxoglutarate <=> Phenylpyruvate + L-Glutamate","enzyme":"2.6.1.1","equation":"C00079 + C00026 <=> C00166 + C00025","reactants":{"compounds":["C00079","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00166","C00025"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00545","name":"N6-Acyl-L-lysine amidohydrolase","definition":"N6-Acyl-L-lysine + H2O <=> Carboxylate + L-Lysine","enzyme":"3.5.1.17","equation":"C02444 + C00001 <=> C00060 + C00047","reactants":{"compounds":["C02444","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00060","C00047"],"coefficients":[1,1]}}

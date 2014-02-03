@@ -1,1 +1,0 @@
-{"ID":"R05430","name":"","definition":"2 Indanone + Oxygen + 2 NADH + 2 H+ <=> 2 Dihydrocoumarin + 2 NAD+","enzyme":null,"equation":"2 C01504 + C00007 + 2 C00004 + 2 C00080 <=> 2 C02274 + 2 C00003","reactants":{"compounds":["C01504","C00007","C00004","C00080"],"coefficients":[2,1,2,2]},"products":{"compounds":["C02274","C00003"],"coefficients":[2,2]}}

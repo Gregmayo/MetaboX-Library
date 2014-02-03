@@ -1,1 +1,0 @@
-{"ID":"R01648","name":"4-aminobutanoate:2-oxoglutarate aminotransferase","definition":"4-Aminobutanoate + 2-Oxoglutarate <=> Succinate semialdehyde + L-Glutamate","enzyme":"2.6.1.19","equation":"C00334 + C00026 <=> C00232 + C00025","reactants":{"compounds":["C00334","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00232","C00025"],"coefficients":[1,1]}}

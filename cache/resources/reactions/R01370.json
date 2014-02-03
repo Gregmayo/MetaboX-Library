@@ -1,1 +1,0 @@
-{"ID":"R01370","name":"Phenyllactate:NAD+ oxidoreductase","definition":"Phenyllactate + NAD+ <=> Phenylpyruvate + NADH + H+","enzyme":"1.1.1.222","equation":"C05607 + C00003 <=> C00166 + C00004 + C00080","reactants":{"compounds":["C05607","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00166","C00004","C00080"],"coefficients":[1,1,1]}}

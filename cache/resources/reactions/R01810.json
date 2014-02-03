@@ -1,1 +1,0 @@
-{"ID":"R01810","name":"N-Acyl-O-acetylneuraminate O-acetylesterase","definition":"N-Acetyl-O-acetylneuraminate + H2O <=> N-Acetylneuraminate + Acetate","enzyme":"3.1.1.53","equation":"C03708 + C00001 <=> C00270 + C00033","reactants":{"compounds":["C03708","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00270","C00033"],"coefficients":[1,1]}}

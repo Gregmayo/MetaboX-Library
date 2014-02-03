@@ -1,1 +1,0 @@
-{"ID":"R06056","name":"cellobiose:phosphate alpha-D-glucosyltransferase","definition":"Cellobiose + Orthophosphate <=> D-Glucose 1-phosphate + D-Glucose","enzyme":"2.4.1.20","equation":"C00009 <=> C00103 + C00031","reactants":{"compounds":["C00009"],"coefficients":[1]},"products":{"compounds":["C00103","C00031"],"coefficients":[1,1]}}

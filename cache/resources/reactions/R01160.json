@@ -1,1 +1,0 @@
-{"ID":"R01160","name":"acetyl-CoA:L-histidine N-acetyltransferase","definition":"Acetyl-CoA + L-Histidine <=> CoA + N-Acetyl-L-histidine","enzyme":"2.3.1.33","equation":"C00024 + C00135 <=> C00010 + C02997","reactants":{"compounds":["C00024","C00135"],"coefficients":[1,1]},"products":{"compounds":["C00010","C02997"],"coefficients":[1,1]}}

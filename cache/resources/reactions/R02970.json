@@ -1,1 +1,0 @@
-{"ID":"R02970","name":"L-Alanine:oxomalonate aminotransferase","definition":"Pyruvate + Aminomalonate <=> L-Alanine + Oxomalonate","enzyme":"2.6.1.47","equation":"C00022 + C00872 <=> C00041 + C00830","reactants":{"compounds":["C00022","C00872"],"coefficients":[1,1]},"products":{"compounds":["C00041","C00830"],"coefficients":[1,1]}}

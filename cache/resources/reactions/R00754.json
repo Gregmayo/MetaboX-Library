@@ -1,1 +1,0 @@
-{"ID":"R00754","name":"ethanol:NAD+ oxidoreductase","definition":"Ethanol + NAD+ <=> Acetaldehyde + NADH + H+","enzyme":"1.1.1.71","equation":"C00469 + C00003 <=> C00084 + C00004 + C00080","reactants":{"compounds":["C00469","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00084","C00004","C00080"],"coefficients":[1,1,1]}}

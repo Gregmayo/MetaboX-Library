@@ -1,1 +1,0 @@
-{"ID":"R00964","name":"ATP:uridine 5'-phosphotransferase","definition":"ATP + Uridine <=> ADP + UMP","enzyme":"2.7.1.48","equation":"C00002 + C00299 <=> C00008 + C00105","reactants":{"compounds":["C00002","C00299"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00105"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R02619","name":"3-sulfino-L-alanine:2-oxoglutarate aminotransferase","definition":"3-Sulfino-L-alanine + 2-Oxoglutarate <=> 3-Sulfinylpyruvate + L-Glutamate","enzyme":"2.6.1.1","equation":"C00606 + C00026 <=> C05527 + C00025","reactants":{"compounds":["C00606","C00026"],"coefficients":[1,1]},"products":{"compounds":["C05527","C00025"],"coefficients":[1,1]}}

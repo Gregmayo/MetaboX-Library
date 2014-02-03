@@ -1,1 +1,0 @@
-{"ID":"R01438","name":"","definition":"L-Valine <=> (S)-Methylmalonate semialdehyde","enzyme":null,"equation":"C00183 <=> C06002","reactants":{"compounds":["C00183"],"coefficients":[1]},"products":{"compounds":["C06002"],"coefficients":[1]}}

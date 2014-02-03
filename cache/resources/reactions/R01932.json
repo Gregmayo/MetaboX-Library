@@ -1,1 +1,0 @@
-{"ID":"R01932","name":"2-hydroxyadipate:NAD+ 2-oxidoreductase","definition":"2-Oxoadipate + NADH + H+ <=> 2-Hydroxyadipate + NAD+","enzyme":"1.1.1.172","equation":"C00322 + C00004 + C00080 <=> C02360 + C00003","reactants":{"compounds":["C00322","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C02360","C00003"],"coefficients":[1,1]}}

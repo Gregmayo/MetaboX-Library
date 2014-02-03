@@ -1,1 +1,0 @@
-{"ID":"R00031","name":"1,2-benzenediol:oxygen oxidoreductase","definition":"Oxygen + 2 L-Tyrosine <=> 2 3,4-Dihydroxy-L-phenylalanine","enzyme":"1.10.3.1","equation":"C00007 + 2 C00082 <=> 2 C00355","reactants":{"compounds":["C00007","C00082"],"coefficients":[1,2]},"products":{"compounds":["C00355"],"coefficients":[2]}}

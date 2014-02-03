@@ -1,1 +1,0 @@
-{"ID":"R00089","name":"ATP diphosphate-lyase (cyclizing 3',5'-cyclic-AMP-forming)","definition":"ATP <=> 3',5'-Cyclic AMP + Diphosphate","enzyme":"4.6.1.1","equation":"C00002 <=> C00575 + C00013","reactants":{"compounds":["C00002"],"coefficients":[1]},"products":{"compounds":["C00575","C00013"],"coefficients":[1,1]}}

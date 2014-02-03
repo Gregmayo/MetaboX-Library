@@ -1,1 +1,0 @@
-{"ID":"R09483","name":"malonate carboxy-lyase (biotin-independent\/biotin-dependent)","definition":"Malonate <=> Acetate + CO2","enzyme":"4.1.1.88","equation":"C00383 <=> C00033 + C00011","reactants":{"compounds":["C00383"],"coefficients":[1]},"products":{"compounds":["C00033","C00011"],"coefficients":[1,1]}}

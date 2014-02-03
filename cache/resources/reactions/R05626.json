@@ -1,1 +1,0 @@
-{"ID":"R05626","name":"ATP:undecaprenol phosphotransferase","definition":"ATP + di-trans,poly-cis-Undecaprenol <=> ADP + di-trans,poly-cis-Undecaprenyl phosphate","enzyme":"2.7.1.66","equation":"C00002 + C17558 <=> C00008 + C17556","reactants":{"compounds":["C00002","C17558"],"coefficients":[1,1]},"products":{"compounds":["C00008","C17556"],"coefficients":[1,1]}}

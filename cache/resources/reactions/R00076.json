@@ -1,1 +1,0 @@
-{"ID":"R00076","name":"ATP:phosphorylase-b phosphotransferase","definition":"4 ATP + 2 Phosphorylase b <=> 4 ADP + Phosphorylase a","enzyme":"2.7.11.19","equation":"4 C00002 + 2 C02308 <=> 4 C00008 + C02307","reactants":{"compounds":["C00002","C02308"],"coefficients":[4,2]},"products":{"compounds":["C00008","C02307"],"coefficients":[4,1]}}

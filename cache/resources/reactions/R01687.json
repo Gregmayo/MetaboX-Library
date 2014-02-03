@@ -1,1 +1,0 @@
-{"ID":"R01687","name":"(5-L-glutamyl)-peptide:taurine 5-glutamyltransferase","definition":"(5-L-Glutamyl)-peptide + Taurine <=> Peptide + 5-L-Glutamyl-taurine","enzyme":"2.3.2.2","equation":"C03193 + C00245 <=> C00012 + C05844","reactants":{"compounds":["C03193","C00245"],"coefficients":[1,1]},"products":{"compounds":["C00012","C05844"],"coefficients":[1,1]}}

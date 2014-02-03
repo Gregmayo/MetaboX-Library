@@ -1,1 +1,0 @@
-{"ID":"R01158","name":"L-histidinol:NAD+ oxidoreductase","definition":"L-Histidinol + 2 NAD+ + H2O <=> L-Histidine + 2 NADH + 2 H+","enzyme":"1.1.1.23","equation":"C00860 + 2 C00003 + C00001 <=> C00135 + 2 C00004 + 2 C00080","reactants":{"compounds":["C00860","C00003","C00001"],"coefficients":[1,2,1]},"products":{"compounds":["C00135","C00004","C00080"],"coefficients":[1,2,2]}}

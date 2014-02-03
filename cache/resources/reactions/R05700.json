@@ -1,1 +1,0 @@
-{"ID":"R05700","name":"Coniferyl aldehyde:NAD oxidoreductase","definition":"Coniferyl aldehyde + H2O + NAD+ <=> Ferulate + NADH + H+","enzyme":"1.2.1.68","equation":"C02666 + C00001 + C00003 <=> C01494 + C00004 + C00080","reactants":{"compounds":["C02666","C00001","C00003"],"coefficients":[1,1,1]},"products":{"compounds":["C01494","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R04358","name":"ATP:[DNA-directed RNA polymerase] phosphotransferase","definition":"ATP + [DNA-directed RNA polymerase] <=> ADP + Phospho-[DNA-directed RNA polymerase]","enzyme":"2.7.11.23","equation":"C00002 + C03959 <=> C00008 + C04395","reactants":{"compounds":["C00002","C03959"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04395"],"coefficients":[1,1]}}

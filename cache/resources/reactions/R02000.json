@@ -1,1 +1,0 @@
-{"ID":"R02000","name":"rubredoxin:NAD+ oxidoreductase","definition":"2 Reduced rubredoxin + NAD+ <=> 2 Oxidized rubredoxin + NADH + H+","enzyme":"1.18.1.1","equation":"2 C00340 + C00003 <=> 2 C00435 + C00004 + C00080","reactants":{"compounds":["C00340","C00003"],"coefficients":[2,1]},"products":{"compounds":["C00435","C00004","C00080"],"coefficients":[2,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03132","name":"O3-acetyl-L-serine acetate-lyase (adding hydrogen sulfide)","definition":"O-Acetyl-L-serine + Thiosulfate <=> S-Sulfo-L-cysteine + Acetate","enzyme":"2.5.1.47","equation":"C00979 + C00320 <=> C05824 + C00033","reactants":{"compounds":["C00979","C00320"],"coefficients":[1,1]},"products":{"compounds":["C05824","C00033"],"coefficients":[1,1]}}

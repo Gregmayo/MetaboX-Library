@@ -1,1 +1,0 @@
-{"ID":"R00241","name":"ATP:L-glutamate 1-phosphotransferase","definition":"ATP + L-Glutamate <=> ADP + L-Glutamyl 1-phosphate","enzyme":"2.7.2.13","equation":"C00002 + C00025 <=> C00008 + C05765","reactants":{"compounds":["C00002","C00025"],"coefficients":[1,1]},"products":{"compounds":["C00008","C05765"],"coefficients":[1,1]}}

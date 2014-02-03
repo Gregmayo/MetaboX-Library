@@ -1,1 +1,0 @@
-{"ID":"R01574","name":"D-Arabinose:NAD+ 1-oxidoreductase","definition":"D-Arabinose + NAD+ <=> D-Arabinono-1,4-lactone + NADH + H+","enzyme":"1.1.1.117","equation":"C00216 + C00003 <=> C00652 + C00004 + C00080","reactants":{"compounds":["C00216","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00652","C00004","C00080"],"coefficients":[1,1,1]}}

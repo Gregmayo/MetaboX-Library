@@ -1,1 +1,0 @@
-{"ID":"R06208","name":"","definition":"G10535(n+1) + H2O <=> D-Fructose + G10535(n)","enzyme":"3.2.1.80","equation":"C00001 <=> C00095 + G10535(n)","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["C00095","G10535"],"coefficients":[1,1]}}

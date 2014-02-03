@@ -1,1 +1,0 @@
-{"ID":"R01682","name":"3-Sulfo-L-alanine carboxy-lyase (taurine-forming)","definition":"L-Cysteate <=> Taurine + CO2","enzyme":"4.1.1.15","equation":"C00506 <=> C00245 + C00011","reactants":{"compounds":["C00506"],"coefficients":[1]},"products":{"compounds":["C00245","C00011"],"coefficients":[1,1]}}

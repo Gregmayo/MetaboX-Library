@@ -1,1 +1,0 @@
-{"ID":"R04998","name":"beta-D-Glucosyl-2-coumarinate glucohydrolase","definition":"cis-beta-D-Glucosyl-2-hydroxycinnamate + H2O <=> cis-2-Hydroxycinnamate + D-Glucose","enzyme":"3.2.1.21","equation":"C05839 + C00001 <=> C05838 + C00031","reactants":{"compounds":["C05839","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05838","C00031"],"coefficients":[1,1]}}

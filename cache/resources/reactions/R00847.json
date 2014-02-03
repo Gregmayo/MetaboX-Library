@@ -1,1 +1,0 @@
-{"ID":"R00847","name":"ATP:glycerol 3-phosphotransferase","definition":"ATP + Glycerol <=> ADP + sn-Glycerol 3-phosphate","enzyme":"2.7.1.30","equation":"C00002 + C00116 <=> C00008 + C00093","reactants":{"compounds":["C00002","C00116"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00093"],"coefficients":[1,1]}}

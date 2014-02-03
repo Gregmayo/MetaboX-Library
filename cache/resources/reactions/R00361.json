@@ -1,1 +1,0 @@
-{"ID":"R00361","name":"(S)-malate:acceptor oxidoreductase","definition":"(S)-Malate + Acceptor <=> Oxaloacetate + Reduced acceptor","enzyme":"1.1.5.4","equation":"C00149 + C00028 <=> C00036 + C00030","reactants":{"compounds":["C00149","C00028"],"coefficients":[1,1]},"products":{"compounds":["C00036","C00030"],"coefficients":[1,1]}}

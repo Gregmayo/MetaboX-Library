@@ -1,1 +1,0 @@
-{"ID":"R00407","name":"Succinyl-CoA hydrolase","definition":"Succinyl-CoA + H2O <=> CoA + Succinate","enzyme":"3.1.2.3","equation":"C00091 + C00001 <=> C00010 + C00042","reactants":{"compounds":["C00091","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00010","C00042"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03884","name":"(E)-Glutaconate CoA-transferase","definition":"Acetyl-CoA + (E)-Glutaconate <=> Acetate + Glutaconyl-1-CoA","enzyme":"2.8.3.12","equation":"C00024 + C02214 <=> C00033 + C02411","reactants":{"compounds":["C00024","C02214"],"coefficients":[1,1]},"products":{"compounds":["C00033","C02411"],"coefficients":[1,1]}}

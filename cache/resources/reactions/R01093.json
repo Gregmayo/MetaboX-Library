@@ -1,1 +1,0 @@
-{"ID":"R01093","name":"galactitol:NAD+ 1-oxidoreductase","definition":"D-Galactose + NADH + H+ <=> Galactitol + NAD+","enzyme":"1.1.1.21","equation":"C00124 + C00004 + C00080 <=> C01697 + C00003","reactants":{"compounds":["C00124","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C01697","C00003"],"coefficients":[1,1]}}

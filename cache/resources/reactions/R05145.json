@@ -1,1 +1,0 @@
-{"ID":"R05145","name":"Biotinyl-5'-AMP:apo-[carboxylase] ligase (AMP-forming)","definition":"Biotinyl-5'-AMP + Apo-[carboxylase] <=> AMP + Holo-[carboxylase]","enzyme":"6.3.4.9","equation":"C05921 + C06249 <=> C00020 + C06250","reactants":{"compounds":["C05921","C06249"],"coefficients":[1,1]},"products":{"compounds":["C00020","C06250"],"coefficients":[1,1]}}

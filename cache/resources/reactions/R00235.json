@@ -1,1 +1,0 @@
-{"ID":"R00235","name":"Acetate:CoA ligase (AMP-forming)","definition":"ATP + Acetate + CoA <=> AMP + Diphosphate + Acetyl-CoA","enzyme":"6.2.1.1","equation":"C00002 + C00033 + C00010 <=> C00020 + C00013 + C00024","reactants":{"compounds":["C00002","C00033","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00024"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R06531","name":"ATP:L-threonine O-phosphotransferase","definition":"L-Threonine + ATP <=> L-Threonine O-3-phosphate + ADP","enzyme":"2.7.1.177","equation":"C00188 + C00002 <=> C12147 + C00008","reactants":{"compounds":["C00188","C00002"],"coefficients":[1,1]},"products":{"compounds":["C12147","C00008"],"coefficients":[1,1]}}

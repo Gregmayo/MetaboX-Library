@@ -1,1 +1,0 @@
-{"ID":"R01085","name":"3-fumarylpyruvate fumarylhydrolase","definition":"3-Fumarylpyruvate + H2O <=> Fumarate + Pyruvate","enzyme":"3.7.1.5","equation":"C02514 + C00001 <=> C00122 + C00022","reactants":{"compounds":["C02514","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00122","C00022"],"coefficients":[1,1]}}

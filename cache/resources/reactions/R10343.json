@@ -1,1 +1,0 @@
-{"ID":"R10343","name":"succinyl-CoA:acetate CoA-transferase","definition":"Succinyl-CoA + Acetate <=> Acetyl-CoA + Succinate","enzyme":"2.8.3.18","equation":"C00091 + C00033 <=> C00024 + C00042","reactants":{"compounds":["C00091","C00033"],"coefficients":[1,1]},"products":{"compounds":["C00024","C00042"],"coefficients":[1,1]}}

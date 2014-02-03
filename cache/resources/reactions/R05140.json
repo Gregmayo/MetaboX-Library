@@ -1,1 +1,0 @@
-{"ID":"R05140","name":"sucrose:2,6-beta-D-fructan 6-beta-D-fructosyltransferase","definition":"D-Glucose + Levan <=> Sucrose + Levan","enzyme":"2.4.1.10","equation":"C00031 + C06215 <=> C00089 + C06215","reactants":{"compounds":["C00031","C06215"],"coefficients":[1,1]},"products":{"compounds":["C00089","C06215"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00181","name":"AMP aminohydrolase","definition":"AMP + H2O <=> IMP + Ammonia","enzyme":"3.5.4.6","equation":"C00020 + C00001 <=> C00130 + C00014","reactants":{"compounds":["C00020","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00130","C00014"],"coefficients":[1,1]}}

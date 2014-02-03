@@ -1,1 +1,0 @@
-{"ID":"R01074","name":"biotin:CoA ligase (AMP-forming)","definition":"ATP + Biotin <=> Diphosphate + Biotinyl-5'-AMP","enzyme":"6.2.1.11","equation":"C00002 + C00120 <=> C00013 + C05921","reactants":{"compounds":["C00002","C00120"],"coefficients":[1,1]},"products":{"compounds":["C00013","C05921"],"coefficients":[1,1]}}

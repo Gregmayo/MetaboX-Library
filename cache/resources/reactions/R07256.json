@@ -1,1 +1,0 @@
-{"ID":"R07256","name":"NDP-glucose:D-fructose 2-alpha-D-glucosyltransferase","definition":"NDP-glucose + D-Fructose <=> NDP + Sucrose","enzyme":"2.4.1.13","equation":"C15541 + C10906 <=> C00454 + C00089","reactants":{"compounds":["C15541","C10906"],"coefficients":[1,1]},"products":{"compounds":["C00454","C00089"],"coefficients":[1,1]}}

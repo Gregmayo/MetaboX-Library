@@ -1,1 +1,0 @@
-{"ID":"R07171","name":"NADH:oxygen oxidoreductase","definition":"NADH + H+ + Oxygen <=> NAD+ + Hydrogen peroxide","enzyme":"1.6.3.1","equation":"C00004 + C00080 + C00007 <=> C00003 + C00027","reactants":{"compounds":["C00004","C00080","C00007"],"coefficients":[1,1,1]},"products":{"compounds":["C00003","C00027"],"coefficients":[1,1]}}

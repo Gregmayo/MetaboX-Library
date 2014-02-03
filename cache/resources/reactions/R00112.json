@@ -1,1 +1,0 @@
-{"ID":"R00112","name":"NADPH:NAD+ oxidoreductase","definition":"NADPH + NAD+ <=> NADP+ + NADH","enzyme":"1.6.1.1","equation":"C00005 + C00003 <=> C00006 + C00004","reactants":{"compounds":["C00005","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00006","C00004"],"coefficients":[1,1]}}

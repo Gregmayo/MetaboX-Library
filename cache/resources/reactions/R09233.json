@@ -1,1 +1,0 @@
-{"ID":"R09233","name":"","definition":"2,4-Dinitrotoluene + NADH + Oxygen + H+ <=> 4-Methyl-5-nitrocatechol + NAD+ + Nitrite","enzyme":null,"equation":"C11006 + C00004 + C00007 + C00080 <=> C18315 + C00003 + C00088","reactants":{"compounds":["C11006","C00004","C00007","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C18315","C00003","C00088"],"coefficients":[1,1,1]}}

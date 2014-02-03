@@ -1,1 +1,0 @@
-{"ID":"R00996","name":"L-threonine ammonia-lyase (2-oxobutanoate-forming)","definition":"L-Threonine <=> 2-Oxobutanoate + Ammonia","enzyme":"4.3.1.19","equation":"C00188 <=> C00109 + C00014","reactants":{"compounds":["C00188"],"coefficients":[1]},"products":{"compounds":["C00109","C00014"],"coefficients":[1,1]}}

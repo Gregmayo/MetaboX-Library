@@ -1,1 +1,0 @@
-{"ID":"R00411","name":"N-succinyl-L-glutamate amidohydrolase","definition":"N-Succinyl-L-glutamate + H2O <=> L-Glutamate + Succinate","enzyme":"3.5.1.96","equation":"C05931 + C00001 <=> C00025 + C00042","reactants":{"compounds":["C05931","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00025","C00042"],"coefficients":[1,1]}}

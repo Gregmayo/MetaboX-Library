@@ -1,1 +1,0 @@
-{"ID":"R10178","name":"4-aminobutanoate:pyruvate aminotransferase","definition":"4-Aminobutanoate + Pyruvate <=> Succinate semialdehyde + L-Alanine","enzyme":"2.6.1.96","equation":"C00334 + C00022 <=> C00232 + C00041","reactants":{"compounds":["C00334","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00232","C00041"],"coefficients":[1,1]}}

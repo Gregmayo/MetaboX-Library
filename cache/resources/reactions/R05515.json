@@ -1,1 +1,0 @@
-{"ID":"R05515","name":"","definition":"Streptomycin 6-phosphate + NADH + H+ <=> Dihydrostreptomycin 6-phosphate + NAD+","enzyme":null,"equation":"C01138 + C00004 + C00080 <=> C01221 + C00003","reactants":{"compounds":["C01138","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C01221","C00003"],"coefficients":[1,1]}}

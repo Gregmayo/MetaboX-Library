@@ -1,1 +1,0 @@
-{"ID":"R00914","name":"beta-alanine CoA-transferase","definition":"beta-Alanine <=> beta-Alanyl-CoA","enzyme":null,"equation":"C00099 <=> C02335","reactants":{"compounds":["C00099"],"coefficients":[1]},"products":{"compounds":["C02335"],"coefficients":[1]}}

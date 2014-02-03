@@ -1,1 +1,0 @@
-{"ID":"R01573","name":"ATP:D-arabinose 5-phosphotransferase","definition":"ATP + D-Arabinose <=> ADP + D-Arabinose 5-phosphate","enzyme":"2.7.1.54","equation":"C00002 + C00216 <=> C00008 + C01112","reactants":{"compounds":["C00002","C00216"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01112"],"coefficients":[1,1]}}

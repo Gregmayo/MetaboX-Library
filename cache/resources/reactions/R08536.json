@@ -1,1 +1,0 @@
-{"ID":"R08536","name":"L-Glucitol:NAD+ 2-oxidoreductase","definition":"L-Glucitol + NAD+ <=> L-Fructose + NADH + H+","enzyme":"1.1.1.15","equation":"C01722 + C00003 <=> C01719 + C00004 + C00080","reactants":{"compounds":["C01722","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01719","C00004","C00080"],"coefficients":[1,1,1]}}

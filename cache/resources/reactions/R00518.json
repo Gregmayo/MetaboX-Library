@@ -1,1 +1,0 @@
-{"ID":"R00518","name":"ATP:formate phosphotransferase","definition":"ATP + Formate <=> ADP + Formyl phosphate","enzyme":"2.7.2.6","equation":"C00002 + C00058 <=> C00008 + C02405","reactants":{"compounds":["C00002","C00058"],"coefficients":[1,1]},"products":{"compounds":["C00008","C02405"],"coefficients":[1,1]}}

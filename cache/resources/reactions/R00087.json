@@ -1,1 +1,0 @@
-{"ID":"R00087","name":"ATP diphosphohydrolase (diphosphate-forming)","definition":"ATP + H2O <=> AMP + Diphosphate","enzyme":"3.6.1.8","equation":"C00002 + C00001 <=> C00020 + C00013","reactants":{"compounds":["C00002","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00013"],"coefficients":[1,1]}}

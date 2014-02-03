@@ -1,1 +1,0 @@
-{"ID":"R01025","name":"choline:acceptor 1-oxidoreductase","definition":"Choline + Acceptor <=> Betaine aldehyde + Reduced acceptor","enzyme":"1.1.99.1","equation":"C00114 + C00028 <=> C00576 + C00030","reactants":{"compounds":["C00114","C00028"],"coefficients":[1,1]},"products":{"compounds":["C00576","C00030"],"coefficients":[1,1]}}

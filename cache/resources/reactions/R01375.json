@@ -1,1 +1,0 @@
-{"ID":"R01375","name":"L-Glutamine:phenylpyruvate aminotransferase","definition":"L-Glutamine + Phenylpyruvate <=> 2-Oxoglutaramate + L-Phenylalanine","enzyme":"2.6.1.64","equation":"C00064 + C00166 <=> C00940 + C00079","reactants":{"compounds":["C00064","C00166"],"coefficients":[1,1]},"products":{"compounds":["C00940","C00079"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R05635","name":"Formyl-L-methionyl peptide amidohydrolase","definition":"Formyl-L-methionyl peptide + H2O <=> Methionyl peptide + Formate","enzyme":"3.5.1.88","equation":"C11439 + C00001 <=> C11440 + C00058","reactants":{"compounds":["C11439","C00001"],"coefficients":[1,1]},"products":{"compounds":["C11440","C00058"],"coefficients":[1,1]}}

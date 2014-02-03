@@ -1,1 +1,0 @@
-{"ID":"R00191","name":"adenosine 3',5'-phosphate 5'-nucleotidohydrolase","definition":"3',5'-Cyclic AMP + H2O <=> AMP","enzyme":"3.1.4.17","equation":"C00575 + C00001 <=> C00020","reactants":{"compounds":["C00575","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020"],"coefficients":[1]}}

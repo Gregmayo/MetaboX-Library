@@ -1,1 +1,0 @@
-{"ID":"R01336","name":"carboxymethyloxysuccinate glycolate-lyase (fumarate-forming)","definition":"Carboxymethyloxysuccinate <=> Fumarate + Glycolate","enzyme":"4.2.99.12","equation":"C03600 <=> C00122 + C00160","reactants":{"compounds":["C03600"],"coefficients":[1]},"products":{"compounds":["C00122","C00160"],"coefficients":[1,1]}}

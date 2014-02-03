@@ -1,1 +1,0 @@
-{"ID":"R02541","name":"Sphingomyelin cholinephosphohydrolase","definition":"Sphingomyelin + H2O <=> N-Acylsphingosine + Choline phosphate","enzyme":"3.1.4.12","equation":"C00550 + C00001 <=> C00195 + C00588","reactants":{"compounds":["C00550","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00195","C00588"],"coefficients":[1,1]}}

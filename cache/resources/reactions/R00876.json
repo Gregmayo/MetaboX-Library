@@ -1,1 +1,0 @@
-{"ID":"R00876","name":"ITP:D-fructose 6-phosphotransferase","definition":"ITP + D-Fructose <=> IDP + D-Fructose 6-phosphate","enzyme":"2.7.1.1","equation":"C00081 + C00095 <=> C00104 + C00085","reactants":{"compounds":["C00081","C00095"],"coefficients":[1,1]},"products":{"compounds":["C00104","C00085"],"coefficients":[1,1]}}

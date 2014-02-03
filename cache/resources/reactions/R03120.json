@@ -1,1 +1,0 @@
-{"ID":"R03120","name":"Aromatic-amino-acid:2-oxoglutarate aminotransferase","definition":"Aromatic amino acid + 2-Oxoglutarate <=> Aromatic oxo acid + L-Glutamate","enzyme":"2.6.1.57","equation":"C01021 + C00026 <=> C00972 + C00025","reactants":{"compounds":["C01021","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00972","C00025"],"coefficients":[1,1]}}

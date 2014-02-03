@@ -1,1 +1,0 @@
-{"ID":"R03154","name":"Succinyl-CoA:citramalate CoA-transferase","definition":"Succinyl-CoA + (S)-2-Methylmalate <=> Succinate + (3S)-Citramalyl-CoA","enzyme":"2.8.3.7","equation":"C00091 + C02614 <=> C00042 + C01011","reactants":{"compounds":["C00091","C02614"],"coefficients":[1,1]},"products":{"compounds":["C00042","C01011"],"coefficients":[1,1]}}

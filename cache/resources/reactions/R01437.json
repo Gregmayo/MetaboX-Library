@@ -1,1 +1,0 @@
-{"ID":"R01437","name":"L-valine carboxy-lyase (2-methylpropanamine-forming)","definition":"L-Valine <=> 2-Methylpropanamine + CO2","enzyme":"4.1.1.14","equation":"C00183 <=> C02787 + C00011","reactants":{"compounds":["C00183"],"coefficients":[1]},"products":{"compounds":["C02787","C00011"],"coefficients":[1,1]}}

@@ -49,8 +49,8 @@ class Reaction extends AbstractResourceLoader{
 		
 		$resource = (object) array(
 			'ID' 		 => $this->getResourceId(),
-			'name' 	     => $this->_getAttributeByLabel('NAME'),
-			'definition' => $this->_getAttributeByLabel('DEFINITION'),
+			'name' 	     => $this->_extractAttributeByLabel('NAME'),
+			'definition' => $this->_extractAttributeByLabel('DEFINITION'),
 			'enzyme'     => $this->_getEnzyme(),
 			'equation' 	 => $eq['eq'],
 			'reactants'  => $eq['reactants'],

@@ -1,1 +1,0 @@
-{"ID":"R10011","name":"","definition":"L-Lysine + (2R,3R)-3-Methylornithine + ATP <=> (2R,3R)-3-Methylornithinyl-N6-lysine + Products of ATP breakdown","enzyme":null,"equation":"C00047 + C20277 + C00002 <=> C20278 + C07305","reactants":{"compounds":["C00047","C20277","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C20278","C07305"],"coefficients":[1,1]}}

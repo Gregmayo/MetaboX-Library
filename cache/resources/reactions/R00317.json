@@ -1,1 +1,0 @@
-{"ID":"R00317","name":"Acetyl phosphate phosphohydrolase","definition":"Acetyl phosphate + H2O <=> Acetate + Orthophosphate","enzyme":"3.6.1.7","equation":"C00227 + C00001 <=> C00033 + C00009","reactants":{"compounds":["C00227","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00009"],"coefficients":[1,1]}}

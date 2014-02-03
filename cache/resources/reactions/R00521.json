@@ -1,1 +1,0 @@
-{"ID":"R00521","name":"Formyl-CoA hydrolase","definition":"Formyl-CoA + H2O <=> CoA + Formate","enzyme":"3.1.2.10","equation":"C00798 + C00001 <=> C00010 + C00058","reactants":{"compounds":["C00798","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00010","C00058"],"coefficients":[1,1]}}

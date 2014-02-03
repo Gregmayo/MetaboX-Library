@@ -1,1 +1,0 @@
-{"ID":"R00555","name":"NAD+:protein-L-arginine ADP-D-ribosyltransferase","definition":"NAD+ + Protein-L-arginine <=> Nicotinamide + Protein-omega-N-(ADP-D-ribosyl)-L-arginine","enzyme":"2.4.2.31","equation":"C00003 + C00613 <=> C00153 + C16011","reactants":{"compounds":["C00003","C00613"],"coefficients":[1,1]},"products":{"compounds":["C00153","C16011"],"coefficients":[1,1]}}

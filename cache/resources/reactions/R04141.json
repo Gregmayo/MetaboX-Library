@@ -1,1 +1,0 @@
-{"ID":"R04141","name":"4-Methylumbelliferyl-acetate acylhydrolase","definition":"4-Methylumbelliferyl acetate + H2O <=> 4-Methylumbelliferone + Acetate","enzyme":"3.1.1.56","equation":"C03837 + C00001 <=> C03081 + C00033","reactants":{"compounds":["C03837","C00001"],"coefficients":[1,1]},"products":{"compounds":["C03081","C00033"],"coefficients":[1,1]}}

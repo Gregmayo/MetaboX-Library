@@ -1,1 +1,0 @@
-{"ID":"R08600","name":"N-Acetyl-4-O-acetylneuraminate 4-O-acetylhydrolase","definition":"N-Acetyl-4-O-acetylneuraminate + H2O <=> N-Acetylneuraminate + Acetate","enzyme":"3.1.1.53","equation":"C04015 + C00001 <=> C00270 + C00033","reactants":{"compounds":["C04015","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00270","C00033"],"coefficients":[1,1]}}

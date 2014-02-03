@@ -1,1 +1,0 @@
-{"ID":"R01077","name":"N6-D-Biotinyl-L-lysine amidohydrolase","definition":"Biocytin + H2O <=> Biotin + L-Lysine","enzyme":"3.5.1.12","equation":"C05552 + C00001 <=> C00120 + C00047","reactants":{"compounds":["C05552","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00120","C00047"],"coefficients":[1,1]}}

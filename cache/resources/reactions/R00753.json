@@ -1,1 +1,0 @@
-{"ID":"R00753","name":"(S)-lactate acetaldehyde-lyase (formate-forming)","definition":"(S)-Lactate <=> Formate + Acetaldehyde","enzyme":"4.1.2.36","equation":"C00186 <=> C00058 + C00084","reactants":{"compounds":["C00186"],"coefficients":[1]},"products":{"compounds":["C00058","C00084"],"coefficients":[1,1]}}

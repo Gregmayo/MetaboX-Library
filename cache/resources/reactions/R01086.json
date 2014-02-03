@@ -1,1 +1,0 @@
-{"ID":"R01086","name":"2-(Nomega-L-arginino)succinate arginine-lyase (fumarate-forming)","definition":"N-(L-Arginino)succinate <=> Fumarate + L-Arginine","enzyme":"4.3.2.1","equation":"C03406 <=> C00122 + C00062","reactants":{"compounds":["C03406"],"coefficients":[1]},"products":{"compounds":["C00122","C00062"],"coefficients":[1,1]}}

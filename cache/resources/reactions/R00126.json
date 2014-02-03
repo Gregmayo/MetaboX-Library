@@ -1,1 +1,0 @@
-{"ID":"R00126","name":"ADP:ATP adenylyltransferase","definition":"ADP + ATP <=> Orthophosphate + P1,P4-Bis(5'-adenosyl) tetraphosphate","enzyme":"2.7.7.53","equation":"C00008 + C00002 <=> C00009 + C01260","reactants":{"compounds":["C00008","C00002"],"coefficients":[1,1]},"products":{"compounds":["C00009","C01260"],"coefficients":[1,1]}}

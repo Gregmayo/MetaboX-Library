@@ -1,1 +1,0 @@
-{"ID":"R00913","name":"3-Guanidinopropanoate amidinopropionase","definition":"3-Guanidinopropanoate + H2O <=> beta-Alanine + Urea","enzyme":"3.5.3.17","equation":"C03065 + C00001 <=> C00099 + C00086","reactants":{"compounds":["C03065","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C00086"],"coefficients":[1,1]}}

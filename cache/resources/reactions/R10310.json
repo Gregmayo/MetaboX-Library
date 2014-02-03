@@ -1,1 +1,0 @@
-{"ID":"R10310","name":"(1'S,5'S)-hydroxyaverantin:NAD+ oxidoreductase","definition":"(1'S,5'S)-5'-Hydroxyaverantin + NAD+ <=> 5'-Oxoaverantin + NADH + H+","enzyme":"1.1.1.352","equation":"C20500 + C00003 <=> C20502 + C00004 + C00080","reactants":{"compounds":["C20500","C00003"],"coefficients":[1,1]},"products":{"compounds":["C20502","C00004","C00080"],"coefficients":[1,1,1]}}

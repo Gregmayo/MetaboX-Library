@@ -1,1 +1,0 @@
-{"ID":"R07417","name":"","definition":"gamma-Glutamyl-gamma-aminobutyraldehyde + NAD+ + H2O <=> 4-(L-gamma-Glutamylamino)butanoate + NADH + H+","enzyme":null,"equation":"C15700 + C00003 + C00001 <=> C15767 + C00004 + C00080","reactants":{"compounds":["C15700","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C15767","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R05352","name":"(S)-1-phenylethanol:NAD+ oxidoreductase","definition":"(S)-1-Phenylethanol + NAD+ <=> Acetophenone + NADH + H+","enzyme":"1.1.1.311","equation":"C11348 + C00003 <=> C07113 + C00004 + C00080","reactants":{"compounds":["C11348","C00003"],"coefficients":[1,1]},"products":{"compounds":["C07113","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03014","name":"ATP:L-rhamnulose 1-phosphotransferase","definition":"ATP + L-Rhamnulose <=> ADP + L-Rhamnulose 1-phosphate","enzyme":"2.7.1.5","equation":"C00002 + C00861 <=> C00008 + C01131","reactants":{"compounds":["C00002","C00861"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01131"],"coefficients":[1,1]}}

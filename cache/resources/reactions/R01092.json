@@ -1,1 +1,0 @@
-{"ID":"R01092","name":"ATP:D-galactose 1-phosphotransferase","definition":"ATP + D-Galactose <=> ADP + alpha-D-Galactose 1-phosphate","enzyme":"2.7.1.6","equation":"C00002 + C00124 <=> C00008 + C00446","reactants":{"compounds":["C00002","C00124"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00446"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R01956","name":"L-Kynurenine:2-oxoglutarate aminotransferase","definition":"L-Kynurenine + 2-Oxoglutarate <=> 4-(2-Aminophenyl)-2,4-dioxobutanoate + L-Glutamate","enzyme":"2.6.1.7","equation":"C00328 + C00026 <=> C01252 + C00025","reactants":{"compounds":["C00328","C00026"],"coefficients":[1,1]},"products":{"compounds":["C01252","C00025"],"coefficients":[1,1]}}

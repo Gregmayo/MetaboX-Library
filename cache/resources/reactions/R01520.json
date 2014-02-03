@@ -1,1 +1,0 @@
-{"ID":"R01520","name":"beta-D-Glucose:NAD+ 1-oxoreductase","definition":"beta-D-Glucose + NAD+ <=> D-Glucono-1,5-lactone + NADH + H+","enzyme":"1.1.1.47","equation":"C00221 + C00003 <=> C00198 + C00004 + C00080","reactants":{"compounds":["C00221","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00198","C00004","C00080"],"coefficients":[1,1,1]}}

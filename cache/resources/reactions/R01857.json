@@ -1,1 +1,0 @@
-{"ID":"R01857","name":"ATP:dGDP phosphotransferase","definition":"ATP + dGDP <=> ADP + dGTP","enzyme":"2.7.4.6","equation":"C00002 + C00361 <=> C00008 + C00286","reactants":{"compounds":["C00002","C00361"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00286"],"coefficients":[1,1]}}

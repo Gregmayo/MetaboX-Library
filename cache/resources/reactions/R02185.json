@@ -1,1 +1,0 @@
-{"ID":"R02185","name":"Polyphosphate:D-glucose 6-phosphotransferase","definition":"Polyphosphate + D-Glucose <=> Polyphosphate + D-Glucose 6-phosphate","enzyme":"2.7.1.63","equation":"C00404 + C00031 <=> C00404 + C00092","reactants":{"compounds":["C00404","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00404","C00092"],"coefficients":[1,1]}}

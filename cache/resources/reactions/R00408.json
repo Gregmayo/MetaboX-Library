@@ -1,1 +1,0 @@
-{"ID":"R00408","name":"Succinate:(acceptor) oxidoreductase","definition":"Succinate + FAD <=> FADH2 + Fumarate","enzyme":"1.3.99.1","equation":"C00042 + C00016 <=> C01352 + C00122","reactants":{"compounds":["C00042","C00016"],"coefficients":[1,1]},"products":{"compounds":["C01352","C00122"],"coefficients":[1,1]}}

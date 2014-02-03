@@ -1,1 +1,0 @@
-{"ID":"R06940","name":"","definition":"N-Cyclohexylformamide + H2O <=> Cyclohexylamine + Formate","enzyme":null,"equation":"C11519 + C00001 <=> C00571 + C00058","reactants":{"compounds":["C11519","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00571","C00058"],"coefficients":[1,1]}}

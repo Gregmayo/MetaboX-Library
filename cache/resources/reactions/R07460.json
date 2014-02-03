@@ -1,1 +1,0 @@
-{"ID":"R07460","name":"L-cysteine:[ThiI] sulfurtransferase","definition":"[Enzyme]-cysteine + L-Cysteine <=> [Enzyme]-S-sulfanylcysteine + L-Alanine","enzyme":"2.8.1.7","equation":"C15811 + C00097 <=> C15812 + C00041","reactants":{"compounds":["C15811","C00097"],"coefficients":[1,1]},"products":{"compounds":["C15812","C00041"],"coefficients":[1,1]}}

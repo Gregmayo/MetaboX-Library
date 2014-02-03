@@ -1,1 +1,0 @@
-{"ID":"R02677","name":"ADPmannose sugarphosphohydrolase","definition":"ADP-mannose + H2O <=> AMP + D-Mannose 1-phosphate","enzyme":"3.6.1.21","equation":"C06192 + C00001 <=> C00020 + C00636","reactants":{"compounds":["C06192","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00636"],"coefficients":[1,1]}}

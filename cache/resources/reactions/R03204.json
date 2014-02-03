@@ -1,1 +1,0 @@
-{"ID":"R03204","name":"2,5-Dihydroxypyridine:oxygen 5,6-oxidoreductase","definition":"2,5-Dihydroxypyridine + Oxygen + H2O <=> Maleamate + Formate","enzyme":null,"equation":"C01059 + C00007 + C00001 <=> C01596 + C00058","reactants":{"compounds":["C01059","C00007","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C01596","C00058"],"coefficients":[1,1]}}

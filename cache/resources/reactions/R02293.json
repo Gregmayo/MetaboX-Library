@@ -1,1 +1,0 @@
-{"ID":"R02293","name":"L-2,4-Diaminobutanoate:pyruvate aminotransferase","definition":"L-2,4-Diaminobutanoate + Pyruvate <=> L-Aspartate 4-semialdehyde + L-Alanine","enzyme":"2.6.1.46","equation":"C03283 + C00022 <=> C00441 + C00041","reactants":{"compounds":["C03283","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00441","C00041"],"coefficients":[1,1]}}

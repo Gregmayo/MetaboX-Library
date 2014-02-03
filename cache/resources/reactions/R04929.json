@@ -1,1 +1,0 @@
-{"ID":"R04929","name":"ATP:selenate adenylyltransferase","definition":"ATP + Selenate <=> Diphosphate + Adenylylselenate","enzyme":"2.7.7.4","equation":"C00002 + C05697 <=> C00013 + C05686","reactants":{"compounds":["C00002","C05697"],"coefficients":[1,1]},"products":{"compounds":["C00013","C05686"],"coefficients":[1,1]}}

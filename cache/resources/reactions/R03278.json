@@ -1,1 +1,0 @@
-{"ID":"R03278","name":"2-hydroxycyclohexan-1-one:NAD+ oxidoreductase","definition":"2-Hydroxycyclohexan-1-one + NAD+ <=> Cyclohexane-1,2-dione + NADH + H+","enzyme":"1.1.1.174","equation":"C01147 + C00003 <=> C06105 + C00004 + C00080","reactants":{"compounds":["C01147","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06105","C00004","C00080"],"coefficients":[1,1,1]}}

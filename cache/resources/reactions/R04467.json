@@ -1,1 +1,0 @@
-{"ID":"R04467","name":"","definition":"N6-Acetyl-LL-2,6-diaminoheptanedioate + 2-Oxoglutarate <=> N-Acetyl-L-2-amino-6-oxopimelate + L-Glutamate","enzyme":null,"equation":"C04390 + C00026 <=> C05539 + C00025","reactants":{"compounds":["C04390","C00026"],"coefficients":[1,1]},"products":{"compounds":["C05539","C00025"],"coefficients":[1,1]}}

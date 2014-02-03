@@ -1,1 +1,0 @@
-{"ID":"R10217","name":"","definition":"Furfural + NADH + H+ <=> Furfuryl alcohol + NAD+","enzyme":null,"equation":"C14279 + C00004 + C00080 <=> C20441 + C00003","reactants":{"compounds":["C14279","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C20441","C00003"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00315","name":"ATP:acetate phosphotransferase","definition":"ATP + Acetate <=> ADP + Acetyl phosphate","enzyme":"2.7.2.1","equation":"C00002 + C00033 <=> C00008 + C00227","reactants":{"compounds":["C00002","C00033"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00227"],"coefficients":[1,1]}}

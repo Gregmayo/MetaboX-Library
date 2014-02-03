@@ -1,1 +1,0 @@
-{"ID":"R02474","name":"Pantothenate amidohydrolase","definition":"Pantothenate + H2O <=> (R)-Pantoate + beta-Alanine","enzyme":"3.5.1.22","equation":"C00864 + C00001 <=> C00522 + C00099","reactants":{"compounds":["C00864","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00522","C00099"],"coefficients":[1,1]}}

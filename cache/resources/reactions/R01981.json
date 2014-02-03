@@ -1,1 +1,0 @@
-{"ID":"R01981","name":"D-galacturonate:NAD+ 1-oxidoreductase","definition":"D-Galacturonate + NAD+ + H2O <=> D-Galactarate + NADH + H+","enzyme":"1.1.1.203","equation":"C00333 + C00003 + C00001 <=> C00879 + C00004 + C00080","reactants":{"compounds":["C00333","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00879","C00004","C00080"],"coefficients":[1,1,1]}}

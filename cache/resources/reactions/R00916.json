@@ -1,1 +1,0 @@
-{"ID":"R00916","name":"","definition":"beta-Alanine <=> beta-Nitropropanoate","enzyme":null,"equation":"C00099 <=> C05669","reactants":{"compounds":["C00099"],"coefficients":[1]},"products":{"compounds":["C05669"],"coefficients":[1]}}

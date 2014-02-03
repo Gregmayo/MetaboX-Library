@@ -1,1 +1,0 @@
-{"ID":"R08876","name":"N-acetylbialaphos amidohydrolase","definition":"N-Acetylbialaphos + H2O <=> Bialaphos + Acetate","enzyme":null,"equation":"C17951 + C00001 <=> C06457 + C00033","reactants":{"compounds":["C17951","C00001"],"coefficients":[1,1]},"products":{"compounds":["C06457","C00033"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R01689","name":"butanoate:NAD+ delta2-oxidoreductase","definition":"Butanoic acid + NAD+ <=> 2-Butenoate + NADH + H+","enzyme":"1.3.1.31","equation":"C00246 + C00003 <=> C01771 + C00004 + C00080","reactants":{"compounds":["C00246","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01771","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03036","name":"Dephospho-CoA nucleotidohydrolase","definition":"Dephospho-CoA + H2O <=> Pantetheine 4'-phosphate + AMP","enzyme":"3.6.1.9","equation":"C00882 + C00001 <=> C01134 + C00020","reactants":{"compounds":["C00882","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01134","C00020"],"coefficients":[1,1]}}

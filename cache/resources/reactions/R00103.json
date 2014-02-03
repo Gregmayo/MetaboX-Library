@@ -1,1 +1,0 @@
-{"ID":"R00103","name":"NAD+ phosphohydrolase","definition":"NAD+ + H2O <=> AMP + Nicotinamide D-ribonucleotide","enzyme":"3.6.1.9","equation":"C00003 + C00001 <=> C00020 + C00455","reactants":{"compounds":["C00003","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00455"],"coefficients":[1,1]}}

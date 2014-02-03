@@ -1,1 +1,0 @@
-{"ID":"R02333","name":"Chitin amidohydrolase","definition":"Chitin + n H2O <=> Chitosan + n Acetate","enzyme":"3.5.1.41","equation":"C00461 + n C00001 <=> C00734 + n C00033","reactants":{"compounds":["C00461","C00001"],"coefficients":[1,0]},"products":{"compounds":["C00734","C00033"],"coefficients":[1,0]}}

@@ -1,1 +1,0 @@
-{"ID":"R03215","name":"Formate:ferricytochrome-c-553 oxidoreductase","definition":"Ferricytochrome c-553 + Formate <=> Ferrocytochrome c-553 + CO2","enzyme":"1.2.2.3","equation":"C01070 + C00058 <=> C01071 + C00011","reactants":{"compounds":["C01070","C00058"],"coefficients":[1,1]},"products":{"compounds":["C01071","C00011"],"coefficients":[1,1]}}

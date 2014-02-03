@@ -1,1 +1,0 @@
-{"ID":"R00905","name":"N-Carbamoyl-beta-alanine amidohydrolase","definition":"3-Ureidopropionate + H2O <=> beta-Alanine + CO2 + Ammonia","enzyme":"3.5.1.6","equation":"C02642 + C00001 <=> C00099 + C00011 + C00014","reactants":{"compounds":["C02642","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C00011","C00014"],"coefficients":[1,1,1]}}

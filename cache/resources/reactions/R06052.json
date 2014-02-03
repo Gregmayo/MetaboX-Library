@@ -1,1 +1,0 @@
-{"ID":"R06052","name":"sucrose:1,4-alpha-D-glucan 4-alpha-D-glucosyltransferase","definition":"1,4-alpha-D-Glucan(n) + Neohancoside D <=> 1,4-alpha-D-Glucan(n+1) + D-Fructose","enzyme":"2.4.1.4","equation":"","reactants":{"compounds":[""],"coefficients":[1]},"products":{"compounds":[""],"coefficients":[1]}}

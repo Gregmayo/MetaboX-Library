@@ -1,1 +1,0 @@
-{"ID":"R07301","name":"(S)-N-acetylphenylethylamine:H2O hydrolase","definition":"N-(2-Phenylethyl)-acetamide + H2O <=> Phenethylamine + Acetate","enzyme":"3.5.1.85","equation":"C06746 + C00001 <=> C05332 + C00033","reactants":{"compounds":["C06746","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05332","C00033"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R09538","name":"CDP-choline phosphohydrolase","definition":"CDP-choline + H2O <=> CMP + Choline phosphate","enzyme":"3.6.1.53","equation":"C00307 + C00001 <=> C00055 + C00588","reactants":{"compounds":["C00307","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00055","C00588"],"coefficients":[1,1]}}

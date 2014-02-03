@@ -1,1 +1,0 @@
-{"ID":"R02558","name":"(R)-Prunasin beta-D-glucohydrolase","definition":"Prunasin + H2O <=> Mandelonitrile + D-Glucose","enzyme":"3.2.1.21","equation":"C00844 + C00001 <=> C00561 + C00031","reactants":{"compounds":["C00844","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00561","C00031"],"coefficients":[1,1]}}

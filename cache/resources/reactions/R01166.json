@@ -1,1 +1,0 @@
-{"ID":"R01166","name":"Nalpha-(beta-alanyl)-L-histidine hydrolase","definition":"Carnosine + H2O <=> beta-Alanine + L-Histidine","enzyme":"3.4.13.18","equation":"C00386 + C00001 <=> C00099 + C00135","reactants":{"compounds":["C00386","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C00135"],"coefficients":[1,1]}}

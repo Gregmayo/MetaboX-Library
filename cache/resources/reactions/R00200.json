@@ -1,1 +1,0 @@
-{"ID":"R00200","name":"ATP:pyruvate 2-O-phosphotransferase","definition":"ATP + Pyruvate <=> ADP + Phosphoenolpyruvate","enzyme":"2.7.1.40","equation":"C00002 + C00022 <=> C00008 + C00074","reactants":{"compounds":["C00002","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00074"],"coefficients":[1,1]}}

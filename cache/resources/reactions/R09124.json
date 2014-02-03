@@ -1,1 +1,0 @@
-{"ID":"R09124","name":"trimethylamine:coenzyme M methyltransferase","definition":"Trimethylamine + 2-Mercaptoethanesulfonate <=> 2-(Methylthio)ethanesulfonate + Dimethylamine","enzyme":"2.1.1.247","equation":"C00565 + C03576 <=> C03920 + C00543","reactants":{"compounds":["C00565","C03576"],"coefficients":[1,1]},"products":{"compounds":["C03920","C00543"],"coefficients":[1,1]}}

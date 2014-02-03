@@ -1,1 +1,0 @@
-{"ID":"R00463","name":"L-Lysine-1,6-lactam lactamhydrolase","definition":"L-Lysine 1,6-lactam + H2O <=> L-Lysine","enzyme":"3.5.2.11","equation":"C02837 + C00001 <=> C00047","reactants":{"compounds":["C02837","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00047"],"coefficients":[1]}}

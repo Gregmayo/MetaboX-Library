@@ -1,1 +1,0 @@
-{"ID":"R01218","name":"5,10-methylenetetrahydrofolate:NAD+ oxidoreductase","definition":"5,10-Methylenetetrahydrofolate + NAD+ <=> 5,10-Methenyltetrahydrofolate + NADH","enzyme":"1.5.1.15","equation":"C00143 + C00003 <=> C00445 + C00004","reactants":{"compounds":["C00143","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00445","C00004"],"coefficients":[1,1]}}

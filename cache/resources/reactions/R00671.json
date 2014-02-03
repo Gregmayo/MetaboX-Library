@@ -1,1 +1,0 @@
-{"ID":"R00671","name":"L-ornithine ammonia-lyase (cyclizing L-proline-forming)","definition":"L-Ornithine <=> L-Proline + Ammonia","enzyme":"4.3.1.12","equation":"C00077 <=> C00148 + C00014","reactants":{"compounds":["C00077"],"coefficients":[1]},"products":{"compounds":["C00148","C00014"],"coefficients":[1,1]}}

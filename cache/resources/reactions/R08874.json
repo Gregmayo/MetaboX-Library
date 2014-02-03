@@ -1,1 +1,0 @@
-{"ID":"R08874","name":"N-acetylphosphinothricin amidohydrolase","definition":"N-Acetylphosphinothricin + H2O <=> Glufosinate + Acetate","enzyme":null,"equation":"C17952 + C00001 <=> C05042 + C00033","reactants":{"compounds":["C17952","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05042","C00033"],"coefficients":[1,1]}}

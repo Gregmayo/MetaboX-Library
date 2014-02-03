@@ -1,1 +1,0 @@
-{"ID":"R00256","name":"L-glutamine amidohydrolase","definition":"L-Glutamine + H2O <=> L-Glutamate + Ammonia","enzyme":"6.3.5.4","equation":"C00064 + C00001 <=> C00025 + C00014","reactants":{"compounds":["C00064","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00025","C00014"],"coefficients":[1,1]}}

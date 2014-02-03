@@ -1,1 +1,0 @@
-{"ID":"R00260","name":"glutamate racemase","definition":"L-Glutamate <=> D-Glutamate","enzyme":"5.1.1.3","equation":"C00025 <=> C00217","reactants":{"compounds":["C00025"],"coefficients":[1]},"products":{"compounds":["C00217"],"coefficients":[1]}}

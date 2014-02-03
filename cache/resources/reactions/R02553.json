@@ -1,1 +1,0 @@
-{"ID":"R02553","name":"Cyclopentanol:NAD+ oxidoreductase","definition":"Cyclopentanol + NAD+ <=> Cyclopentanone + NADH + H+","enzyme":"1.1.1.163","equation":"C02020 + C00003 <=> C00557 + C00004 + C00080","reactants":{"compounds":["C02020","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00557","C00004","C00080"],"coefficients":[1,1,1]}}

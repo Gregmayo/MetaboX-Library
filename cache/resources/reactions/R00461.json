@@ -1,1 +1,0 @@
-{"ID":"R00461","name":"L-Lysine 2,3-aminomutase","definition":"L-Lysine <=> (3S)-3,6-Diaminohexanoate","enzyme":"5.4.3.2","equation":"C00047 <=> C01142","reactants":{"compounds":["C00047"],"coefficients":[1]},"products":{"compounds":["C01142"],"coefficients":[1]}}

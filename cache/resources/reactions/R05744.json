@@ -1,1 +1,0 @@
-{"ID":"R05744","name":"trans-ferulate:CoASH ligase (ATP-hydrolysing)","definition":"Ferulate + CoA + ATP <=> Feruloyl-CoA + Products of ATP breakdown","enzyme":"6.2.1.34","equation":"C01494 + C00010 + C00002 <=> C00406 + C07305","reactants":{"compounds":["C01494","C00010","C00002"],"coefficients":[1,1,1]},"products":{"compounds":["C00406","C07305"],"coefficients":[1,1]}}

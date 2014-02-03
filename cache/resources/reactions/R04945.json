@@ -1,1 +1,0 @@
-{"ID":"R04945","name":"O-Acetylhomoserine succinate-lyase (adding cysteine)","definition":"O-Acetyl-L-homoserine + L-Selenocysteine <=> L-Selenocystathionine + Acetate","enzyme":"2.5.1.48","equation":"C01077 + C05688 <=> C05699 + C00033","reactants":{"compounds":["C01077","C05688"],"coefficients":[1,1]},"products":{"compounds":["C05699","C00033"],"coefficients":[1,1]}}

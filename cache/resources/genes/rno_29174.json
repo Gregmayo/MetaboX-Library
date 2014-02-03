@@ -1,1 +1,0 @@
-{"ID":"rno:29174","name":"Ctsj, Ctsp","definition":"cathepsin J","orthology":"K09599  cathepsin P [EC:3.4.22.-]","organism":"rno  Rattus norvegicus (rat)","class":"Cellular Processes Transport and catabolism Lysosome [PATH:rno04142]","position":"17","motif":"Pfam: Peptidase_C1 Inhibitor_I29 Peptidase_C1_2","aaseq":"334","ntseq":"1005","pathwayIdCollection":["rno04142"]}

@@ -1,1 +1,0 @@
-{"ID":"R01975","name":"(S)-3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase","definition":"(S)-3-Hydroxybutanoyl-CoA + NAD+ <=> Acetoacetyl-CoA + NADH + H+","enzyme":"1.1.1.35","equation":"C01144 + C00003 <=> C00332 + C00004 + C00080","reactants":{"compounds":["C01144","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00332","C00004","C00080"],"coefficients":[1,1,1]}}

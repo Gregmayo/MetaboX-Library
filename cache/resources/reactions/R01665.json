@@ -1,1 +1,0 @@
-{"ID":"R01665","name":"ATP:dCMP phosphotransferase","definition":"ATP + dCMP <=> ADP + dCDP","enzyme":"2.7.4.14","equation":"C00002 + C00239 <=> C00008 + C00705","reactants":{"compounds":["C00002","C00239"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00705"],"coefficients":[1,1]}}

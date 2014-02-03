@@ -1,1 +1,0 @@
-{"ID":"R03153","name":"Acetyl-CoA:citramalate CoA-transferase","definition":"Acetyl-CoA + (S)-2-Methylmalate <=> Acetate + (3S)-Citramalyl-CoA","enzyme":"4.1.3.22","equation":"C00024 + C02614 <=> C00033 + C01011","reactants":{"compounds":["C00024","C02614"],"coefficients":[1,1]},"products":{"compounds":["C00033","C01011"],"coefficients":[1,1]}}

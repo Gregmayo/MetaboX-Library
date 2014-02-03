@@ -1,1 +1,0 @@
-{"ID":"R05439","name":"","definition":"Dibenzo-p-dioxin + Oxygen + NADH + H+ <=> 2,2',3-Trihydroxydiphenylether + NAD+","enzyme":null,"equation":"C07732 + C00007 + C00004 + C00080 <=> C07733 + C00003","reactants":{"compounds":["C07732","C00007","C00004","C00080"],"coefficients":[1,1,1,1]},"products":{"compounds":["C07733","C00003"],"coefficients":[1,1]}}

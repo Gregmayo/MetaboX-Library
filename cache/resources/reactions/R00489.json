@@ -1,1 +1,0 @@
-{"ID":"R00489","name":"L-aspartate 1-carboxy-lyase (beta-alanine-forming)","definition":"L-Aspartate <=> beta-Alanine + CO2","enzyme":"4.1.1.11","equation":"C00049 <=> C00099 + C00011","reactants":{"compounds":["C00049"],"coefficients":[1]},"products":{"compounds":["C00099","C00011"],"coefficients":[1,1]}}

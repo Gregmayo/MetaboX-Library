@@ -1,1 +1,0 @@
-{"ID":"R01563","name":"N-Carbamoylsarcosine amidohydrolase","definition":"N-Carbamoylsarcosine + H2O <=> Sarcosine + CO2 + Ammonia","enzyme":"3.5.1.59","equation":"C01043 + C00001 <=> C00213 + C00011 + C00014","reactants":{"compounds":["C01043","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00213","C00011","C00014"],"coefficients":[1,1,1]}}

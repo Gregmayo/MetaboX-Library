@@ -1,1 +1,0 @@
-{"ID":"R01460","name":"Cholesteryl-beta-D-glucoside glucohydrolase","definition":"Cholesteryl-beta-D-glucoside + H2O <=> Cholesterol + D-Glucose","enzyme":"3.2.1.104","equation":"C03855 + C00001 <=> C00187 + C00031","reactants":{"compounds":["C03855","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00187","C00031"],"coefficients":[1,1]}}

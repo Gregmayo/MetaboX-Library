@@ -1,1 +1,0 @@
-{"ID":"R05283","name":"6-Hydroxyhexanoate:NAD oxidoreductase","definition":"6-Hydroxyhexanoic acid + NAD+ <=> Adipate semialdehyde + NADH + H+","enzyme":"1.1.1.258","equation":"C06103 + C00003 <=> C06102 + C00004 + C00080","reactants":{"compounds":["C06103","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06102","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R10486","name":"maltose 6'-phosphate phosphohydrolase","definition":"Maltose 6'-phosphate + H2O <=> Maltose + Orthophosphate","enzyme":"3.1.3.90","equation":"C02995 + C00001 <=> C00208 + C00009","reactants":{"compounds":["C02995","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00208","C00009"],"coefficients":[1,1]}}

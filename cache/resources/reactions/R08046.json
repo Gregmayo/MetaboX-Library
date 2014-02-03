@@ -1,1 +1,0 @@
-{"ID":"R08046","name":"","definition":"4-Amino-2,6-dinitrotoluene + 3 NADH + 3 H+ <=> 2,4-Diamino-6-nitrotoluene + 3 NAD+ + 2 H2O","enzyme":null,"equation":"C16394 + 3 C00004 + 3 C00080 <=> C16396 + 3 C00003 + 2 C00001","reactants":{"compounds":["C16394","C00004","C00080"],"coefficients":[1,3,3]},"products":{"compounds":["C16396","C00003","C00001"],"coefficients":[1,3,2]}}

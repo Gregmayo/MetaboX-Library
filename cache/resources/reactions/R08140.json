@@ -1,1 +1,0 @@
-{"ID":"R08140","name":"","definition":"3-Dehydroecdysone + NADH + H+ <=> 3-Epiecdysone + NAD+","enzyme":null,"equation":"C02513 + C00004 + C00080 <=> C16496 + C00003","reactants":{"compounds":["C02513","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C16496","C00003"],"coefficients":[1,1]}}

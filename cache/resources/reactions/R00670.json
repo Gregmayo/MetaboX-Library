@@ -1,1 +1,0 @@
-{"ID":"R00670","name":"L-ornithine carboxy-lyase (putrescine-forming)","definition":"L-Ornithine <=> Putrescine + CO2","enzyme":"4.1.1.17","equation":"C00077 <=> C00134 + C00011","reactants":{"compounds":["C00077"],"coefficients":[1]},"products":{"compounds":["C00134","C00011"],"coefficients":[1,1]}}

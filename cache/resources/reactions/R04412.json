@@ -1,1 +1,0 @@
-{"ID":"R04412","name":"vomifoliol:NAD+ oxidoreductase","definition":"(6S,9R)-Vomifoliol + NAD+ <=> Dehydrovomifoliol + NADH + H+","enzyme":"1.1.1.221","equation":"C01760 + C00003 <=> C02533 + C00004 + C00080","reactants":{"compounds":["C01760","C00003"],"coefficients":[1,1]},"products":{"compounds":["C02533","C00004","C00080"],"coefficients":[1,1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R02584","name":"ATP:[protein]-L-tyrosine O-phosphotransferase","definition":"ATP + Protein tyrosine <=> ADP + Protein tyrosine phosphate","enzyme":"2.7.10.1","equation":"C00002 + C00585 <=> C00008 + C01167","reactants":{"compounds":["C00002","C00585"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01167"],"coefficients":[1,1]}}

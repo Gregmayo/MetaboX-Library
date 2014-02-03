@@ -1,1 +1,0 @@
-{"ID":"R00692","name":"L-phenylalanine:pyruvate aminotransferase","definition":"L-Phenylalanine + Pyruvate <=> Phenylpyruvate + L-Alanine","enzyme":"2.6.1.58","equation":"C00079 + C00022 <=> C00166 + C00041","reactants":{"compounds":["C00079","C00022"],"coefficients":[1,1]},"products":{"compounds":["C00166","C00041"],"coefficients":[1,1]}}

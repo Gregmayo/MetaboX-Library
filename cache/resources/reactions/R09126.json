@@ -1,1 +1,0 @@
-{"ID":"R09126","name":"N-formylmaleamic acid amidohydrolase","definition":"N-Formylmaleamic acid + H2O <=> Maleamate + Formate","enzyme":"3.5.1.106","equation":"C18232 + C00001 <=> C01596 + C00058","reactants":{"compounds":["C18232","C00001"],"coefficients":[1,1]},"products":{"compounds":["C01596","C00058"],"coefficients":[1,1]}}

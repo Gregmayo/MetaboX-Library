@@ -1,1 +1,0 @@
-{"ID":"R02331","name":"ATP:dUDP phosphotransferase","definition":"ATP + dUDP <=> ADP + dUTP","enzyme":"2.7.4.6","equation":"C00002 + C01346 <=> C00008 + C00460","reactants":{"compounds":["C00002","C01346"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00460"],"coefficients":[1,1]}}

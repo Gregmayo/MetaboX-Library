@@ -1,1 +1,0 @@
-{"ID":"R09048","name":"","definition":"3 Cadaverine + 4 Pyruvate <=> 17-Oxosparteine + 4 L-Alanine + 3 H2O","enzyme":null,"equation":"3 C01672 + 4 C00022 <=> C18158 + 4 C00041 + 3 C00001","reactants":{"compounds":["C01672","C00022"],"coefficients":[3,4]},"products":{"compounds":["C18158","C00041","C00001"],"coefficients":[1,4,3]}}

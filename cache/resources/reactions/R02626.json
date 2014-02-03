@@ -1,1 +1,0 @@
-{"ID":"R02626","name":"ATP:protein-L-histidine N(tau)-phosphotransferase","definition":"ATP + Protein histidine <=> ADP + Protein N(tau)-phospho-L-histidine","enzyme":"2.7.13.2","equation":"C00002 + C00615 <=> C00008 + C04262","reactants":{"compounds":["C00002","C00615"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04262"],"coefficients":[1,1]}}

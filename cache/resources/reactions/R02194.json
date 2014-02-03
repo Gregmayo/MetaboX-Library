@@ -1,1 +1,0 @@
-{"ID":"R02194","name":"Ferulate:CoA ligase (AMP-forming)","definition":"ATP + Ferulate + CoA <=> AMP + Diphosphate + Feruloyl-CoA","enzyme":"6.2.1.12","equation":"C00002 + C01494 + C00010 <=> C00020 + C00013 + C00406","reactants":{"compounds":["C00002","C01494","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00406"],"coefficients":[1,1,1]}}

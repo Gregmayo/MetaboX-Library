@@ -1,1 +1,0 @@
-{"ID":"R01176","name":"Butanoate:CoA ligase (AMP-forming)","definition":"ATP + Butanoic acid + CoA <=> AMP + Diphosphate + Butanoyl-CoA","enzyme":"6.2.1.2","equation":"C00002 + C00246 + C00010 <=> C00020 + C00013 + C00136","reactants":{"compounds":["C00002","C00246","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00020","C00013","C00136"],"coefficients":[1,1,1]}}

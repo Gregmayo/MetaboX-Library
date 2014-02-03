@@ -1,1 +1,0 @@
-{"ID":"R01901","name":"ATP:L-xylulose 5-phosphotransferase","definition":"ATP + L-Xylulose <=> ADP + L-Xylulose 5-phosphate","enzyme":"2.7.1.53","equation":"C00002 + C00312 <=> C00008 + C03291","reactants":{"compounds":["C00002","C00312"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03291"],"coefficients":[1,1]}}

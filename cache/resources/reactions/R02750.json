@@ -1,1 +1,0 @@
-{"ID":"R02750","name":"","definition":"2-Deoxy-D-ribose 5-phosphate + ADP <=> Deoxyribose + ATP","enzyme":"2.7.1.15","equation":"C00673 + C00008 <=> C01801 + C00002","reactants":{"compounds":["C00673","C00008"],"coefficients":[1,1]},"products":{"compounds":["C01801","C00002"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R01354","name":"ATP:propanoate adenylyltransferase","definition":"ATP + Propanoate <=> Diphosphate + Propionyladenylate","enzyme":"6.2.1.1","equation":"C00002 + C00163 <=> C00013 + C05983","reactants":{"compounds":["C00002","C00163"],"coefficients":[1,1]},"products":{"compounds":["C00013","C05983"],"coefficients":[1,1]}}

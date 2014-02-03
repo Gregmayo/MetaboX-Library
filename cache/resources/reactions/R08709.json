@@ -1,1 +1,0 @@
-{"ID":"R08709","name":"CDP-ascarylose:NAD+ 4-oxidoreductase","definition":"CDP-4-dehydro-3,6-dideoxy-D-glucose epimer + NADH + H+ <=> CDP-ascarylose + NAD+","enzyme":null,"equation":"C17326 + C00004 + C00080 <=> C17327 + C00003","reactants":{"compounds":["C17326","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C17327","C00003"],"coefficients":[1,1]}}

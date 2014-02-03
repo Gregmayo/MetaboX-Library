@@ -1,1 +1,0 @@
-{"ID":"R02611","name":"Phenylethylalcohol:NAD+ oxidoreductase","definition":"Phenylethyl alcohol + NAD+ <=> Phenylacetaldehyde + NADH + H+","enzyme":"1.1.1.90","equation":"C05853 + C00003 <=> C00601 + C00004 + C00080","reactants":{"compounds":["C05853","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00601","C00004","C00080"],"coefficients":[1,1,1]}}

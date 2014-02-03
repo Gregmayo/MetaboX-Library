@@ -1,1 +1,0 @@
-{"ID":"R09801","name":"N2-acetyl-L-2,4-diaminobutanoate amidohydrolase","definition":"N-alpha-Acetyl-L-2,4-diaminobutyrate + H2O <=> L-2,4-Diaminobutanoate + Acetate","enzyme":null,"equation":"C19929 + C00001 <=> C03283 + C00033","reactants":{"compounds":["C19929","C00001"],"coefficients":[1,1]},"products":{"compounds":["C03283","C00033"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R10342","name":"ATP:ATP adenylyltransferase (cyclizing)","definition":"2 ATP <=> 2 Diphosphate + Cyclic di-3',5'-adenylate","enzyme":"2.7.7.85","equation":"2 C00002 <=> 2 C00013 + C20565","reactants":{"compounds":["C00002"],"coefficients":[2]},"products":{"compounds":["C00013","C20565"],"coefficients":[2,1]}}

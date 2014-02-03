@@ -1,1 +1,0 @@
-{"ID":"R10093","name":"ATP:isopentenyl phosphate phosphotransferase","definition":"ATP + Isopentenyl phosphate <=> ADP + Isopentenyl diphosphate","enzyme":"2.7.4.26","equation":"C00002 + C20345 <=> C00008 + C00129","reactants":{"compounds":["C00002","C20345"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00129"],"coefficients":[1,1]}}

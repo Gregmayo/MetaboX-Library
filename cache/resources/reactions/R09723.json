@@ -1,1 +1,0 @@
-{"ID":"R09723","name":"beta-D-glucopyranosyl abscisate glucohydrolase","definition":"Abscisic acid glucose ester + H2O <=> D-Glucose + Abscisate","enzyme":"3.2.1.175","equation":"C15970 + C00001 <=> C00031 + C06082","reactants":{"compounds":["C15970","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00031","C06082"],"coefficients":[1,1]}}

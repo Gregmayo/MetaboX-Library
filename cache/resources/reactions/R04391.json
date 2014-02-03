@@ -1,1 +1,0 @@
-{"ID":"R04391","name":"ATP:pantothenate 4'-phosphotransferase","definition":"ATP + N-((R)-Pantothenoyl)-L-cysteine <=> ADP + (R)-4'-Phosphopantothenoyl-L-cysteine","enzyme":"2.7.1.33","equation":"C00002 + C04079 <=> C00008 + C04352","reactants":{"compounds":["C00002","C04079"],"coefficients":[1,1]},"products":{"compounds":["C00008","C04352"],"coefficients":[1,1]}}

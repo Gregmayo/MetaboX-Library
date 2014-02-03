@@ -1,1 +1,0 @@
-{"ID":"R06620","name":"D-glucose:ubiquinone oxidoreductase","definition":"D-Glucose + Ubiquinone <=> D-Glucono-1,5-lactone + Ubiquinol","enzyme":"1.1.5.2","equation":"C00031 + C00399 <=> C00198 + C00390","reactants":{"compounds":["C00031","C00399"],"coefficients":[1,1]},"products":{"compounds":["C00198","C00390"],"coefficients":[1,1]}}

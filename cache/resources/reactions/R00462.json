@@ -1,1 +1,0 @@
-{"ID":"R00462","name":"L-lysine carboxy-lyase (cadaverine-forming)","definition":"L-Lysine <=> Cadaverine + CO2","enzyme":"4.1.1.18","equation":"C00047 <=> C01672 + C00011","reactants":{"compounds":["C00047"],"coefficients":[1]},"products":{"compounds":["C01672","C00011"],"coefficients":[1,1]}}

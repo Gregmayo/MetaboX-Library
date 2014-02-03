@@ -1,1 +1,0 @@
-{"ID":"R02430","name":"ATP:erythritol 4-phosphotransferase","definition":"ATP + Erythritol <=> ADP + D-Erythritol 4-phosphate","enzyme":"2.7.1.27","equation":"C00002 + C00503 <=> C00008 + C03494","reactants":{"compounds":["C00002","C00503"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03494"],"coefficients":[1,1]}}

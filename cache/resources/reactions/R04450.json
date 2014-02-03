@@ -1,1 +1,0 @@
-{"ID":"R04450","name":"[Citrate-(pro-3S)-lyase](acetyl-form) hydrolase","definition":"Citrate (pro-3S)-lyase (acetyl form) + H2O <=> Citrate (pro-3S)-lyase (thiol form) + Acetate","enzyme":"3.1.2.16","equation":"C04334 + C00001 <=> C04298 + C00033","reactants":{"compounds":["C04334","C00001"],"coefficients":[1,1]},"products":{"compounds":["C04298","C00033"],"coefficients":[1,1]}}

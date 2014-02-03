@@ -1,1 +1,0 @@
-{"ID":"R00299","name":"ATP:D-glucose 6-phosphotransferase","definition":"ATP + D-Glucose <=> ADP + D-Glucose 6-phosphate","enzyme":"2.7.1.1","equation":"C00002 + C00031 <=> C00008 + C00092","reactants":{"compounds":["C00002","C00031"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00092"],"coefficients":[1,1]}}

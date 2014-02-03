@@ -1,1 +1,0 @@
-{"ID":"R00953","name":"3-beta-D-glucosyl-D-glucose:phosphate alpha-D-glucosyltransferase","definition":"Laminaribiose + Orthophosphate <=> D-Glucose + D-Glucose 1-phosphate","enzyme":"2.4.1.31","equation":"C02048 + C00009 <=> C00031 + C00103","reactants":{"compounds":["C02048","C00009"],"coefficients":[1,1]},"products":{"compounds":["C00031","C00103"],"coefficients":[1,1]}}

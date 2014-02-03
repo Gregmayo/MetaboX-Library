@@ -1,1 +1,0 @@
-{"ID":"R06893","name":"aryl-ester hydrolase","definition":"4-Hydroxyphenyl acetate + H2O <=> Hydroquinone + Acetate","enzyme":"3.1.1.2","equation":"C13636 + C00001 <=> C00530 + C00033","reactants":{"compounds":["C13636","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00530","C00033"],"coefficients":[1,1]}}

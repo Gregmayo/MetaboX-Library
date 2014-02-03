@@ -1,1 +1,0 @@
-{"ID":"R06105","name":"","definition":"Cellotriose + H2O <=> Cellobiose + D-Glucose","enzyme":"3.2.1.74","equation":"C00001 <=> G00289 + C00031","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["G00289","C00031"],"coefficients":[1,1]}}

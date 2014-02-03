@@ -1,1 +1,0 @@
-{"ID":"R03762","name":"biotin:CoA ligase (AMP-forming)","definition":"Biotinyl-5'-AMP + CoA <=> AMP + Biotinyl-CoA","enzyme":"6.2.1.11","equation":"C05921 + C00010 <=> C00020 + C01894","reactants":{"compounds":["C05921","C00010"],"coefficients":[1,1]},"products":{"compounds":["C00020","C01894"],"coefficients":[1,1]}}

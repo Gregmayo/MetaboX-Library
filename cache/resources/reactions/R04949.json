@@ -1,1 +1,0 @@
-{"ID":"R04949","name":"Cyanoglycoside glucohydrolase","definition":"Cyanoglycoside + H2O <=> Cyanohydrin + D-Glucose","enzyme":"3.2.1.21","equation":"C05713 + C00001 <=> C05712 + C00031","reactants":{"compounds":["C05713","C00001"],"coefficients":[1,1]},"products":{"compounds":["C05712","C00031"],"coefficients":[1,1]}}

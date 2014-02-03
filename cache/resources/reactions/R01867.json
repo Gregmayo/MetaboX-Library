@@ -1,1 +1,0 @@
-{"ID":"R01867","name":"(S)-dihydroorotate:fumarate oxidoreductase","definition":"(S)-Dihydroorotate + Fumarate <=> Orotate + Succinate","enzyme":"1.3.98.1","equation":"C00337 + C00122 <=> C00295 + C00042","reactants":{"compounds":["C00337","C00122"],"coefficients":[1,1]},"products":{"compounds":["C00295","C00042"],"coefficients":[1,1]}}

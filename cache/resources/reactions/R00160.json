@@ -1,1 +1,0 @@
-{"ID":"R00160","name":"FAD nucleotidohydrolase","definition":"FAD + H2O <=> AMP + FMN","enzyme":"3.6.1.9","equation":"C00016 + C00001 <=> C00020 + C00061","reactants":{"compounds":["C00016","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00020","C00061"],"coefficients":[1,1]}}

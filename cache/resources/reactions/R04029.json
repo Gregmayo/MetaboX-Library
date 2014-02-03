@@ -1,1 +1,0 @@
-{"ID":"R04029","name":"N6-Acetyl-L-lysine:2-oxoglutarate aminotransferase","definition":"N6-Acetyl-L-lysine + 2-Oxoglutarate <=> 6-Acetamido-2-oxohexanoate + L-Glutamate","enzyme":"2.6.1.65","equation":"C02727 + C00026 <=> C05548 + C00025","reactants":{"compounds":["C02727","C00026"],"coefficients":[1,1]},"products":{"compounds":["C05548","C00025"],"coefficients":[1,1]}}

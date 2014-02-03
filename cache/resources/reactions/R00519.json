@@ -1,1 +1,0 @@
-{"ID":"R00519","name":"Formate:NAD+ oxidoreductase","definition":"Formate + NAD+ <=> H+ + CO2 + NADH","enzyme":"1.2.1.2","equation":"C00058 + C00003 <=> C00080 + C00011 + C00004","reactants":{"compounds":["C00058","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00080","C00011","C00004"],"coefficients":[1,1,1]}}

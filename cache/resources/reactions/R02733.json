@@ -1,1 +1,0 @@
-{"ID":"R02733","name":"N6-Acetyl-LL-2,6-diaminoheptanedioate amidohydrolase","definition":"N6-Acetyl-LL-2,6-diaminoheptanedioate + H2O <=> Acetate + LL-2,6-Diaminoheptanedioate","enzyme":"3.5.1.47","equation":"C04390 + C00001 <=> C00033 + C00666","reactants":{"compounds":["C04390","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00666"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R03359","name":"1-(4-Hydroxyphenyl)-2-(methylamino)ethanol hydro-lyase","definition":"Synephrine <=> 4-Hydroxyphenylacetaldehyde + Methylamine","enzyme":"4.2.1.88","equation":"C04548 <=> C03765 + C00218","reactants":{"compounds":["C04548"],"coefficients":[1]},"products":{"compounds":["C03765","C00218"],"coefficients":[1,1]}}

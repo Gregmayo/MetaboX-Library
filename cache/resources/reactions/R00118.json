@@ -1,1 +1,0 @@
-{"ID":"R00118","name":"NADP+ 2'-phosphohydrolase","definition":"NADP+ + H2O <=> Orthophosphate + NAD+","enzyme":null,"equation":"C00006 + C00001 <=> C00009 + C00003","reactants":{"compounds":["C00006","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00009","C00003"],"coefficients":[1,1]}}

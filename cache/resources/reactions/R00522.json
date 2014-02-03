@@ -1,1 +1,0 @@
-{"ID":"R00522","name":"Oxalate carboxy-lyase","definition":"Oxalate <=> Formate + CO2","enzyme":"4.1.1.2","equation":"C00209 <=> C00058 + C00011","reactants":{"compounds":["C00209"],"coefficients":[1]},"products":{"compounds":["C00058","C00011"],"coefficients":[1,1]}}

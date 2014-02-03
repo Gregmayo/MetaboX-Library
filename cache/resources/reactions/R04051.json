@@ -1,1 +1,0 @@
-{"ID":"R04051","name":"","definition":"3-Phosphonopyruvate + L-Glutamate <=> 2-Amino-3-phosphonopropanoate + 2-Oxoglutarate","enzyme":null,"equation":"C02798 + C00025 <=> C05672 + C00026","reactants":{"compounds":["C02798","C00025"],"coefficients":[1,1]},"products":{"compounds":["C05672","C00026"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R09185","name":"","definition":"cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate <=> 10-Oxabenzo[def]chrysen-9-one + Formate","enzyme":null,"equation":"C18272 <=> C18281 + C00058","reactants":{"compounds":["C18272"],"coefficients":[1]},"products":{"compounds":["C18281","C00058"],"coefficients":[1,1]}}

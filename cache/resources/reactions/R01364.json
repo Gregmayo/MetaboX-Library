@@ -1,1 +1,0 @@
-{"ID":"R01364","name":"4-fumarylacetoacetate fumarylhydrolase","definition":"Acetoacetate + Fumarate <=> 4-Fumarylacetoacetate + H2O","enzyme":"3.7.1.2","equation":"C00164 + C00122 <=> C01061 + C00001","reactants":{"compounds":["C00164","C00122"],"coefficients":[1,1]},"products":{"compounds":["C01061","C00001"],"coefficients":[1,1]}}

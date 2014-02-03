@@ -1,1 +1,0 @@
-{"ID":"R03935","name":"beta-Alanyl-L-arginine hydrolase","definition":"beta-Alanyl-L-arginine + H2O <=> beta-Alanine + Amino acid(Arg-)","enzyme":"3.4.13.4","equation":"C05340 + C00001 <=> C00099 + C02385","reactants":{"compounds":["C05340","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00099","C02385"],"coefficients":[1,1]}}

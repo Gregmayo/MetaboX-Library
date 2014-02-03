@@ -1,1 +1,0 @@
-{"ID":"R00157","name":"Uridine triphosphate:AMP phosphotransferase","definition":"UTP + AMP <=> UDP + ADP","enzyme":"2.7.4.10","equation":"C00075 + C00020 <=> C00015 + C00008","reactants":{"compounds":["C00075","C00020"],"coefficients":[1,1]},"products":{"compounds":["C00015","C00008"],"coefficients":[1,1]}}

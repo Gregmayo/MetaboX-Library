@@ -1,1 +1,0 @@
-{"ID":"R02575","name":"ATP:guanidoacetate N-phosphotransferase","definition":"ATP + Guanidinoacetate <=> ADP + Phosphoguanidinoacetate","enzyme":"2.7.3.1","equation":"C00002 + C00581 <=> C00008 + C03166","reactants":{"compounds":["C00002","C00581"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03166"],"coefficients":[1,1]}}

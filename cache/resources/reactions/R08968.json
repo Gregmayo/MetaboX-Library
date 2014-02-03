@@ -1,1 +1,0 @@
-{"ID":"R08968","name":"ATP:N-acetyl-D-glucosamine 1-phosphotransferase","definition":"N-Acetyl-D-glucosamine + ATP <=> N-Acetyl-alpha-D-glucosamine 1-phosphate + ADP","enzyme":"2.7.1.162","equation":"C00140 + C00002 <=> C04501 + C00008","reactants":{"compounds":["C00140","C00002"],"coefficients":[1,1]},"products":{"compounds":["C04501","C00008"],"coefficients":[1,1]}}

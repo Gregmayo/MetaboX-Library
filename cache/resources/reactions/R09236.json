@@ -1,1 +1,0 @@
-{"ID":"R09236","name":"","definition":"2-Hydroxy-5-methylquinone + NADH + H+ <=> 2,4,5-Trihydroxytoluene + NAD+","enzyme":null,"equation":"C18316 + C00004 + C00080 <=> C18317 + C00003","reactants":{"compounds":["C18316","C00004","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C18317","C00003"],"coefficients":[1,1]}}

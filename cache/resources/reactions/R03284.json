@@ -1,1 +1,0 @@
-{"ID":"R03284","name":"","definition":"4-Trimethylammoniobutanal + Glycine <=> 3-Hydroxy-N6,N6,N6-trimethyl-L-lysine","enzyme":null,"equation":"C01149 + C00037 <=> C01259","reactants":{"compounds":["C01149","C00037"],"coefficients":[1,1]},"products":{"compounds":["C01259"],"coefficients":[1]}}

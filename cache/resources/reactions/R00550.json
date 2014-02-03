@@ -1,1 +1,0 @@
-{"ID":"R00550","name":"D-Glucose-1-phosphate:riboflavin 5'-phosphotransferase","definition":"D-Glucose 1-phosphate + Riboflavin <=> D-Glucose + FMN","enzyme":"2.7.1.42","equation":"C00103 + C00255 <=> C00031 + C00061","reactants":{"compounds":["C00103","C00255"],"coefficients":[1,1]},"products":{"compounds":["C00031","C00061"],"coefficients":[1,1]}}

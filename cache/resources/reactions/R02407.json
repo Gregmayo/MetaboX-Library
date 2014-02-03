@@ -1,1 +1,0 @@
-{"ID":"R02407","name":"Succinyl-CoA:citramalate CoA-transferase","definition":"Succinyl-CoA + Itaconate <=> Succinate + Itaconyl-CoA","enzyme":"2.8.3.7","equation":"C00091 + C00490 <=> C00042 + C00531","reactants":{"compounds":["C00091","C00490"],"coefficients":[1,1]},"products":{"compounds":["C00042","C00531"],"coefficients":[1,1]}}

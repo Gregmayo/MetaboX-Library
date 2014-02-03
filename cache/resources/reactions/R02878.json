@@ -1,1 +1,0 @@
-{"ID":"R02878","name":"1-Octanol:NAD+ oxidoreductase","definition":"1-Octanol + NAD+ <=> 1-Octanal + NADH + H+","enzyme":"1.1.1.1","equation":"C00756 + C00003 <=> C01545 + C00004 + C00080","reactants":{"compounds":["C00756","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01545","C00004","C00080"],"coefficients":[1,1,1]}}

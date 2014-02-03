@@ -1,1 +1,0 @@
-{"ID":"R09228","name":"","definition":"Phthalate 3,4-cis-dihydrodiol + NAD+ <=> 3,4-Dihydroxyphthalate + NADH + H+","enzyme":null,"equation":"C18314 + C00003 <=> C03223 + C00004 + C00080","reactants":{"compounds":["C18314","C00003"],"coefficients":[1,1]},"products":{"compounds":["C03223","C00004","C00080"],"coefficients":[1,1,1]}}

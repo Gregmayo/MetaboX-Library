@@ -1,1 +1,0 @@
-{"ID":"R05435","name":"","definition":"Fluoren-9-one + Oxygen + 2 NADH <=> 3,4-Dihydroxy-3,4-dihydro-9-fluorenone + 2 NAD+","enzyme":null,"equation":"C06712 + C00007 + 2 C00004 <=> C07722 + 2 C00003","reactants":{"compounds":["C06712","C00007","C00004"],"coefficients":[1,1,2]},"products":{"compounds":["C07722","C00003"],"coefficients":[1,2]}}

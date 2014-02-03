@@ -1,1 +1,0 @@
-{"ID":"R00331","name":"ATP:nucleoside-diphosphate phosphotransferase","definition":"ATP + NDP <=> ADP + Nucleoside triphosphate","enzyme":"2.7.4.6","equation":"C00002 + C00454 <=> C00008 + C00201","reactants":{"compounds":["C00002","C00454"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00201"],"coefficients":[1,1]}}

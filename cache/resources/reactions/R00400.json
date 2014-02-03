@@ -1,1 +1,0 @@
-{"ID":"R00400","name":"L-alanine:oxaloacetate aminotransferase","definition":"L-Alanine + Oxaloacetate <=> Pyruvate + L-Aspartate","enzyme":"2.6.1.12","equation":"C00041 + C00036 <=> C00022 + C00049","reactants":{"compounds":["C00041","C00036"],"coefficients":[1,1]},"products":{"compounds":["C00022","C00049"],"coefficients":[1,1]}}

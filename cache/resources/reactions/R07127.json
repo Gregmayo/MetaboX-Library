@@ -1,1 +1,0 @@
-{"ID":"R07127","name":"ATP:3-dehydro-L-gulonate 6-phosphotransferase","definition":"3-Dehydro-L-gulonate + ATP <=> 3-Dehydro-L-gulonate 6-phosphate + ADP","enzyme":"2.7.1.53","equation":"C00618 + C00002 <=> C14899 + C00008","reactants":{"compounds":["C00618","C00002"],"coefficients":[1,1]},"products":{"compounds":["C14899","C00008"],"coefficients":[1,1]}}

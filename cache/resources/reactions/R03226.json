@@ -1,1 +1,0 @@
-{"ID":"R03226","name":"16alpha-Hydroxysteroid:NAD+ 16-oxidoreductase","definition":"16alpha-Hydroxysteroid + NAD+ <=> 16-Oxosteroid + NADH + H+","enzyme":"1.1.1.147","equation":"C01090 + C00003 <=> C01986 + C00004 + C00080","reactants":{"compounds":["C01090","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01986","C00004","C00080"],"coefficients":[1,1,1]}}

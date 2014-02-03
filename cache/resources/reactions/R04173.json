@@ -1,1 +1,0 @@
-{"ID":"R04173","name":"3-Phosphoserine:2-oxoglutarate aminotransferase","definition":"O-Phospho-L-serine + 2-Oxoglutarate <=> 3-Phosphonooxypyruvate + L-Glutamate","enzyme":"2.6.1.52","equation":"C01005 + C00026 <=> C03232 + C00025","reactants":{"compounds":["C01005","C00026"],"coefficients":[1,1]},"products":{"compounds":["C03232","C00025"],"coefficients":[1,1]}}

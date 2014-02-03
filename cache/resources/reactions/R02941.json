@@ -1,1 +1,0 @@
-{"ID":"R02941","name":"salicylaldehyde:NAD+ oxidoreductase","definition":"Salicylaldehyde + NAD+ + H2O <=> Salicylate + NADH + H+","enzyme":"1.2.1.65","equation":"C06202 + C00003 + C00001 <=> C00805 + C00004 + C00080","reactants":{"compounds":["C06202","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00805","C00004","C00080"],"coefficients":[1,1,1]}}

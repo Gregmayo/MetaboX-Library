@@ -1,1 +1,0 @@
-{"ID":"R00672","name":"ornithine racemase","definition":"L-Ornithine <=> D-Ornithine","enzyme":"5.1.1.9","equation":"C00077 <=> C00515","reactants":{"compounds":["C00077"],"coefficients":[1]},"products":{"compounds":["C00515"],"coefficients":[1]}}

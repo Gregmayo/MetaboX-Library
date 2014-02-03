@@ -1,1 +1,0 @@
-{"ID":"R01255","name":"proline racemase","definition":"L-Proline <=> D-Proline","enzyme":"5.1.1.4","equation":"C00148 <=> C00763","reactants":{"compounds":["C00148"],"coefficients":[1]},"products":{"compounds":["C00763"],"coefficients":[1]}}

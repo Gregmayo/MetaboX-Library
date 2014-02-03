@@ -1,1 +1,0 @@
-{"ID":"R00567","name":"arginine racemase","definition":"L-Arginine <=> D-Arginine","enzyme":"5.1.1.9","equation":"C00062 <=> C00792","reactants":{"compounds":["C00062"],"coefficients":[1]},"products":{"compounds":["C00792"],"coefficients":[1]}}

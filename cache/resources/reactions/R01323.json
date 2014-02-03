@@ -1,1 +1,0 @@
-{"ID":"R01323","name":"Acetyl-CoA:citrate CoA-transferase","definition":"Acetyl-CoA + Citrate <=> Acetate + (3S)-Citryl-CoA","enzyme":"2.8.3.10","equation":"C00024 + C00158 <=> C00033 + C00566","reactants":{"compounds":["C00024","C00158"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00566"],"coefficients":[1,1]}}

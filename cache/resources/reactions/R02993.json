@@ -1,1 +1,0 @@
-{"ID":"R02993","name":"","definition":"4-Pyridoxate + NAD+ <=> 2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate + NADH + H+","enzyme":null,"equation":"C00847 + C00003 <=> C06050 + C00004 + C00080","reactants":{"compounds":["C00847","C00003"],"coefficients":[1,1]},"products":{"compounds":["C06050","C00004","C00080"],"coefficients":[1,1,1]}}

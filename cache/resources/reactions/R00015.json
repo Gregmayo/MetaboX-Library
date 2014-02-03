@@ -1,1 +1,0 @@
-{"ID":"R00015","name":"sucrose:sucrose 1'-beta-D-fructosyltransferase","definition":"2 Sucrose <=> D-Glucose + 1F-beta-D-Fructosylsucrose","enzyme":"2.4.1.99","equation":"2 C00089 <=> C00031 + C03661","reactants":{"compounds":["C00089"],"coefficients":[2]},"products":{"compounds":["C00031","C03661"],"coefficients":[1,1]}}

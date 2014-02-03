@@ -1,1 +1,0 @@
-{"ID":"R08823","name":"1-O-feruloyl-beta-D-glucose:betanin feruloyltransferase","definition":"Betanin + 1-O-Feruloyl-beta-D-glucose <=> Lampranthin II + D-Glucose","enzyme":null,"equation":"C08540 + C17759 <=> C08552 + C00031","reactants":{"compounds":["C08540","C17759"],"coefficients":[1,1]},"products":{"compounds":["C08552","C00031"],"coefficients":[1,1]}}

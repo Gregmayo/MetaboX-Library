@@ -1,1 +1,0 @@
-{"ID":"R00809","name":"UDP-alpha-D-galactose:sucrose 6F-alpha-D-galactosyltransferase","definition":"UDP-alpha-D-galactose + Sucrose <=> UDP + 6F-alpha-D-Galactosylsucrose","enzyme":"2.4.1.167","equation":"C00052 + C00089 <=> C00015 + C03848","reactants":{"compounds":["C00052","C00089"],"coefficients":[1,1]},"products":{"compounds":["C00015","C03848"],"coefficients":[1,1]}}

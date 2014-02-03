@@ -1,1 +1,0 @@
-{"ID":"R01684","name":"taurine:2-oxoglutarate aminotransferase","definition":"Taurine + 2-Oxoglutarate <=> Sulfoacetaldehyde + L-Glutamate","enzyme":"2.6.1.55","equation":"C00245 + C00026 <=> C00593 + C00025","reactants":{"compounds":["C00245","C00026"],"coefficients":[1,1]},"products":{"compounds":["C00593","C00025"],"coefficients":[1,1]}}

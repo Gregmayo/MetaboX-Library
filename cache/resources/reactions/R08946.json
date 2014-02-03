@@ -1,1 +1,0 @@
-{"ID":"R08946","name":"ADP-glucose: D-glucose 1-alpha-D-glucosyltransferase","definition":"ADP-glucose + D-Glucose <=> alpha,alpha-Trehalose + ADP","enzyme":"2.4.1.245","equation":"C00498 + C00031 <=> C01083 + C00008","reactants":{"compounds":["C00498","C00031"],"coefficients":[1,1]},"products":{"compounds":["C01083","C00008"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R04242","name":"tetrahydropteroyl-poly-gamma-glutamate gamma-glutamylhydrolase","definition":"Tetrahydrofolyl-[Glu](n) + n H2O <=> Tetrahydrofolate + n L-Glutamate","enzyme":"3.4.19.9","equation":"C03541 + n C00001 <=> C00101 + n C00025","reactants":{"compounds":["C03541","C00001"],"coefficients":[1,0]},"products":{"compounds":["C00101","C00025"],"coefficients":[1,0]}}

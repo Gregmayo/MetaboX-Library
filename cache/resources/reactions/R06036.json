@@ -1,1 +1,0 @@
-{"ID":"R06036","name":"UDP-glucose:D-fructose 2-alpha-D-glucosyltransferase","definition":"UDP-D-glucose + D-Fructose <=> Neohancoside D + UDP","enzyme":"2.4.1.13","equation":"C00095 <=> G00370 + G10619","reactants":{"compounds":["C00095"],"coefficients":[1]},"products":{"compounds":["G00370","G10619"],"coefficients":[1,1]}}

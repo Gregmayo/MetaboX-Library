@@ -1,1 +1,0 @@
-{"ID":"R08676","name":"ADP-glucose:D-fructose 2-alpha-D-glucosyltransferase","definition":"ADP + Sucrose <=> ADP-glucose + D-Fructose","enzyme":"2.4.1.13","equation":"C00008 + C00089 <=> C00498 + C00095","reactants":{"compounds":["C00008","C00089"],"coefficients":[1,1]},"products":{"compounds":["C00498","C00095"],"coefficients":[1,1]}}

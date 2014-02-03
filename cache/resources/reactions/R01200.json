@@ -1,1 +1,0 @@
-{"ID":"R01200","name":"N-Acetyl-D-glucosamine amidohydrolase","definition":"N-Acetyl-D-glucosamine + H2O <=> D-Glucosamine + Acetate","enzyme":"3.5.1.33","equation":"C00140 + C00001 <=> C00329 + C00033","reactants":{"compounds":["C00140","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00329","C00033"],"coefficients":[1,1]}}

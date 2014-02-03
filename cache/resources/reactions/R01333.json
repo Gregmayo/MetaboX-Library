@@ -1,1 +1,0 @@
-{"ID":"R01333","name":"glycolaldehyde:NAD+ oxidoreductase","definition":"Glycolaldehyde + NAD+ + H2O <=> Glycolate + NADH + H+","enzyme":"1.2.1.21","equation":"C00266 + C00003 + C00001 <=> C00160 + C00004 + C00080","reactants":{"compounds":["C00266","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00160","C00004","C00080"],"coefficients":[1,1,1]}}

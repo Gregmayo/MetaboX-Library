@@ -1,1 +1,0 @@
-{"ID":"R03766","name":"ATP:D-hamamelose 2'-phosphotransferase","definition":"ATP + D-Hamamelose <=> ADP + D-Hamamelose 2(1)-phosphate","enzyme":"2.7.1.102","equation":"C00002 + C01906 <=> C00008 + C03606","reactants":{"compounds":["C00002","C01906"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03606"],"coefficients":[1,1]}}

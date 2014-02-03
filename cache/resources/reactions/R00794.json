@@ -1,1 +1,0 @@
-{"ID":"R00794","name":"nitrite:NAD+ oxidoreductase","definition":"Nitrite + NAD+ + H2O <=> Nitrate + NADH + H+","enzyme":"1.7.1.2","equation":"C00088 + C00003 + C00001 <=> C00244 + C00004 + C00080","reactants":{"compounds":["C00088","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00244","C00004","C00080"],"coefficients":[1,1,1]}}

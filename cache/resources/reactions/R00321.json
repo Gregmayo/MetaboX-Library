@@ -1,1 +1,0 @@
-{"ID":"R00321","name":"Acetamide amidohydrolase","definition":"Acetamide + H2O <=> Acetate + Ammonia","enzyme":"3.5.1.4","equation":"C06244 + C00001 <=> C00033 + C00014","reactants":{"compounds":["C06244","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00033","C00014"],"coefficients":[1,1]}}

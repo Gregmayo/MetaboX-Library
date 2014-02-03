@@ -1,1 +1,0 @@
-{"ID":"R09235","name":"","definition":"4-Amino-2-nitrotoluene + 3 NADH + 3 H+ <=> 2,4-Diaminotoluene + 3 NAD+ + 2 H2O","enzyme":null,"equation":"C18320 + 3 C00004 + 3 C00080 <=> C14401 + 3 C00003 + 2 C00001","reactants":{"compounds":["C18320","C00004","C00080"],"coefficients":[1,3,3]},"products":{"compounds":["C14401","C00003","C00001"],"coefficients":[1,3,2]}}

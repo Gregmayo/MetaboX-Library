@@ -1,1 +1,0 @@
-{"ID":"R01754","name":"ATP:L-arabinose 1-phosphotransferase","definition":"ATP + L-Arabinose <=> ADP + beta-L-Arabinose 1-phosphate","enzyme":"2.7.1.46","equation":"C00002 + C00259 <=> C00008 + C03906","reactants":{"compounds":["C00002","C00259"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03906"],"coefficients":[1,1]}}

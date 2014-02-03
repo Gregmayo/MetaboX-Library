@@ -1,1 +1,0 @@
-{"ID":"R04123","name":"Transferrin[Fe(II)]2:NAD+ oxidoreductase","definition":"Transferrin[Fe(II)]2 + NAD+ + H+ <=> Transferrin[Fe(III)]2 + NADH","enzyme":"1.16.1.2","equation":"C03029 + C00003 + C00080 <=> C03179 + C00004","reactants":{"compounds":["C03029","C00003","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C03179","C00004"],"coefficients":[1,1]}}

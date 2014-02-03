@@ -1,1 +1,0 @@
-{"ID":"R00342","name":"(S)-malate:NAD+ oxidoreductase","definition":"(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+","enzyme":"1.1.1.37","equation":"C00149 + C00003 <=> C00036 + C00004 + C00080","reactants":{"compounds":["C00149","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00036","C00004","C00080"],"coefficients":[1,1,1]}}

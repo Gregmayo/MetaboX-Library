@@ -1,1 +1,0 @@
-{"ID":"R01267","name":"L-asparagine hydro-lyase (3-cyanoalanine-forming)","definition":"L-Asparagine <=> 3-Cyano-L-alanine + H2O","enzyme":"3.5.5.4","equation":"C00152 <=> C02512 + C00001","reactants":{"compounds":["C00152"],"coefficients":[1]},"products":{"compounds":["C02512","C00001"],"coefficients":[1,1]}}

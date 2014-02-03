@@ -1,1 +1,0 @@
-{"ID":"R07377","name":"","definition":"Phosphatidylcholine + L-Serine <=> Phosphatidylserine + Choline","enzyme":null,"equation":"C00157 + C00065 <=> C02737 + C00114","reactants":{"compounds":["C00157","C00065"],"coefficients":[1,1]},"products":{"compounds":["C02737","C00114"],"coefficients":[1,1]}}

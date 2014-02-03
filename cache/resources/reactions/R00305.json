@@ -1,1 +1,0 @@
-{"ID":"R00305","name":"D-glucose:quinone 1-oxidoreductase","definition":"D-Glucose + Quinone <=> D-Glucono-1,5-lactone + Hydroquinone","enzyme":"1.1.5.9","equation":"C00031 + C15602 <=> C00198 + C15603","reactants":{"compounds":["C00031","C15602"],"coefficients":[1,1]},"products":{"compounds":["C00198","C15603"],"coefficients":[1,1]}}

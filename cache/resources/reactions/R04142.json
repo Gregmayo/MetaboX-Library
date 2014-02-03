@@ -1,1 +1,0 @@
-{"ID":"R04142","name":"","definition":"5-Acetamidopentanoate + NADH + H+ + CO2 <=> 6-Acetamido-2-oxohexanoate + NAD+ + H2O","enzyme":null,"equation":"C03087 + C00004 + C00080 + C00011 <=> C05548 + C00003 + C00001","reactants":{"compounds":["C03087","C00004","C00080","C00011"],"coefficients":[1,1,1,1]},"products":{"compounds":["C05548","C00003","C00001"],"coefficients":[1,1,1]}}

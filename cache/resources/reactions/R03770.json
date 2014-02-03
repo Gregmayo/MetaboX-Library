@@ -1,1 +1,0 @@
-{"ID":"R03770","name":"ATP:hygromycin-B 7''-O-phosphotransferase","definition":"ATP + Hygromycin B <=> ADP + 7''-O-Phosphohygromycin","enzyme":"2.7.1.119","equation":"C00002 + C01925 <=> C00008 + C03368","reactants":{"compounds":["C00002","C01925"],"coefficients":[1,1]},"products":{"compounds":["C00008","C03368"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00837","name":"alpha,alpha-Trehalose-6-phosphate phosphoglucohydrolase","definition":"H2O + alpha,alpha'-Trehalose 6-phosphate <=> D-Glucose + D-Glucose 6-phosphate","enzyme":"3.2.1.93","equation":"C00001 + C00689 <=> C00031 + C00092","reactants":{"compounds":["C00001","C00689"],"coefficients":[1,1]},"products":{"compounds":["C00031","C00092"],"coefficients":[1,1]}}

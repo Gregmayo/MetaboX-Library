@@ -1,1 +1,0 @@
-{"ID":"R03975","name":"Glycochenodeoxycholate amidohydrolase","definition":"Glycochenodeoxycholate + H2O <=> Chenodeoxycholate + Glycine","enzyme":"3.5.1.24","equation":"C05466 + C00001 <=> C02528 + C00037","reactants":{"compounds":["C05466","C00001"],"coefficients":[1,1]},"products":{"compounds":["C02528","C00037"],"coefficients":[1,1]}}

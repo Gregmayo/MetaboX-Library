@@ -1,1 +1,0 @@
-{"ID":"R00454","name":"acetyl-CoA:L-lysine N6-acetyltransferase","definition":"L-Lysine + Acetyl-CoA <=> N6-Acetyl-L-lysine + CoA","enzyme":null,"equation":"C00047 + C00024 <=> C02727 + C00010","reactants":{"compounds":["C00047","C00024"],"coefficients":[1,1]},"products":{"compounds":["C02727","C00010"],"coefficients":[1,1]}}

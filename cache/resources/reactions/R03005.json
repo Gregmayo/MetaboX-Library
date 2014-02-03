@@ -1,1 +1,0 @@
-{"ID":"R03005","name":"ATP:nicotinamide-nucleotide adenylyltransferase","definition":"ATP + Nicotinate D-ribonucleotide <=> Diphosphate + Deamino-NAD+","enzyme":"2.7.7.1","equation":"C00002 + C01185 <=> C00013 + C00857","reactants":{"compounds":["C00002","C01185"],"coefficients":[1,1]},"products":{"compounds":["C00013","C00857"],"coefficients":[1,1]}}

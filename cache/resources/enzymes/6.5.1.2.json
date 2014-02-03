@@ -1,1 +1,0 @@
-{"ID":"6.5.1.2","name":"DNA ligase (NAD+)","class":"Ligases","sysname":"poly(deoxyribonucleotide):poly(deoxyribonucleotide) ligase (AMP-forming, NMN-forming)","reference":"1  [PMID:4291949]","reaction":{"0":"R00382","2":"R20291"}}

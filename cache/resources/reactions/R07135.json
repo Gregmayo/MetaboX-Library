@@ -1,1 +1,0 @@
-{"ID":"R07135","name":"mannitol:NAD+ 1-oxidoreductase","definition":"Mannitol + NAD+ <=> D-Mannose + NADH + H+","enzyme":"1.1.1.255","equation":"C00392 + C00003 <=> C00159 + C00004 + C00080","reactants":{"compounds":["C00392","C00003"],"coefficients":[1,1]},"products":{"compounds":["C00159","C00004","C00080"],"coefficients":[1,1,1]}}

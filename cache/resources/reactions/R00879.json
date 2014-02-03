@@ -1,1 +1,0 @@
-{"ID":"R00879","name":"beta-D-Fructan fructohydrolase","definition":"Fructan(n+1) + H2O <=> D-Fructose + Fructan(n)","enzyme":"3.2.1.80","equation":"C00001 <=> C00095 + C01355(n)","reactants":{"compounds":["C00001"],"coefficients":[1]},"products":{"compounds":["C00095","C01355"],"coefficients":[1,1]}}

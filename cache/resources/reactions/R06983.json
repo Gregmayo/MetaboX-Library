@@ -1,1 +1,0 @@
-{"ID":"R06983","name":"S-(hydroxymethyl)glutathione dehydrogenase","definition":"S-(Hydroxymethyl)glutathione + NAD+ <=> S-Formylglutathione + NADH + H+","enzyme":"1.1.1.284","equation":"C14180 + C00003 <=> C01031 + C00004 + C00080","reactants":{"compounds":["C14180","C00003"],"coefficients":[1,1]},"products":{"compounds":["C01031","C00004","C00080"],"coefficients":[1,1,1]}}

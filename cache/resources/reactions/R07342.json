@@ -1,1 +1,0 @@
-{"ID":"R07342","name":"aryl-ester hydrolase","definition":"Phenyl acetate + H2O <=> Phenol + Acetate","enzyme":"3.1.1.2","equation":"C15583 + C00001 <=> C15584 + C00033","reactants":{"compounds":["C15583","C00001"],"coefficients":[1,1]},"products":{"compounds":["C15584","C00033"],"coefficients":[1,1]}}

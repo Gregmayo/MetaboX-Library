@@ -1,1 +1,0 @@
-{"ID":"R05979","name":"","definition":"H2O + G00009 <=> D-Glucose + G00171","enzyme":"3.2.1.106","equation":"C00001 + G00009 <=> C00031 + G00171","reactants":{"compounds":["C00001","G00009"],"coefficients":[1,1]},"products":{"compounds":["C00031","G00171"],"coefficients":[1,1]}}

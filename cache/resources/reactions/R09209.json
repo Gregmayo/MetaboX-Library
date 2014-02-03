@@ -1,1 +1,0 @@
-{"ID":"R09209","name":"","definition":"Benzo[a]pyrene + NADH + H+ + Oxygen <=> Benzo[a]pyrene-cis-11,12-dihydrodiol + NAD+","enzyme":null,"equation":"C07535 + C00004 + C00080 + C00007 <=> C18284 + C00003","reactants":{"compounds":["C07535","C00004","C00080","C00007"],"coefficients":[1,1,1,1]},"products":{"compounds":["C18284","C00003"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R07104","name":"Chloral:NAD(P)+ oxidoreductase","definition":"Chloral hydrate + NAD+ <=> Trichloroacetate + NADH + H+","enzyme":"1.2.1.5","equation":"C06899 + C00003 <=> C11150 + C00004 + C00080","reactants":{"compounds":["C06899","C00003"],"coefficients":[1,1]},"products":{"compounds":["C11150","C00004","C00080"],"coefficients":[1,1,1]}}

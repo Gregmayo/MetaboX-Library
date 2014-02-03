@@ -1,1 +1,0 @@
-{"ID":"R01322","name":"Citrate:CoA ligase (ADP-forming)","definition":"ATP + Citrate + CoA <=> ADP + Orthophosphate + (3S)-Citryl-CoA","enzyme":"6.2.1.18","equation":"C00002 + C00158 + C00010 <=> C00008 + C00009 + C00566","reactants":{"compounds":["C00002","C00158","C00010"],"coefficients":[1,1,1]},"products":{"compounds":["C00008","C00009","C00566"],"coefficients":[1,1,1]}}

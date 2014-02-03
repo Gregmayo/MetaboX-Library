@@ -1,1 +1,0 @@
-{"ID":"R00665","name":"L-Citrulline N5-carbamoyldihydrolase","definition":"L-Citrulline + H2O <=> L-Ornithine + CO2 + Ammonia","enzyme":"3.5.1.20","equation":"C00327 + C00001 <=> C00077 + C00011 + C00014","reactants":{"compounds":["C00327","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00077","C00011","C00014"],"coefficients":[1,1,1]}}

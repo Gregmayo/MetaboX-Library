@@ -1,1 +1,0 @@
-{"ID":"R01550","name":"Propan-2-ol:NADP+ oxidoreductase","definition":"Acetone + NADPH + H+ <=> Propan-2-ol + NADP+","enzyme":"1.1.1.80","equation":"C00207 + C00005 + C00080 <=> C01845 + C00006","reactants":{"compounds":["C00207","C00005","C00080"],"coefficients":[1,1,1]},"products":{"compounds":["C01845","C00006"],"coefficients":[1,1]}}

@@ -1,1 +1,0 @@
-{"ID":"R00899","name":"L-cysteinylglycine dipeptidase","definition":"Cys-Gly + H2O <=> L-Cysteine + Glycine","enzyme":"3.4.11.1","equation":"C01419 + C00001 <=> C00097 + C00037","reactants":{"compounds":["C01419","C00001"],"coefficients":[1,1]},"products":{"compounds":["C00097","C00037"],"coefficients":[1,1]}}

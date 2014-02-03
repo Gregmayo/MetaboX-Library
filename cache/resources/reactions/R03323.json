@@ -1,1 +1,0 @@
-{"ID":"R03323","name":"1-O-Sinapoyl-beta-D-glucose:(S)-malate O-sinapoyltransferase","definition":"1-O-Sinapoyl-beta-D-glucose + (S)-Malate <=> D-Glucose + Sinapoyl malate","enzyme":"2.3.1.92","equation":"C01175 + C00149 <=> C00031 + C02887","reactants":{"compounds":["C01175","C00149"],"coefficients":[1,1]},"products":{"compounds":["C00031","C02887"],"coefficients":[1,1]}}

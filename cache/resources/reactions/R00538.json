@@ -1,1 +1,0 @@
-{"ID":"R00538","name":"Aldehyde:NAD+ oxidoreductase","definition":"Aldehyde + NAD+ + H2O <=> Carboxylate + NADH + H+","enzyme":"1.2.1.5","equation":"C00071 + C00003 + C00001 <=> C00060 + C00004 + C00080","reactants":{"compounds":["C00071","C00003","C00001"],"coefficients":[1,1,1]},"products":{"compounds":["C00060","C00004","C00080"],"coefficients":[1,1,1]}}

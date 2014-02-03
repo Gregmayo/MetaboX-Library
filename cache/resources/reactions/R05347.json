@@ -1,1 +1,0 @@
-{"ID":"R05347","name":"","definition":"3-Methylbenzyl alcohol + NAD+ <=> 3-Methylbenzaldehyde + NADH + H+","enzyme":"1.1.1.90","equation":"C07216 + C00003 <=> C07209 + C00004 + C00080","reactants":{"compounds":["C07216","C00003"],"coefficients":[1,1]},"products":{"compounds":["C07209","C00004","C00080"],"coefficients":[1,1,1]}}

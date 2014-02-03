@@ -1,1 +1,0 @@
-{"ID":"R01182","name":"ATP:myo-inositol 1-phosphotransferase","definition":"ATP + myo-Inositol <=> ADP + Inositol 1-phosphate","enzyme":"2.7.1.64","equation":"C00002 + C00137 <=> C00008 + C01177","reactants":{"compounds":["C00002","C00137"],"coefficients":[1,1]},"products":{"compounds":["C00008","C01177"],"coefficients":[1,1]}}

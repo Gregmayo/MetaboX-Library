@@ -1,1 +1,0 @@
-{"ID":"R06726","name":"","definition":"Retronecine + 2 L-Isoleucine <=> Senecionine","enzyme":null,"equation":"C06177 + 2 C00407 <=> C06176","reactants":{"compounds":["C06177","C00407"],"coefficients":[1,2]},"products":{"compounds":["C06176"],"coefficients":[1]}}

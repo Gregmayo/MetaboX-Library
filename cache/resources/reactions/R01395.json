@@ -1,1 +1,0 @@
-{"ID":"R01395","name":"ATP:carbamate phosphotransferase","definition":"ATP + Carbamate <=> ADP + Carbamoyl phosphate","enzyme":"2.7.2.2","equation":"C00002 + C01563 <=> C00008 + C00169","reactants":{"compounds":["C00002","C01563"],"coefficients":[1,1]},"products":{"compounds":["C00008","C00169"],"coefficients":[1,1]}}

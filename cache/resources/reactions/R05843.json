@@ -1,1 +1,0 @@
-{"ID":"R05843","name":"","definition":"Phenanthrene + NADH + H+ + Oxygen <=> (+)-cis-3,4-Dihydrophenanthrene-3,4-diol + NAD+","enzyme":null,"equation":"C11422 + C00004 + C00080 + C00007 <=> C04468 + C00003","reactants":{"compounds":["C11422","C00004","C00080","C00007"],"coefficients":[1,1,1,1]},"products":{"compounds":["C04468","C00003"],"coefficients":[1,1]}}
