@@ -120,6 +120,10 @@ function createCacheDirectories(){
 		mkdir(getFullpath() . 'cache/resources');
 	}
 	
+	if( !is_dir(getFullpath() . 'graphs') && !file_exists(getFullpath() . 'graphs') ){
+		mkdir(getFullpath() . 'graphs');
+	}
+	
 	$fullpath = getFullpath() . 'cache/resources/';
 	$directories = array('compounds', 'reactions', 'enzymes', 'pathways');
 	
