@@ -58,42 +58,47 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 		$_ec_size  = count($this->_ec_list);
 		$_cpd_size = !$compounds ? 0 : count($compounds);
 		
-		for( $i = 0; $i < $_ec_size; $i++ ){
-			$_i_enzyme    = $this->_ec_list[$i];
-			$_i_products = $this->_getReactionProducts($_i_enzyme->reaction);
+		foreach( $this->_ec_list as $A ){
+			$A_products = $this->_getReactionProducts($A->reaction);
 			
-			for( $j = $i + 1; $j < $_ec_size; $j++ ){
-				$_j_enzyme    = $this->_ec_list[$j];
-				$_j_reactants = $this->_getReactionSubstrates($_j_enzyme->reaction);
+			foreach( $this->_ec_list as $B ){
+				$B_reactants = $this->_getReactionSubstrates($B->reaction);
+
+				if( $A->ID != $B->ID ){
+				// ------------------				
+				if( count($A_products) > 0 && count($B_reactants) > 0 ){
+					if( $this->_connectNodes($A_products, $B_reactants) ){
 				
-				if( count($_i_products) > 0 && count($_j_reactants) > 0 ){
-					if( count(array_intersect($_i_products, $_j_reactants)) > 0 ){
-						$this->_global_graph['node_collection'][] = $_i_enzyme->ID;
-						$this->_global_graph['node_collection'][] = $_j_enzyme->ID;
+						// --------------------------
+						$this->_global_graph['node_collection'][] = $A->ID;
+						$this->_global_graph['node_collection'][] = $B->ID;
 						
-						$couple = $this->_getCouple($_i_enzyme, $_j_enzyme);
+						$couple = $this->_getCouple($A, $B);
 
 						$row = implode(',', $couple);
-						
 						$_all_edgelist[] = $row;
 						
 						if( $_cpd_size > 0 ){
-							if( count(array_intersect($_i_products, $compounds)) > 0 && count(array_intersect($_j_reactants, $compounds)) > 0 ){
-								$this->_sub_graph['node_collection'][] = $_i_enzyme->ID;
-								$this->_sub_graph['node_collection'][] = $_j_enzyme->ID;
+							if( count(array_intersect($A_products, $compounds)) > 0 && count(array_intersect($B_reactants, $compounds)) > 0 ){
+								$this->_sub_graph['node_collection'][] = $A->ID;
+								$this->_sub_graph['node_collection'][] = $B->ID;
 								
-								$this->_sub_graph['connected'][] = $_i_enzyme->ID;
-								$this->_sub_graph['connected'][] = $_j_enzyme->ID;
+								$this->_sub_graph['connected'][] = $A->ID;
+								$this->_sub_graph['connected'][] = $B->ID;
 						
 								$_sub_edgelist[] = $row;
 							}	
 						}
-					}					
+						// --------------------------
+				
+					}
 				}
-
-			}
-		}
-		
+				// ------------------
+				}
+				
+			} // endforeach B
+		} // endforeach A
+				
 		$this->_global_graph['node_collection'] = array_unique($this->_global_graph['node_collection']);
 		$this->_sub_graph['node_collection']    = array_unique($this->_sub_graph['node_collection']);
 		
@@ -108,24 +113,38 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 		return $this;
 	}
 	
+	protected function _connectNodes($products, $reactants){
+		return count(array_intersect($products, $reactants)) > 0;
+	}
+	
 	protected function _getReactionSubstrates($rn){
 		//return $this->_rn_list[$rn]->reactants->compounds;
 		
+		$substrates = array();
+		
 		foreach( $rn as $r ){
 			if( in_array($r, $this->_rn_keys) ){
-				return $this->_rn_list[$r]->reactants->compounds;
+				$substrates = array_merge($substrates, $this->_rn_list[$r]->reactants->compounds);
+				//$substrates[] = $this->_rn_list[$r]->reactants->compounds;
 			} 
 		}
+		
+		return array_unique($substrates);
 	}
 	
 	protected function _getReactionProducts($rn){
 		//return $this->_rn_list[$rn]->products->compounds;
 		
+		$products = array();
+		
 		foreach( $rn as $r ){
 			if( in_array($r, $this->_rn_keys) ){
-				return $this->_rn_list[$r]->products->compounds;
+				$products = array_merge($products, $this->_rn_list[$r]->products->compounds);
+				//$reactants[] = $this->_rn_list[$r]->products->compounds;
 			} 
 		}
+		
+		return array_unique($products);
 	}
 	
 }
