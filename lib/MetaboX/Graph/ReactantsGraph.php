@@ -38,6 +38,9 @@ class ReactantsGraph extends AbstractGraphBuilder{
 			$reactants = $reaction->reactants->compounds;
 			$nReactants = count($reactants);
 			
+			// --------
+			if( array_intersect($reactants, $compounds) ){
+			
 			for( $i = 0; $i < $nReactants; $i++ ){
 				for( $j = $i + 1; $j < $nReactants; $j++ ){
 					$this->_global_graph['node_collection'][] = $reactants[$i];
@@ -58,6 +61,8 @@ class ReactantsGraph extends AbstractGraphBuilder{
 					}
 				}
 			}
+			
+			} // --------
 		}
 
 		$this->_global_graph['node_collection'] = array_unique($this->_global_graph['node_collection']);
