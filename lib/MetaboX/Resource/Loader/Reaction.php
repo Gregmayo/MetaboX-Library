@@ -85,8 +85,19 @@ class Reaction extends AbstractResourceLoader{
 	 * @return array
 	 */
 	protected function _equationToArray(){
-		preg_match('/([0-9]*)\s(C[0-9]{5})\s(.)*=(.)*/', $this->_plain, $match);
+		// NOTE: To prevent equation misinterpretation with DEFINITION
+		// which in some cases can be equal to an equation but
+		// containing other compound labels that we don't want
+		// to include in the network construction.
+		
+		// $pattern = '/([0-9]*)\s(C[0-9]{5})\s(.)*=(.)*/';
+		
+		$pattern = '/EQUATION\s*([0-9]*)\s(C[0-9]{5})\s(.)*=(.)*/';
+		preg_match($pattern, $this->_plain, $match);
 		$eq = $match[0];
+		
+		$eq = str_replace('EQUATION', '', $eq);
+		
 		$eq = str_replace('&lt;', '<', $eq);
 		$eq = str_replace('&gt;', '>', $eq);
 		$eq = str_replace('(n+1)', '', $eq);
