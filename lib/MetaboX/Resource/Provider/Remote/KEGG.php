@@ -41,7 +41,7 @@ class KEGG{
 		$list = $ids ? $ids : $this->_resource_ids;
 		if( !$list ){ return ''; }
 		
-		return $this->getUrl() . implode('+' . $this->_resource_type . ':', $list);
+		return $this->getUrl() . $this->_resource_type . implode('+' . $this->_resource_type, $list);
 	}
 	
 	public function read( $url ){
@@ -54,5 +54,4 @@ class KEGG{
 	    if( $contents ){ return $contents; }
 	    else{ return FALSE; }
 	}
-	
 }

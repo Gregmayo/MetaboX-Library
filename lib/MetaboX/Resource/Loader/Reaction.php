@@ -39,16 +39,16 @@ class Reaction extends AbstractResourceLoader{
 	 * 
 	 * @return object
 	 */
-	public function load(){
+	public function load( $plain = false ){
 		$resource = $this->_getLocalRP()->read( $this->_getResourceFullPath() );
 		if( $resource ){ return $resource; }
 		
-		$this->_plain = $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
+		$this->_plain = !is_null($this->_plain) ? $this->_plain : $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
 		
 		$eq = $this->_equationToArray();
 		
 		$resource = (object) array(
-			'ID' 		 => $this->getResourceId(),
+			'ID' 		 => $this->_resourceId,
 			'name' 	     => $this->_extractAttributeByLabel('NAME'),
 			'definition' => $this->_extractAttributeByLabel('DEFINITION'),
 			'enzyme'     => $this->_getEnzyme(),
@@ -61,6 +61,11 @@ class Reaction extends AbstractResourceLoader{
 		$this->_resource = $resource;
 		
 		return $resource;
+	}
+	
+	protected function _extractId(){
+		preg_match_all('/R[0-9]{5}/', $this->_plain, $matches);
+		return $matches[0][0];
 	}
 	
 	/**

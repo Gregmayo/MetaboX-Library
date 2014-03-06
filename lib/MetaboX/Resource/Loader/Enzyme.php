@@ -33,15 +33,15 @@ class Enzyme extends AbstractResourceLoader{
 		$resource = $this->_getLocalRP()->read( $this->_getResourceFullPath() );
 		if( $resource ){ return $resource; }
 		
-		$this->_plain = $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
+		$this->_plain = !is_null($this->_plain) ? $this->_plain : $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
 		
 		$resource = (object) array(
-			'ID' 		=> $this->getResourceId(),
+			'ID' 		=> $this->_resourceId,
 			'name'      => $this->_extractAttributeByLabel('NAME'),
 			'class'     => $this->_extractAttributeByLabel('CLASS'),
 			'sysname'   => $this->_extractAttributeByLabel('SYSNAME'),
 			'reference' => $this->_extractAttributeByLabel('REFERENCE'),
-			'reaction'  => $this->_extractReaction()
+			'reaction'  => $this->_extractReactions()
 		);
 
 		$this->_getLocalRP()->write($this->_getResourceFullPath(), $resource);
@@ -50,11 +50,8 @@ class Enzyme extends AbstractResourceLoader{
 		return $resource;
 	}
 	
-	protected function _extractReaction(){
-		//preg_match('/RN:R[0-9]{5}/', $this->_plain, $matches);
-		//return str_replace('RN:', '', $matches[0]);
-		
-		preg_match_all('/R[0-9]{5}/', $this->_plain, $matches);
-		return array_unique($matches[0]);
+	protected function _extractId(){
+		preg_match_all('/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/', $this->_plain, $matches);
+		return $matches[0][0];
 	}
 }

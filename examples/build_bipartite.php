@@ -53,9 +53,14 @@ $compounds   = explode(',', $content);
 $config      = parse_ini_file($config_file, true);
 $graph_path  = getcwd() . '/' . $config['directory']['graph'];
 
-$processed_compounds = loadCompounds( $compounds, $config );
-$processed_reactions = loadReactions( $processed_compounds, $config );
-$processed_enzymes   = loadEnzymes( $processed_compounds, $config );
+$processed_compounds = loadCompoundCollection($compounds, $config);
+//$processed_compounds = loadCompounds( $compounds, $config );
+
+$processed_reactions = loadReactionCollection( $processed_compounds, $config );
+//$processed_reactions = loadReactions( $processed_compounds, $config );
+
+$processed_enzymes   = loadEnzymeCollection( $processed_compounds, $config );
+//$processed_enzymes   = loadEnzymes( $processed_compounds, $config );
 
 // Create enzymes bipartite graph
 $enzymes_bi_graph = new MetaboX\Graph\EnzymesBipartiteGraph($processed_compounds, $processed_enzymes, $processed_reactions);

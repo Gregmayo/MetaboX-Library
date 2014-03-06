@@ -22,6 +22,31 @@
  *  along with The MetaboX Library. If not, see <http://www.gnu.org/licenses/>.
  */
  
+function loadCompoundCollection($compounds, $config){
+	$processed_compounds = array();
+
+	$compoundLoaderConfig = array(
+		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['compound']),
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['compound'])
+	);
+	
+	// Split compounds array in collections of size chunk_max_size
+	$collections = array_chunk($compounds, $config['settings']['chunk_max_size']);
+	
+	foreach( $collections as $collection ){
+		echo "[CPD] Loading collection " . implode(', ', $collection) . "\n";
+		
+		$collection_loader = new MetaboX\Resource\Loader\EntityCollection('Compound', $collection, $compoundLoaderConfig);
+		$pcs = $collection_loader->load();
+		
+		foreach( $pcs as $pc ){
+			$processed_compounds[$pc->ID] = $pc;	
+		}
+	}
+	
+	return $processed_compounds;
+}
+ 
 function loadCompounds( $compounds, $config ){
 	$processed_compounds = array();
 	
@@ -43,6 +68,36 @@ function loadCompounds( $compounds, $config ){
 	}
 	
 	return $processed_compounds;
+}
+
+function loadReactionCollection($processed_compounds, $config){
+	$processed_reactions = array();
+	$reactionLoaderConfig = array(
+		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['reaction']),
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['reaction'])
+	);
+	
+	$reactions = array();
+	
+	foreach( $processed_compounds as $id => $compound ){
+		$reactions = array_merge($reactions, $compound->reactionIdCollection);
+	}
+	
+	// Split reaction array in collections of size chunk_max_size
+	$collections = array_chunk($reactions, $config['settings']['chunk_max_size']);
+	
+	foreach( $collections as $collection ){
+		echo "[RN] Loading collection " . implode(', ', $collection) . "\n";
+		
+		$collection_loader = new MetaboX\Resource\Loader\EntityCollection('Reaction', $collection, $reactionLoaderConfig);
+		$prs = $collection_loader->load();
+		
+		foreach( $prs as $pr ){
+			$processed_reactions[$pr->ID] = $pr;	
+		}
+	}
+	
+	return $processed_reactions;
 }
 
 function loadReactions( $processed_compounds, $config ){
@@ -69,6 +124,36 @@ function loadReactions( $processed_compounds, $config ){
 	}
 	
 	return $processed_reactions;
+}
+
+function loadEnzymeCollection($processed_compounds, $config){
+	$processed_enzymes = array();
+	$enzymeLoaderConfig = array(
+		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['enzyme']),
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['enzyme'])
+	);
+	
+	$enzymes = array();
+	
+	foreach( $processed_compounds as $id => $compound ){
+		$enzymes = array_merge($enzymes, $compound->enzymeIdCollection);
+	}
+	
+	// Split reaction array in collections of size chunk_max_size
+	$collections = array_chunk($enzymes, $config['settings']['chunk_max_size']);
+	
+	foreach( $collections as $collection ){
+		echo "[EC] Loading collection " . implode(', ', $collection) . "\n";
+		
+		$collection_loader = new MetaboX\Resource\Loader\EntityCollection('Enzyme', $collection, $enzymeLoaderConfig);
+		$pes = $collection_loader->load();
+		
+		foreach( $pes as $pe ){
+			$processed_enzymes[$pe->ID] = $pe;	
+		}
+	}
+	
+	return $processed_enzymes;
 }
 
 function loadEnzymes( $processed_compounds, $config ){

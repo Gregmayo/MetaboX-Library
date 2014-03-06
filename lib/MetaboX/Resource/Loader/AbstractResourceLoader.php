@@ -30,13 +30,18 @@ abstract class AbstractResourceLoader{
 	private $_remoteResourceProvider;
 	private $_localResourceProvider;
 	
-	protected $_plain;
+	protected $_plain = null;
 	
-	public function __construct( $resource_id, $config ){
+	public function __construct( $resource_id, $config, $plain = false ){
 		$this->_resourceId = $resource_id;
 		
 		$this->_remoteResourceProvider = $config['remoteRP'];
 		$this->_localResourceProvider  = $config['localRP'];
+		
+		if( $plain ){
+			$this->_plain = $plain;
+			$this->_resourceId = $this->_extractId($plain);
+		}
 	}
 	
 	abstract public function load();
@@ -49,6 +54,18 @@ abstract class AbstractResourceLoader{
 	
 	protected function _getResourceFullUrl(){ return $this->_getRemoteRP()->getUrlByResourceId($this->_resourceId); }
 	protected function _getResourceFullPath(){ return $this->_getLocalRP()->getPathByResourceId($this->_resourceId); }
+	
+	/**
+	 * Matches all reaction IDs from plain text file.
+	 * A regular expression is used to extract all
+	 * patterns that match a KEGG reaction ID.
+	 * 
+	 * @return array
+	 */
+	protected function _extractReactions(){
+		preg_match_all('/R[0-9]{5}/', $this->_plain, $matches);
+		return array_unique($matches[0]);
+	}
 	
 	/**
 	 * It takes an input string that represents the attribute

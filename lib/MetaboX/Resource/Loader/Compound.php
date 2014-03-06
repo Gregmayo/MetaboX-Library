@@ -41,10 +41,10 @@ class Compound extends AbstractResourceLoader{
 		$resource = $this->_getLocalRP()->read( $this->_getResourceFullPath() );
 		if( $resource ){ return $resource; }
 		
-		$this->_plain = $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
+		$this->_plain = !is_null($this->_plain) ? $this->_plain : $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
 		
 		$resource = (object) array(
-			'ID' 	       => $this->getResourceId(),
+			'ID' 	       => $this->_resourceId,
 			'name'         => $this->_extractAttributeByLabel('NAME'),
 			'formula'      => $this->_extractAttributeByLabel('FORMULA'),
 			'exact_mass'   => $this->_extractAttributeByLabel('EXACT_MASS'),
@@ -61,6 +61,11 @@ class Compound extends AbstractResourceLoader{
 		return $resource;
 	}
 	
+	protected function _extractId(){
+		preg_match_all('/C[0-9]{5}/', $this->_plain, $matches);
+		return $matches[0][0];
+	}
+
 	/**
 	 * 
 	 * @return array
@@ -83,18 +88,6 @@ class Compound extends AbstractResourceLoader{
 		}
 
 		return $_matches;
-	}
-	
-	/**
-	 * Matches all reaction IDs from plain text file.
-	 * A regular expression is used to extract all
-	 * patterns that match a KEGG reaction ID.
-	 * 
-	 * @return array
-	 */
-	protected function _extractReactions(){
-		preg_match_all('/R[0-9]{5}/', $this->_plain, $matches);
-		return array_unique($matches[0]);
 	}
 	
 	/**

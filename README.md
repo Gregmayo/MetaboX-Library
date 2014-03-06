@@ -11,7 +11,7 @@ GENERAL USAGE NOTES
   Default cache storage is JSON file, but it is possible to create alternative
   cache methods (e.g. write data to a database).
 
-- MetaboX provides several network layouts depending on available resources:
+- The MetaboX library provides several networks depending on available resources:
   reactants graph: it is built upon compounds and reactions
   enzymes graph: it is built upon enzymes (unipartite or bipartite)
   
@@ -23,8 +23,9 @@ INSTALLING AND RUNNING
   you prefer on your system. You can find some examples in 'examples' folder.
 
 - The examples can be run as follows:
-  + php path/to/examples/build_reactants_graph.php path/to/compounds.csv
-  + php path/to/examples/resources_loader.php path/to/compounds.csv
+  + php path/to/examples/load_resources_from_kegg.php path/to/compounds.csv
+  + php path/to/examples/build_reactants.php path/to/compounds.csv
+  + php path/to/examples/destroy_cache.php
 
 - 'compounds.csv' file must be a csv (comma separated value) file with a list
   of KEGG IDs compounds.

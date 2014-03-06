@@ -33,7 +33,7 @@ class JSON{
 		$this->_resource_type = $type;
 	}
 	
-	public function getPath(){ return getcwd() . '/' . $this->_resource_dir; }
+	public function getPath(){ return $this->_resource_dir; }
 	public function getPathByResourceId( $id ){ return $this->getPath() . $this->_resource_type . $id . $this->_ext; }
 	
 	public function write($file, $data){

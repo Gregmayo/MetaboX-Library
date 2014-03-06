@@ -53,8 +53,11 @@ $compounds   = explode(',', $content);
 $config      = parse_ini_file($config_file, true);
 $graph_path  = getcwd() . '/' . $config['directory']['graph'];
 
-$processed_compounds = loadCompounds( $compounds, $config );
-$processed_reactions = loadReactions( $processed_compounds, $config );
+$processed_compounds = loadCompoundCollection($compounds, $config);
+//$processed_compounds = loadCompounds( $compounds, $config );
+
+$processed_reactions = loadReactionCollection( $processed_compounds, $config );
+//$processed_reactions = loadReactions( $processed_compounds, $config );
 
 // Create reactants graph
 $reactants_graph = new MetaboX\Graph\ReactantsGraph($processed_reactions);
