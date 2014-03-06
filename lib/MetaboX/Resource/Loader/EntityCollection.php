@@ -46,10 +46,6 @@ class EntityCollection{
 	/**
 	 * Retrieve the set of resources information using collections.
 	 * 
-	 * FIXME: Testare il funzionamento!!!
-	 *        Necessario refactoring per centralizzare i metodi di
-	 *        manipolazione del plain text per ogni entità.
-	 *        Estendere il tutto anche alle reazioni, enzimi e pathway.
 	 */
 	public function load(){
 		$loaded = array();
