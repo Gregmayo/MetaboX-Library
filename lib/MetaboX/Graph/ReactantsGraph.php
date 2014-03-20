@@ -38,13 +38,15 @@ class ReactantsGraph extends AbstractGraphBuilder{
 			$reactants = $reaction->reactants->compounds;
 			$nReactants = count($reactants);
 			
+			if( is_array($reactants) ){
 			// --------
 			if( array_intersect($reactants, $compounds) ){
 			
 			for( $i = 0; $i < $nReactants; $i++ ){
 				for( $j = $i + 1; $j < $nReactants; $j++ ){
-					$this->_global_graph['node_collection'][] = $reactants[$i];
-					$this->_global_graph['node_collection'][] = $reactants[$j];
+					
+					$this->_global_graph['node_collection'][] = $this->_translateGlycan($reactants[$i]);
+					$this->_global_graph['node_collection'][] = $this->_translateGlycan($reactants[$j]);
 					
 					$row = implode(',', $this->_prepareCouple($reactants[$i], $reactants[$j]));
 					
@@ -63,6 +65,7 @@ class ReactantsGraph extends AbstractGraphBuilder{
 			}
 			
 			} // --------
+			}
 		}
 
 		$this->_global_graph['node_collection'] = array_unique($this->_global_graph['node_collection']);
