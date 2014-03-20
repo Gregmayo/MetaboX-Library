@@ -58,32 +58,33 @@ class EnzymesBipartiteGraph extends AbstractGraphBuilder{
 					$products  = $this->_rn_list[$rn]->products->compounds;
 					$enzyme    = $this->_rn_list[$rn]->enzyme;
 					
-					if( is_array($reactants) && is_array($products) ){
-					
-						if( in_array($cpd->ID, $reactants) || in_array($cpd->ID, $products) ){
-							// Connect cpd and enzyme
-							$this->_global_graph['node_collection'][] = $cpd->ID;
-							$this->_global_graph['node_collection'][] = $enzyme;
-							
-							$row = implode(',', array($cpd->ID, $enzyme));
-							
-							$_all_edgelist[] = $row;
-							
-							if( $_input_cpd_size > 0 ){
-								if( in_array($cpd->ID, $compounds) ){
-									$this->_sub_graph['node_collection'][] = $cpd->ID;
-									$this->_sub_graph['node_collection'][] = $enzyme;
-									
-									$this->_sub_graph['connected'][] = $cpd->ID;
-									$this->_sub_graph['connected'][] = $enzyme;
-							
-									$_sub_edgelist[] = $row;
-								}
+					// NOTE: to fix unmatched enzyme names in KEGG (e.g. X.X.X.- where X is a number)
+					if( $enzyme != NULL ){
+					// ---------------------------------------------------------------------------------
+					if( in_array($cpd->ID, $reactants) || in_array($cpd->ID, $products) ){
+						// Connect cpd and enzyme
+						$this->_global_graph['node_collection'][] = $cpd->ID;
+						$this->_global_graph['node_collection'][] = $enzyme;
+						
+						$row = implode(',', array($cpd->ID, $enzyme));
+						
+						$_all_edgelist[] = $row;
+						
+						if( $_input_cpd_size > 0 ){
+							if( in_array($cpd->ID, $compounds) ){
+								$this->_sub_graph['node_collection'][] = $cpd->ID;
+								$this->_sub_graph['node_collection'][] = $enzyme;
+								
+								$this->_sub_graph['connected'][] = $cpd->ID;
+								$this->_sub_graph['connected'][] = $enzyme;
+						
+								$_sub_edgelist[] = $row;
 							}
 						}
-					
 					}
-					 
+					// ---------------------------------------------------------------------------------
+					}
+					
 				} // endforeach $rns
 			}	
 		} // endforeach $this->_cpd_list
