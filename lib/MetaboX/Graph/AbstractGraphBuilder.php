@@ -74,4 +74,17 @@ abstract class AbstractGraphBuilder{
 		
 		return $network_interactions;
 	}
+	
+	protected function _translateGlycan($gl){
+		// FIXME: ancora da decidere se tradurre i GLYCAN o meno
+		return $gl;
+		
+		if( $gl[0] == 'G' ){
+			// Translate Glycan
+			
+			return $cpd;	
+		}
+		
+		return $gl;
+	}
 }

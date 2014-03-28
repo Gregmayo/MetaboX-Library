@@ -139,7 +139,7 @@ function loadEnzymeCollection($processed_compounds, $config){
 		$enzymes = array_merge($enzymes, $compound->enzymeIdCollection);
 	}
 	
-	// Split reaction array in collections of size chunk_max_size
+	// Split array in collections of size chunk_max_size
 	$collections = array_chunk($enzymes, $config['settings']['chunk_max_size']);
 	
 	foreach( $collections as $collection ){
@@ -149,7 +149,7 @@ function loadEnzymeCollection($processed_compounds, $config){
 		$pes = $collection_loader->load();
 		
 		foreach( $pes as $pe ){
-			$processed_enzymes[$pe->ID] = $pe;	
+			$processed_enzymes[$pe->ID] = $pe;
 		}
 	}
 	
@@ -180,6 +180,62 @@ function loadEnzymes( $processed_compounds, $config ){
 	}
 	
 	return $processed_enzymes;
+}
+
+function loadPathwayCollection($processed_compounds, $config){
+	$processed_pathways = array();
+	$pathwayLoaderConfig = array(
+		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['pathway']),
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['pathway'])
+	);
+	
+	$pathways = array();
+	
+	foreach( $processed_compounds as $id => $compound ){
+		$pathways = array_merge($pathways, $compound->pathwayIdCollection);
+	}
+	
+	// Split array in collections of size chunk_max_size
+	$collections = array_chunk($pathways, $config['settings']['chunk_max_size']);
+	
+	foreach( $collections as $collection ){
+		echo "[PW] Loading collection " . implode(', ', $collection) . "\n";
+		
+		$collection_loader = new MetaboX\Resource\Loader\EntityCollection('Pathway', $collection, $pathwayLoaderConfig);
+		$pes = $collection_loader->load();
+		
+		foreach( $pes as $pe ){
+			$processed_pathways[$pe->ID] = $pe;
+		}
+	}
+	
+	return $processed_pathways;
+}
+
+function loadPathways( $processed_compounds, $config ){
+	$processed_pathways = array();
+	$pathwayLoaderConfig = array(
+		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['pathway']),
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['pathway'])
+	);
+	
+	// Retrieve and collect reactions information
+	foreach( $processed_compounds as $id => $compound ){
+		$pathway_list = $compound->pathwayIdCollection;
+		
+		if( $pathway_list ){
+			echo "[CPD: " . $id . "] Loading " . count($pathway_list) . " pathways.\n";
+			
+			foreach( $pathway_list as $pw ){
+				$_pw_id = trim($pw);
+				
+				$pw_loader = new MetaboX\Resource\Loader\Pathway($_pw_id, $pathwayLoaderConfig);
+				$processed_pathways[$_pw_id] = $pw_loader->load();
+			}	
+		}
+	}
+	
+	return $processed_pathways;
 }
 
 function getFullpath(){

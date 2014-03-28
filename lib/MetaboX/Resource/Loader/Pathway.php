@@ -25,8 +25,7 @@ namespace MetaboX\Resource\Loader;
 
 class Pathway extends AbstractResourceLoader{
 	
-	/**
-	 * FIXME: to be fixed because a generic pathway map has no: geneIdCollection, compoundIdCollection, etc... 
+	/** 
 	 * 
 	 * @return object
 	 */
@@ -34,18 +33,17 @@ class Pathway extends AbstractResourceLoader{
 		$resource = $this->_getLocalRP()->read( $this->_getResourceFullPath() );
 		if( $resource ){ return $resource; }
 		
-		$this->_plain = $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
+		$this->_plain = !is_null($this->_plain) ? $this->_plain : $this->_getRemoteRP()->read( $this->_getResourceFullUrl() );
 		
 		$resource = (object) array(
-			'ID' 		 		   => $this->getResourceId(),
-			'name' 				   => $this->_extractAttributeByLabel('NAME'),
-			'class' 			   => $this->_extractAttributeByLabel('CLASS'),
-			'map' 				   => $this->_extractAttributeByLabel('PATHWAY_MAP'),
-			'module' 			   => $this->_extractAttributeByLabel('MODULE'),
-			'organism' 			   => $this->_extractAttributeByLabel('ORGANISM'),
-			'geneIdCollection' 	   => '',
-			'compoundIdCollection' => $this->_extractCompounds(),
-			'koPathway' 		   => str_replace('map', 'ko', $this->getResourceId())
+			'ID' 		 		    => str_replace('ko', 'map', $this->_resourceId),
+			'name' 				    => $this->_extractAttributeByLabel('NAME'),
+			'class' 			    => $this->_extractAttributeByLabel('CLASS'),
+			'compoundIdCollection'  => $this->_extractCompounds(),
+			'diseaseIdCollection'   => $this->_extractDiseases(),
+			'moduleIdCollection'    => $this->_extractModules(),
+			'orthologyIdCollection' => $this->_extractOrthology(),
+			'koPathway' 		    => $this->getResourceId()
 		);
 
 		$this->_getLocalRP()->write($this->_getResourceFullPath(), $resource);
@@ -54,8 +52,28 @@ class Pathway extends AbstractResourceLoader{
 		return $resource;
 	}
 	
+	protected function _extractId(){
+		preg_match_all('/ko[0-9]{5}/', $this->_plain, $matches);
+		return $matches[0][0];
+	}
+	
 	protected function _extractCompounds(){
 		preg_match_all('/C[0-9]{5}/', $this->_plain, $matches);
+		return array_unique($matches[0]);
+	}
+	
+	protected function _extractDiseases(){
+		preg_match_all('/H[0-9]{5}/', $this->_plain, $matches);
+		return array_unique($matches[0]);
+	}
+	
+	protected function _extractModules(){
+		preg_match_all('/M[0-9]{5}/', $this->_plain, $matches);
+		return array_unique($matches[0]);
+	}
+
+	protected function _extractOrthology(){
+		preg_match_all('/K[0-9]{5}/', $this->_plain, $matches);
 		return array_unique($matches[0]);
 	}
 }

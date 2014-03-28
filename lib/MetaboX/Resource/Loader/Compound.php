@@ -99,7 +99,11 @@ class Compound extends AbstractResourceLoader{
 	 */
 	protected function _extractPathways(){
 		preg_match_all('/map[0-9]{5}/', $this->_plain, $matches);
-		return array_unique($matches[0]);
+		$pws = array_unique($matches[0]);
+		
+		array_walk($pws, function(&$item){ $item = str_replace('map', 'ko', $item); });
+		
+		return $pws;
 	}
 	
 	/**

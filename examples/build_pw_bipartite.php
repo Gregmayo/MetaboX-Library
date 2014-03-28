@@ -22,6 +22,8 @@
  *  along with The MetaboX Library. If not, see <http://www.gnu.org/licenses/>.
  */
  
+ini_set('memory_limit', '-1');
+
 include('includes/functions.php');
 include('includes/_init.php');
 
@@ -49,18 +51,28 @@ if( !$content ){
 
 $compounds   = explode(',', $content);
 $config      = parse_ini_file($config_file, true);
+$graph_path  = getcwd() . '/' . $config['directory']['graph'];
 
 $processed_compounds = loadCompoundCollection($compounds, $config);
 //$processed_compounds = loadCompounds( $compounds, $config );
 
-$processed_reactions = loadReactionCollection( $processed_compounds, $config );
-//$processed_reactions = loadReactions( $processed_compounds, $config );
-
-$processed_enzymes   = loadEnzymeCollection( $processed_compounds, $config );
-//$processed_enzymes   = loadEnzymes( $processed_compounds, $config );
-
 $processed_pathways  = loadPathwayCollection( $processed_compounds, $config );
-//$processed_pathways   = loadPathways( $processed_compounds, $config );
+//$processed_pathways  = loadPathways( $processed_compounds, $config );
+
+// Create enzymes bipartite graph
+$pathways_bi_graph = new MetaboX\Graph\PathwaysBipartiteGraph($processed_compounds, $processed_pathways);
+$pathways_bi_graph->build();
+
+$pw_network    = $pathways_bi_graph->getGlobalGraph();
+$filename = 'pathway_bipartite';
+
+// Write to file
+$cytoscape_writer = new MetaboX\Graph\Writer\CytoscapeGraphWriter();
+$cytoscape_writer->write($graph_path . $filename . '_all', $pw_network['weighted_edgelist']);
+
+// Write it to JSON (D3JS)
+$d3js_writer = new MetaboX\Graph\Writer\D3JSGraphWriter();
+$d3js_writer->write($graph_path . $filename . '_all', $pw_network['weighted_edgelist']);
 
 // How long did it take?
 $time_taken = microtime(true) - $start;
