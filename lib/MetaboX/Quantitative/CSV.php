@@ -37,8 +37,8 @@ class CSV{
 	
 	public function parse( $skip_empty_lines = true, $trim_fields = true ){
 		$delimiter = $this->_delimiter;
-		
-	    $enc = preg_replace('/(?<!")""/', '!!Q!!', $this->_csvstring);
+	
+		$enc = preg_replace('/(?<!")""/', '!!Q!!', $this->_csvstring);
 	    $enc = preg_replace_callback(
 	        '/"(.*?)"/s',
 	        function ($field) {
