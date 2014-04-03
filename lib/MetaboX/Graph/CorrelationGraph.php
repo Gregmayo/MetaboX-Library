@@ -23,17 +23,29 @@
  */
 namespace MetaboX\Graph;
 
-class CorrelationGraphDelegate{
+class CorrelationGraph{
 	private $_correlationService;
 	private $_correlationData;
-	
-	public function __construct( $cs = null, $cd = null ){
+
+	private $_correlationServiceInstance;
+
+	private $_nodes;
+	private $_threshold;
+
+	public function __construct( $cs, $cd, $tr ){
 		$this->_correlationService = $cs;
 		$this->_correlationData    = $cd;
+
+		$this->_nodes     = $cd[0];
+		$this->_threshold = $tr;
 	}
 	
 	public function build(){
 		$this->getCorrelationServiceInstance()->build();
+	}
+	
+	public function getEdgelist(){
+		return $this->getCorrelationServiceInstance()->getEdgelist();
 	}
 	
 	public function setCorrelationData($d){ $this->_correlationData = $d; }
@@ -42,13 +54,21 @@ class CorrelationGraphDelegate{
 	public function setCorrelationService($cs){ $this->_correlationService = $cs; }
 	public function getCorrelationService(){ return $this->_correlationService; }
 	
+	protected function _getCorrelationServiceInstance(){ return $this->_correlationServiceInstance; }
+	
 	public function getCorrelationServiceInstance(){
-		if( !is_null($this->_correlationService) && !is_null($this->_correlationData) ){
-			$classname = 'MetaboX\\Graph\\Correlation\\' . $this->_correlationService;
-			return new $classname( $this->_correlationData );
+		$instance = null;
+
+		if( !is_null($this->_correlationServiceInstance) ){
+			return $this->_getCorrelationServiceInstance();
+		}else{
+			if( !is_null($this->_correlationService) && !is_null($this->_correlationData) ){
+				$classname = 'MetaboX\\Graph\\Correlation\\' . $this->_correlationService;
+				$this->_correlationServiceInstance = new $classname( $this->_nodes, $this->_correlationData, $this->_threshold );
+
+				return $this->_getCorrelationServiceInstance();
+			}
 		}
-		
-		return false;
 	}
 	
 }

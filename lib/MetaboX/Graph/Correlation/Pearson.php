@@ -25,6 +25,7 @@ namespace MetaboX\Graph\Correlation;
 
 class Pearson extends AbstractCorrelationBuilder{
 	
+	// ref. http://www.davegardner.me.uk/blog/tag/pearson-correlation/
 	public function getCorrelation($fa, $fb){
 		$sA = count($fa);
 		$sB = count($fb);
@@ -47,23 +48,23 @@ class Pearson extends AbstractCorrelationBuilder{
 
 		$p = $den > 0 ? $num/$den : 0;
 
-		return floatval($p);
+		return (float)$p;
 	}
 	
 	public function build(){
-		foreach( $this->_nodes as $idxA => $A ){
-			$vA = $this->_getVector($idxA, $this->_correlationData);
-			foreach( $this->_nodes as $idxB => $B ){
-				// FIXME: verificare funzionamento continue;
-				if( $A != $B ){ continue; }
+		foreach( $this->getNodes() as $idxA => $A ){
+			$vA = $this->_getVector($idxA, $this->getCorrelationData());
+			
+			foreach( $this->getNodes() as $idxB => $B ){
+				// Do not compute self correlation
+				if( $A == $B ){ continue; }
 				
-				$vB = $this->_getVector($idxB, $this->_correlationData);
+				$vB = $this->_getVector($idxB, $this->getCorrelationData());
 				$w  = $this->getCorrelation($vA, $vB);
-
-				if( $w > $this->_threshold ){ $this->_edgelist[] = $this->_getPair($A, $B); }
+				
+				if( $w > $this->getThreshold() ){ $this->addEdge( $this->_getPair($A, $B, $w) ); }
 			}
 		}
-		
 	}
 
 }

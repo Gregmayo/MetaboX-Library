@@ -23,16 +23,13 @@
  */
 namespace MetaboX\Graph\Correlation;
 
-class AbstractCorrelationBuilder{
+abstract class AbstractCorrelationBuilder{
 	private $_nodes;
 	private $_correlationData;
 	private $_threshold;
-	private $_edgelist;
+	private $_edgelist = array();
 
 	public function __construct( $nodes, $data, $t ){
-		// FIXME: dovrei inserire il parsing di un file CSV
-		//        all'interno della classe???
-		
 		$this->_nodes 			= $nodes;
 		$this->_correlationData = $data;
 		$this->_threshold       = floatval($t);
@@ -51,7 +48,7 @@ class AbstractCorrelationBuilder{
 		return $v;
 	}
 	
-	protected function _getPair($A, $B){
+	protected function _getPair($A, $B, $w){
 		$hA = md5($A);
 		$hB = md5($B);
 		
@@ -70,4 +67,15 @@ class AbstractCorrelationBuilder{
 	
 	public function getCorrelationData(){ return $this->_correlationData; }
 	public function setCorrelationData($cd){ $this->_correlationData = $cd; }
+	
+	public function addEdge($pair){
+		$insert = true;
+		foreach( $this->_edgelist as $e ){
+			if( ($e['source'] == $pair['source']) && ($e['target'] == $pair['target']) ){
+				$insert = false;
+			}
+		}
+		
+		if( $insert ){ $this->_edgelist[] = $pair; }
+	}
 }
