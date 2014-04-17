@@ -58,13 +58,19 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 		$_ec_size  = count($this->_ec_list);
 		$_cpd_size = !$compounds ? 0 : count($compounds);
 		
+		if( $this->getOrganism() != 'all' ){
+			$this->_ec_list = $this->_filterByOrganism( $this->_ec_list );
+		}
+		
 		foreach( $this->_ec_list as $A ){
 			$A_products = $this->_getReactionProducts($A->reaction);
 			
 			foreach( $this->_ec_list as $B ){
 				$B_reactants = $this->_getReactionSubstrates($B->reaction);
 
-				if( $A->ID != $B->ID ){
+				// Do not account for self interaction
+				if( $A->ID == $B->ID ){ continue; }
+				
 				// ------------------				
 				if( count($A_products) > 0 && count($B_reactants) > 0 ){
 					if( $this->_connectNodes($A_products, $B_reactants) ){
@@ -94,7 +100,6 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 					}
 				}
 				// ------------------
-				}
 				
 			} // endforeach B
 		} // endforeach A
@@ -111,6 +116,22 @@ class EnzymesUnipartiteGraph extends AbstractGraphBuilder{
 		}
 		
 		return $this;
+	}
+
+	protected function _filterByOrganism($ecs){
+		
+		if( !count($ecs) ){ return false; }
+		
+		$list = array();
+		foreach( $ecs as $ec ){
+			if( count($ec->organismIdCollection) ){
+				if( in_array($this->getOrganism(), $ec->organismIdCollection) ){
+					$list[] = $ec;
+				}
+			}	
+		}
+		
+		return $list;
 	}
 	
 	protected function _connectNodes($products, $reactants){

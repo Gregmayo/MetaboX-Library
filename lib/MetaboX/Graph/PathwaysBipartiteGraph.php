@@ -23,6 +23,8 @@
  */
 namespace MetaboX\Graph;
 
+use MetaboX\Resource\Provider\Remote as MXR;
+
 class PathwaysBipartiteGraph extends AbstractGraphBuilder{
 	protected $_compoundCollection = array();
 	protected $_pathwayCollection  = array();
@@ -35,10 +37,18 @@ class PathwaysBipartiteGraph extends AbstractGraphBuilder{
 	public function build( $compounds = false ){
 		$_all_edgelist = array();
 		
+		$pathways = $this->getPathwayListByOrganism();
+		
 		foreach( $this->_compoundCollection as $c ){
-			$pathways = $c->pathwayIdCollection;
+			$cpathways = $c->pathwayIdCollection;
 			
-			foreach( $pathways as $p ){
+			foreach( $cpathways as $p ){
+				if( $this->getOrganism() != 'all' ){
+					$p = str_replace('ko', strtolower($this->getOrganism()), $p);
+				}
+				
+				if( !in_array($p, $pathways) ){ continue; }
+				
 				$this->_global_graph['node_collection'][] = $c->ID;
 				$this->_global_graph['node_collection'][] = $p;
 				
@@ -54,4 +64,18 @@ class PathwaysBipartiteGraph extends AbstractGraphBuilder{
 		return $this;
 	}
 	
+	public function getPathwayListByOrganism(){
+		if( $this->getOrganism() == 'all' ){ return array(); }
+		
+		$rp = new MXR\KEGG();
+		$pw_list = $rp->read( 'http://rest.kegg.jp/list/pathway/' . strtolower($this->getOrganism()) );
+		
+		preg_match_all('/' . strtolower($this->getOrganism()) . '[0-9]{5}/', $pw_list, $matches);
+		$pws = array_unique($matches[0]);
+		
+		$org = $this->getOrganism();
+		array_walk($pws, function(&$item, $org){ $item = str_replace('ko', $org, $item); });
+		
+		return $pws;
+	}
 }

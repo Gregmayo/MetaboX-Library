@@ -22,6 +22,8 @@
  *  along with The MetaboX Library. If not, see <http://www.gnu.org/licenses/>.
  */
  
+ini_set('memory_limit', '-1');
+ 
 include('includes/functions.php');
 include('includes/_init.php');
 
@@ -53,11 +55,12 @@ $config      = parse_ini_file($config_file, true);
 $processed_compounds = loadCompoundCollection($compounds, $config);
 //$processed_compounds = loadCompounds( $compounds, $config );
 
-$processed_reactions = loadReactionCollection( $processed_compounds, $config );
-//$processed_reactions = loadReactions( $processed_compounds, $config );
-
+// NOTE: We first load enzymes to extract organism for reactions later on
 $processed_enzymes   = loadEnzymeCollection( $processed_compounds, $config );
 //$processed_enzymes   = loadEnzymes( $processed_compounds, $config );
+
+$processed_reactions = loadReactionCollection( $processed_compounds, $config );
+//$processed_reactions = loadReactions( $processed_compounds, $config );
 
 $processed_pathways  = loadPathwayCollection( $processed_compounds, $config );
 //$processed_pathways   = loadPathways( $processed_compounds, $config );

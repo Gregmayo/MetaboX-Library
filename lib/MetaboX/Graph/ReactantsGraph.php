@@ -34,13 +34,16 @@ class ReactantsGraph extends AbstractGraphBuilder{
 		$_all_edgelist = array();
 		$_sub_edgelist = array();
 		
+		if( $this->getOrganism() != 'all' ){
+			$this->_sourcesCollection = $this->_filterByOrganism( $this->_sourcesCollection );
+		}
+		
 		foreach( $this->_sourcesCollection as $reaction ){
 			$reactants = $reaction->reactants->compounds;
 			$nReactants = count($reactants);
 			
-			if( is_array($reactants) ){
-			// --------
-			if( array_intersect($reactants, $compounds) ){
+			if( !is_array($reactants) ){ continue; }
+			if( !array_intersect($reactants, $compounds) ){ continue; }
 			
 			for( $i = 0; $i < $nReactants; $i++ ){
 				for( $j = $i + 1; $j < $nReactants; $j++ ){
@@ -64,8 +67,6 @@ class ReactantsGraph extends AbstractGraphBuilder{
 				}
 			}
 			
-			} // --------
-			}
 		}
 
 		$this->_global_graph['node_collection'] = array_unique($this->_global_graph['node_collection']);
@@ -82,55 +83,19 @@ class ReactantsGraph extends AbstractGraphBuilder{
 		return $this;
 	}
 	
-	/**
-	 * @param $subNodesCollection array
-	 * 
-	 * @return $this ReactantsGraph
-	 
-	public function prepareOutput( $subNodesCollection = null ){
-		$connected = array();
+	protected function _filterByOrganism($rns){
+		if( !count($rns) ){ return false; }
 		
-		if( count($this->_weigthed_edgelist) <= 0 ){ return false; }
-		
-		foreach( $this->_weigthed_edgelist as $couple => $weight ){
-			$items = explode(',', $couple);
-			$source = trim($items[0]);
-			$target = trim($items[1]);
-			
-			$graph_couple = array(
-				'source' => $source,
-				'weight' => $weight,
-				'target' => $target
-			);
-			
-			$this->_network_interactions[] = $graph_couple;
-
-			if( in_array($source, $subNodesCollection) && in_array($target, $subNodesCollection) ){
-				$this->_subnetwork_interactions[] = $graph_couple;
-				
-				$connected[] = $source;
-				$connected[] = $target;
-				
-				$this->_node_connections[$source][] = $target;
-				$this->_node_connections[$target][] = $source;
-			}
-			
-		}
-
-		if( !is_null($subNodesCollection) ){
-			$this->_connected     = array_unique($connected);
-			$this->_not_connected = array_diff($subNodesCollection, $connected);
-			
-			if( $this->_not_connected ){
-				foreach( $this->_not_connected as $cpd ){
-					$this->_subnetwork_interactions[] = array( 'source' => $cpd );
+		$list = array();
+		foreach( $rns as $rn ){
+			if( count($rn->organismIdCollection) ){
+				if( in_array($this->getOrganism(), $rn->organismIdCollection) ){
+					$list[] = $rn;
 				}
 			}
-	
 		}
 		
-		return $this;
+		return $list;
 	}
-	*/
 	
 }

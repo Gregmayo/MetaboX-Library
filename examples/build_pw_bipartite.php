@@ -61,6 +61,7 @@ $processed_pathways  = loadPathwayCollection( $processed_compounds, $config );
 
 // Create enzymes bipartite graph
 $pathways_bi_graph = new MetaboX\Graph\PathwaysBipartiteGraph($processed_compounds, $processed_pathways);
+//$pathways_bi_graph->setOrganism('HSA');
 $pathways_bi_graph->build();
 
 $pw_network    = $pathways_bi_graph->getGlobalGraph();

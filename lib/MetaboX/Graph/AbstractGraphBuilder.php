@@ -24,6 +24,8 @@
 namespace MetaboX\Graph;
 
 abstract class AbstractGraphBuilder{
+	protected $_organism = 'all';
+	
 	protected $_global_graph = array(
 		'node_collection'   => array(),
 		'weighted_edgelist' => array()
@@ -37,6 +39,9 @@ abstract class AbstractGraphBuilder{
 	);
 		
 	abstract public function build( $compounds = false );
+	
+	public function getOrganism(){ return $this->_organism; }
+	public function setOrganism($o){ $this->_organism = strtoupper($o); }
 	
 	public function getGlobalGraph(){ return $this->_global_graph; }
 	public function getSubGraph(){ return $this->_sub_graph; }

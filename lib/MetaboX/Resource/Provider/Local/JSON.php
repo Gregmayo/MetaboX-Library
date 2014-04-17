@@ -36,6 +36,8 @@ class JSON{
 	public function getPath(){ return $this->_resource_dir; }
 	public function getPathByResourceId( $id ){ return $this->getPath() . $this->_resource_type . $id . $this->_ext; }
 	
+	public function getExt(){ return $this->_ext; }
+	
 	public function write($file, $data){
 		$fh = fopen($file, 'w') or die("[JSONResource] can't write to file " . $file);
 		fwrite($fh, json_encode($data));
@@ -48,5 +50,18 @@ class JSON{
 		}
 		
 		return '';
+	}
+	
+	public function readList($files){
+		$contents = array();
+		
+		foreach( $files as $f ){
+			$_f = $this->_resource_dir . $this->_resource_type . $f . $this->getExt();
+			if( file_exists($_f) ){
+				$contents[$f] = json_decode( file_get_contents($_f) );
+			}
+		}
+
+		return $contents;
 	}
 }

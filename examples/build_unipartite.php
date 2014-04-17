@@ -64,6 +64,7 @@ $processed_enzymes   = loadEnzymeCollection( $processed_compounds, $config );
 
 // Create enzymes unipartite graph
 $enzymes_uni_graph = new MetaboX\Graph\EnzymesUnipartiteGraph(array_values($processed_enzymes), $processed_reactions);
+//$enzymes_uni_graph->setOrganism('HSA');
 $enzymes_uni_graph->build( $compounds );
 
 $ec_network    = $enzymes_uni_graph->getGlobalGraph();

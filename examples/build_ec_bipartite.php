@@ -63,7 +63,8 @@ $processed_enzymes   = loadEnzymeCollection( $processed_compounds, $config );
 //$processed_enzymes   = loadEnzymes( $processed_compounds, $config );
 
 // Create enzymes bipartite graph
-$enzymes_bi_graph = new MetaboX\Graph\EnzymesBipartiteGraph($processed_compounds, $processed_enzymes, $processed_reactions);
+$enzymes_bi_graph = new MetaboX\Graph\EnzymesBipartiteGraph($processed_compounds, $processed_enzymes, $processed_reactions, $config);
+//$enzymes_bi_graph->setOrganism('HSA');
 $enzymes_bi_graph->build( $compounds );
 
 $ec_network    = $enzymes_bi_graph->getGlobalGraph();

@@ -23,6 +23,8 @@
  */
 namespace MetaboX\Resource\Loader;
 
+use MetaboX\Resource\Provider\Local as MXL;
+
 class Reaction extends AbstractResourceLoader{
 	
 	/**
@@ -47,20 +49,37 @@ class Reaction extends AbstractResourceLoader{
 		
 		$eq = $this->_equationToArray();
 		
+		$ecs = $this->_getEnzyme();
+		
+		if( !is_array($ecs) ){ $ecs = array($ecs); }
+		
 		$resource = (object) array(
 			'ID' 		 => $this->_resourceId,
 			'name' 	     => $this->_extractAttributeByLabel('NAME'),
 			'definition' => $this->_extractAttributeByLabel('DEFINITION'),
-			'enzyme'     => $this->_getEnzyme(),
+			'enzyme'     => $ecs,
 			'equation' 	 => $eq['eq'],
 			'reactants'  => $eq['reactants'],
-			'products'   => $eq['products']
+			'products'   => $eq['products'],
+			'organismIdCollection' => $this->_extractOrganism($ecs)
 		);
 
 		$this->_getLocalRP()->write($this->_getResourceFullPath(), $resource);
 		$this->_resource = $resource;
 		
 		return $resource;
+	}
+	
+	protected function _extractOrganism( $ecs ){
+		$rp = new MXL\JSON($this->_config['directory']['resource_basepath'], $this->_config['directory']['enzyme']);
+		$ecs = $rp->readList( $ecs );
+		
+		$orgs = array();
+		foreach( $ecs as $ec ){
+			$orgs = array_merge($orgs, $ec->organismIdCollection);
+		}
+
+		return $orgs;
 	}
 	
 	protected function _extractId(){
@@ -76,8 +95,8 @@ class Reaction extends AbstractResourceLoader{
 	 * @return string
 	 */
 	protected function _getEnzyme(){
-		preg_match('/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/', $this->_plain, $matches);
-		return $matches[0];
+		preg_match_all('/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/', $this->_plain, $matches);
+		return array_unique($matches[0]);
 	}
 	
 	/**

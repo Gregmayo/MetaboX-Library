@@ -28,7 +28,7 @@ class KEGG{
 	private $_resource_type;
 	private $_resource_ids;
 	
-	public function __construct( $url, $type, $resourceIds = false ){
+	public function __construct( $url = null, $type = null, $resourceIds = false ){
 		$this->_resource_url  = $url;
 		$this->_resource_type = $type;
 		$this->_resource_ids  = $resourceIds;

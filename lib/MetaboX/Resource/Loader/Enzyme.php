@@ -41,7 +41,8 @@ class Enzyme extends AbstractResourceLoader{
 			'class'     => $this->_extractAttributeByLabel('CLASS'),
 			'sysname'   => $this->_extractAttributeByLabel('SYSNAME'),
 			'reference' => $this->_extractAttributeByLabel('REFERENCE'),
-			'reaction'  => $this->_extractReactions()
+			'reaction'  => $this->_extractReactions(),
+			'organismIdCollection' => $this->_extractOrganisms()
 		);
 
 		$this->_getLocalRP()->write($this->_getResourceFullPath(), $resource);
@@ -53,5 +54,22 @@ class Enzyme extends AbstractResourceLoader{
 	protected function _extractId(){
 		preg_match_all('/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/', $this->_plain, $matches);
 		return $matches[0][0];
+	}
+	
+	protected function _extractOrganisms(){
+		$items = explode('GENES', $this->_plain);
+		$orgs  = explode('DBLINKS', $items[1]);
+		$orgs  = explode("\n", $orgs[0]);
+		
+		if( count($orgs) <= 0 ){ return null; }
+		
+		$list = array();
+		foreach( $orgs as $org ){
+			$c = explode(':', trim($org));
+			$list[] = $c[0];
+		}
+		
+		$list = array_filter($list, function($v){ return strlen($v) <= 0 ? false : true; });
+		return $list;
 	}
 }

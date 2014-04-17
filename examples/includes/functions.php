@@ -32,15 +32,15 @@ function loadCompoundCollection($compounds, $config){
 	
 	// Split compounds array in collections of size chunk_max_size
 	$collections = array_chunk($compounds, $config['settings']['chunk_max_size']);
-	
+
 	foreach( $collections as $collection ){
 		echo "[CPD] Loading collection " . implode(', ', $collection) . "\n";
-		
+
 		$collection_loader = new MetaboX\Resource\Loader\EntityCollection('Compound', $collection, $compoundLoaderConfig);
 		$pcs = $collection_loader->load();
-		
+
 		foreach( $pcs as $pc ){
-			$processed_compounds[$pc->ID] = $pc;	
+			$processed_compounds[$pc->ID] = $pc;
 		}
 	}
 	
@@ -74,7 +74,8 @@ function loadReactionCollection($processed_compounds, $config){
 	$processed_reactions = array();
 	$reactionLoaderConfig = array(
 		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['reaction']),
-		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['reaction'])
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['reaction']),
+		'config' 	   => $config
 	);
 	
 	$reactions = array();
@@ -104,7 +105,8 @@ function loadReactions( $processed_compounds, $config ){
 	$processed_reactions = array();
 	$reactionLoaderConfig = array(
 		'remoteRP'     => new MetaboX\Resource\Provider\Remote\KEGG($config['url']['resource_baseurl'], $config['url']['reaction']),
-		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['reaction'])
+		'localRP'      => new MetaboX\Resource\Provider\Local\JSON($config['directory']['resource_basepath'], $config['directory']['reaction']),
+		'config' 	   => $config
 	);
 	
 	// Retrieve and collect reactions information
@@ -149,6 +151,7 @@ function loadEnzymeCollection($processed_compounds, $config){
 		$pes = $collection_loader->load();
 		
 		foreach( $pes as $pe ){
+			if( $pe->ID == '2.4.1.1' ){ var_dump('trovato');exit; }
 			$processed_enzymes[$pe->ID] = $pe;
 		}
 	}
