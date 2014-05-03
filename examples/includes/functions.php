@@ -94,7 +94,7 @@ function loadReactionCollection($processed_compounds, $config){
 		$prs = $collection_loader->load();
 		
 		foreach( $prs as $pr ){
-			$processed_reactions[$pr->ID] = $pr;	
+			$processed_reactions[$pr->ID] = $pr;
 		}
 	}
 	
@@ -151,7 +151,6 @@ function loadEnzymeCollection($processed_compounds, $config){
 		$pes = $collection_loader->load();
 		
 		foreach( $pes as $pe ){
-			if( $pe->ID == '2.4.1.1' ){ var_dump('trovato');exit; }
 			$processed_enzymes[$pe->ID] = $pe;
 		}
 	}
