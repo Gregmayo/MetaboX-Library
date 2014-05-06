@@ -36,7 +36,10 @@ abstract class AbstractResourceLoader{
 	public function __construct( $resource_id, $config, $plain = false ){
 		$this->_resourceId = $resource_id;
 		
-		$this->_config = $config['config'];
+		if( isset($config['config']) ){
+			$this->_config = $config['config'];	
+		}
+		
 		$this->_remoteResourceProvider = $config['remoteRP'];
 		$this->_localResourceProvider  = $config['localRP'];
 		
